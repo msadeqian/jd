@@ -1,1 +1,1 @@
-{"data": []}
+{"data": [{"datetime": 1755464400000, "symbol": "ACXUSDT", "signal": "SELL", "entry": 0.1774, "stop_loss": null, "take_profit": null, "url": "https://www.tradingview.com/chart?symbol=ACXUSDT"}, {"datetime": 1755464400000, "symbol": "POWRUSDT", "signal": "SELL", "entry": 0.1683, "stop_loss": null, "take_profit": null, "url": "https://www.tradingview.com/chart?symbol=POWRUSDT"}, {"datetime": 1755464400000, "symbol": "SSVUSDT", "signal": "SELL", "entry": 8.98, "stop_loss": null, "take_profit": null, "url": "https://www.tradingview.com/chart?symbol=SSVUSDT"}]}
