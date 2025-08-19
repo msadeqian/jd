@@ -1,6 +1,1 @@
-{
-  "data": [
-    { "datetime": 1755597600000, "symbol": "DEXEUSDT", "signal": "SELL", "entry": 7.215, "stop_loss": null, "take_profit": null, "url": "https://www.tradingview.com/chart?symbol=DEXEUSDT" },
-    { "datetime": 1755597600000, "symbol": "LAUSDT", "signal": "SELL", "entry": 0.3643, "stop_loss": null, "take_profit": null, "url": "https://www.tradingview.com/chart?symbol=LAUSDT" }
-  ]
-}
+{"data": []}
