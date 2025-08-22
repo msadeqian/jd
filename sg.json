@@ -1,1 +1,1 @@
-{"data": [{"datetime": 1755856800000, "symbol": "BTTCUSDT", "signal": "BUY", "entry": 6.6e-07, "stop_loss": null, "take_profit": null, "url": "https://www.tradingview.com/chart?symbol=BTTCUSDT"}]}
+{"data": [{"datetime": 1755860400000, "symbol": "FISUSDT", "signal": "SELL", "entry": 0.1174, "stop_loss": null, "take_profit": null, "url": "https://www.tradingview.com/chart?symbol=FISUSDT"}, {"datetime": 1755860400000, "symbol": "SYSUSDT", "signal": "SELL", "entry": 0.04146, "stop_loss": null, "take_profit": null, "url": "https://www.tradingview.com/chart?symbol=SYSUSDT"}]}
