@@ -53,6 +53,42 @@
       "stop_loss": null,
       "take_profit": null,
       "url": "https://www.tradingview.com/chart?symbol=DGBUSDT"
+    },
+    {
+      "datetime": 1755962100000,
+      "symbol": "ARKUSDT",
+      "signal": "BUY",
+      "entry": 0.4666,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=ARKUSDT"
+    },
+    {
+      "datetime": 1755962100000,
+      "symbol": "AUDIOUSDT",
+      "signal": "BUY",
+      "entry": 0.068,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=AUDIOUSDT"
+    },
+    {
+      "datetime": 1755963000000,
+      "symbol": "DEGOUSDT",
+      "signal": "BUY",
+      "entry": 1.32,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=DEGOUSDT"
+    },
+    {
+      "datetime": 1755964800000,
+      "symbol": "LUNCUSDT",
+      "signal": "BUY",
+      "entry": 6.285e-05,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=LUNCUSDT"
     }
   ]
 }
