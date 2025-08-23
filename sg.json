@@ -107,6 +107,33 @@
       "stop_loss": null,
       "take_profit": null,
       "url": "https://www.tradingview.com/chart?symbol=XECUSDT"
+    },
+    {
+      "datetime": 1755972900000,
+      "symbol": "ARPAUSDT",
+      "signal": "BUY",
+      "entry": 0.02301,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=ARPAUSDT"
+    },
+    {
+      "datetime": 1755975600000,
+      "symbol": "CUSDT",
+      "signal": "SELL",
+      "entry": 0.2146,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=CUSDT"
+    },
+    {
+      "datetime": 1755972900000,
+      "symbol": "IDEXUSDT",
+      "signal": "BUY",
+      "entry": 0.02529,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=IDEXUSDT"
     }
   ]
 }
