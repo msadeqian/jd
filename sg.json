@@ -1,1 +1,1 @@
-{"data": [{"datetime": 1755932400000, "symbol": "ZROUSDT", "signal": "BUY", "entry": 2.08, "stop_loss": null, "take_profit": null, "url": "https://www.tradingview.com/chart?symbol=ZROUSDT"}]}
+{"data": [{"datetime": 1755936000000, "symbol": "FDUSDUSDT", "signal": "SELL", "entry": 0.9976, "stop_loss": null, "take_profit": null, "url": "https://www.tradingview.com/chart?symbol=FDUSDUSDT"}, {"datetime": 1755936000000, "symbol": "PSGUSDT", "signal": "BUY", "entry": 1.796, "stop_loss": null, "take_profit": null, "url": "https://www.tradingview.com/chart?symbol=PSGUSDT"}]}
