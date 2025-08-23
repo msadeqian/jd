@@ -98,6 +98,15 @@
       "stop_loss": null,
       "take_profit": null,
       "url": "https://www.tradingview.com/chart?symbol=CHRUSDT"
+    },
+    {
+      "datetime": 1755972000000,
+      "symbol": "XECUSDT",
+      "signal": "BUY",
+      "entry": 2.075e-05,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=XECUSDT"
     }
   ]
 }
