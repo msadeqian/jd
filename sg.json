@@ -89,6 +89,15 @@
       "stop_loss": null,
       "take_profit": null,
       "url": "https://www.tradingview.com/chart?symbol=LUNCUSDT"
+    },
+    {
+      "datetime": 1755967500000,
+      "symbol": "CHRUSDT",
+      "signal": "SELL",
+      "entry": 0.1028,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=CHRUSDT"
     }
   ]
 }
