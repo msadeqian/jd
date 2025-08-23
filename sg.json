@@ -1,1 +1,31 @@
-{"data": [{"datetime": 1755950400000, "symbol": "LAYERUSDT", "signal": "BUY", "entry": 0.5798, "stop_loss": null, "take_profit": null, "url": "https://www.tradingview.com/chart?symbol=LAYERUSDT"}]}
+{
+  "data": [
+    {
+      "datetime": 1755950400000,
+      "symbol": "LAYERUSDT",
+      "signal": "BUY",
+      "entry": 0.5798,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=LAYERUSDT"
+    },
+    {
+      "datetime": 1755952200000,
+      "symbol": "HFTUSDT",
+      "signal": "SELL",
+      "entry": 0.0862,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=HFTUSDT"
+    },
+    {
+      "datetime": 1755952200000,
+      "symbol": "SUSHIUSDT",
+      "signal": "BUY",
+      "entry": 0.8654,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=SUSHIUSDT"
+    }
+  ]
+}
