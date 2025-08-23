@@ -26,6 +26,24 @@
       "stop_loss": null,
       "take_profit": null,
       "url": "https://www.tradingview.com/chart?symbol=SUSHIUSDT"
+    },
+    {
+      "datetime": 1755952200000,
+      "symbol": "HFTUSDT",
+      "signal": "SELL",
+      "entry": 0.086,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=HFTUSDT"
+    },
+    {
+      "datetime": 1755952200000,
+      "symbol": "SUSHIUSDT",
+      "signal": "BUY",
+      "entry": 0.8654,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=SUSHIUSDT"
     }
   ]
 }
