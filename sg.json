@@ -539,6 +539,15 @@
       "stop_loss": null,
       "take_profit": null,
       "url": "https://www.tradingview.com/chart?symbol=CATIUSDT"
+    },
+    {
+      "datetime": 1756051200000,
+      "symbol": "ARBUSDT",
+      "signal": "BUY",
+      "entry": 0.5826,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=ARBUSDT"
     }
   ]
 }
