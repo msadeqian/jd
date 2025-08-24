@@ -278,6 +278,78 @@
       "stop_loss": null,
       "take_profit": null,
       "url": "https://www.tradingview.com/chart?symbol=TRBUSDT"
+    },
+    {
+      "datetime": 1756019700000,
+      "symbol": "ACEUSDT",
+      "signal": "SELL",
+      "entry": 0.563,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=ACEUSDT"
+    },
+    {
+      "datetime": 1756022400000,
+      "symbol": "AIXBTUSDT",
+      "signal": "SELL",
+      "entry": 0.1158,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=AIXBTUSDT"
+    },
+    {
+      "datetime": 1756020600000,
+      "symbol": "ATAUSDT",
+      "signal": "SELL",
+      "entry": 0.0498,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=ATAUSDT"
+    },
+    {
+      "datetime": 1756020600000,
+      "symbol": "BEAMXUSDT",
+      "signal": "SELL",
+      "entry": 0.007649,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=BEAMXUSDT"
+    },
+    {
+      "datetime": 1756021500000,
+      "symbol": "LPTUSDT",
+      "signal": "SELL",
+      "entry": 6.578,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=LPTUSDT"
+    },
+    {
+      "datetime": 1756019700000,
+      "symbol": "MOVRUSDT",
+      "signal": "SELL",
+      "entry": 6.594,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=MOVRUSDT"
+    },
+    {
+      "datetime": 1756019700000,
+      "symbol": "TIAUSDT",
+      "signal": "SELL",
+      "entry": 1.806,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=TIAUSDT"
+    },
+    {
+      "datetime": 1756022400000,
+      "symbol": "TWTUSDT",
+      "signal": "SELL",
+      "entry": 0.7838,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=TWTUSDT"
     }
   ]
 }
