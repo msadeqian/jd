@@ -566,6 +566,42 @@
       "stop_loss": null,
       "take_profit": null,
       "url": "https://www.tradingview.com/chart?symbol=UMAUSDT"
+    },
+    {
+      "datetime": 1756055700000,
+      "symbol": "ARKUSDT",
+      "signal": "BUY",
+      "entry": 0.4677,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=ARKUSDT"
+    },
+    {
+      "datetime": 1756057500000,
+      "symbol": "DGBUSDT",
+      "signal": "BUY",
+      "entry": 0.0092,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=DGBUSDT"
+    },
+    {
+      "datetime": 1756055700000,
+      "symbol": "IOUSDT",
+      "signal": "SELL",
+      "entry": 0.624,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=IOUSDT"
+    },
+    {
+      "datetime": 1756057500000,
+      "symbol": "PERPUSDT",
+      "signal": "BUY",
+      "entry": 0.295,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=PERPUSDT"
     }
   ]
 }
