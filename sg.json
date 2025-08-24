@@ -431,6 +431,60 @@
       "stop_loss": null,
       "take_profit": null,
       "url": "https://www.tradingview.com/chart?symbol=ZECUSDT"
+    },
+    {
+      "datetime": 1756030500000,
+      "symbol": "ADAUSDT",
+      "signal": "SELL",
+      "entry": 0.8939,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=ADAUSDT"
+    },
+    {
+      "datetime": 1756031400000,
+      "symbol": "GNOUSDT",
+      "signal": "SELL",
+      "entry": 137.68,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=GNOUSDT"
+    },
+    {
+      "datetime": 1756031400000,
+      "symbol": "SEIUSDT",
+      "signal": "SELL",
+      "entry": 0.3073,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=SEIUSDT"
+    },
+    {
+      "datetime": 1756032300000,
+      "symbol": "SIGNUSDT",
+      "signal": "SELL",
+      "entry": 0.07076,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=SIGNUSDT"
+    },
+    {
+      "datetime": 1756033200000,
+      "symbol": "STRKUSDT",
+      "signal": "SELL",
+      "entry": 0.1359,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=STRKUSDT"
+    },
+    {
+      "datetime": 1756033200000,
+      "symbol": "TUSDUSDT",
+      "signal": "BUY",
+      "entry": 0.9983,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=TUSDUSDT"
     }
   ]
 }
