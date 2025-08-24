@@ -548,6 +548,24 @@
       "stop_loss": null,
       "take_profit": null,
       "url": "https://www.tradingview.com/chart?symbol=ARBUSDT"
+    },
+    {
+      "datetime": 1756052100000,
+      "symbol": "MDTUSDT",
+      "signal": "BUY",
+      "entry": 0.02812,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=MDTUSDT"
+    },
+    {
+      "datetime": 1756054800000,
+      "symbol": "UMAUSDT",
+      "signal": "SELL",
+      "entry": 1.525,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=UMAUSDT"
     }
   ]
 }
