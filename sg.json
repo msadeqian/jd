@@ -350,6 +350,51 @@
       "stop_loss": null,
       "take_profit": null,
       "url": "https://www.tradingview.com/chart?symbol=TWTUSDT"
+    },
+    {
+      "datetime": 1756024200000,
+      "symbol": "NMRUSDT",
+      "signal": "SELL",
+      "entry": 8.72,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=NMRUSDT"
+    },
+    {
+      "datetime": 1756023300000,
+      "symbol": "PEPEUSDT",
+      "signal": "SELL",
+      "entry": 1.097e-05,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=PEPEUSDT"
+    },
+    {
+      "datetime": 1756025100000,
+      "symbol": "QTUMUSDT",
+      "signal": "BUY",
+      "entry": 2.518,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=QTUMUSDT"
+    },
+    {
+      "datetime": 1756024200000,
+      "symbol": "REDUSDT",
+      "signal": "SELL",
+      "entry": 0.4035,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=REDUSDT"
+    },
+    {
+      "datetime": 1756026000000,
+      "symbol": "SNXUSDT",
+      "signal": "SELL",
+      "entry": 0.692,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=SNXUSDT"
     }
   ]
 }
