@@ -602,6 +602,87 @@
       "stop_loss": null,
       "take_profit": null,
       "url": "https://www.tradingview.com/chart?symbol=PERPUSDT"
+    },
+    {
+      "datetime": 1756061100000,
+      "symbol": "AXSUSDT",
+      "signal": "BUY",
+      "entry": 2.512,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=AXSUSDT"
+    },
+    {
+      "datetime": 1756059300000,
+      "symbol": "DASHUSDT",
+      "signal": "BUY",
+      "entry": 23.46,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=DASHUSDT"
+    },
+    {
+      "datetime": 1756062000000,
+      "symbol": "GMXUSDT",
+      "signal": "BUY",
+      "entry": 15.72,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=GMXUSDT"
+    },
+    {
+      "datetime": 1756062000000,
+      "symbol": "IDUSDT",
+      "signal": "BUY",
+      "entry": 0.1679,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=IDUSDT"
+    },
+    {
+      "datetime": 1756061100000,
+      "symbol": "PNUTUSDT",
+      "signal": "BUY",
+      "entry": 0.2381,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=PNUTUSDT"
+    },
+    {
+      "datetime": 1756062000000,
+      "symbol": "POWRUSDT",
+      "signal": "BUY",
+      "entry": 0.1731,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=POWRUSDT"
+    },
+    {
+      "datetime": 1756059300000,
+      "symbol": "STGUSDT",
+      "signal": "BUY",
+      "entry": 0.1821,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=STGUSDT"
+    },
+    {
+      "datetime": 1756061100000,
+      "symbol": "SUSHIUSDT",
+      "signal": "BUY",
+      "entry": 0.8733,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=SUSHIUSDT"
+    },
+    {
+      "datetime": 1756062000000,
+      "symbol": "TNSRUSDT",
+      "signal": "BUY",
+      "entry": 0.1314,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=TNSRUSDT"
     }
   ]
 }
