@@ -485,6 +485,51 @@
       "stop_loss": null,
       "take_profit": null,
       "url": "https://www.tradingview.com/chart?symbol=TUSDUSDT"
+    },
+    {
+      "datetime": 1756034100000,
+      "symbol": "ADXUSDT",
+      "signal": "SELL",
+      "entry": 0.1405,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=ADXUSDT"
+    },
+    {
+      "datetime": 1756036800000,
+      "symbol": "ETHUSDT",
+      "signal": "BUY",
+      "entry": 4747.6,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=ETHUSDT"
+    },
+    {
+      "datetime": 1756035000000,
+      "symbol": "FUNUSDT",
+      "signal": "SELL",
+      "entry": 0.00946,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=FUNUSDT"
+    },
+    {
+      "datetime": 1756034100000,
+      "symbol": "LTCUSDT",
+      "signal": "SELL",
+      "entry": 118.69511,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=LTCUSDT"
+    },
+    {
+      "datetime": 1756035900000,
+      "symbol": "XECUSDT",
+      "signal": "SELL",
+      "entry": 2.053e-05,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=XECUSDT"
     }
   ]
 }
