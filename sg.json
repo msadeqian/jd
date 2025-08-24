@@ -134,6 +134,33 @@
       "stop_loss": null,
       "take_profit": null,
       "url": "https://www.tradingview.com/chart?symbol=IDEXUSDT"
+    },
+    {
+      "datetime": 1756009800000,
+      "symbol": "CETUSUSDT",
+      "signal": "BUY",
+      "entry": 0.1059,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=CETUSUSDT"
+    },
+    {
+      "datetime": 1756008900000,
+      "symbol": "JOEUSDT",
+      "signal": "SELL",
+      "entry": 0.1604,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=JOEUSDT"
+    },
+    {
+      "datetime": 1756011600000,
+      "symbol": "WANUSDT",
+      "signal": "SELL",
+      "entry": 0.1122,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=WANUSDT"
     }
   ]
 }
