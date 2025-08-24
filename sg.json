@@ -395,6 +395,42 @@
       "stop_loss": null,
       "take_profit": null,
       "url": "https://www.tradingview.com/chart?symbol=SNXUSDT"
+    },
+    {
+      "datetime": 1756029600000,
+      "symbol": "1000SATSUSDT",
+      "signal": "SELL",
+      "entry": 4.132e-05,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=1000SATSUSDT"
+    },
+    {
+      "datetime": 1756026900000,
+      "symbol": "USTCUSDT",
+      "signal": "SELL",
+      "entry": 0.01408,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=USTCUSDT"
+    },
+    {
+      "datetime": 1756027800000,
+      "symbol": "WINUSDT",
+      "signal": "SELL",
+      "entry": 6.277e-05,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=WINUSDT"
+    },
+    {
+      "datetime": 1756026900000,
+      "symbol": "ZECUSDT",
+      "signal": "SELL",
+      "entry": 42.95,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=ZECUSDT"
     }
   ]
 }
