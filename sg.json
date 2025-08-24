@@ -206,6 +206,78 @@
       "stop_loss": null,
       "take_profit": null,
       "url": "https://www.tradingview.com/chart?symbol=SOPHUSDT"
+    },
+    {
+      "datetime": 1756016100000,
+      "symbol": "BLURUSDT",
+      "signal": "SELL",
+      "entry": 0.07923,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=BLURUSDT"
+    },
+    {
+      "datetime": 1756017900000,
+      "symbol": "DENTUSDT",
+      "signal": "SELL",
+      "entry": 0.000809,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=DENTUSDT"
+    },
+    {
+      "datetime": 1756018800000,
+      "symbol": "DYDXUSDT",
+      "signal": "SELL",
+      "entry": 0.6716,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=DYDXUSDT"
+    },
+    {
+      "datetime": 1756016100000,
+      "symbol": "IOSTUSDT",
+      "signal": "SELL",
+      "entry": 0.003573,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=IOSTUSDT"
+    },
+    {
+      "datetime": 1756018800000,
+      "symbol": "KAIAUSDT",
+      "signal": "SELL",
+      "entry": 0.1479,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=KAIAUSDT"
+    },
+    {
+      "datetime": 1756018800000,
+      "symbol": "KNCUSDT",
+      "signal": "SELL",
+      "entry": 0.4029,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=KNCUSDT"
+    },
+    {
+      "datetime": 1756017000000,
+      "symbol": "RAREUSDT",
+      "signal": "SELL",
+      "entry": 0.0573,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=RAREUSDT"
+    },
+    {
+      "datetime": 1756016100000,
+      "symbol": "TRBUSDT",
+      "signal": "SELL",
+      "entry": 36.59,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=TRBUSDT"
     }
   ]
 }
