@@ -530,6 +530,15 @@
       "stop_loss": null,
       "take_profit": null,
       "url": "https://www.tradingview.com/chart?symbol=XECUSDT"
+    },
+    {
+      "datetime": 1756041300000,
+      "symbol": "CATIUSDT",
+      "signal": "BUY",
+      "entry": 0.0974,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=CATIUSDT"
     }
   ]
 }
