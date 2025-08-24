@@ -161,6 +161,51 @@
       "stop_loss": null,
       "take_profit": null,
       "url": "https://www.tradingview.com/chart?symbol=WANUSDT"
+    },
+    {
+      "datetime": 1756015200000,
+      "symbol": "DEGOUSDT",
+      "signal": "SELL",
+      "entry": 1.3,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=DEGOUSDT"
+    },
+    {
+      "datetime": 1756015200000,
+      "symbol": "GPSUSDT",
+      "signal": "SELL",
+      "entry": 0.01267,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=GPSUSDT"
+    },
+    {
+      "datetime": 1756014300000,
+      "symbol": "IOUSDT",
+      "signal": "SELL",
+      "entry": 0.64,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=IOUSDT"
+    },
+    {
+      "datetime": 1756015200000,
+      "symbol": "MOVEUSDT",
+      "signal": "SELL",
+      "entry": 0.131,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=MOVEUSDT"
+    },
+    {
+      "datetime": 1756015200000,
+      "symbol": "SOPHUSDT",
+      "signal": "SELL",
+      "entry": 0.03383,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=SOPHUSDT"
     }
   ]
 }
