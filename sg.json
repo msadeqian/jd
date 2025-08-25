@@ -710,6 +710,51 @@
       "stop_loss": null,
       "take_profit": null,
       "url": "https://www.tradingview.com/chart?symbol=TLMUSDT"
+    },
+    {
+      "datetime": 1756100700000,
+      "symbol": "AMPUSDT",
+      "signal": "SELL",
+      "entry": 0.003649,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=AMPUSDT"
+    },
+    {
+      "datetime": 1756098900000,
+      "symbol": "ARDRUSDT",
+      "signal": "SELL",
+      "entry": 0.08806,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=ARDRUSDT"
+    },
+    {
+      "datetime": 1756099800000,
+      "symbol": "MLNUSDT",
+      "signal": "SELL",
+      "entry": 8.69,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=MLNUSDT"
+    },
+    {
+      "datetime": 1756099800000,
+      "symbol": "PORTALUSDT",
+      "signal": "SELL",
+      "entry": 0.0441,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=PORTALUSDT"
+    },
+    {
+      "datetime": 1756101600000,
+      "symbol": "SANDUSDT",
+      "signal": "SELL",
+      "entry": 0.291,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=SANDUSDT"
     }
   ]
 }
