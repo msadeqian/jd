@@ -755,6 +755,51 @@
       "stop_loss": null,
       "take_profit": null,
       "url": "https://www.tradingview.com/chart?symbol=SANDUSDT"
+    },
+    {
+      "datetime": 1756102500000,
+      "symbol": "DCRUSDT",
+      "signal": "SELL",
+      "entry": 16.66,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=DCRUSDT"
+    },
+    {
+      "datetime": 1756104300000,
+      "symbol": "FORMUSDT",
+      "signal": "SELL",
+      "entry": 3.3942,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=FORMUSDT"
+    },
+    {
+      "datetime": 1756104300000,
+      "symbol": "MKRUSDT",
+      "signal": "SELL",
+      "entry": 1502.7,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=MKRUSDT"
+    },
+    {
+      "datetime": 1756102500000,
+      "symbol": "QKCUSDT",
+      "signal": "SELL",
+      "entry": 0.007095,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=QKCUSDT"
+    },
+    {
+      "datetime": 1756102500000,
+      "symbol": "VICUSDT",
+      "signal": "SELL",
+      "entry": 0.2402,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=VICUSDT"
     }
   ]
 }
