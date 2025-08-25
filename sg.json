@@ -863,6 +863,15 @@
       "stop_loss": null,
       "take_profit": null,
       "url": "https://www.tradingview.com/chart?symbol=OSMOUSDT"
+    },
+    {
+      "datetime": 1756117800000,
+      "symbol": "SPELLUSDT",
+      "signal": "SELL",
+      "entry": 0.0005188,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=SPELLUSDT"
     }
   ]
 }
