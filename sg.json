@@ -800,6 +800,42 @@
       "stop_loss": null,
       "take_profit": null,
       "url": "https://www.tradingview.com/chart?symbol=VICUSDT"
+    },
+    {
+      "datetime": 1756106100000,
+      "symbol": "ADXUSDT",
+      "signal": "SELL",
+      "entry": 0.1399,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=ADXUSDT"
+    },
+    {
+      "datetime": 1756107900000,
+      "symbol": "HEIUSDT",
+      "signal": "SELL",
+      "entry": 0.4594,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=HEIUSDT"
+    },
+    {
+      "datetime": 1756108800000,
+      "symbol": "ICXUSDT",
+      "signal": "SELL",
+      "entry": 0.1292,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=ICXUSDT"
+    },
+    {
+      "datetime": 1756107900000,
+      "symbol": "USD1USDT",
+      "signal": "BUY",
+      "entry": 0.9998,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=USD1USDT"
     }
   ]
 }
