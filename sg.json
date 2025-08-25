@@ -872,6 +872,15 @@
       "stop_loss": null,
       "take_profit": null,
       "url": "https://www.tradingview.com/chart?symbol=SPELLUSDT"
+    },
+    {
+      "datetime": 1756128600000,
+      "symbol": "RADUSDT",
+      "signal": "SELL",
+      "entry": 0.746,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=RADUSDT"
     }
   ]
 }
