@@ -890,6 +890,24 @@
       "stop_loss": null,
       "take_profit": null,
       "url": "https://www.tradingview.com/chart?symbol=PAXGUSDT"
+    },
+    {
+      "datetime": 1756142100000,
+      "symbol": "ETHUSDT",
+      "signal": "SELL",
+      "entry": 4569.4,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=ETHUSDT"
+    },
+    {
+      "datetime": 1756144800000,
+      "symbol": "LAYERUSDT",
+      "signal": "SELL",
+      "entry": 0.54,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=LAYERUSDT"
     }
   ]
 }
