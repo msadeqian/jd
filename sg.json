@@ -836,6 +836,15 @@
       "stop_loss": null,
       "take_profit": null,
       "url": "https://www.tradingview.com/chart?symbol=USD1USDT"
+    },
+    {
+      "datetime": 1756111500000,
+      "symbol": "AUDIOUSDT",
+      "signal": "SELL",
+      "entry": 0.0648,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=AUDIOUSDT"
     }
   ]
 }
