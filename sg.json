@@ -845,6 +845,24 @@
       "stop_loss": null,
       "take_profit": null,
       "url": "https://www.tradingview.com/chart?symbol=AUDIOUSDT"
+    },
+    {
+      "datetime": 1756113300000,
+      "symbol": "MEMEUSDT",
+      "signal": "SELL",
+      "entry": 0.00368,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=MEMEUSDT"
+    },
+    {
+      "datetime": 1756113300000,
+      "symbol": "OSMOUSDT",
+      "signal": "SELL",
+      "entry": 0.1668,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=OSMOUSDT"
     }
   ]
 }
