@@ -881,6 +881,15 @@
       "stop_loss": null,
       "take_profit": null,
       "url": "https://www.tradingview.com/chart?symbol=RADUSDT"
+    },
+    {
+      "datetime": 1756132200000,
+      "symbol": "PAXGUSDT",
+      "signal": "BUY",
+      "entry": 3361.71,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=PAXGUSDT"
     }
   ]
 }
