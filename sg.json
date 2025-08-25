@@ -683,6 +683,33 @@
       "stop_loss": null,
       "take_profit": null,
       "url": "https://www.tradingview.com/chart?symbol=TNSRUSDT"
+    },
+    {
+      "datetime": 1756097100000,
+      "symbol": "CFXUSDT",
+      "signal": "BUY",
+      "entry": 0.1889,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=CFXUSDT"
+    },
+    {
+      "datetime": 1756097100000,
+      "symbol": "JUVUSDT",
+      "signal": "SELL",
+      "entry": 1.312,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=JUVUSDT"
+    },
+    {
+      "datetime": 1756095300000,
+      "symbol": "TLMUSDT",
+      "signal": "BUY",
+      "entry": 0.00502,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=TLMUSDT"
     }
   ]
 }
