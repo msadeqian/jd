@@ -971,6 +971,33 @@
       "stop_loss": null,
       "take_profit": null,
       "url": "https://www.tradingview.com/chart?symbol=DCRUSDT"
+    },
+    {
+      "datetime": 1756229400000,
+      "symbol": "NFPUSDT",
+      "signal": "BUY",
+      "entry": 0.0658,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=NFPUSDT"
+    },
+    {
+      "datetime": 1756228500000,
+      "symbol": "PYRUSDT",
+      "signal": "BUY",
+      "entry": 1.027,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=PYRUSDT"
+    },
+    {
+      "datetime": 1756231200000,
+      "symbol": "RVNUSDT",
+      "signal": "BUY",
+      "entry": 0.01336,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=RVNUSDT"
     }
   ]
 }
