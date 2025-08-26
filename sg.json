@@ -998,6 +998,24 @@
       "stop_loss": null,
       "take_profit": null,
       "url": "https://www.tradingview.com/chart?symbol=RVNUSDT"
+    },
+    {
+      "datetime": 1756233900000,
+      "symbol": "CELRUSDT",
+      "signal": "BUY",
+      "entry": 0.00795,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=CELRUSDT"
+    },
+    {
+      "datetime": 1756233000000,
+      "symbol": "NKNUSDT",
+      "signal": "BUY",
+      "entry": 0.0274,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=NKNUSDT"
     }
   ]
 }
