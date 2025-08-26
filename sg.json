@@ -935,6 +935,15 @@
       "stop_loss": null,
       "take_profit": null,
       "url": "https://www.tradingview.com/chart?symbol=WLDUSDT"
+    },
+    {
+      "datetime": 1756189800000,
+      "symbol": "OGNUSDT",
+      "signal": "BUY",
+      "entry": 0.0732,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=OGNUSDT"
     }
   ]
 }
