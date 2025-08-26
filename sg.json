@@ -944,6 +944,15 @@
       "stop_loss": null,
       "take_profit": null,
       "url": "https://www.tradingview.com/chart?symbol=OGNUSDT"
+    },
+    {
+      "datetime": 1756203300000,
+      "symbol": "SANTOSUSDT",
+      "signal": "BUY",
+      "entry": 2.122,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=SANTOSUSDT"
     }
   ]
 }
