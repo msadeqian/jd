@@ -962,6 +962,15 @@
       "stop_loss": null,
       "take_profit": null,
       "url": "https://www.tradingview.com/chart?symbol=CFXUSDT"
+    },
+    {
+      "datetime": 1756219500000,
+      "symbol": "DCRUSDT",
+      "signal": "BUY",
+      "entry": 16.4,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=DCRUSDT"
     }
   ]
 }
