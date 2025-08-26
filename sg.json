@@ -953,6 +953,15 @@
       "stop_loss": null,
       "take_profit": null,
       "url": "https://www.tradingview.com/chart?symbol=SANTOSUSDT"
+    },
+    {
+      "datetime": 1756207800000,
+      "symbol": "CFXUSDT",
+      "signal": "SELL",
+      "entry": 0.1704,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=CFXUSDT"
     }
   ]
 }
