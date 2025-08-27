@@ -1367,6 +1367,24 @@
       "stop_loss": null,
       "take_profit": null,
       "url": "https://www.tradingview.com/chart?symbol=COWUSDT"
+    },
+    {
+      "datetime": 1756310400000,
+      "symbol": "FILUSDT",
+      "signal": "BUY",
+      "entry": 2.333,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=FILUSDT"
+    },
+    {
+      "datetime": 1756309500000,
+      "symbol": "VANRYUSDT",
+      "signal": "BUY",
+      "entry": 0.0295,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=VANRYUSDT"
     }
   ]
 }
