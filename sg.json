@@ -1214,6 +1214,24 @@
       "stop_loss": null,
       "take_profit": null,
       "url": "https://www.tradingview.com/chart?symbol=VETUSDT"
+    },
+    {
+      "datetime": 1756288800000,
+      "symbol": "KAIAUSDT",
+      "signal": "BUY",
+      "entry": 0.1483,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=KAIAUSDT"
+    },
+    {
+      "datetime": 1756287900000,
+      "symbol": "LQTYUSDT",
+      "signal": "SELL",
+      "entry": 0.844,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=LQTYUSDT"
     }
   ]
 }
