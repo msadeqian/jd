@@ -1268,6 +1268,42 @@
       "stop_loss": null,
       "take_profit": null,
       "url": "https://www.tradingview.com/chart?symbol=SEIUSDT"
+    },
+    {
+      "datetime": 1756295100000,
+      "symbol": "ARUSDT",
+      "signal": "BUY",
+      "entry": 6.7,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=ARUSDT"
+    },
+    {
+      "datetime": 1756295100000,
+      "symbol": "BAKEUSDT",
+      "signal": "BUY",
+      "entry": 0.0815,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=BAKEUSDT"
+    },
+    {
+      "datetime": 1756293300000,
+      "symbol": "SSVUSDT",
+      "signal": "BUY",
+      "entry": 8.944,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=SSVUSDT"
+    },
+    {
+      "datetime": 1756294200000,
+      "symbol": "STRAXUSDT",
+      "signal": "BUY",
+      "entry": 0.04472,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=STRAXUSDT"
     }
   ]
 }
