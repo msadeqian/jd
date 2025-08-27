@@ -1421,6 +1421,15 @@
       "stop_loss": null,
       "take_profit": null,
       "url": "https://www.tradingview.com/chart?symbol=STRKUSDT"
+    },
+    {
+      "datetime": 1756320300000,
+      "symbol": "QTUMUSDT",
+      "signal": "BUY",
+      "entry": 3.012,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=QTUMUSDT"
     }
   ]
 }
