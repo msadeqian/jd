@@ -1349,6 +1349,24 @@
       "stop_loss": null,
       "take_profit": null,
       "url": "https://www.tradingview.com/chart?symbol=RESOLVUSDT"
+    },
+    {
+      "datetime": 1756305900000,
+      "symbol": "ALICEUSDT",
+      "signal": "BUY",
+      "entry": 0.3704,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=ALICEUSDT"
+    },
+    {
+      "datetime": 1756304100000,
+      "symbol": "COWUSDT",
+      "signal": "BUY",
+      "entry": 0.3563,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=COWUSDT"
     }
   ]
 }
