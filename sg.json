@@ -1385,6 +1385,24 @@
       "stop_loss": null,
       "take_profit": null,
       "url": "https://www.tradingview.com/chart?symbol=VANRYUSDT"
+    },
+    {
+      "datetime": 1756314000000,
+      "symbol": "HOOKUSDT",
+      "signal": "SELL",
+      "entry": 0.1073,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=HOOKUSDT"
+    },
+    {
+      "datetime": 1756313100000,
+      "symbol": "RESOLVUSDT",
+      "signal": "SELL",
+      "entry": 0.1499,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=RESOLVUSDT"
     }
   ]
 }
