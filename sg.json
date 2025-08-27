@@ -1304,6 +1304,24 @@
       "stop_loss": null,
       "take_profit": null,
       "url": "https://www.tradingview.com/chart?symbol=STRAXUSDT"
+    },
+    {
+      "datetime": 1756297800000,
+      "symbol": "ANIMEUSDT",
+      "signal": "SELL",
+      "entry": 0.01602,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=ANIMEUSDT"
+    },
+    {
+      "datetime": 1756297800000,
+      "symbol": "PENGUUSDT",
+      "signal": "SELL",
+      "entry": 0.030628,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=PENGUUSDT"
     }
   ]
 }
