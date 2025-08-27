@@ -1403,6 +1403,24 @@
       "stop_loss": null,
       "take_profit": null,
       "url": "https://www.tradingview.com/chart?symbol=RESOLVUSDT"
+    },
+    {
+      "datetime": 1756315800000,
+      "symbol": "PEPEUSDT",
+      "signal": "BUY",
+      "entry": 1.018e-05,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=PEPEUSDT"
+    },
+    {
+      "datetime": 1756315800000,
+      "symbol": "STRKUSDT",
+      "signal": "BUY",
+      "entry": 0.1318,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=STRKUSDT"
     }
   ]
 }
