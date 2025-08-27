@@ -1322,6 +1322,33 @@
       "stop_loss": null,
       "take_profit": null,
       "url": "https://www.tradingview.com/chart?symbol=PENGUUSDT"
+    },
+    {
+      "datetime": 1756302300000,
+      "symbol": "AUSDT",
+      "signal": "BUY",
+      "entry": 0.4964,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=AUSDT"
+    },
+    {
+      "datetime": 1756302300000,
+      "symbol": "MANTAUSDT",
+      "signal": "SELL",
+      "entry": 0.2061,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=MANTAUSDT"
+    },
+    {
+      "datetime": 1756303200000,
+      "symbol": "RESOLVUSDT",
+      "signal": "SELL",
+      "entry": 0.1487,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=RESOLVUSDT"
     }
   ]
 }
