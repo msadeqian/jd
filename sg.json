@@ -1232,6 +1232,42 @@
       "stop_loss": null,
       "take_profit": null,
       "url": "https://www.tradingview.com/chart?symbol=LQTYUSDT"
+    },
+    {
+      "datetime": 1756289700000,
+      "symbol": "DUSKUSDT",
+      "signal": "BUY",
+      "entry": 0.0648,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=DUSKUSDT"
+    },
+    {
+      "datetime": 1756292400000,
+      "symbol": "ILVUSDT",
+      "signal": "SELL",
+      "entry": 14.54,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=ILVUSDT"
+    },
+    {
+      "datetime": 1756292400000,
+      "symbol": "ONEUSDT",
+      "signal": "SELL",
+      "entry": 0.01054,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=ONEUSDT"
+    },
+    {
+      "datetime": 1756292400000,
+      "symbol": "SEIUSDT",
+      "signal": "BUY",
+      "entry": 0.3,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=SEIUSDT"
     }
   ]
 }
