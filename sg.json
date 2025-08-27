@@ -1196,6 +1196,24 @@
       "stop_loss": null,
       "take_profit": null,
       "url": "https://www.tradingview.com/chart?symbol=RONINUSDT"
+    },
+    {
+      "datetime": 1756282500000,
+      "symbol": "EIGENUSDT",
+      "signal": "SELL",
+      "entry": 1.248,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=EIGENUSDT"
+    },
+    {
+      "datetime": 1756284300000,
+      "symbol": "VETUSDT",
+      "signal": "SELL",
+      "entry": 0.02478,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=VETUSDT"
     }
   ]
 }
