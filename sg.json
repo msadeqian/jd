@@ -560,6 +560,16 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=CATIUSDT"
+    },
+    {
+      "datetime": 1756380600000,
+      "symbol": "KMNOUSDT",
+      "signal": "BUY",
+      "entry": 0.05679,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=KMNOUSDT"
     }
   ]
 }
