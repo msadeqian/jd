@@ -1,33 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1756229400000,
-      "symbol": "NFPUSDT",
-      "signal": "BUY",
-      "entry": 0.0658,
-      "stop_loss": null,
-      "take_profit": null,
-      "url": "https://www.tradingview.com/chart?symbol=NFPUSDT"
-    },
-    {
-      "datetime": 1756228500000,
-      "symbol": "PYRUSDT",
-      "signal": "BUY",
-      "entry": 1.027,
-      "stop_loss": null,
-      "take_profit": null,
-      "url": "https://www.tradingview.com/chart?symbol=PYRUSDT"
-    },
-    {
-      "datetime": 1756231200000,
-      "symbol": "RVNUSDT",
-      "signal": "BUY",
-      "entry": 0.01336,
-      "stop_loss": null,
-      "take_profit": null,
-      "url": "https://www.tradingview.com/chart?symbol=RVNUSDT"
-    },
-    {
       "datetime": 1756233900000,
       "symbol": "CELRUSDT",
       "signal": "BUY",
@@ -672,6 +645,16 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=DASHUSDT"
+    },
+    {
+      "datetime": 1756404900000,
+      "symbol": "WANUSDT",
+      "signal": "SELL",
+      "entry": 0.1071,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=WANUSDT"
     }
   ]
 }
