@@ -1439,6 +1439,24 @@
       "stop_loss": null,
       "take_profit": null,
       "url": "https://www.tradingview.com/chart?symbol=STEEMUSDT"
+    },
+    {
+      "datetime": 1756359000000,
+      "symbol": "MANTAUSDT",
+      "signal": "BUY",
+      "entry": 0.2083,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=MANTAUSDT"
+    },
+    {
+      "datetime": 1756359900000,
+      "symbol": "RUNEUSDT",
+      "signal": "BUY",
+      "entry": 1.255,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=RUNEUSDT"
     }
   ]
 }
