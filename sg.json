@@ -1,15 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1756203300000,
-      "symbol": "SANTOSUSDT",
-      "signal": "BUY",
-      "entry": 2.122,
-      "stop_loss": null,
-      "take_profit": null,
-      "url": "https://www.tradingview.com/chart?symbol=SANTOSUSDT"
-    },
-    {
       "datetime": 1756207800000,
       "symbol": "CFXUSDT",
       "signal": "SELL",
@@ -559,6 +550,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=ACXUSDT"
+    },
+    {
+      "datetime": 1756377900000,
+      "symbol": "CATIUSDT",
+      "signal": "BUY",
+      "entry": 0.1097,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=CATIUSDT"
     }
   ]
 }
