@@ -612,6 +612,56 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=TKOUSDT"
+    },
+    {
+      "datetime": 1756400400000,
+      "symbol": "ARPAUSDT",
+      "signal": "SELL",
+      "entry": 0.02285,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ARPAUSDT"
+    },
+    {
+      "datetime": 1756400400000,
+      "symbol": "BROCCOLI714USDT",
+      "signal": "SELL",
+      "entry": 0.02466,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=BROCCOLI714USDT"
+    },
+    {
+      "datetime": 1756399500000,
+      "symbol": "CETUSUSDT",
+      "signal": "SELL",
+      "entry": 0.0933,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=CETUSUSDT"
+    },
+    {
+      "datetime": 1756400400000,
+      "symbol": "METISUSDT",
+      "signal": "SELL",
+      "entry": 15.96,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=METISUSDT"
+    },
+    {
+      "datetime": 1756399500000,
+      "symbol": "TAOUSDT",
+      "signal": "SELL",
+      "entry": 328.2,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=TAOUSDT"
     }
   ]
 }
