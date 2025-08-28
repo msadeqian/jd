@@ -1,15 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1756219500000,
-      "symbol": "DCRUSDT",
-      "signal": "BUY",
-      "entry": 16.4,
-      "stop_loss": null,
-      "take_profit": null,
-      "url": "https://www.tradingview.com/chart?symbol=DCRUSDT"
-    },
-    {
       "datetime": 1756229400000,
       "symbol": "NFPUSDT",
       "signal": "BUY",
@@ -601,6 +592,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=TNSRUSDT"
+    },
+    {
+      "datetime": 1756396800000,
+      "symbol": "CVXUSDT",
+      "signal": "SELL",
+      "entry": 3.513,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=CVXUSDT"
+    },
+    {
+      "datetime": 1756395000000,
+      "symbol": "TKOUSDT",
+      "signal": "SELL",
+      "entry": 0.1886,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=TKOUSDT"
     }
   ]
 }
