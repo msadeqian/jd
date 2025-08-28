@@ -1457,6 +1457,33 @@
       "stop_loss": null,
       "take_profit": null,
       "url": "https://www.tradingview.com/chart?symbol=RUNEUSDT"
+    },
+    {
+      "datetime": 1756363500000,
+      "symbol": "1000CHEEMSUSDT",
+      "signal": "BUY",
+      "entry": 0.001222,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=1000CHEEMSUSDT"
+    },
+    {
+      "datetime": 1756364400000,
+      "symbol": "ASTRUSDT",
+      "signal": "BUY",
+      "entry": 0.02443,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=ASTRUSDT"
+    },
+    {
+      "datetime": 1756363500000,
+      "symbol": "DYDXUSDT",
+      "signal": "BUY",
+      "entry": 0.6285,
+      "stop_loss": null,
+      "take_profit": null,
+      "url": "https://www.tradingview.com/chart?symbol=DYDXUSDT"
     }
   ]
 }
