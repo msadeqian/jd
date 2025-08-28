@@ -549,6 +549,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=STEEMUSDT"
+    },
+    {
+      "datetime": 1756370700000,
+      "symbol": "ACXUSDT",
+      "signal": "BUY",
+      "entry": 0.1657,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ACXUSDT"
     }
   ]
 }
