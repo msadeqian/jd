@@ -581,6 +581,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=CKBUSDT"
+    },
+    {
+      "datetime": 1756388700000,
+      "symbol": "EPICUSDT",
+      "signal": "SELL",
+      "entry": 2.373,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=EPICUSDT"
+    },
+    {
+      "datetime": 1756386900000,
+      "symbol": "TNSRUSDT",
+      "signal": "BUY",
+      "entry": 0.1209,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=TNSRUSDT"
     }
   ]
 }
