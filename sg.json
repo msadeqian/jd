@@ -1,33 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1756314000000,
-      "symbol": "HOOKUSDT",
-      "signal": "SELL",
-      "entry": 0.1073,
-      "stop_loss": null,
-      "take_profit": null,
-      "url": "https://www.tradingview.com/chart?symbol=HOOKUSDT"
-    },
-    {
-      "datetime": 1756315800000,
-      "symbol": "PEPEUSDT",
-      "signal": "BUY",
-      "entry": 1.018e-05,
-      "stop_loss": null,
-      "take_profit": null,
-      "url": "https://www.tradingview.com/chart?symbol=PEPEUSDT"
-    },
-    {
-      "datetime": 1756315800000,
-      "symbol": "STRKUSDT",
-      "signal": "BUY",
-      "entry": 0.1318,
-      "stop_loss": null,
-      "take_profit": null,
-      "url": "https://www.tradingview.com/chart?symbol=STRKUSDT"
-    },
-    {
       "datetime": 1756320300000,
       "symbol": "QTUMUSDT",
       "signal": "BUY",
@@ -779,6 +752,46 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=SYSUSDT"
+    },
+    {
+      "datetime": 1756491300000,
+      "symbol": "BATUSDT",
+      "signal": "SELL",
+      "entry": 0.1484,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=BATUSDT"
+    },
+    {
+      "datetime": 1756491300000,
+      "symbol": "C98USDT",
+      "signal": "SELL",
+      "entry": 0.0481,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=C98USDT"
+    },
+    {
+      "datetime": 1756491300000,
+      "symbol": "ETHFIUSDT",
+      "signal": "SELL",
+      "entry": 1.056,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ETHFIUSDT"
+    },
+    {
+      "datetime": 1756492200000,
+      "symbol": "TUSDUSDT",
+      "signal": "BUY",
+      "entry": 0.9972,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=TUSDUSDT"
     }
   ]
 }
