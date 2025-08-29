@@ -1,15 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1756310400000,
-      "symbol": "FILUSDT",
-      "signal": "BUY",
-      "entry": 2.333,
-      "stop_loss": null,
-      "take_profit": null,
-      "url": "https://www.tradingview.com/chart?symbol=FILUSDT"
-    },
-    {
       "datetime": 1756314000000,
       "symbol": "HOOKUSDT",
       "signal": "SELL",
@@ -17,15 +8,6 @@
       "stop_loss": null,
       "take_profit": null,
       "url": "https://www.tradingview.com/chart?symbol=HOOKUSDT"
-    },
-    {
-      "datetime": 1756313100000,
-      "symbol": "RESOLVUSDT",
-      "signal": "SELL",
-      "entry": 0.1499,
-      "stop_loss": null,
-      "take_profit": null,
-      "url": "https://www.tradingview.com/chart?symbol=RESOLVUSDT"
     },
     {
       "datetime": 1756315800000,
@@ -737,6 +719,66 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=UMAUSDT"
+    },
+    {
+      "datetime": 1756485000000,
+      "symbol": "ASRUSDT",
+      "signal": "BUY",
+      "entry": 2.682,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=ASRUSDT"
+    },
+    {
+      "datetime": 1756485000000,
+      "symbol": "GPSUSDT",
+      "signal": "BUY",
+      "entry": 0.01133,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=GPSUSDT"
+    },
+    {
+      "datetime": 1756484100000,
+      "symbol": "HMSTRUSDT",
+      "signal": "SELL",
+      "entry": 0.00069,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=HMSTRUSDT"
+    },
+    {
+      "datetime": 1756485900000,
+      "symbol": "POWRUSDT",
+      "signal": "SELL",
+      "entry": 0.1587,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=POWRUSDT"
+    },
+    {
+      "datetime": 1756486800000,
+      "symbol": "REQUSDT",
+      "signal": "BUY",
+      "entry": 0.1437,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=REQUSDT"
+    },
+    {
+      "datetime": 1756486800000,
+      "symbol": "SYSUSDT",
+      "signal": "SELL",
+      "entry": 0.04024,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=SYSUSDT"
     }
   ]
 }
