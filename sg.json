@@ -1,33 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1756281600000,
-      "symbol": "HIFIUSDT",
-      "signal": "SELL",
-      "entry": 0.091,
-      "stop_loss": null,
-      "take_profit": null,
-      "url": "https://www.tradingview.com/chart?symbol=HIFIUSDT"
-    },
-    {
-      "datetime": 1756282500000,
-      "symbol": "EIGENUSDT",
-      "signal": "SELL",
-      "entry": 1.248,
-      "stop_loss": null,
-      "take_profit": null,
-      "url": "https://www.tradingview.com/chart?symbol=EIGENUSDT"
-    },
-    {
-      "datetime": 1756284300000,
-      "symbol": "VETUSDT",
-      "signal": "SELL",
-      "entry": 0.02478,
-      "stop_loss": null,
-      "take_profit": null,
-      "url": "https://www.tradingview.com/chart?symbol=VETUSDT"
-    },
-    {
       "datetime": 1756288800000,
       "symbol": "KAIAUSDT",
       "signal": "BUY",
@@ -706,6 +679,46 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=YGGUSDT"
+    },
+    {
+      "datetime": 1756456200000,
+      "symbol": "ALTUSDT",
+      "signal": "SELL",
+      "entry": 0.03283,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=ALTUSDT"
+    },
+    {
+      "datetime": 1756456200000,
+      "symbol": "BLURUSDT",
+      "signal": "SELL",
+      "entry": 0.07606,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=BLURUSDT"
+    },
+    {
+      "datetime": 1756456200000,
+      "symbol": "HIFIUSDT",
+      "signal": "SELL",
+      "entry": 0.0911,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=HIFIUSDT"
+    },
+    {
+      "datetime": 1756458000000,
+      "symbol": "STRAXUSDT",
+      "signal": "SELL",
+      "entry": 0.04358,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=STRAXUSDT"
     }
   ]
 }
