@@ -639,6 +639,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=ASRUSDT"
+    },
+    {
+      "datetime": 1756470600000,
+      "symbol": "EPICUSDT",
+      "signal": "BUY",
+      "entry": 2.431,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=EPICUSDT"
     }
   ]
 }
