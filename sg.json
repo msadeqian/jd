@@ -1,24 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1756279800000,
-      "symbol": "AMPUSDT",
-      "signal": "SELL",
-      "entry": 0.00351,
-      "stop_loss": null,
-      "take_profit": null,
-      "url": "https://www.tradingview.com/chart?symbol=AMPUSDT"
-    },
-    {
-      "datetime": 1756280700000,
-      "symbol": "FLMUSDT",
-      "signal": "SELL",
-      "entry": 0.0301,
-      "stop_loss": null,
-      "take_profit": null,
-      "url": "https://www.tradingview.com/chart?symbol=FLMUSDT"
-    },
-    {
       "datetime": 1756281600000,
       "symbol": "HIFIUSDT",
       "signal": "SELL",
@@ -26,24 +8,6 @@
       "stop_loss": null,
       "take_profit": null,
       "url": "https://www.tradingview.com/chart?symbol=HIFIUSDT"
-    },
-    {
-      "datetime": 1756278900000,
-      "symbol": "RADUSDT",
-      "signal": "BUY",
-      "entry": 0.729,
-      "stop_loss": null,
-      "take_profit": null,
-      "url": "https://www.tradingview.com/chart?symbol=RADUSDT"
-    },
-    {
-      "datetime": 1756280700000,
-      "symbol": "RONINUSDT",
-      "signal": "SELL",
-      "entry": 0.524,
-      "stop_loss": null,
-      "take_profit": null,
-      "url": "https://www.tradingview.com/chart?symbol=RONINUSDT"
     },
     {
       "datetime": 1756282500000,
@@ -632,6 +596,116 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=XECUSDT"
+    },
+    {
+      "datetime": 1756452600000,
+      "symbol": "AXSUSDT",
+      "signal": "SELL",
+      "entry": 2.299,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=AXSUSDT"
+    },
+    {
+      "datetime": 1756451700000,
+      "symbol": "COSUSDT",
+      "signal": "SELL",
+      "entry": 0.00341,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=COSUSDT"
+    },
+    {
+      "datetime": 1756452600000,
+      "symbol": "LAUSDT",
+      "signal": "SELL",
+      "entry": 0.3265,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=LAUSDT"
+    },
+    {
+      "datetime": 1756454400000,
+      "symbol": "METISUSDT",
+      "signal": "SELL",
+      "entry": 15.99,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=METISUSDT"
+    },
+    {
+      "datetime": 1756452600000,
+      "symbol": "MTLUSDT",
+      "signal": "SELL",
+      "entry": 0.725,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=MTLUSDT"
+    },
+    {
+      "datetime": 1756454400000,
+      "symbol": "ORCAUSDT",
+      "signal": "SELL",
+      "entry": 2.303,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=ORCAUSDT"
+    },
+    {
+      "datetime": 1756452600000,
+      "symbol": "SEIUSDT",
+      "signal": "SELL",
+      "entry": 0.2937,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=SEIUSDT"
+    },
+    {
+      "datetime": 1756451700000,
+      "symbol": "VANAUSDT",
+      "signal": "SELL",
+      "entry": 4.156,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=VANAUSDT"
+    },
+    {
+      "datetime": 1756451700000,
+      "symbol": "VOXELUSDT",
+      "signal": "SELL",
+      "entry": 0.0568,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=VOXELUSDT"
+    },
+    {
+      "datetime": 1756452600000,
+      "symbol": "WLDUSDT",
+      "signal": "SELL",
+      "entry": 0.922,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=WLDUSDT"
+    },
+    {
+      "datetime": 1756453500000,
+      "symbol": "YGGUSDT",
+      "signal": "SELL",
+      "entry": 0.1586,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=YGGUSDT"
     }
   ]
 }
