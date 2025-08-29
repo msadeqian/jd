@@ -1,42 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1756274400000,
-      "symbol": "WINUSDT",
-      "signal": "SELL",
-      "entry": 5.291e-05,
-      "stop_loss": null,
-      "take_profit": null,
-      "url": "https://www.tradingview.com/chart?symbol=WINUSDT"
-    },
-    {
-      "datetime": 1756276200000,
-      "symbol": "ATAUSDT",
-      "signal": "SELL",
-      "entry": 0.0462,
-      "stop_loss": null,
-      "take_profit": null,
-      "url": "https://www.tradingview.com/chart?symbol=ATAUSDT"
-    },
-    {
-      "datetime": 1756275300000,
-      "symbol": "CFXUSDT",
-      "signal": "SELL",
-      "entry": 0.1731,
-      "stop_loss": null,
-      "take_profit": null,
-      "url": "https://www.tradingview.com/chart?symbol=CFXUSDT"
-    },
-    {
-      "datetime": 1756275300000,
-      "symbol": "SXTUSDT",
-      "signal": "SELL",
-      "entry": 0.0734,
-      "stop_loss": null,
-      "take_profit": null,
-      "url": "https://www.tradingview.com/chart?symbol=SXTUSDT"
-    },
-    {
       "datetime": 1756279800000,
       "symbol": "AMPUSDT",
       "signal": "SELL",
@@ -568,6 +532,106 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=OMNIUSDT"
+    },
+    {
+      "datetime": 1756449000000,
+      "symbol": "FIDAUSDT",
+      "signal": "SELL",
+      "entry": 0.0936,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=FIDAUSDT"
+    },
+    {
+      "datetime": 1756450800000,
+      "symbol": "ILVUSDT",
+      "signal": "SELL",
+      "entry": 14.45,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=ILVUSDT"
+    },
+    {
+      "datetime": 1756450800000,
+      "symbol": "NKNUSDT",
+      "signal": "SELL",
+      "entry": 0.0278,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=NKNUSDT"
+    },
+    {
+      "datetime": 1756450800000,
+      "symbol": "PIXELUSDT",
+      "signal": "SELL",
+      "entry": 0.03271,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=PIXELUSDT"
+    },
+    {
+      "datetime": 1756450800000,
+      "symbol": "POWRUSDT",
+      "signal": "SELL",
+      "entry": 0.1626,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=POWRUSDT"
+    },
+    {
+      "datetime": 1756450800000,
+      "symbol": "STEEMUSDT",
+      "signal": "SELL",
+      "entry": 0.1304,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=STEEMUSDT"
+    },
+    {
+      "datetime": 1756448100000,
+      "symbol": "TONUSDT",
+      "signal": "SELL",
+      "entry": 3.116,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=TONUSDT"
+    },
+    {
+      "datetime": 1756450800000,
+      "symbol": "TURBOUSDT",
+      "signal": "SELL",
+      "entry": 0.003969,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=TURBOUSDT"
+    },
+    {
+      "datetime": 1756450800000,
+      "symbol": "VTHOUSDT",
+      "signal": "SELL",
+      "entry": 0.001857,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=VTHOUSDT"
+    },
+    {
+      "datetime": 1756449000000,
+      "symbol": "XECUSDT",
+      "signal": "SELL",
+      "entry": 2.032e-05,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=XECUSDT"
     }
   ]
 }
