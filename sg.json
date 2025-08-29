@@ -1,24 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1756233900000,
-      "symbol": "CELRUSDT",
-      "signal": "BUY",
-      "entry": 0.00795,
-      "stop_loss": null,
-      "take_profit": null,
-      "url": "https://www.tradingview.com/chart?symbol=CELRUSDT"
-    },
-    {
-      "datetime": 1756233000000,
-      "symbol": "NKNUSDT",
-      "signal": "BUY",
-      "entry": 0.0274,
-      "stop_loss": null,
-      "take_profit": null,
-      "url": "https://www.tradingview.com/chart?symbol=NKNUSDT"
-    },
-    {
       "datetime": 1756269000000,
       "symbol": "AEVOUSDT",
       "signal": "BUY",
@@ -655,6 +637,16 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=WANUSDT"
+    },
+    {
+      "datetime": 1756440900000,
+      "symbol": "USD1USDT",
+      "signal": "BUY",
+      "entry": 1.0008,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=USD1USDT"
     }
   ]
 }
