@@ -969,6 +969,36 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=TIAUSDT"
+    },
+    {
+      "datetime": 1756548000000,
+      "symbol": "SOLVUSDT",
+      "signal": "BUY",
+      "entry": 0.04291,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=SOLVUSDT"
+    },
+    {
+      "datetime": 1756546200000,
+      "symbol": "VICUSDT",
+      "signal": "BUY",
+      "entry": 0.2285,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=VICUSDT"
+    },
+    {
+      "datetime": 1756547100000,
+      "symbol": "ZILUSDT",
+      "signal": "SELL",
+      "entry": 0.01118,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ZILUSDT"
     }
   ]
 }
