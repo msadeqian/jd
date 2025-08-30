@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1756386000000,
-      "symbol": "AUCTIONUSDT",
-      "signal": "BUY",
-      "entry": 10.06,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=AUCTIONUSDT"
-    },
-    {
-      "datetime": 1756383300000,
-      "symbol": "CKBUSDT",
-      "signal": "BUY",
-      "entry": 0.005019,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=CKBUSDT"
-    },
-    {
       "datetime": 1756388700000,
       "symbol": "EPICUSDT",
       "signal": "SELL",
@@ -29,16 +9,6 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=EPICUSDT"
-    },
-    {
-      "datetime": 1756386900000,
-      "symbol": "TNSRUSDT",
-      "signal": "BUY",
-      "entry": 0.1209,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=TNSRUSDT"
     },
     {
       "datetime": 1756396800000,
@@ -1009,6 +979,36 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=NILUSDT"
+    },
+    {
+      "datetime": 1756561500000,
+      "symbol": "SKYUSDT",
+      "signal": "SELL",
+      "entry": 0.06299,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=SKYUSDT"
+    },
+    {
+      "datetime": 1756561500000,
+      "symbol": "MBXUSDT",
+      "signal": "BUY",
+      "entry": 0.1597,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=MBXUSDT"
+    },
+    {
+      "datetime": 1756559700000,
+      "symbol": "OSMOUSDT",
+      "signal": "SELL",
+      "entry": 0.1648,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=OSMOUSDT"
     }
   ]
 }
