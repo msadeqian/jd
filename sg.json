@@ -999,6 +999,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=ZILUSDT"
+    },
+    {
+      "datetime": 1756549800000,
+      "symbol": "BANANAS31USDT",
+      "signal": "BUY",
+      "entry": 0.006866,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=BANANAS31USDT"
     }
   ]
 }
