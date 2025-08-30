@@ -1,24 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1756320300000,
-      "symbol": "QTUMUSDT",
-      "signal": "BUY",
-      "entry": 3.012,
-      "stop_loss": null,
-      "take_profit": null,
-      "url": "https://www.tradingview.com/chart?symbol=QTUMUSDT"
-    },
-    {
-      "datetime": 1756354500000,
-      "symbol": "STEEMUSDT",
-      "signal": "BUY",
-      "entry": 0.1324,
-      "stop_loss": null,
-      "take_profit": null,
-      "url": "https://www.tradingview.com/chart?symbol=STEEMUSDT"
-    },
-    {
       "datetime": 1756359000000,
       "symbol": "MANTAUSDT",
       "signal": "BUY",
@@ -792,6 +774,76 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=TUSDUSDT"
+    },
+    {
+      "datetime": 1756528200000,
+      "symbol": "DUSDT",
+      "signal": "BUY",
+      "entry": 0.03217,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=DUSDT"
+    },
+    {
+      "datetime": 1756529100000,
+      "symbol": "GHSTUSDT",
+      "signal": "BUY",
+      "entry": 0.446,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=GHSTUSDT"
+    },
+    {
+      "datetime": 1756528200000,
+      "symbol": "KMNOUSDT",
+      "signal": "BUY",
+      "entry": 0.0561,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=KMNOUSDT"
+    },
+    {
+      "datetime": 1756528200000,
+      "symbol": "PEPEUSDT",
+      "signal": "BUY",
+      "entry": 9.96e-06,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=PEPEUSDT"
+    },
+    {
+      "datetime": 1756528200000,
+      "symbol": "RAREUSDT",
+      "signal": "BUY",
+      "entry": 0.0551,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=RAREUSDT"
+    },
+    {
+      "datetime": 1756528200000,
+      "symbol": "SCRTUSDT",
+      "signal": "BUY",
+      "entry": 0.1762,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=SCRTUSDT"
+    },
+    {
+      "datetime": 1756528200000,
+      "symbol": "SLPUSDT",
+      "signal": "BUY",
+      "entry": 0.00174,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=SLPUSDT"
     }
   ]
 }
