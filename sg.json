@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1756370700000,
-      "symbol": "ACXUSDT",
-      "signal": "BUY",
-      "entry": 0.1657,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ACXUSDT"
-    },
-    {
       "datetime": 1756377900000,
       "symbol": "CATIUSDT",
       "signal": "BUY",
@@ -949,6 +939,36 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=XNOUSDT"
+    },
+    {
+      "datetime": 1756542600000,
+      "symbol": "ARDRUSDT",
+      "signal": "SELL",
+      "entry": 0.08473,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=ARDRUSDT"
+    },
+    {
+      "datetime": 1756544400000,
+      "symbol": "ARKUSDT",
+      "signal": "SELL",
+      "entry": 0.4424,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ARKUSDT"
+    },
+    {
+      "datetime": 1756542600000,
+      "symbol": "TIAUSDT",
+      "signal": "BUY",
+      "entry": 1.672,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=TIAUSDT"
     }
   ]
 }
