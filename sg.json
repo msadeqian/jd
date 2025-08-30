@@ -1,24 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1756359000000,
-      "symbol": "MANTAUSDT",
-      "signal": "BUY",
-      "entry": 0.2083,
-      "stop_loss": null,
-      "take_profit": null,
-      "url": "https://www.tradingview.com/chart?symbol=MANTAUSDT"
-    },
-    {
-      "datetime": 1756359900000,
-      "symbol": "RUNEUSDT",
-      "signal": "BUY",
-      "entry": 1.255,
-      "stop_loss": null,
-      "take_profit": null,
-      "url": "https://www.tradingview.com/chart?symbol=RUNEUSDT"
-    },
-    {
       "datetime": 1756363500000,
       "symbol": "1000CHEEMSUSDT",
       "signal": "BUY",
@@ -844,6 +826,36 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=SLPUSDT"
+    },
+    {
+      "datetime": 1756533600000,
+      "symbol": "MKRUSDT",
+      "signal": "SELL",
+      "entry": 1518.4,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=MKRUSDT"
+    },
+    {
+      "datetime": 1756530900000,
+      "symbol": "RVNUSDT",
+      "signal": "BUY",
+      "entry": 0.01346,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=RVNUSDT"
+    },
+    {
+      "datetime": 1756530900000,
+      "symbol": "WANUSDT",
+      "signal": "BUY",
+      "entry": 0.1058,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=WANUSDT"
     }
   ]
 }
