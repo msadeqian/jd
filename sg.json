@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1756377900000,
-      "symbol": "CATIUSDT",
-      "signal": "BUY",
-      "entry": 0.1097,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=CATIUSDT"
-    },
-    {
-      "datetime": 1756380600000,
-      "symbol": "KMNOUSDT",
-      "signal": "BUY",
-      "entry": 0.05679,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=KMNOUSDT"
-    },
-    {
       "datetime": 1756386000000,
       "symbol": "AUCTIONUSDT",
       "signal": "BUY",
@@ -1009,6 +989,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=BANANAS31USDT"
+    },
+    {
+      "datetime": 1756555200000,
+      "symbol": "APEPEUSDT",
+      "signal": "BUY",
+      "entry": 2.549e-06,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=APEPEUSDT"
+    },
+    {
+      "datetime": 1756552500000,
+      "symbol": "NILUSDT",
+      "signal": "SELL",
+      "entry": 0.2806,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=NILUSDT"
     }
   ]
 }
