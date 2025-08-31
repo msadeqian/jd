@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1756470600000,
-      "symbol": "EPICUSDT",
-      "signal": "BUY",
-      "entry": 2.431,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=EPICUSDT"
-    },
-    {
       "datetime": 1756476000000,
       "symbol": "SXTUSDT",
       "signal": "SELL",
@@ -709,6 +699,36 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=SOLUSDT"
+    },
+    {
+      "datetime": 1756646100000,
+      "symbol": "PBUXUSDT",
+      "signal": "BUY",
+      "entry": 0.003,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=PBUXUSDT"
+    },
+    {
+      "datetime": 1756648800000,
+      "symbol": "UTKUSDT",
+      "signal": "SELL",
+      "entry": 0.03098,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=UTKUSDT"
+    },
+    {
+      "datetime": 1756647900000,
+      "symbol": "AUDIOUSDT",
+      "signal": "BUY",
+      "entry": 0.064,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=AUDIOUSDT"
     }
   ]
 }
