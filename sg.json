@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1756476000000,
-      "symbol": "SXTUSDT",
-      "signal": "SELL",
-      "entry": 0.0698,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=SXTUSDT"
-    },
-    {
       "datetime": 1756483200000,
       "symbol": "AXLUSDT",
       "signal": "SELL",
@@ -729,6 +719,56 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=AUDIOUSDT"
+    },
+    {
+      "datetime": 1756652400000,
+      "symbol": "PIUSDT",
+      "signal": "SELL",
+      "entry": 0.365,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=PIUSDT"
+    },
+    {
+      "datetime": 1756650600000,
+      "symbol": "BICOUSDT",
+      "signal": "SELL",
+      "entry": 0.1081,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=BICOUSDT"
+    },
+    {
+      "datetime": 1756650600000,
+      "symbol": "ALCXUSDT",
+      "signal": "SELL",
+      "entry": 9.85,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=ALCXUSDT"
+    },
+    {
+      "datetime": 1756651500000,
+      "symbol": "REIUSDT",
+      "signal": "SELL",
+      "entry": 0.01661,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=REIUSDT"
+    },
+    {
+      "datetime": 1756650600000,
+      "symbol": "DUSKUSDT",
+      "signal": "SELL",
+      "entry": 0.0641,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=DUSKUSDT"
     }
   ]
 }
