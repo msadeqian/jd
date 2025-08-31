@@ -1,46 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1756456200000,
-      "symbol": "ALTUSDT",
-      "signal": "SELL",
-      "entry": 0.03283,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=ALTUSDT"
-    },
-    {
-      "datetime": 1756456200000,
-      "symbol": "BLURUSDT",
-      "signal": "SELL",
-      "entry": 0.07606,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=BLURUSDT"
-    },
-    {
-      "datetime": 1756456200000,
-      "symbol": "HIFIUSDT",
-      "signal": "SELL",
-      "entry": 0.0911,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=HIFIUSDT"
-    },
-    {
-      "datetime": 1756458000000,
-      "symbol": "STRAXUSDT",
-      "signal": "SELL",
-      "entry": 0.04358,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=STRAXUSDT"
-    },
-    {
       "datetime": 1756468800000,
       "symbol": "ASRUSDT",
       "signal": "SELL",
@@ -739,6 +699,16 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=MCADEUSDT"
+    },
+    {
+      "datetime": 1756631700000,
+      "symbol": "DOPUSDT",
+      "signal": "SELL",
+      "entry": 0.0004865,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=DOPUSDT"
     }
   ]
 }
