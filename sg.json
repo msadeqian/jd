@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1756404900000,
-      "symbol": "WANUSDT",
-      "signal": "SELL",
-      "entry": 0.1071,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=WANUSDT"
-    },
-    {
-      "datetime": 1756440900000,
-      "symbol": "USD1USDT",
-      "signal": "BUY",
-      "entry": 1.0008,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=USD1USDT"
-    },
-    {
       "datetime": 1756447200000,
       "symbol": "NEXOUSDT",
       "signal": "SELL",
@@ -29,16 +9,6 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=NEXOUSDT"
-    },
-    {
-      "datetime": 1756445400000,
-      "symbol": "OMNIUSDT",
-      "signal": "SELL",
-      "entry": 3.36,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=OMNIUSDT"
     },
     {
       "datetime": 1756449000000,
@@ -939,6 +909,16 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=RADUSDT"
+    },
+    {
+      "datetime": 1756619100000,
+      "symbol": "CUDISUSDT",
+      "signal": "SELL",
+      "entry": 0.08049,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=CUDISUSDT"
     }
   ]
 }
