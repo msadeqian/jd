@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1756468800000,
-      "symbol": "ASRUSDT",
-      "signal": "SELL",
-      "entry": 2.596,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ASRUSDT"
-    },
-    {
       "datetime": 1756470600000,
       "symbol": "EPICUSDT",
       "signal": "BUY",
@@ -709,6 +699,16 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=DOPUSDT"
+    },
+    {
+      "datetime": 1756642500000,
+      "symbol": "SOLUSDT",
+      "signal": "SELL",
+      "entry": 202.77,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=SOLUSDT"
     }
   ]
 }
