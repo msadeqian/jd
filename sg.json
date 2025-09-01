@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1756566900000,
-      "symbol": "GHXUSDT",
-      "signal": "SELL",
-      "entry": 0.0224,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=GHXUSDT"
-    },
-    {
       "datetime": 1756577700000,
       "symbol": "RADUSDT",
       "signal": "SELL",
@@ -399,6 +389,46 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=AUSDT"
+    },
+    {
+      "datetime": 1756745100000,
+      "symbol": "DOGEUSDT",
+      "signal": "SELL",
+      "entry": 0.2115,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=DOGEUSDT"
+    },
+    {
+      "datetime": 1756743300000,
+      "symbol": "PARTIUSDT",
+      "signal": "SELL",
+      "entry": 0.1736,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=PARTIUSDT"
+    },
+    {
+      "datetime": 1756745100000,
+      "symbol": "IOTAUSDT",
+      "signal": "SELL",
+      "entry": 0.1858,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=IOTAUSDT"
+    },
+    {
+      "datetime": 1756745100000,
+      "symbol": "ALICEUSDT",
+      "signal": "SELL",
+      "entry": 0.3553,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=ALICEUSDT"
     }
   ]
 }
