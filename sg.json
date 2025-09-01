@@ -1,76 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1756542600000,
-      "symbol": "ARDRUSDT",
-      "signal": "SELL",
-      "entry": 0.08473,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=ARDRUSDT"
-    },
-    {
-      "datetime": 1756544400000,
-      "symbol": "ARKUSDT",
-      "signal": "SELL",
-      "entry": 0.4424,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ARKUSDT"
-    },
-    {
-      "datetime": 1756542600000,
-      "symbol": "TIAUSDT",
-      "signal": "BUY",
-      "entry": 1.672,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=TIAUSDT"
-    },
-    {
-      "datetime": 1756548000000,
-      "symbol": "SOLVUSDT",
-      "signal": "BUY",
-      "entry": 0.04291,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=SOLVUSDT"
-    },
-    {
-      "datetime": 1756546200000,
-      "symbol": "VICUSDT",
-      "signal": "BUY",
-      "entry": 0.2285,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=VICUSDT"
-    },
-    {
-      "datetime": 1756547100000,
-      "symbol": "ZILUSDT",
-      "signal": "SELL",
-      "entry": 0.01118,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ZILUSDT"
-    },
-    {
-      "datetime": 1756549800000,
-      "symbol": "BANANAS31USDT",
-      "signal": "BUY",
-      "entry": 0.006866,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=BANANAS31USDT"
-    },
-    {
       "datetime": 1756555200000,
       "symbol": "APEPEUSDT",
       "signal": "BUY",
@@ -359,6 +289,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=BULLAUSDT"
+    },
+    {
+      "datetime": 1756724400000,
+      "symbol": "THETAUSDT",
+      "signal": "BUY",
+      "entry": 0.794,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=THETAUSDT"
     }
   ]
 }
