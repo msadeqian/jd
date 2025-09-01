@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1756561500000,
-      "symbol": "SKYUSDT",
-      "signal": "SELL",
-      "entry": 0.06299,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=SKYUSDT"
-    },
-    {
-      "datetime": 1756561500000,
-      "symbol": "MBXUSDT",
-      "signal": "BUY",
-      "entry": 0.1597,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=MBXUSDT"
-    },
-    {
       "datetime": 1756566900000,
       "symbol": "GHXUSDT",
       "signal": "SELL",
@@ -409,6 +389,16 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=OSMOUSDT"
+    },
+    {
+      "datetime": 1756737000000,
+      "symbol": "AUSDT",
+      "signal": "SELL",
+      "entry": 0.485,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=AUSDT"
     }
   ]
 }
