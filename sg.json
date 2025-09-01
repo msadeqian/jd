@@ -1,166 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1756533600000,
-      "symbol": "MKRUSDT",
-      "signal": "SELL",
-      "entry": 1518.4,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=MKRUSDT"
-    },
-    {
-      "datetime": 1756530900000,
-      "symbol": "RVNUSDT",
-      "signal": "BUY",
-      "entry": 0.01346,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=RVNUSDT"
-    },
-    {
-      "datetime": 1756530900000,
-      "symbol": "WANUSDT",
-      "signal": "BUY",
-      "entry": 0.1058,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=WANUSDT"
-    },
-    {
-      "datetime": 1756537200000,
-      "symbol": "AAVEUSDT",
-      "signal": "BUY",
-      "entry": 317.74,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=AAVEUSDT"
-    },
-    {
-      "datetime": 1756536300000,
-      "symbol": "ACHUSDT",
-      "signal": "BUY",
-      "entry": 0.02018,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ACHUSDT"
-    },
-    {
-      "datetime": 1756535400000,
-      "symbol": "ORDIUSDT",
-      "signal": "BUY",
-      "entry": 8.753,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ORDIUSDT"
-    },
-    {
-      "datetime": 1756535400000,
-      "symbol": "SXTUSDT",
-      "signal": "BUY",
-      "entry": 0.0716,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=SXTUSDT"
-    },
-    {
-      "datetime": 1756540800000,
-      "symbol": "1000SATSUSDT",
-      "signal": "BUY",
-      "entry": 3.709e-05,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=1000SATSUSDT"
-    },
-    {
-      "datetime": 1756538100000,
-      "symbol": "COMPUSDT",
-      "signal": "BUY",
-      "entry": 43.51,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=COMPUSDT"
-    },
-    {
-      "datetime": 1756540800000,
-      "symbol": "CRVUSDT",
-      "signal": "BUY",
-      "entry": 0.7808,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=CRVUSDT"
-    },
-    {
-      "datetime": 1756538100000,
-      "symbol": "LPTUSDT",
-      "signal": "BUY",
-      "entry": 7.199,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=LPTUSDT"
-    },
-    {
-      "datetime": 1756538100000,
-      "symbol": "MBOXUSDT",
-      "signal": "BUY",
-      "entry": 0.0591,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=MBOXUSDT"
-    },
-    {
-      "datetime": 1756538100000,
-      "symbol": "STOUSDT",
-      "signal": "BUY",
-      "entry": 0.0873,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=STOUSDT"
-    },
-    {
-      "datetime": 1756539900000,
-      "symbol": "USDTDAI",
-      "signal": "SELL",
-      "entry": 1.0001,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=USDTDAI"
-    },
-    {
-      "datetime": 1756539900000,
-      "symbol": "XAIUSDT",
-      "signal": "BUY",
-      "entry": 0.049,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=XAIUSDT"
-    },
-    {
-      "datetime": 1756538100000,
-      "symbol": "XNOUSDT",
-      "signal": "BUY",
-      "entry": 0.912,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=XNOUSDT"
-    },
-    {
       "datetime": 1756542600000,
       "symbol": "ARDRUSDT",
       "signal": "SELL",
@@ -499,6 +339,26 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=FURYUSDT"
+    },
+    {
+      "datetime": 1756714500000,
+      "symbol": "SAHARAUSDT",
+      "signal": "BUY",
+      "entry": 0.08964,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=SAHARAUSDT"
+    },
+    {
+      "datetime": 1756715400000,
+      "symbol": "BULLAUSDT",
+      "signal": "BUY",
+      "entry": 0.06329,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=BULLAUSDT"
     }
   ]
 }
