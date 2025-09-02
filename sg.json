@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1756652400000,
-      "symbol": "PIUSDT",
-      "signal": "SELL",
-      "entry": 0.365,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=PIUSDT"
-    },
-    {
-      "datetime": 1756651500000,
-      "symbol": "REIUSDT",
-      "signal": "SELL",
-      "entry": 0.01661,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=REIUSDT"
-    },
-    {
       "datetime": 1756664100000,
       "symbol": "YGGUSDT",
       "signal": "BUY",
@@ -689,6 +669,36 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=CKBUSDT"
+    },
+    {
+      "datetime": 1756830600000,
+      "symbol": "BCHUSDT",
+      "signal": "BUY",
+      "entry": 576.72,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=BCHUSDT"
+    },
+    {
+      "datetime": 1756830600000,
+      "symbol": "AIOZUSDT",
+      "signal": "SELL",
+      "entry": 0.3069,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=AIOZUSDT"
+    },
+    {
+      "datetime": 1756830600000,
+      "symbol": "LINKUSDT",
+      "signal": "SELL",
+      "entry": 22.97,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=LINKUSDT"
     }
   ]
 }
