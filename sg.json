@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1756642500000,
-      "symbol": "SOLUSDT",
-      "signal": "SELL",
-      "entry": 202.77,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=SOLUSDT"
-    },
-    {
       "datetime": 1756646100000,
       "symbol": "PBUXUSDT",
       "signal": "BUY",
@@ -519,6 +509,156 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=RDNTUSDT"
+    },
+    {
+      "datetime": 1756817100000,
+      "symbol": "ARBUSDT",
+      "signal": "SELL",
+      "entry": 0.4769,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ARBUSDT"
+    },
+    {
+      "datetime": 1756815300000,
+      "symbol": "SYRUPUSDT",
+      "signal": "SELL",
+      "entry": 0.4448,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=SYRUPUSDT"
+    },
+    {
+      "datetime": 1756818000000,
+      "symbol": "AVAUSDT",
+      "signal": "SELL",
+      "entry": 0.523,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=AVAUSDT"
+    },
+    {
+      "datetime": 1756816200000,
+      "symbol": "TAOUSDT",
+      "signal": "SELL",
+      "entry": 311.9,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=TAOUSDT"
+    },
+    {
+      "datetime": 1756817100000,
+      "symbol": "GRTUSDT",
+      "signal": "SELL",
+      "entry": 0.0863,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=GRTUSDT"
+    },
+    {
+      "datetime": 1756817100000,
+      "symbol": "KDAUSDT",
+      "signal": "SELL",
+      "entry": 0.337,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=KDAUSDT"
+    },
+    {
+      "datetime": 1756817100000,
+      "symbol": "ORDIUSDT",
+      "signal": "SELL",
+      "entry": 8.203,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=ORDIUSDT"
+    },
+    {
+      "datetime": 1756818000000,
+      "symbol": "SUSHIUSDT",
+      "signal": "SELL",
+      "entry": 0.7343,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=SUSHIUSDT"
+    },
+    {
+      "datetime": 1756817100000,
+      "symbol": "NEIROUSDT",
+      "signal": "SELL",
+      "entry": 0.00031833,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=NEIROUSDT"
+    },
+    {
+      "datetime": 1756817100000,
+      "symbol": "MNSRYUSDT",
+      "signal": "SELL",
+      "entry": 0.03126,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=MNSRYUSDT"
+    },
+    {
+      "datetime": 1756817100000,
+      "symbol": "1000SATSUSDT",
+      "signal": "SELL",
+      "entry": 3.383e-05,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=1000SATSUSDT"
+    },
+    {
+      "datetime": 1756818000000,
+      "symbol": "HIVEUSDT",
+      "signal": "SELL",
+      "entry": 0.1952,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=HIVEUSDT"
+    },
+    {
+      "datetime": 1756816200000,
+      "symbol": "PENDLEUSDT",
+      "signal": "SELL",
+      "entry": 4.503,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=PENDLEUSDT"
+    },
+    {
+      "datetime": 1756816200000,
+      "symbol": "SCRUSDT",
+      "signal": "SELL",
+      "entry": 0.326,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=SCRUSDT"
+    },
+    {
+      "datetime": 1756816200000,
+      "symbol": "ALICEUSDT",
+      "signal": "SELL",
+      "entry": 0.3544,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=ALICEUSDT"
     }
   ]
 }
