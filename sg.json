@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1756631700000,
-      "symbol": "DOPUSDT",
-      "signal": "SELL",
-      "entry": 0.0004865,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=DOPUSDT"
-    },
-    {
       "datetime": 1756642500000,
       "symbol": "SOLUSDT",
       "signal": "SELL",
@@ -449,6 +439,26 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=ADAUSDT"
+    },
+    {
+      "datetime": 1756807200000,
+      "symbol": "CAKEUSDT",
+      "signal": "SELL",
+      "entry": 2.411,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=CAKEUSDT"
+    },
+    {
+      "datetime": 1756805400000,
+      "symbol": "MILKUSDT",
+      "signal": "BUY",
+      "entry": 0.04219,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=MILKUSDT"
     }
   ]
 }
