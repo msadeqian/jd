@@ -509,6 +509,16 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=PYRUSDT"
+    },
+    {
+      "datetime": 1756811700000,
+      "symbol": "RDNTUSDT",
+      "signal": "BUY",
+      "entry": 0.02052,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=RDNTUSDT"
     }
   ]
 }
