@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1756648800000,
-      "symbol": "UTKUSDT",
-      "signal": "SELL",
-      "entry": 0.03098,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=UTKUSDT"
-    },
-    {
       "datetime": 1756652400000,
       "symbol": "PIUSDT",
       "signal": "SELL",
@@ -21,26 +11,6 @@
       "url": "https://www.tradingview.com/chart?symbol=PIUSDT"
     },
     {
-      "datetime": 1756650600000,
-      "symbol": "BICOUSDT",
-      "signal": "SELL",
-      "entry": 0.1081,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=BICOUSDT"
-    },
-    {
-      "datetime": 1756650600000,
-      "symbol": "ALCXUSDT",
-      "signal": "SELL",
-      "entry": 9.85,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=ALCXUSDT"
-    },
-    {
       "datetime": 1756651500000,
       "symbol": "REIUSDT",
       "signal": "SELL",
@@ -49,16 +19,6 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=REIUSDT"
-    },
-    {
-      "datetime": 1756650600000,
-      "symbol": "DUSKUSDT",
-      "signal": "SELL",
-      "entry": 0.0641,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=DUSKUSDT"
     },
     {
       "datetime": 1756664100000,
@@ -689,6 +649,46 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=RENDERUSDT"
+    },
+    {
+      "datetime": 1756823400000,
+      "symbol": "NOTUSDT",
+      "signal": "BUY",
+      "entry": 0.001805,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=NOTUSDT"
+    },
+    {
+      "datetime": 1756824300000,
+      "symbol": "PENGUUSDT",
+      "signal": "BUY",
+      "entry": 0.029762,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=PENGUUSDT"
+    },
+    {
+      "datetime": 1756822500000,
+      "symbol": "AVAUSDT",
+      "signal": "BUY",
+      "entry": 0.5402,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=AVAUSDT"
+    },
+    {
+      "datetime": 1756822500000,
+      "symbol": "CKBUSDT",
+      "signal": "BUY",
+      "entry": 0.004807,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=CKBUSDT"
     }
   ]
 }
