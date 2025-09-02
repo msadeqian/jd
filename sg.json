@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1756619100000,
-      "symbol": "CUDISUSDT",
-      "signal": "SELL",
-      "entry": 0.08049,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=CUDISUSDT"
-    },
-    {
       "datetime": 1756624500000,
       "symbol": "ICNTUSDT",
       "signal": "SELL",
@@ -439,6 +429,16 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=NOTUSDT"
+    },
+    {
+      "datetime": 1756796400000,
+      "symbol": "SYRUPUSDT",
+      "signal": "BUY",
+      "entry": 0.4602,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=SYRUPUSDT"
     }
   ]
 }
