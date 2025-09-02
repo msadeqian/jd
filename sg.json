@@ -459,6 +459,56 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=MILKUSDT"
+    },
+    {
+      "datetime": 1756809000000,
+      "symbol": "ETHUSDT",
+      "signal": "SELL",
+      "entry": 4380.2,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ETHUSDT"
+    },
+    {
+      "datetime": 1756808100000,
+      "symbol": "WLDUSDT",
+      "signal": "BUY",
+      "entry": 0.874,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=WLDUSDT"
+    },
+    {
+      "datetime": 1756808100000,
+      "symbol": "NODEUSDT",
+      "signal": "SELL",
+      "entry": 0.10052,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=NODEUSDT"
+    },
+    {
+      "datetime": 1756808100000,
+      "symbol": "WOOUSDT",
+      "signal": "BUY",
+      "entry": 0.0677,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=WOOUSDT"
+    },
+    {
+      "datetime": 1756808100000,
+      "symbol": "PYRUSDT",
+      "signal": "BUY",
+      "entry": 0.994,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=PYRUSDT"
     }
   ]
 }
