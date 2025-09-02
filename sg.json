@@ -699,6 +699,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=LINKUSDT"
+    },
+    {
+      "datetime": 1756834200000,
+      "symbol": "TURBOUSDT",
+      "signal": "BUY",
+      "entry": 0.00379,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=TURBOUSDT"
     }
   ]
 }
