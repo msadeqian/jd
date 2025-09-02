@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1756624500000,
-      "symbol": "ICNTUSDT",
-      "signal": "SELL",
-      "entry": 0.2728,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ICNTUSDT"
-    },
-    {
       "datetime": 1756627200000,
       "symbol": "FOXYUSDT",
       "signal": "BUY",
@@ -439,6 +429,46 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=SYRUPUSDT"
+    },
+    {
+      "datetime": 1756800000000,
+      "symbol": "LINKUSDT",
+      "signal": "BUY",
+      "entry": 23.26,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=LINKUSDT"
+    },
+    {
+      "datetime": 1756798200000,
+      "symbol": "SYRUPUSDT",
+      "signal": "BUY",
+      "entry": 0.4569,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=SYRUPUSDT"
+    },
+    {
+      "datetime": 1756799100000,
+      "symbol": "STOUSDT",
+      "signal": "SELL",
+      "entry": 0.0815,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=STOUSDT"
+    },
+    {
+      "datetime": 1756799100000,
+      "symbol": "CVXUSDT",
+      "signal": "BUY",
+      "entry": 3.496,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=CVXUSDT"
     }
   ]
 }
