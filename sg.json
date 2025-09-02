@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1756577700000,
-      "symbol": "RADUSDT",
-      "signal": "SELL",
-      "entry": 0.682,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=RADUSDT"
-    },
-    {
       "datetime": 1756619100000,
       "symbol": "CUDISUSDT",
       "signal": "SELL",
@@ -439,6 +429,16 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=OMNIUSDT"
+    },
+    {
+      "datetime": 1756788300000,
+      "symbol": "NOTUSDT",
+      "signal": "BUY",
+      "entry": 0.001791,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=NOTUSDT"
     }
   ]
 }
