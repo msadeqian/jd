@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1756664100000,
-      "symbol": "YGGUSDT",
-      "signal": "BUY",
-      "entry": 0.1606,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=YGGUSDT"
-    },
-    {
       "datetime": 1756700100000,
       "symbol": "TRUMPUSDT",
       "signal": "BUY",
@@ -709,6 +699,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=TURBOUSDT"
+    },
+    {
+      "datetime": 1756837800000,
+      "symbol": "ONDOUSDT",
+      "signal": "BUY",
+      "entry": 0.9309,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ONDOUSDT"
+    },
+    {
+      "datetime": 1756836900000,
+      "symbol": "EULUSDT",
+      "signal": "SELL",
+      "entry": 9.4729,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=EULUSDT"
     }
   ]
 }
