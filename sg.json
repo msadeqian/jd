@@ -719,6 +719,26 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=RAREUSDT"
+    },
+    {
+      "datetime": 1756924200000,
+      "symbol": "CAKEUSDT",
+      "signal": "BUY",
+      "entry": 2.404,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=CAKEUSDT"
+    },
+    {
+      "datetime": 1756923300000,
+      "symbol": "LAZIOUSDT",
+      "signal": "BUY",
+      "entry": 0.913,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=LAZIOUSDT"
     }
   ]
 }
