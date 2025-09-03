@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1756737000000,
-      "symbol": "AUSDT",
-      "signal": "SELL",
-      "entry": 0.485,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=AUSDT"
-    },
-    {
       "datetime": 1756745100000,
       "symbol": "DOGEUSDT",
       "signal": "SELL",
@@ -659,6 +649,56 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=ARBUSDT"
+    },
+    {
+      "datetime": 1756909800000,
+      "symbol": "PIUSDT",
+      "signal": "BUY",
+      "entry": 0.3501,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=PIUSDT"
+    },
+    {
+      "datetime": 1756911600000,
+      "symbol": "PERPUSDT",
+      "signal": "BUY",
+      "entry": 0.2659,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=PERPUSDT"
+    },
+    {
+      "datetime": 1756909800000,
+      "symbol": "CVXUSDT",
+      "signal": "BUY",
+      "entry": 3.641,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=CVXUSDT"
+    },
+    {
+      "datetime": 1756909800000,
+      "symbol": "RAYUSDT",
+      "signal": "BUY",
+      "entry": 3.489,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=RAYUSDT"
+    },
+    {
+      "datetime": 1756908900000,
+      "symbol": "ALICEUSDT",
+      "signal": "BUY",
+      "entry": 0.3633,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ALICEUSDT"
     }
   ]
 }
