@@ -1,46 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1756700100000,
-      "symbol": "TRUMPUSDT",
-      "signal": "BUY",
-      "entry": 8.736,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=TRUMPUSDT"
-    },
-    {
-      "datetime": 1756701900000,
-      "symbol": "BANKUSDT",
-      "signal": "SELL",
-      "entry": 0.076737,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=BANKUSDT"
-    },
-    {
-      "datetime": 1756700100000,
-      "symbol": "OLUSDT",
-      "signal": "SELL",
-      "entry": 0.03593,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=OLUSDT"
-    },
-    {
-      "datetime": 1756702800000,
-      "symbol": "FURYUSDT",
-      "signal": "SELL",
-      "entry": 0.02565,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=FURYUSDT"
-    },
-    {
       "datetime": 1756714500000,
       "symbol": "SAHARAUSDT",
       "signal": "BUY",
@@ -719,6 +679,16 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=EULUSDT"
+    },
+    {
+      "datetime": 1756876500000,
+      "symbol": "AUDIOUSDT",
+      "signal": "BUY",
+      "entry": 0.0618,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=AUDIOUSDT"
     }
   ]
 }
