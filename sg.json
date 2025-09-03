@@ -699,6 +699,46 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=ALICEUSDT"
+    },
+    {
+      "datetime": 1756914300000,
+      "symbol": "RLCUSDT",
+      "signal": "BUY",
+      "entry": 1.287,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=RLCUSDT"
+    },
+    {
+      "datetime": 1756915200000,
+      "symbol": "BMTUSDT",
+      "signal": "BUY",
+      "entry": 0.0645,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=BMTUSDT"
+    },
+    {
+      "datetime": 1756912500000,
+      "symbol": "WOLFUSDT",
+      "signal": "BUY",
+      "entry": 4.339e-05,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=WOLFUSDT"
+    },
+    {
+      "datetime": 1756913400000,
+      "symbol": "GLMRUSDT",
+      "signal": "BUY",
+      "entry": 0.0697,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=GLMRUSDT"
     }
   ]
 }
