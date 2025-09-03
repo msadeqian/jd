@@ -689,6 +689,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=AUDIOUSDT"
+    },
+    {
+      "datetime": 1756881900000,
+      "symbol": "IOTXUSDT",
+      "signal": "SELL",
+      "entry": 0.02752,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=IOTXUSDT"
     }
   ]
 }
