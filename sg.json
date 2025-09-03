@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1756714500000,
-      "symbol": "SAHARAUSDT",
-      "signal": "BUY",
-      "entry": 0.08964,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=SAHARAUSDT"
-    },
-    {
-      "datetime": 1756715400000,
-      "symbol": "BULLAUSDT",
-      "signal": "BUY",
-      "entry": 0.06329,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=BULLAUSDT"
-    },
-    {
       "datetime": 1756724400000,
       "symbol": "THETAUSDT",
       "signal": "BUY",
@@ -719,6 +699,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=XTERUSDT"
+    },
+    {
+      "datetime": 1756892700000,
+      "symbol": "SXTUSDT",
+      "signal": "SELL",
+      "entry": 0.0732,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=SXTUSDT"
     }
   ]
 }
