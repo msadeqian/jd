@@ -699,6 +699,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=IOTXUSDT"
+    },
+    {
+      "datetime": 1756885500000,
+      "symbol": "AEVOUSDT",
+      "signal": "SELL",
+      "entry": 0.0873,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=AEVOUSDT"
     }
   ]
 }
