@@ -709,6 +709,36 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=SXTUSDT"
+    },
+    {
+      "datetime": 1756894500000,
+      "symbol": "ETHFIUSDT",
+      "signal": "BUY",
+      "entry": 1.103,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ETHFIUSDT"
+    },
+    {
+      "datetime": 1756894500000,
+      "symbol": "DASHUSDT",
+      "signal": "BUY",
+      "entry": 23.78,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=DASHUSDT"
+    },
+    {
+      "datetime": 1756894500000,
+      "symbol": "RENDERUSDT",
+      "signal": "BUY",
+      "entry": 3.455,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=RENDERUSDT"
     }
   ]
 }
