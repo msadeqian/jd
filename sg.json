@@ -709,6 +709,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=AEVOUSDT"
+    },
+    {
+      "datetime": 1756887300000,
+      "symbol": "XTERUSDT",
+      "signal": "BUY",
+      "entry": 0.0911,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=XTERUSDT"
     }
   ]
 }
