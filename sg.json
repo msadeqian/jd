@@ -1,56 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1756745100000,
-      "symbol": "DOGEUSDT",
-      "signal": "SELL",
-      "entry": 0.2115,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=DOGEUSDT"
-    },
-    {
-      "datetime": 1756743300000,
-      "symbol": "PARTIUSDT",
-      "signal": "SELL",
-      "entry": 0.1736,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=PARTIUSDT"
-    },
-    {
-      "datetime": 1756745100000,
-      "symbol": "IOTAUSDT",
-      "signal": "SELL",
-      "entry": 0.1858,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=IOTAUSDT"
-    },
-    {
-      "datetime": 1756745100000,
-      "symbol": "ALICEUSDT",
-      "signal": "SELL",
-      "entry": 0.3553,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=ALICEUSDT"
-    },
-    {
-      "datetime": 1756747800000,
-      "symbol": "OMNIUSDT",
-      "signal": "SELL",
-      "entry": 3.07,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=OMNIUSDT"
-    },
-    {
       "datetime": 1756788300000,
       "symbol": "NOTUSDT",
       "signal": "BUY",
@@ -749,6 +699,26 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=MBGUSDT"
+    },
+    {
+      "datetime": 1756922400000,
+      "symbol": "JUVUSDT",
+      "signal": "BUY",
+      "entry": 1.15,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=JUVUSDT"
+    },
+    {
+      "datetime": 1756919700000,
+      "symbol": "RAREUSDT",
+      "signal": "BUY",
+      "entry": 0.0547,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=RAREUSDT"
     }
   ]
 }
