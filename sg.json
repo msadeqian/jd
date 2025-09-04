@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1756796400000,
-      "symbol": "SYRUPUSDT",
-      "signal": "BUY",
-      "entry": 0.4602,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=SYRUPUSDT"
-    },
-    {
       "datetime": 1756800000000,
       "symbol": "LINKUSDT",
       "signal": "BUY",
@@ -19,16 +9,6 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=LINKUSDT"
-    },
-    {
-      "datetime": 1756798200000,
-      "symbol": "SYRUPUSDT",
-      "signal": "BUY",
-      "entry": 0.4569,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=SYRUPUSDT"
     },
     {
       "datetime": 1756799100000,
@@ -809,6 +789,36 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=SWCHUSDT"
+    },
+    {
+      "datetime": 1756971900000,
+      "symbol": "DRXUSDT",
+      "signal": "SELL",
+      "entry": 1.072e-06,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=DRXUSDT"
+    },
+    {
+      "datetime": 1756971900000,
+      "symbol": "DIAUSDT",
+      "signal": "SELL",
+      "entry": 0.6987,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=DIAUSDT"
+    },
+    {
+      "datetime": 1756971000000,
+      "symbol": "LINKUSDT",
+      "signal": "SELL",
+      "entry": 23.27,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=LINKUSDT"
     }
   ]
 }
