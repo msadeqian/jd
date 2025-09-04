@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1756830600000,
-      "symbol": "BCHUSDT",
-      "signal": "BUY",
-      "entry": 576.72,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=BCHUSDT"
-    },
-    {
-      "datetime": 1756830600000,
-      "symbol": "AIOZUSDT",
-      "signal": "SELL",
-      "entry": 0.3069,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=AIOZUSDT"
-    },
-    {
-      "datetime": 1756830600000,
-      "symbol": "LINKUSDT",
-      "signal": "SELL",
-      "entry": 22.97,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=LINKUSDT"
-    },
-    {
       "datetime": 1756834200000,
       "symbol": "TURBOUSDT",
       "signal": "BUY",
@@ -589,6 +559,46 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=VANAUSDT"
+    },
+    {
+      "datetime": 1757004300000,
+      "symbol": "OPUSDT",
+      "signal": "SELL",
+      "entry": 0.689,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=OPUSDT"
+    },
+    {
+      "datetime": 1757004300000,
+      "symbol": "ECHOUSDT",
+      "signal": "SELL",
+      "entry": 0.02932,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ECHOUSDT"
+    },
+    {
+      "datetime": 1757002500000,
+      "symbol": "DOGEUSDT",
+      "signal": "SELL",
+      "entry": 0.212,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=DOGEUSDT"
+    },
+    {
+      "datetime": 1757002500000,
+      "symbol": "PYRUSDT",
+      "signal": "SELL",
+      "entry": 0.991,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=PYRUSDT"
     }
   ]
 }
