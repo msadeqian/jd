@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1756824300000,
-      "symbol": "PENGUUSDT",
-      "signal": "BUY",
-      "entry": 0.029762,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=PENGUUSDT"
-    },
-    {
       "datetime": 1756830600000,
       "symbol": "BCHUSDT",
       "signal": "BUY",
@@ -569,6 +559,36 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=NOTUSDT"
+    },
+    {
+      "datetime": 1756999800000,
+      "symbol": "WLDUSDT",
+      "signal": "SELL",
+      "entry": 0.862,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=WLDUSDT"
+    },
+    {
+      "datetime": 1757000700000,
+      "symbol": "CHRUSDT",
+      "signal": "SELL",
+      "entry": 0.0929,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=CHRUSDT"
+    },
+    {
+      "datetime": 1756998900000,
+      "symbol": "VANAUSDT",
+      "signal": "SELL",
+      "entry": 3.753,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=VANAUSDT"
     }
   ]
 }
