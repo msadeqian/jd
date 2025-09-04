@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1756800000000,
-      "symbol": "LINKUSDT",
-      "signal": "BUY",
-      "entry": 23.26,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=LINKUSDT"
-    },
-    {
-      "datetime": 1756799100000,
-      "symbol": "STOUSDT",
-      "signal": "SELL",
-      "entry": 0.0815,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=STOUSDT"
-    },
-    {
-      "datetime": 1756799100000,
-      "symbol": "CVXUSDT",
-      "signal": "BUY",
-      "entry": 3.496,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=CVXUSDT"
-    },
-    {
       "datetime": 1756803600000,
       "symbol": "ADAUSDT",
       "signal": "BUY",
@@ -819,6 +789,16 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=LINKUSDT"
+    },
+    {
+      "datetime": 1756975500000,
+      "symbol": "VRUSDT",
+      "signal": "SELL",
+      "entry": 0.00259592,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=VRUSDT"
     }
   ]
 }
