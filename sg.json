@@ -779,6 +779,36 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=RENDERUSDT"
+    },
+    {
+      "datetime": 1756968300000,
+      "symbol": "AIXBTUSDT",
+      "signal": "SELL",
+      "entry": 0.1002,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=AIXBTUSDT"
+    },
+    {
+      "datetime": 1756968300000,
+      "symbol": "TIBBIRUSDT",
+      "signal": "SELL",
+      "entry": 0.166361,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=TIBBIRUSDT"
+    },
+    {
+      "datetime": 1756969200000,
+      "symbol": "SWCHUSDT",
+      "signal": "BUY",
+      "entry": 0.197,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=SWCHUSDT"
     }
   ]
 }
