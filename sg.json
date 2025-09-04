@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1756788300000,
-      "symbol": "NOTUSDT",
-      "signal": "BUY",
-      "entry": 0.001791,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=NOTUSDT"
-    },
-    {
       "datetime": 1756796400000,
       "symbol": "SYRUPUSDT",
       "signal": "BUY",
@@ -739,6 +729,36 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=LAZIOUSDT"
+    },
+    {
+      "datetime": 1756959300000,
+      "symbol": "TWTUSDT",
+      "signal": "SELL",
+      "entry": 0.7286,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=TWTUSDT"
+    },
+    {
+      "datetime": 1756961100000,
+      "symbol": "AVAUSDT",
+      "signal": "SELL",
+      "entry": 0.5253,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=AVAUSDT"
+    },
+    {
+      "datetime": 1756962000000,
+      "symbol": "AUCTIONUSDT",
+      "signal": "SELL",
+      "entry": 9.55,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=AUCTIONUSDT"
     }
   ]
 }
