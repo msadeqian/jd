@@ -759,6 +759,26 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=AUCTIONUSDT"
+    },
+    {
+      "datetime": 1756964700000,
+      "symbol": "ZKUSDT",
+      "signal": "SELL",
+      "entry": 0.05604,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=ZKUSDT"
+    },
+    {
+      "datetime": 1756963800000,
+      "symbol": "RENDERUSDT",
+      "signal": "SELL",
+      "entry": 3.387,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=RENDERUSDT"
     }
   ]
 }
