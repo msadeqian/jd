@@ -739,6 +739,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=ARUSDT"
+    },
+    {
+      "datetime": 1756988100000,
+      "symbol": "SYRUPUSDT",
+      "signal": "BUY",
+      "entry": 0.4892,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=SYRUPUSDT"
     }
   ]
 }
