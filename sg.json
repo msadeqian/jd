@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1756834200000,
-      "symbol": "TURBOUSDT",
-      "signal": "BUY",
-      "entry": 0.00379,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=TURBOUSDT"
-    },
-    {
       "datetime": 1756837800000,
       "symbol": "ONDOUSDT",
       "signal": "BUY",
@@ -599,6 +589,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=PYRUSDT"
+    },
+    {
+      "datetime": 1757007900000,
+      "symbol": "LAZIOUSDT",
+      "signal": "BUY",
+      "entry": 0.906,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=LAZIOUSDT"
+    },
+    {
+      "datetime": 1757006100000,
+      "symbol": "KLKUSDT",
+      "signal": "SELL",
+      "entry": 0.486,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=KLKUSDT"
     }
   ]
 }
