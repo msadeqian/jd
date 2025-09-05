@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1756837800000,
-      "symbol": "ONDOUSDT",
-      "signal": "BUY",
-      "entry": 0.9309,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ONDOUSDT"
-    },
-    {
-      "datetime": 1756836900000,
-      "symbol": "EULUSDT",
-      "signal": "SELL",
-      "entry": 9.4729,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=EULUSDT"
-    },
-    {
       "datetime": 1756876500000,
       "symbol": "AUDIOUSDT",
       "signal": "BUY",
@@ -609,6 +589,46 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=KLKUSDT"
+    },
+    {
+      "datetime": 1757048400000,
+      "symbol": "LAUSDT",
+      "signal": "BUY",
+      "entry": 0.3051,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=LAUSDT"
+    },
+    {
+      "datetime": 1757046600000,
+      "symbol": "DOODUSDT",
+      "signal": "BUY",
+      "entry": 0.002885,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=DOODUSDT"
+    },
+    {
+      "datetime": 1757046600000,
+      "symbol": "ARUSDT",
+      "signal": "BUY",
+      "entry": 6.37,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ARUSDT"
+    },
+    {
+      "datetime": 1757045700000,
+      "symbol": "EIGENUSDT",
+      "signal": "BUY",
+      "entry": 1.23,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=EIGENUSDT"
     }
   ]
 }
