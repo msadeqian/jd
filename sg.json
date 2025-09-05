@@ -689,6 +689,16 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=PENDLEUSDT"
+    },
+    {
+      "datetime": 1757064600000,
+      "symbol": "CYBERUSDT",
+      "signal": "BUY",
+      "entry": 1.741,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=CYBERUSDT"
     }
   ]
 }
