@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1756881900000,
-      "symbol": "IOTXUSDT",
-      "signal": "SELL",
-      "entry": 0.02752,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=IOTXUSDT"
-    },
-    {
-      "datetime": 1756885500000,
-      "symbol": "AEVOUSDT",
-      "signal": "SELL",
-      "entry": 0.0873,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=AEVOUSDT"
-    },
-    {
       "datetime": 1756887300000,
       "symbol": "XTERUSDT",
       "signal": "BUY",
@@ -639,6 +619,56 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=AEVOUSDT"
+    },
+    {
+      "datetime": 1757056500000,
+      "symbol": "HBARUSDT",
+      "signal": "BUY",
+      "entry": 0.21777,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=HBARUSDT"
+    },
+    {
+      "datetime": 1757057400000,
+      "symbol": "HUMAUSDT",
+      "signal": "BUY",
+      "entry": 0.02432,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=HUMAUSDT"
+    },
+    {
+      "datetime": 1757059200000,
+      "symbol": "EDUUSDT",
+      "signal": "BUY",
+      "entry": 0.1309,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=EDUUSDT"
+    },
+    {
+      "datetime": 1757057400000,
+      "symbol": "TIAUSDT",
+      "signal": "BUY",
+      "entry": 1.611,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=TIAUSDT"
+    },
+    {
+      "datetime": 1757059200000,
+      "symbol": "FLUXUSDT",
+      "signal": "BUY",
+      "entry": 0.1995,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=FLUXUSDT"
     }
   ]
 }
