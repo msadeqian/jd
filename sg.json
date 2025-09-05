@@ -1,46 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1756914300000,
-      "symbol": "RLCUSDT",
-      "signal": "BUY",
-      "entry": 1.287,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=RLCUSDT"
-    },
-    {
-      "datetime": 1756915200000,
-      "symbol": "BMTUSDT",
-      "signal": "BUY",
-      "entry": 0.0645,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=BMTUSDT"
-    },
-    {
-      "datetime": 1756913400000,
-      "symbol": "GLMRUSDT",
-      "signal": "BUY",
-      "entry": 0.0697,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=GLMRUSDT"
-    },
-    {
-      "datetime": 1756916100000,
-      "symbol": "MBGUSDT",
-      "signal": "SELL",
-      "entry": 1.5174,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=MBGUSDT"
-    },
-    {
       "datetime": 1756922400000,
       "symbol": "JUVUSDT",
       "signal": "BUY",
@@ -609,6 +569,46 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=COINXUSDT"
+    },
+    {
+      "datetime": 1757089800000,
+      "symbol": "AVAXUSDT",
+      "signal": "SELL",
+      "entry": 24.41,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=AVAXUSDT"
+    },
+    {
+      "datetime": 1757090700000,
+      "symbol": "STGUSDT",
+      "signal": "SELL",
+      "entry": 0.1575,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=STGUSDT"
+    },
+    {
+      "datetime": 1757090700000,
+      "symbol": "AUDIOUSDT",
+      "signal": "SELL",
+      "entry": 0.0608,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=AUDIOUSDT"
+    },
+    {
+      "datetime": 1757090700000,
+      "symbol": "MKRUSDT",
+      "signal": "SELL",
+      "entry": 1745.9,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=MKRUSDT"
     }
   ]
 }
