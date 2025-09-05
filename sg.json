@@ -1,66 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1756899000000,
-      "symbol": "XVSUSDT",
-      "signal": "BUY",
-      "entry": 6.21,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=XVSUSDT"
-    },
-    {
-      "datetime": 1756904400000,
-      "symbol": "BEAMUSDT",
-      "signal": "SELL",
-      "entry": 0.00716,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=BEAMUSDT"
-    },
-    {
-      "datetime": 1756907100000,
-      "symbol": "RADUSDT",
-      "signal": "BUY",
-      "entry": 0.686,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=RADUSDT"
-    },
-    {
-      "datetime": 1756905300000,
-      "symbol": "FONUSDT",
-      "signal": "BUY",
-      "entry": 1.4389,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=FONUSDT"
-    },
-    {
-      "datetime": 1756906200000,
-      "symbol": "RIFUSDT",
-      "signal": "BUY",
-      "entry": 0.0564,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=RIFUSDT"
-    },
-    {
-      "datetime": 1756905300000,
-      "symbol": "AOUSDT",
-      "signal": "BUY",
-      "entry": 9.018,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=AOUSDT"
-    },
-    {
       "datetime": 1756908000000,
       "symbol": "ARBUSDT",
       "signal": "BUY",
@@ -669,6 +609,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=FLOCKUSDT"
+    },
+    {
+      "datetime": 1757079000000,
+      "symbol": "SERAPHUSDT",
+      "signal": "SELL",
+      "entry": 0.19865,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=SERAPHUSDT"
+    },
+    {
+      "datetime": 1757080800000,
+      "symbol": "MOREUSDT",
+      "signal": "SELL",
+      "entry": 0.09574,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=MOREUSDT"
     }
   ]
 }
