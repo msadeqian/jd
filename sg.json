@@ -629,6 +629,16 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=EIGENUSDT"
+    },
+    {
+      "datetime": 1757049300000,
+      "symbol": "YGGUSDT",
+      "signal": "BUY",
+      "entry": 0.1507,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=YGGUSDT"
     }
   ]
 }
