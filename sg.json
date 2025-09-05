@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1756911600000,
-      "symbol": "PERPUSDT",
-      "signal": "BUY",
-      "entry": 0.2659,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=PERPUSDT"
-    },
-    {
       "datetime": 1756914300000,
       "symbol": "RLCUSDT",
       "signal": "BUY",
@@ -29,16 +19,6 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=BMTUSDT"
-    },
-    {
-      "datetime": 1756912500000,
-      "symbol": "WOLFUSDT",
-      "signal": "BUY",
-      "entry": 4.339e-05,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=WOLFUSDT"
     },
     {
       "datetime": 1756913400000,
@@ -609,6 +589,26 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=AAVEUSDT"
+    },
+    {
+      "datetime": 1757086200000,
+      "symbol": "ETHUSDT",
+      "signal": "SELL",
+      "entry": 4303.1,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=ETHUSDT"
+    },
+    {
+      "datetime": 1757085300000,
+      "symbol": "COINXUSDT",
+      "signal": "SELL",
+      "entry": 296.32,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=COINXUSDT"
     }
   ]
 }
