@@ -11,16 +11,6 @@
       "url": "https://www.tradingview.com/chart?symbol=JUVUSDT"
     },
     {
-      "datetime": 1756919700000,
-      "symbol": "RAREUSDT",
-      "signal": "BUY",
-      "entry": 0.0547,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=RAREUSDT"
-    },
-    {
       "datetime": 1756924200000,
       "symbol": "CAKEUSDT",
       "signal": "BUY",
@@ -609,6 +599,36 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=MKRUSDT"
+    },
+    {
+      "datetime": 1757094300000,
+      "symbol": "ARBUSDT",
+      "signal": "SELL",
+      "entry": 0.4886,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=ARBUSDT"
+    },
+    {
+      "datetime": 1757095200000,
+      "symbol": "ZCXUSDT",
+      "signal": "SELL",
+      "entry": 0.0169,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=ZCXUSDT"
+    },
+    {
+      "datetime": 1757095200000,
+      "symbol": "BABYUSDT",
+      "signal": "SELL",
+      "entry": 0.04468,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=BABYUSDT"
     }
   ]
 }
