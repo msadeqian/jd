@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1756922400000,
-      "symbol": "JUVUSDT",
-      "signal": "BUY",
-      "entry": 1.15,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=JUVUSDT"
-    },
-    {
-      "datetime": 1756924200000,
-      "symbol": "CAKEUSDT",
-      "signal": "BUY",
-      "entry": 2.404,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=CAKEUSDT"
-    },
-    {
-      "datetime": 1756923300000,
-      "symbol": "LAZIOUSDT",
-      "signal": "BUY",
-      "entry": 0.913,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=LAZIOUSDT"
-    },
-    {
       "datetime": 1756959300000,
       "symbol": "TWTUSDT",
       "signal": "SELL",
@@ -629,6 +599,26 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=BABYUSDT"
+    },
+    {
+      "datetime": 1757098800000,
+      "symbol": "EULUSDT",
+      "signal": "SELL",
+      "entry": 9.584,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=EULUSDT"
+    },
+    {
+      "datetime": 1757097000000,
+      "symbol": "YGGUSDT",
+      "signal": "SELL",
+      "entry": 0.1485,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=YGGUSDT"
     }
   ]
 }
