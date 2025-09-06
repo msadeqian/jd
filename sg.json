@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1756964700000,
-      "symbol": "ZKUSDT",
-      "signal": "SELL",
-      "entry": 0.05604,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=ZKUSDT"
-    },
-    {
-      "datetime": 1756968300000,
-      "symbol": "AIXBTUSDT",
-      "signal": "SELL",
-      "entry": 0.1002,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=AIXBTUSDT"
-    },
-    {
-      "datetime": 1756968300000,
-      "symbol": "TIBBIRUSDT",
-      "signal": "SELL",
-      "entry": 0.166361,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=TIBBIRUSDT"
-    },
-    {
       "datetime": 1756969200000,
       "symbol": "SWCHUSDT",
       "signal": "BUY",
@@ -659,6 +629,46 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=GRTUSDT"
+    },
+    {
+      "datetime": 1757139300000,
+      "symbol": "RIFUSDT",
+      "signal": "SELL",
+      "entry": 0.0558,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=RIFUSDT"
+    },
+    {
+      "datetime": 1757142000000,
+      "symbol": "ADXUSDT",
+      "signal": "SELL",
+      "entry": 0.1211,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ADXUSDT"
+    },
+    {
+      "datetime": 1757141100000,
+      "symbol": "CVXUSDT",
+      "signal": "SELL",
+      "entry": 3.449,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=CVXUSDT"
+    },
+    {
+      "datetime": 1757139300000,
+      "symbol": "OSMOUSDT",
+      "signal": "SELL",
+      "entry": 0.1631,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=OSMOUSDT"
     }
   ]
 }
