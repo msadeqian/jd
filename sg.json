@@ -689,6 +689,46 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=PYRUSDT"
+    },
+    {
+      "datetime": 1757153700000,
+      "symbol": "ETCUSDT",
+      "signal": "SELL",
+      "entry": 20.24,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ETCUSDT"
+    },
+    {
+      "datetime": 1757153700000,
+      "symbol": "RAYUSDT",
+      "signal": "SELL",
+      "entry": 3.244,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=RAYUSDT"
+    },
+    {
+      "datetime": 1757154600000,
+      "symbol": "SPKUSDT",
+      "signal": "SELL",
+      "entry": 0.059808,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=SPKUSDT"
+    },
+    {
+      "datetime": 1757155500000,
+      "symbol": "MKRUSDT",
+      "signal": "SELL",
+      "entry": 1750.8,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=MKRUSDT"
     }
   ]
 }
