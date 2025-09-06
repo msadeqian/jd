@@ -1,46 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1756983600000,
-      "symbol": "EIGENUSDT",
-      "signal": "SELL",
-      "entry": 1.215,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=EIGENUSDT"
-    },
-    {
-      "datetime": 1756984500000,
-      "symbol": "AWEUSDT",
-      "signal": "SELL",
-      "entry": 0.04988,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=AWEUSDT"
-    },
-    {
-      "datetime": 1756987200000,
-      "symbol": "ARUSDT",
-      "signal": "SELL",
-      "entry": 6.31,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ARUSDT"
-    },
-    {
-      "datetime": 1756988100000,
-      "symbol": "SYRUPUSDT",
-      "signal": "BUY",
-      "entry": 0.4892,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=SYRUPUSDT"
-    },
-    {
       "datetime": 1756992600000,
       "symbol": "BANKUSDT",
       "signal": "SELL",
@@ -729,6 +689,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=MKRUSDT"
+    },
+    {
+      "datetime": 1757163600000,
+      "symbol": "ZENUSDT",
+      "signal": "SELL",
+      "entry": 7.11,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ZENUSDT"
     }
   ]
 }
