@@ -1,76 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1756999800000,
-      "symbol": "WLDUSDT",
-      "signal": "SELL",
-      "entry": 0.862,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=WLDUSDT"
-    },
-    {
-      "datetime": 1757000700000,
-      "symbol": "CHRUSDT",
-      "signal": "SELL",
-      "entry": 0.0929,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=CHRUSDT"
-    },
-    {
-      "datetime": 1756998900000,
-      "symbol": "VANAUSDT",
-      "signal": "SELL",
-      "entry": 3.753,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=VANAUSDT"
-    },
-    {
-      "datetime": 1757004300000,
-      "symbol": "OPUSDT",
-      "signal": "SELL",
-      "entry": 0.689,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=OPUSDT"
-    },
-    {
-      "datetime": 1757004300000,
-      "symbol": "ECHOUSDT",
-      "signal": "SELL",
-      "entry": 0.02932,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ECHOUSDT"
-    },
-    {
-      "datetime": 1757002500000,
-      "symbol": "DOGEUSDT",
-      "signal": "SELL",
-      "entry": 0.212,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=DOGEUSDT"
-    },
-    {
-      "datetime": 1757002500000,
-      "symbol": "PYRUSDT",
-      "signal": "SELL",
-      "entry": 0.991,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=PYRUSDT"
-    },
-    {
       "datetime": 1757007900000,
       "symbol": "LAZIOUSDT",
       "signal": "BUY",
@@ -79,16 +9,6 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=LAZIOUSDT"
-    },
-    {
-      "datetime": 1757006100000,
-      "symbol": "KLKUSDT",
-      "signal": "SELL",
-      "entry": 0.486,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=KLKUSDT"
     },
     {
       "datetime": 1757048400000,
@@ -679,6 +599,46 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=RAREUSDT"
+    },
+    {
+      "datetime": 1757178900000,
+      "symbol": "TOWERUSDT",
+      "signal": "SELL",
+      "entry": 0.0016025,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=TOWERUSDT"
+    },
+    {
+      "datetime": 1757179800000,
+      "symbol": "QAIUSDT",
+      "signal": "SELL",
+      "entry": 100.98,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=QAIUSDT"
+    },
+    {
+      "datetime": 1757180700000,
+      "symbol": "B3TRUSDT",
+      "signal": "SELL",
+      "entry": 0.08506,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=B3TRUSDT"
+    },
+    {
+      "datetime": 1757178900000,
+      "symbol": "FLTUSDT",
+      "signal": "SELL",
+      "entry": 0.031622,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=FLTUSDT"
     }
   ]
 }
