@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1756975500000,
-      "symbol": "VRUSDT",
-      "signal": "SELL",
-      "entry": 0.00259592,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=VRUSDT"
-    },
-    {
       "datetime": 1756983600000,
       "symbol": "EIGENUSDT",
       "signal": "SELL",
@@ -649,6 +639,26 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=COMPUSDT"
+    },
+    {
+      "datetime": 1757149200000,
+      "symbol": "SEIUSDT",
+      "signal": "SELL",
+      "entry": 0.2878,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=SEIUSDT"
+    },
+    {
+      "datetime": 1757146500000,
+      "symbol": "MDTUSDT",
+      "signal": "BUY",
+      "entry": 0.02443,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=MDTUSDT"
     }
   ]
 }
