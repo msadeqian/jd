@@ -1,56 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1756992600000,
-      "symbol": "BANKUSDT",
-      "signal": "SELL",
-      "entry": 0.063694,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=BANKUSDT"
-    },
-    {
-      "datetime": 1756993500000,
-      "symbol": "MBPUSDT",
-      "signal": "SELL",
-      "entry": 0.08308,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=MBPUSDT"
-    },
-    {
-      "datetime": 1756994400000,
-      "symbol": "SUSHIUSDT",
-      "signal": "SELL",
-      "entry": 0.7495,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=SUSHIUSDT"
-    },
-    {
-      "datetime": 1756993500000,
-      "symbol": "XLMUSDT",
-      "signal": "SELL",
-      "entry": 0.3586,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=XLMUSDT"
-    },
-    {
-      "datetime": 1756997100000,
-      "symbol": "NOTUSDT",
-      "signal": "SELL",
-      "entry": 0.001814,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=NOTUSDT"
-    },
-    {
       "datetime": 1756999800000,
       "symbol": "WLDUSDT",
       "signal": "SELL",
@@ -699,6 +649,36 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=ZENUSDT"
+    },
+    {
+      "datetime": 1757168100000,
+      "symbol": "BIOUSDT",
+      "signal": "BUY",
+      "entry": 0.177,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=BIOUSDT"
+    },
+    {
+      "datetime": 1757169000000,
+      "symbol": "KARRATUSDT",
+      "signal": "BUY",
+      "entry": 0.0527,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=KARRATUSDT"
+    },
+    {
+      "datetime": 1757170800000,
+      "symbol": "RAREUSDT",
+      "signal": "BUY",
+      "entry": 0.0546,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=RAREUSDT"
     }
   ]
 }
