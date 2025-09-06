@@ -1,46 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1756969200000,
-      "symbol": "SWCHUSDT",
-      "signal": "BUY",
-      "entry": 0.197,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=SWCHUSDT"
-    },
-    {
-      "datetime": 1756971900000,
-      "symbol": "DRXUSDT",
-      "signal": "SELL",
-      "entry": 1.072e-06,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=DRXUSDT"
-    },
-    {
-      "datetime": 1756971900000,
-      "symbol": "DIAUSDT",
-      "signal": "SELL",
-      "entry": 0.6987,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=DIAUSDT"
-    },
-    {
-      "datetime": 1756971000000,
-      "symbol": "LINKUSDT",
-      "signal": "SELL",
-      "entry": 23.27,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=LINKUSDT"
-    },
-    {
       "datetime": 1756975500000,
       "symbol": "VRUSDT",
       "signal": "SELL",
@@ -669,6 +629,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=OSMOUSDT"
+    },
+    {
+      "datetime": 1757143800000,
+      "symbol": "GALAUSDT",
+      "signal": "SELL",
+      "entry": 0.01593,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=GALAUSDT"
+    },
+    {
+      "datetime": 1757145600000,
+      "symbol": "COMPUSDT",
+      "signal": "SELL",
+      "entry": 42.88,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=COMPUSDT"
     }
   ]
 }
