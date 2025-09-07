@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757056500000,
-      "symbol": "HBARUSDT",
-      "signal": "BUY",
-      "entry": 0.21777,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=HBARUSDT"
-    },
-    {
-      "datetime": 1757057400000,
-      "symbol": "HUMAUSDT",
-      "signal": "BUY",
-      "entry": 0.02432,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=HUMAUSDT"
-    },
-    {
       "datetime": 1757059200000,
       "symbol": "EDUUSDT",
       "signal": "BUY",
@@ -29,16 +9,6 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=EDUUSDT"
-    },
-    {
-      "datetime": 1757057400000,
-      "symbol": "TIAUSDT",
-      "signal": "BUY",
-      "entry": 1.611,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=TIAUSDT"
     },
     {
       "datetime": 1757059200000,
@@ -639,6 +609,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=ADAUSDT"
+    },
+    {
+      "datetime": 1757231100000,
+      "symbol": "CELOUSDT",
+      "signal": "BUY",
+      "entry": 0.2907,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=CELOUSDT"
     }
   ]
 }
