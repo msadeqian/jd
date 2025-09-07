@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757062800000,
-      "symbol": "PENDLEUSDT",
-      "signal": "BUY",
-      "entry": 4.638,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=PENDLEUSDT"
-    },
-    {
-      "datetime": 1757064600000,
-      "symbol": "CYBERUSDT",
-      "signal": "BUY",
-      "entry": 1.741,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=CYBERUSDT"
-    },
-    {
       "datetime": 1757068200000,
       "symbol": "FLOCKUSDT",
       "signal": "SELL",
@@ -589,6 +569,16 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=SOLUSDT"
+    },
+    {
+      "datetime": 1757238300000,
+      "symbol": "DAGUSDT",
+      "signal": "SELL",
+      "entry": 0.029257,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=DAGUSDT"
     }
   ]
 }
