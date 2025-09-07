@@ -1,46 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757089800000,
-      "symbol": "AVAXUSDT",
-      "signal": "SELL",
-      "entry": 24.41,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=AVAXUSDT"
-    },
-    {
-      "datetime": 1757090700000,
-      "symbol": "STGUSDT",
-      "signal": "SELL",
-      "entry": 0.1575,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=STGUSDT"
-    },
-    {
-      "datetime": 1757090700000,
-      "symbol": "AUDIOUSDT",
-      "signal": "SELL",
-      "entry": 0.0608,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=AUDIOUSDT"
-    },
-    {
-      "datetime": 1757090700000,
-      "symbol": "MKRUSDT",
-      "signal": "SELL",
-      "entry": 1745.9,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=MKRUSDT"
-    },
-    {
       "datetime": 1757094300000,
       "symbol": "ARBUSDT",
       "signal": "SELL",
@@ -609,6 +569,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=TOWNSUSDT"
+    },
+    {
+      "datetime": 1757267100000,
+      "symbol": "COMPUSDT",
+      "signal": "SELL",
+      "entry": 42.35,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=COMPUSDT"
     }
   ]
 }
