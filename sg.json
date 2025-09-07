@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757094300000,
-      "symbol": "ARBUSDT",
-      "signal": "SELL",
-      "entry": 0.4886,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=ARBUSDT"
-    },
-    {
-      "datetime": 1757095200000,
-      "symbol": "ZCXUSDT",
-      "signal": "SELL",
-      "entry": 0.0169,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=ZCXUSDT"
-    },
-    {
-      "datetime": 1757095200000,
-      "symbol": "BABYUSDT",
-      "signal": "SELL",
-      "entry": 0.04468,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=BABYUSDT"
-    },
-    {
       "datetime": 1757098800000,
       "symbol": "EULUSDT",
       "signal": "SELL",
@@ -39,16 +9,6 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=EULUSDT"
-    },
-    {
-      "datetime": 1757097000000,
-      "symbol": "YGGUSDT",
-      "signal": "SELL",
-      "entry": 0.1485,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=YGGUSDT"
     },
     {
       "datetime": 1757134800000,
@@ -579,6 +539,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=COMPUSDT"
+    },
+    {
+      "datetime": 1757271600000,
+      "symbol": "MOVEUSDT",
+      "signal": "SELL",
+      "entry": 0.1168,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=MOVEUSDT"
+    },
+    {
+      "datetime": 1757271600000,
+      "symbol": "USTCUSDT",
+      "signal": "SELL",
+      "entry": 0.01322,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=USTCUSDT"
     }
   ]
 }
