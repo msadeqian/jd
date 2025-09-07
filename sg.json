@@ -609,6 +609,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=QUICKUSDT"
+    },
+    {
+      "datetime": 1757249100000,
+      "symbol": "FWOGUSDT",
+      "signal": "BUY",
+      "entry": 0.0385,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=FWOGUSDT"
+    },
+    {
+      "datetime": 1757248200000,
+      "symbol": "ALICEUSDT",
+      "signal": "BUY",
+      "entry": 0.3647,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ALICEUSDT"
     }
   ]
 }
