@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757007900000,
-      "symbol": "LAZIOUSDT",
-      "signal": "BUY",
-      "entry": 0.906,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=LAZIOUSDT"
-    },
-    {
       "datetime": 1757048400000,
       "symbol": "LAUSDT",
       "signal": "BUY",
@@ -19,36 +9,6 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=LAUSDT"
-    },
-    {
-      "datetime": 1757046600000,
-      "symbol": "DOODUSDT",
-      "signal": "BUY",
-      "entry": 0.002885,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=DOODUSDT"
-    },
-    {
-      "datetime": 1757046600000,
-      "symbol": "ARUSDT",
-      "signal": "BUY",
-      "entry": 6.37,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ARUSDT"
-    },
-    {
-      "datetime": 1757045700000,
-      "symbol": "EIGENUSDT",
-      "signal": "BUY",
-      "entry": 1.23,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=EIGENUSDT"
     },
     {
       "datetime": 1757049300000,
@@ -639,6 +599,26 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=FLTUSDT"
+    },
+    {
+      "datetime": 1757218500000,
+      "symbol": "RICEUSDT",
+      "signal": "SELL",
+      "entry": 0.04597,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=RICEUSDT"
+    },
+    {
+      "datetime": 1757221200000,
+      "symbol": "DNAUSDT",
+      "signal": "BUY",
+      "entry": 0.0,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=DNAUSDT"
     }
   ]
 }
