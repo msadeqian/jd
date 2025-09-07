@@ -1,66 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757080800000,
-      "symbol": "MOREUSDT",
-      "signal": "SELL",
-      "entry": 0.09574,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=MOREUSDT"
-    },
-    {
-      "datetime": 1757084400000,
-      "symbol": "OLUSDT",
-      "signal": "SELL",
-      "entry": 0.036,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=OLUSDT"
-    },
-    {
-      "datetime": 1757084400000,
-      "symbol": "APEPEUSDT",
-      "signal": "BUY",
-      "entry": 1.708e-06,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=APEPEUSDT"
-    },
-    {
-      "datetime": 1757081700000,
-      "symbol": "AAVEUSDT",
-      "signal": "SELL",
-      "entry": 302.49,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=AAVEUSDT"
-    },
-    {
-      "datetime": 1757086200000,
-      "symbol": "ETHUSDT",
-      "signal": "SELL",
-      "entry": 4303.1,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=ETHUSDT"
-    },
-    {
-      "datetime": 1757085300000,
-      "symbol": "COINXUSDT",
-      "signal": "SELL",
-      "entry": 296.32,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=COINXUSDT"
-    },
-    {
       "datetime": 1757089800000,
       "symbol": "AVAXUSDT",
       "signal": "SELL",
@@ -639,6 +579,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=BTCUSDT"
+    },
+    {
+      "datetime": 1757259000000,
+      "symbol": "BLOCKUSDT",
+      "signal": "BUY",
+      "entry": 0.00072,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=BLOCKUSDT"
+    },
+    {
+      "datetime": 1757259900000,
+      "symbol": "CFXUSDT",
+      "signal": "SELL",
+      "entry": 0.1714,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=CFXUSDT"
     }
   ]
 }
