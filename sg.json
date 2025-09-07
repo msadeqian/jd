@@ -589,6 +589,26 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=PINUSDT"
+    },
+    {
+      "datetime": 1757243700000,
+      "symbol": "DINOUSDT",
+      "signal": "SELL",
+      "entry": 0.0012822,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=DINOUSDT"
+    },
+    {
+      "datetime": 1757243700000,
+      "symbol": "QUICKUSDT",
+      "signal": "BUY",
+      "entry": 0.02566,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=QUICKUSDT"
     }
   ]
 }
