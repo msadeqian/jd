@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757079000000,
-      "symbol": "SERAPHUSDT",
-      "signal": "SELL",
-      "entry": 0.19865,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=SERAPHUSDT"
-    },
-    {
       "datetime": 1757080800000,
       "symbol": "MOREUSDT",
       "signal": "SELL",
@@ -629,6 +619,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=ALICEUSDT"
+    },
+    {
+      "datetime": 1757250900000,
+      "symbol": "MAPOUSDT",
+      "signal": "BUY",
+      "entry": 0.004358,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=MAPOUSDT"
+    },
+    {
+      "datetime": 1757252700000,
+      "symbol": "BTCUSDT",
+      "signal": "BUY",
+      "entry": 111190.0,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=BTCUSDT"
     }
   ]
 }
