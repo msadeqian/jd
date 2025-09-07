@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757048400000,
-      "symbol": "LAUSDT",
-      "signal": "BUY",
-      "entry": 0.3051,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=LAUSDT"
-    },
-    {
-      "datetime": 1757049300000,
-      "symbol": "YGGUSDT",
-      "signal": "BUY",
-      "entry": 0.1507,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=YGGUSDT"
-    },
-    {
       "datetime": 1757052900000,
       "symbol": "AEVOUSDT",
       "signal": "BUY",
@@ -619,6 +599,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=DNAUSDT"
+    },
+    {
+      "datetime": 1757223000000,
+      "symbol": "CELBUSDT",
+      "signal": "BUY",
+      "entry": 0.000846,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=CELBUSDT"
+    },
+    {
+      "datetime": 1757224800000,
+      "symbol": "MKRUSDT",
+      "signal": "SELL",
+      "entry": 1708.5,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=MKRUSDT"
     }
   ]
 }
