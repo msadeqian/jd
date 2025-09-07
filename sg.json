@@ -1,46 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757059200000,
-      "symbol": "EDUUSDT",
-      "signal": "BUY",
-      "entry": 0.1309,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=EDUUSDT"
-    },
-    {
-      "datetime": 1757059200000,
-      "symbol": "FLUXUSDT",
-      "signal": "BUY",
-      "entry": 0.1995,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=FLUXUSDT"
-    },
-    {
-      "datetime": 1757061000000,
-      "symbol": "BMTUSDT",
-      "signal": "BUY",
-      "entry": 0.0626,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=BMTUSDT"
-    },
-    {
-      "datetime": 1757061000000,
-      "symbol": "VETUSDT",
-      "signal": "BUY",
-      "entry": 0.02367,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=VETUSDT"
-    },
-    {
       "datetime": 1757062800000,
       "symbol": "PENDLEUSDT",
       "signal": "BUY",
@@ -619,6 +579,16 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=CELOUSDT"
+    },
+    {
+      "datetime": 1757235600000,
+      "symbol": "SOLUSDT",
+      "signal": "BUY",
+      "entry": 203.7,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=SOLUSDT"
     }
   ]
 }
