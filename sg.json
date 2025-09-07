@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757068200000,
-      "symbol": "FLOCKUSDT",
-      "signal": "SELL",
-      "entry": 0.28046,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=FLOCKUSDT"
-    },
-    {
       "datetime": 1757079000000,
       "symbol": "SERAPHUSDT",
       "signal": "SELL",
@@ -579,6 +569,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=DAGUSDT"
+    },
+    {
+      "datetime": 1757242800000,
+      "symbol": "MAMOUSDT",
+      "signal": "SELL",
+      "entry": 0.109637,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=MAMOUSDT"
+    },
+    {
+      "datetime": 1757241000000,
+      "symbol": "PINUSDT",
+      "signal": "BUY",
+      "entry": 0.5881,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=PINUSDT"
     }
   ]
 }
