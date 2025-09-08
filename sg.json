@@ -1,56 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757139300000,
-      "symbol": "RIFUSDT",
-      "signal": "SELL",
-      "entry": 0.0558,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=RIFUSDT"
-    },
-    {
-      "datetime": 1757142000000,
-      "symbol": "ADXUSDT",
-      "signal": "SELL",
-      "entry": 0.1211,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ADXUSDT"
-    },
-    {
-      "datetime": 1757141100000,
-      "symbol": "CVXUSDT",
-      "signal": "SELL",
-      "entry": 3.449,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=CVXUSDT"
-    },
-    {
-      "datetime": 1757139300000,
-      "symbol": "OSMOUSDT",
-      "signal": "SELL",
-      "entry": 0.1631,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=OSMOUSDT"
-    },
-    {
-      "datetime": 1757143800000,
-      "symbol": "GALAUSDT",
-      "signal": "SELL",
-      "entry": 0.01593,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=GALAUSDT"
-    },
-    {
       "datetime": 1757145600000,
       "symbol": "COMPUSDT",
       "signal": "SELL",
@@ -499,6 +449,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=QUICKUSDT"
+    },
+    {
+      "datetime": 1757317500000,
+      "symbol": "LIBERTYUSDT",
+      "signal": "SELL",
+      "entry": 0.08174,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=LIBERTYUSDT"
     }
   ]
 }
