@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757098800000,
-      "symbol": "EULUSDT",
-      "signal": "SELL",
-      "entry": 9.584,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=EULUSDT"
-    },
-    {
       "datetime": 1757134800000,
       "symbol": "WILDUSDT",
       "signal": "SELL",
@@ -19,16 +9,6 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=WILDUSDT"
-    },
-    {
-      "datetime": 1757133000000,
-      "symbol": "GUSDT",
-      "signal": "SELL",
-      "entry": 0.01107,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=GUSDT"
     },
     {
       "datetime": 1757134800000,
@@ -559,6 +539,16 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=USTCUSDT"
+    },
+    {
+      "datetime": 1757306700000,
+      "symbol": "IOTXUSDT",
+      "signal": "BUY",
+      "entry": 0.02661,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=IOTXUSDT"
     }
   ]
 }
