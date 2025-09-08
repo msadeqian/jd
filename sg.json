@@ -1,66 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757145600000,
-      "symbol": "COMPUSDT",
-      "signal": "SELL",
-      "entry": 42.88,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=COMPUSDT"
-    },
-    {
-      "datetime": 1757149200000,
-      "symbol": "SEIUSDT",
-      "signal": "SELL",
-      "entry": 0.2878,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=SEIUSDT"
-    },
-    {
-      "datetime": 1757146500000,
-      "symbol": "MDTUSDT",
-      "signal": "BUY",
-      "entry": 0.02443,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=MDTUSDT"
-    },
-    {
-      "datetime": 1757151000000,
-      "symbol": "PEPEUSDT",
-      "signal": "SELL",
-      "entry": 9.62e-06,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=PEPEUSDT"
-    },
-    {
-      "datetime": 1757150100000,
-      "symbol": "AUDIOUSDT",
-      "signal": "SELL",
-      "entry": 0.0607,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=AUDIOUSDT"
-    },
-    {
-      "datetime": 1757151000000,
-      "symbol": "PYRUSDT",
-      "signal": "BUY",
-      "entry": 1.045,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=PYRUSDT"
-    },
-    {
       "datetime": 1757153700000,
       "symbol": "ETCUSDT",
       "signal": "SELL",
@@ -459,6 +399,46 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=LIBERTYUSDT"
+    },
+    {
+      "datetime": 1757324700000,
+      "symbol": "BTCUSDT",
+      "signal": "BUY",
+      "entry": 112074.0,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=BTCUSDT"
+    },
+    {
+      "datetime": 1757325600000,
+      "symbol": "CUSDT",
+      "signal": "BUY",
+      "entry": 0.2585,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=CUSDT"
+    },
+    {
+      "datetime": 1757323800000,
+      "symbol": "KAITOUSDT",
+      "signal": "BUY",
+      "entry": 1.0214,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=KAITOUSDT"
+    },
+    {
+      "datetime": 1757322900000,
+      "symbol": "CELOUSDT",
+      "signal": "BUY",
+      "entry": 0.2929,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=CELOUSDT"
     }
   ]
 }
