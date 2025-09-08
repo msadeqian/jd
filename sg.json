@@ -1,76 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757134800000,
-      "symbol": "WILDUSDT",
-      "signal": "SELL",
-      "entry": 0.2474,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=WILDUSDT"
-    },
-    {
-      "datetime": 1757134800000,
-      "symbol": "QUICKUSDT",
-      "signal": "SELL",
-      "entry": 0.02581,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=QUICKUSDT"
-    },
-    {
-      "datetime": 1757137500000,
-      "symbol": "AVAXUSDT",
-      "signal": "SELL",
-      "entry": 24.22,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=AVAXUSDT"
-    },
-    {
-      "datetime": 1757135700000,
-      "symbol": "SCUSDT",
-      "signal": "SELL",
-      "entry": 0.002959,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=SCUSDT"
-    },
-    {
-      "datetime": 1757137500000,
-      "symbol": "TIAUSDT",
-      "signal": "SELL",
-      "entry": 1.594,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=TIAUSDT"
-    },
-    {
-      "datetime": 1757136600000,
-      "symbol": "BBSOLUSDT",
-      "signal": "SELL",
-      "entry": 223.43,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=BBSOLUSDT"
-    },
-    {
-      "datetime": 1757137500000,
-      "symbol": "GRTUSDT",
-      "signal": "SELL",
-      "entry": 0.0877,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=GRTUSDT"
-    },
-    {
       "datetime": 1757139300000,
       "symbol": "RIFUSDT",
       "signal": "SELL",
@@ -549,6 +479,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=IOTXUSDT"
+    },
+    {
+      "datetime": 1757308500000,
+      "symbol": "ROAMUSDT",
+      "signal": "SELL",
+      "entry": 0.13019,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ROAMUSDT"
+    },
+    {
+      "datetime": 1757311200000,
+      "symbol": "QUICKUSDT",
+      "signal": "SELL",
+      "entry": 0.02516,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=QUICKUSDT"
     }
   ]
 }
