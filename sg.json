@@ -1,86 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757153700000,
-      "symbol": "ETCUSDT",
-      "signal": "SELL",
-      "entry": 20.24,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ETCUSDT"
-    },
-    {
-      "datetime": 1757153700000,
-      "symbol": "RAYUSDT",
-      "signal": "SELL",
-      "entry": 3.244,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=RAYUSDT"
-    },
-    {
-      "datetime": 1757154600000,
-      "symbol": "SPKUSDT",
-      "signal": "SELL",
-      "entry": 0.059808,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=SPKUSDT"
-    },
-    {
-      "datetime": 1757155500000,
-      "symbol": "MKRUSDT",
-      "signal": "SELL",
-      "entry": 1750.8,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=MKRUSDT"
-    },
-    {
-      "datetime": 1757163600000,
-      "symbol": "ZENUSDT",
-      "signal": "SELL",
-      "entry": 7.11,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ZENUSDT"
-    },
-    {
-      "datetime": 1757168100000,
-      "symbol": "BIOUSDT",
-      "signal": "BUY",
-      "entry": 0.177,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=BIOUSDT"
-    },
-    {
-      "datetime": 1757169000000,
-      "symbol": "KARRATUSDT",
-      "signal": "BUY",
-      "entry": 0.0527,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=KARRATUSDT"
-    },
-    {
-      "datetime": 1757170800000,
-      "symbol": "RAREUSDT",
-      "signal": "BUY",
-      "entry": 0.0546,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=RAREUSDT"
-    },
-    {
       "datetime": 1757178900000,
       "symbol": "TOWERUSDT",
       "signal": "SELL",
@@ -439,6 +359,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=CELOUSDT"
+    },
+    {
+      "datetime": 1757344500000,
+      "symbol": "PLAYUSDT",
+      "signal": "BUY",
+      "entry": 0.043753,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=PLAYUSDT"
     }
   ]
 }
