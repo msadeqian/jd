@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757221200000,
-      "symbol": "DNAUSDT",
-      "signal": "BUY",
-      "entry": 0.0,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=DNAUSDT"
-    },
-    {
-      "datetime": 1757223000000,
-      "symbol": "CELBUSDT",
-      "signal": "BUY",
-      "entry": 0.000846,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=CELBUSDT"
-    },
-    {
       "datetime": 1757224800000,
       "symbol": "MKRUSDT",
       "signal": "SELL",
@@ -339,6 +319,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=BTCUSDT"
+    },
+    {
+      "datetime": 1757395800000,
+      "symbol": "BCHUSDT",
+      "signal": "SELL",
+      "entry": 580.0,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=BCHUSDT"
+    },
+    {
+      "datetime": 1757396700000,
+      "symbol": "QAIUSDT",
+      "signal": "BUY",
+      "entry": 103.16,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=QAIUSDT"
     }
   ]
 }
