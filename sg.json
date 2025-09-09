@@ -1,56 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757178900000,
-      "symbol": "TOWERUSDT",
-      "signal": "SELL",
-      "entry": 0.0016025,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=TOWERUSDT"
-    },
-    {
-      "datetime": 1757179800000,
-      "symbol": "QAIUSDT",
-      "signal": "SELL",
-      "entry": 100.98,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=QAIUSDT"
-    },
-    {
-      "datetime": 1757180700000,
-      "symbol": "B3TRUSDT",
-      "signal": "SELL",
-      "entry": 0.08506,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=B3TRUSDT"
-    },
-    {
-      "datetime": 1757178900000,
-      "symbol": "FLTUSDT",
-      "signal": "SELL",
-      "entry": 0.031622,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=FLTUSDT"
-    },
-    {
-      "datetime": 1757218500000,
-      "symbol": "RICEUSDT",
-      "signal": "SELL",
-      "entry": 0.04597,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=RICEUSDT"
-    },
-    {
       "datetime": 1757221200000,
       "symbol": "DNAUSDT",
       "signal": "BUY",
@@ -379,6 +329,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=C98USDT"
+    },
+    {
+      "datetime": 1757392200000,
+      "symbol": "BTCUSDT",
+      "signal": "BUY",
+      "entry": 111917.0,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=BTCUSDT"
     }
   ]
 }
