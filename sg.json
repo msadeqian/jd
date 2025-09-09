@@ -1,86 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757242800000,
-      "symbol": "MAMOUSDT",
-      "signal": "SELL",
-      "entry": 0.109637,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=MAMOUSDT"
-    },
-    {
-      "datetime": 1757243700000,
-      "symbol": "DINOUSDT",
-      "signal": "SELL",
-      "entry": 0.0012822,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=DINOUSDT"
-    },
-    {
-      "datetime": 1757243700000,
-      "symbol": "QUICKUSDT",
-      "signal": "BUY",
-      "entry": 0.02566,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=QUICKUSDT"
-    },
-    {
-      "datetime": 1757249100000,
-      "symbol": "FWOGUSDT",
-      "signal": "BUY",
-      "entry": 0.0385,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=FWOGUSDT"
-    },
-    {
-      "datetime": 1757248200000,
-      "symbol": "ALICEUSDT",
-      "signal": "BUY",
-      "entry": 0.3647,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ALICEUSDT"
-    },
-    {
-      "datetime": 1757250900000,
-      "symbol": "MAPOUSDT",
-      "signal": "BUY",
-      "entry": 0.004358,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=MAPOUSDT"
-    },
-    {
-      "datetime": 1757252700000,
-      "symbol": "BTCUSDT",
-      "signal": "BUY",
-      "entry": 111190.0,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=BTCUSDT"
-    },
-    {
-      "datetime": 1757259000000,
-      "symbol": "BLOCKUSDT",
-      "signal": "BUY",
-      "entry": 0.00072,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=BLOCKUSDT"
-    },
-    {
       "datetime": 1757259900000,
       "symbol": "CFXUSDT",
       "signal": "SELL",
@@ -309,6 +229,16 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=DEGOUSDT"
+    },
+    {
+      "datetime": 1757432700000,
+      "symbol": "OMNIUSDT",
+      "signal": "SELL",
+      "entry": 3.22,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=OMNIUSDT"
     }
   ]
 }
