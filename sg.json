@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757231100000,
-      "symbol": "CELOUSDT",
-      "signal": "BUY",
-      "entry": 0.2907,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=CELOUSDT"
-    },
-    {
-      "datetime": 1757235600000,
-      "symbol": "SOLUSDT",
-      "signal": "BUY",
-      "entry": 203.7,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=SOLUSDT"
-    },
-    {
-      "datetime": 1757238300000,
-      "symbol": "DAGUSDT",
-      "signal": "SELL",
-      "entry": 0.029257,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=DAGUSDT"
-    },
-    {
       "datetime": 1757242800000,
       "symbol": "MAMOUSDT",
       "signal": "SELL",
@@ -39,16 +9,6 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=MAMOUSDT"
-    },
-    {
-      "datetime": 1757241000000,
-      "symbol": "PINUSDT",
-      "signal": "BUY",
-      "entry": 0.5881,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=PINUSDT"
     },
     {
       "datetime": 1757243700000,
@@ -339,6 +299,16 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=MKRUSDT"
+    },
+    {
+      "datetime": 1757415600000,
+      "symbol": "DEGOUSDT",
+      "signal": "SELL",
+      "entry": 1.276,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=DEGOUSDT"
     }
   ]
 }
