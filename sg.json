@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757267100000,
-      "symbol": "COMPUSDT",
-      "signal": "SELL",
-      "entry": 42.35,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=COMPUSDT"
-    },
-    {
       "datetime": 1757271600000,
       "symbol": "MOVEUSDT",
       "signal": "SELL",
@@ -299,6 +289,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=ICEUSDT"
+    },
+    {
+      "datetime": 1757442600000,
+      "symbol": "FLUXUSDT",
+      "signal": "BUY",
+      "entry": 0.2161,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=FLUXUSDT"
     }
   ]
 }
