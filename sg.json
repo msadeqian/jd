@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757262600000,
-      "symbol": "TOWNSUSDT",
-      "signal": "BUY",
-      "entry": 0.02505,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=TOWNSUSDT"
-    },
-    {
       "datetime": 1757267100000,
       "symbol": "COMPUSDT",
       "signal": "SELL",
@@ -249,6 +239,66 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=BOMEUSDT"
+    },
+    {
+      "datetime": 1757439000000,
+      "symbol": "ZECUSDT",
+      "signal": "SELL",
+      "entry": 48.64,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=ZECUSDT"
+    },
+    {
+      "datetime": 1757439900000,
+      "symbol": "CFXUSDT",
+      "signal": "SELL",
+      "entry": 0.1705,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=CFXUSDT"
+    },
+    {
+      "datetime": 1757439000000,
+      "symbol": "DEXEUSDT",
+      "signal": "SELL",
+      "entry": 6.965,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=DEXEUSDT"
+    },
+    {
+      "datetime": 1757438100000,
+      "symbol": "YGGUSDT",
+      "signal": "SELL",
+      "entry": 0.1497,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=YGGUSDT"
+    },
+    {
+      "datetime": 1757439900000,
+      "symbol": "MUBARAKUSDT",
+      "signal": "SELL",
+      "entry": 0.02921,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=MUBARAKUSDT"
+    },
+    {
+      "datetime": 1757438100000,
+      "symbol": "ICEUSDT",
+      "signal": "SELL",
+      "entry": 0.005041,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ICEUSDT"
     }
   ]
 }
