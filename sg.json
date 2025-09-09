@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757224800000,
-      "symbol": "MKRUSDT",
-      "signal": "SELL",
-      "entry": 1708.5,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=MKRUSDT"
-    },
-    {
       "datetime": 1757227500000,
       "symbol": "OORTUSDT",
       "signal": "SELL",
@@ -339,6 +329,36 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=QAIUSDT"
+    },
+    {
+      "datetime": 1757399400000,
+      "symbol": "SHIBUSDT",
+      "signal": "BUY",
+      "entry": 1.3e-05,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=SHIBUSDT"
+    },
+    {
+      "datetime": 1757399400000,
+      "symbol": "ETCUSDT",
+      "signal": "BUY",
+      "entry": 20.99,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ETCUSDT"
+    },
+    {
+      "datetime": 1757399400000,
+      "symbol": "AVLUSDT",
+      "signal": "BUY",
+      "entry": 0.13449,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=AVLUSDT"
     }
   ]
 }
