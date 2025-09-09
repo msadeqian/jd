@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757259900000,
-      "symbol": "CFXUSDT",
-      "signal": "SELL",
-      "entry": 0.1714,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=CFXUSDT"
-    },
-    {
       "datetime": 1757262600000,
       "symbol": "TOWNSUSDT",
       "signal": "BUY",
@@ -239,6 +229,26 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=OMNIUSDT"
+    },
+    {
+      "datetime": 1757435400000,
+      "symbol": "AUCTIONUSDT",
+      "signal": "SELL",
+      "entry": 9.56,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=AUCTIONUSDT"
+    },
+    {
+      "datetime": 1757435400000,
+      "symbol": "BOMEUSDT",
+      "signal": "SELL",
+      "entry": 0.001974,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=BOMEUSDT"
     }
   ]
 }
