@@ -329,6 +329,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=XLMUSDT"
+    },
+    {
+      "datetime": 1757511900000,
+      "symbol": "ALCXUSDT",
+      "signal": "BUY",
+      "entry": 9.75,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ALCXUSDT"
+    },
+    {
+      "datetime": 1757510100000,
+      "symbol": "ARUSDT",
+      "signal": "BUY",
+      "entry": 7.19,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ARUSDT"
     }
   ]
 }
