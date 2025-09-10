@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757311200000,
-      "symbol": "QUICKUSDT",
-      "signal": "SELL",
-      "entry": 0.02516,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=QUICKUSDT"
-    },
-    {
       "datetime": 1757317500000,
       "symbol": "LIBERTYUSDT",
       "signal": "SELL",
@@ -289,6 +279,36 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=STORJUSDT"
+    },
+    {
+      "datetime": 1757487600000,
+      "symbol": "JELLYJELLYUSDT",
+      "signal": "SELL",
+      "entry": 0.04266,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=JELLYJELLYUSDT"
+    },
+    {
+      "datetime": 1757486700000,
+      "symbol": "BDCAUSDT",
+      "signal": "BUY",
+      "entry": 1.0417,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=BDCAUSDT"
+    },
+    {
+      "datetime": 1757484900000,
+      "symbol": "PYRUSDT",
+      "signal": "BUY",
+      "entry": 1.072,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=PYRUSDT"
     }
   ]
 }
