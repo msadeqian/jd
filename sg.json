@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757344500000,
-      "symbol": "PLAYUSDT",
-      "signal": "BUY",
-      "entry": 0.043753,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=PLAYUSDT"
-    },
-    {
       "datetime": 1757351700000,
       "symbol": "C98USDT",
       "signal": "BUY",
@@ -349,6 +339,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=ARUSDT"
+    },
+    {
+      "datetime": 1757520000000,
+      "symbol": "KNCUSDT",
+      "signal": "BUY",
+      "entry": 0.3759,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=KNCUSDT"
     }
   ]
 }
