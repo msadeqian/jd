@@ -289,6 +289,46 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=MIXUSDT"
+    },
+    {
+      "datetime": 1757507400000,
+      "symbol": "AVAUSDT",
+      "signal": "BUY",
+      "entry": 0.5633,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=AVAUSDT"
+    },
+    {
+      "datetime": 1757508300000,
+      "symbol": "SSVUSDT",
+      "signal": "BUY",
+      "entry": 9.427,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=SSVUSDT"
+    },
+    {
+      "datetime": 1757507400000,
+      "symbol": "LQTYUSDT",
+      "signal": "BUY",
+      "entry": 0.837,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=LQTYUSDT"
+    },
+    {
+      "datetime": 1757508300000,
+      "symbol": "XLMUSDT",
+      "signal": "BUY",
+      "entry": 0.3819,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=XLMUSDT"
     }
   ]
 }
