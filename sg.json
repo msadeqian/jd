@@ -31,16 +31,6 @@
       "url": "https://www.tradingview.com/chart?symbol=DEXEUSDT"
     },
     {
-      "datetime": 1757438100000,
-      "symbol": "YGGUSDT",
-      "signal": "SELL",
-      "entry": 0.1497,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=YGGUSDT"
-    },
-    {
       "datetime": 1757439900000,
       "symbol": "MUBARAKUSDT",
       "signal": "SELL",
@@ -49,16 +39,6 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=MUBARAKUSDT"
-    },
-    {
-      "datetime": 1757438100000,
-      "symbol": "ICEUSDT",
-      "signal": "SELL",
-      "entry": 0.005041,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ICEUSDT"
     },
     {
       "datetime": 1757442600000,
@@ -419,6 +399,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=AIOZUSDT"
+    },
+    {
+      "datetime": 1757611800000,
+      "symbol": "IOTAUSDT",
+      "signal": "SELL",
+      "entry": 0.1937,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=IOTAUSDT"
+    },
+    {
+      "datetime": 1757610900000,
+      "symbol": "PROMUSDT",
+      "signal": "BUY",
+      "entry": 9.161,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=PROMUSDT"
     }
   ]
 }
