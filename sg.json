@@ -399,6 +399,36 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=DOODUSDT"
+    },
+    {
+      "datetime": 1757605500000,
+      "symbol": "AVAUSDT",
+      "signal": "SELL",
+      "entry": 0.5557,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=AVAUSDT"
+    },
+    {
+      "datetime": 1757605500000,
+      "symbol": "KILOUSDT",
+      "signal": "SELL",
+      "entry": 0.02351,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=KILOUSDT"
+    },
+    {
+      "datetime": 1757605500000,
+      "symbol": "SNXUSDT",
+      "signal": "SELL",
+      "entry": 0.692,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=SNXUSDT"
     }
   ]
 }
