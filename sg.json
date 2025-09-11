@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757415600000,
-      "symbol": "DEGOUSDT",
-      "signal": "SELL",
-      "entry": 1.276,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=DEGOUSDT"
-    },
-    {
       "datetime": 1757432700000,
       "symbol": "OMNIUSDT",
       "signal": "SELL",
@@ -339,6 +329,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=UTKUSDT"
+    },
+    {
+      "datetime": 1757591100000,
+      "symbol": "PARTIUSDT",
+      "signal": "SELL",
+      "entry": 0.1811,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=PARTIUSDT"
+    },
+    {
+      "datetime": 1757591100000,
+      "symbol": "RICEUSDT",
+      "signal": "SELL",
+      "entry": 0.02045,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=RICEUSDT"
     }
   ]
 }
