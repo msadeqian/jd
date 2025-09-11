@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757351700000,
-      "symbol": "C98USDT",
-      "signal": "BUY",
-      "entry": 0.0499,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=C98USDT"
-    },
-    {
       "datetime": 1757392200000,
       "symbol": "BTCUSDT",
       "signal": "BUY",
@@ -349,6 +339,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=KNCUSDT"
+    },
+    {
+      "datetime": 1757565000000,
+      "symbol": "TACUSDT",
+      "signal": "SELL",
+      "entry": 0.01049,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=TACUSDT"
     }
   ]
 }
