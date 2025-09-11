@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757432700000,
-      "symbol": "OMNIUSDT",
-      "signal": "SELL",
-      "entry": 3.22,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=OMNIUSDT"
-    },
-    {
-      "datetime": 1757435400000,
-      "symbol": "AUCTIONUSDT",
-      "signal": "SELL",
-      "entry": 9.56,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=AUCTIONUSDT"
-    },
-    {
-      "datetime": 1757435400000,
-      "symbol": "BOMEUSDT",
-      "signal": "SELL",
-      "entry": 0.001974,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=BOMEUSDT"
-    },
-    {
       "datetime": 1757439000000,
       "symbol": "ZECUSDT",
       "signal": "SELL",
@@ -429,6 +399,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=SNXUSDT"
+    },
+    {
+      "datetime": 1757609100000,
+      "symbol": "ATAUSDT",
+      "signal": "SELL",
+      "entry": 0.0469,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=ATAUSDT"
+    },
+    {
+      "datetime": 1757609100000,
+      "symbol": "AIOZUSDT",
+      "signal": "SELL",
+      "entry": 0.3132,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=AIOZUSDT"
     }
   ]
 }
