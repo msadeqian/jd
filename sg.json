@@ -349,6 +349,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=RICEUSDT"
+    },
+    {
+      "datetime": 1757592900000,
+      "symbol": "KAITOUSDT",
+      "signal": "SELL",
+      "entry": 1.2313,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=KAITOUSDT"
+    },
+    {
+      "datetime": 1757592900000,
+      "symbol": "OMNIUSDT",
+      "signal": "SELL",
+      "entry": 3.5,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=OMNIUSDT"
     }
   ]
 }
