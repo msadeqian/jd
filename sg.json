@@ -369,6 +369,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=OMNIUSDT"
+    },
+    {
+      "datetime": 1757597400000,
+      "symbol": "IOSTUSDT",
+      "signal": "SELL",
+      "entry": 0.003345,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=IOSTUSDT"
+    },
+    {
+      "datetime": 1757599200000,
+      "symbol": "XVSUSDT",
+      "signal": "SELL",
+      "entry": 6.35,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=XVSUSDT"
     }
   ]
 }
