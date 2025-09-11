@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757392200000,
-      "symbol": "BTCUSDT",
-      "signal": "BUY",
-      "entry": 111917.0,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=BTCUSDT"
-    },
-    {
-      "datetime": 1757395800000,
-      "symbol": "BCHUSDT",
-      "signal": "SELL",
-      "entry": 580.0,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=BCHUSDT"
-    },
-    {
-      "datetime": 1757396700000,
-      "symbol": "QAIUSDT",
-      "signal": "BUY",
-      "entry": 103.16,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=QAIUSDT"
-    },
-    {
       "datetime": 1757399400000,
       "symbol": "SHIBUSDT",
       "signal": "BUY",
@@ -349,6 +319,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=TACUSDT"
+    },
+    {
+      "datetime": 1757571300000,
+      "symbol": "WODUSDT",
+      "signal": "SELL",
+      "entry": 0.06319,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=WODUSDT"
+    },
+    {
+      "datetime": 1757571300000,
+      "symbol": "DELABSUSDT",
+      "signal": "SELL",
+      "entry": 0.009,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=DELABSUSDT"
     }
   ]
 }
