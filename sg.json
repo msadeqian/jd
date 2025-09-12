@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757500200000,
-      "symbol": "MIXUSDT",
-      "signal": "BUY",
-      "entry": 0.0001627,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=MIXUSDT"
-    },
-    {
       "datetime": 1757507400000,
       "symbol": "AVAUSDT",
       "signal": "BUY",
@@ -329,6 +319,36 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=QUICKUSDT"
+    },
+    {
+      "datetime": 1757675700000,
+      "symbol": "THEUSDT",
+      "signal": "SELL",
+      "entry": 0.3468,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=THEUSDT"
+    },
+    {
+      "datetime": 1757677500000,
+      "symbol": "STGUSDT",
+      "signal": "SELL",
+      "entry": 0.1714,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=STGUSDT"
+    },
+    {
+      "datetime": 1757676600000,
+      "symbol": "KAIAUSDT",
+      "signal": "SELL",
+      "entry": 0.1565,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=KAIAUSDT"
     }
   ]
 }
