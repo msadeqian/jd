@@ -369,6 +369,56 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=SFPUSDT"
+    },
+    {
+      "datetime": 1757698200000,
+      "symbol": "MEMEUSDT",
+      "signal": "BUY",
+      "entry": 0.002713,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=MEMEUSDT"
+    },
+    {
+      "datetime": 1757700000000,
+      "symbol": "ICNTUSDT",
+      "signal": "BUY",
+      "entry": 0.2572,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ICNTUSDT"
+    },
+    {
+      "datetime": 1757699100000,
+      "symbol": "RICEUSDT",
+      "signal": "SELL",
+      "entry": 0.02007,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=RICEUSDT"
+    },
+    {
+      "datetime": 1757698200000,
+      "symbol": "VVVUSDT",
+      "signal": "BUY",
+      "entry": 2.75,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=VVVUSDT"
+    },
+    {
+      "datetime": 1757700000000,
+      "symbol": "SPKUSDT",
+      "signal": "BUY",
+      "entry": 0.068131,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=SPKUSDT"
     }
   ]
 }
