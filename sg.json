@@ -319,6 +319,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=PENDLEUSDT"
+    },
+    {
+      "datetime": 1757691000000,
+      "symbol": "VVVUSDT",
+      "signal": "SELL",
+      "entry": 2.665,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=VVVUSDT"
+    },
+    {
+      "datetime": 1757691900000,
+      "symbol": "ALICEUSDT",
+      "signal": "BUY",
+      "entry": 0.3847,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ALICEUSDT"
     }
   ]
 }
