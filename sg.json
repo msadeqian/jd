@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757520000000,
-      "symbol": "KNCUSDT",
-      "signal": "BUY",
-      "entry": 0.3759,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=KNCUSDT"
-    },
-    {
       "datetime": 1757565000000,
       "symbol": "TACUSDT",
       "signal": "SELL",
@@ -339,6 +329,46 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=ALICEUSDT"
+    },
+    {
+      "datetime": 1757693700000,
+      "symbol": "ONDOUSDT",
+      "signal": "BUY",
+      "entry": 1.0968,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ONDOUSDT"
+    },
+    {
+      "datetime": 1757694600000,
+      "symbol": "FLOKIUSDT",
+      "signal": "BUY",
+      "entry": 0.00010082,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=FLOKIUSDT"
+    },
+    {
+      "datetime": 1757694600000,
+      "symbol": "WIFUSDT",
+      "signal": "BUY",
+      "entry": 0.918,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=WIFUSDT"
+    },
+    {
+      "datetime": 1757695500000,
+      "symbol": "SFPUSDT",
+      "signal": "BUY",
+      "entry": 0.4776,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=SFPUSDT"
     }
   ]
 }
