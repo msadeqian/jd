@@ -1,116 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757439000000,
-      "symbol": "ZECUSDT",
-      "signal": "SELL",
-      "entry": 48.64,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=ZECUSDT"
-    },
-    {
-      "datetime": 1757439900000,
-      "symbol": "CFXUSDT",
-      "signal": "SELL",
-      "entry": 0.1705,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=CFXUSDT"
-    },
-    {
-      "datetime": 1757439000000,
-      "symbol": "DEXEUSDT",
-      "signal": "SELL",
-      "entry": 6.965,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=DEXEUSDT"
-    },
-    {
-      "datetime": 1757439900000,
-      "symbol": "MUBARAKUSDT",
-      "signal": "SELL",
-      "entry": 0.02921,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=MUBARAKUSDT"
-    },
-    {
-      "datetime": 1757442600000,
-      "symbol": "FLUXUSDT",
-      "signal": "BUY",
-      "entry": 0.2161,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=FLUXUSDT"
-    },
-    {
-      "datetime": 1757483100000,
-      "symbol": "DUSDT",
-      "signal": "BUY",
-      "entry": 0.03322,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=DUSDT"
-    },
-    {
-      "datetime": 1757484000000,
-      "symbol": "MDTUSDT",
-      "signal": "BUY",
-      "entry": 0.02529,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=MDTUSDT"
-    },
-    {
-      "datetime": 1757482200000,
-      "symbol": "STORJUSDT",
-      "signal": "BUY",
-      "entry": 0.2629,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=STORJUSDT"
-    },
-    {
-      "datetime": 1757487600000,
-      "symbol": "JELLYJELLYUSDT",
-      "signal": "SELL",
-      "entry": 0.04266,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=JELLYJELLYUSDT"
-    },
-    {
-      "datetime": 1757486700000,
-      "symbol": "BDCAUSDT",
-      "signal": "BUY",
-      "entry": 1.0417,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=BDCAUSDT"
-    },
-    {
-      "datetime": 1757484900000,
-      "symbol": "PYRUSDT",
-      "signal": "BUY",
-      "entry": 1.072,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=PYRUSDT"
-    },
-    {
       "datetime": 1757492100000,
       "symbol": "BTCUSDT",
       "signal": "BUY",
@@ -419,6 +309,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=PROMUSDT"
+    },
+    {
+      "datetime": 1757664000000,
+      "symbol": "PORT3USDT",
+      "signal": "SELL",
+      "entry": 0.03305,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=PORT3USDT"
     }
   ]
 }
