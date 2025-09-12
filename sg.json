@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757492100000,
-      "symbol": "BTCUSDT",
-      "signal": "BUY",
-      "entry": 112747.0,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=BTCUSDT"
-    },
-    {
       "datetime": 1757494800000,
       "symbol": "TUTUSDT",
       "signal": "BUY",
@@ -319,6 +309,16 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=PORT3USDT"
+    },
+    {
+      "datetime": 1757667600000,
+      "symbol": "ERAUSDT",
+      "signal": "BUY",
+      "entry": 0.7392,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ERAUSDT"
     }
   ]
 }
