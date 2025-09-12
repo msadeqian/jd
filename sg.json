@@ -1,66 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757507400000,
-      "symbol": "AVAUSDT",
-      "signal": "BUY",
-      "entry": 0.5633,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=AVAUSDT"
-    },
-    {
-      "datetime": 1757508300000,
-      "symbol": "SSVUSDT",
-      "signal": "BUY",
-      "entry": 9.427,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=SSVUSDT"
-    },
-    {
-      "datetime": 1757507400000,
-      "symbol": "LQTYUSDT",
-      "signal": "BUY",
-      "entry": 0.837,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=LQTYUSDT"
-    },
-    {
-      "datetime": 1757508300000,
-      "symbol": "XLMUSDT",
-      "signal": "BUY",
-      "entry": 0.3819,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=XLMUSDT"
-    },
-    {
-      "datetime": 1757511900000,
-      "symbol": "ALCXUSDT",
-      "signal": "BUY",
-      "entry": 9.75,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ALCXUSDT"
-    },
-    {
-      "datetime": 1757510100000,
-      "symbol": "ARUSDT",
-      "signal": "BUY",
-      "entry": 7.19,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ARUSDT"
-    },
-    {
       "datetime": 1757520000000,
       "symbol": "KNCUSDT",
       "signal": "BUY",
@@ -349,6 +289,36 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=KAIAUSDT"
+    },
+    {
+      "datetime": 1757686500000,
+      "symbol": "ADAUSDT",
+      "signal": "BUY",
+      "entry": 0.8925,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=ADAUSDT"
+    },
+    {
+      "datetime": 1757686500000,
+      "symbol": "CRVUSDT",
+      "signal": "BUY",
+      "entry": 0.8312,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=CRVUSDT"
+    },
+    {
+      "datetime": 1757686500000,
+      "symbol": "PENDLEUSDT",
+      "signal": "BUY",
+      "entry": 5.218,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=PENDLEUSDT"
     }
   ]
 }
