@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757494800000,
-      "symbol": "TUTUSDT",
-      "signal": "BUY",
-      "entry": 0.06827,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=TUTUSDT"
-    },
-    {
       "datetime": 1757500200000,
       "symbol": "MIXUSDT",
       "signal": "BUY",
@@ -319,6 +309,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=ERAUSDT"
+    },
+    {
+      "datetime": 1757668500000,
+      "symbol": "CHILLGUYUSDT",
+      "signal": "BUY",
+      "entry": 0.0478,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=CHILLGUYUSDT"
+    },
+    {
+      "datetime": 1757670300000,
+      "symbol": "QUICKUSDT",
+      "signal": "SELL",
+      "entry": 0.0251,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=QUICKUSDT"
     }
   ]
 }
