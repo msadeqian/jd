@@ -1,46 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757584800000,
-      "symbol": "PUSHUSDT",
-      "signal": "SELL",
-      "entry": 0.036,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=PUSHUSDT"
-    },
-    {
-      "datetime": 1757584800000,
-      "symbol": "CHOUSDT",
-      "signal": "SELL",
-      "entry": 0.0039,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=CHOUSDT"
-    },
-    {
-      "datetime": 1757584800000,
-      "symbol": "GTUSDT",
-      "signal": "SELL",
-      "entry": 16.7151,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=GTUSDT"
-    },
-    {
-      "datetime": 1757582100000,
-      "symbol": "UTKUSDT",
-      "signal": "SELL",
-      "entry": 0.02698,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=UTKUSDT"
-    },
-    {
       "datetime": 1757591100000,
       "symbol": "PARTIUSDT",
       "signal": "SELL",
@@ -459,6 +419,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=ACTUSDT"
+    },
+    {
+      "datetime": 1757758500000,
+      "symbol": "WILDUSDT",
+      "signal": "BUY",
+      "entry": 0.3174,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=WILDUSDT"
     }
   ]
 }
