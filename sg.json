@@ -1,146 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757591100000,
-      "symbol": "PARTIUSDT",
-      "signal": "SELL",
-      "entry": 0.1811,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=PARTIUSDT"
-    },
-    {
-      "datetime": 1757591100000,
-      "symbol": "RICEUSDT",
-      "signal": "SELL",
-      "entry": 0.02045,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=RICEUSDT"
-    },
-    {
-      "datetime": 1757592900000,
-      "symbol": "KAITOUSDT",
-      "signal": "SELL",
-      "entry": 1.2313,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=KAITOUSDT"
-    },
-    {
-      "datetime": 1757592900000,
-      "symbol": "OMNIUSDT",
-      "signal": "SELL",
-      "entry": 3.5,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=OMNIUSDT"
-    },
-    {
-      "datetime": 1757597400000,
-      "symbol": "IOSTUSDT",
-      "signal": "SELL",
-      "entry": 0.003345,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=IOSTUSDT"
-    },
-    {
-      "datetime": 1757599200000,
-      "symbol": "XVSUSDT",
-      "signal": "SELL",
-      "entry": 6.35,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=XVSUSDT"
-    },
-    {
-      "datetime": 1757601000000,
-      "symbol": "DOODUSDT",
-      "signal": "SELL",
-      "entry": 0.003441,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=DOODUSDT"
-    },
-    {
-      "datetime": 1757605500000,
-      "symbol": "AVAUSDT",
-      "signal": "SELL",
-      "entry": 0.5557,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=AVAUSDT"
-    },
-    {
-      "datetime": 1757605500000,
-      "symbol": "KILOUSDT",
-      "signal": "SELL",
-      "entry": 0.02351,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=KILOUSDT"
-    },
-    {
-      "datetime": 1757605500000,
-      "symbol": "SNXUSDT",
-      "signal": "SELL",
-      "entry": 0.692,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=SNXUSDT"
-    },
-    {
-      "datetime": 1757609100000,
-      "symbol": "ATAUSDT",
-      "signal": "SELL",
-      "entry": 0.0469,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=ATAUSDT"
-    },
-    {
-      "datetime": 1757609100000,
-      "symbol": "AIOZUSDT",
-      "signal": "SELL",
-      "entry": 0.3132,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=AIOZUSDT"
-    },
-    {
-      "datetime": 1757611800000,
-      "symbol": "IOTAUSDT",
-      "signal": "SELL",
-      "entry": 0.1937,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=IOTAUSDT"
-    },
-    {
-      "datetime": 1757610900000,
-      "symbol": "PROMUSDT",
-      "signal": "BUY",
-      "entry": 9.161,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=PROMUSDT"
-    },
-    {
       "datetime": 1757664000000,
       "symbol": "PORT3USDT",
       "signal": "SELL",
@@ -449,6 +309,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=QNTUSDT"
+    },
+    {
+      "datetime": 1757790000000,
+      "symbol": "RENDERUSDT",
+      "signal": "SELL",
+      "entry": 3.99,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=RENDERUSDT"
     }
   ]
 }
