@@ -449,6 +449,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=QTUMUSDT"
+    },
+    {
+      "datetime": 1757754900000,
+      "symbol": "ACTUSDT",
+      "signal": "BUY",
+      "entry": 0.042,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ACTUSDT"
     }
   ]
 }
