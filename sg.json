@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757565000000,
-      "symbol": "TACUSDT",
-      "signal": "SELL",
-      "entry": 0.01049,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=TACUSDT"
-    },
-    {
-      "datetime": 1757571300000,
-      "symbol": "WODUSDT",
-      "signal": "SELL",
-      "entry": 0.06319,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=WODUSDT"
-    },
-    {
-      "datetime": 1757571300000,
-      "symbol": "DELABSUSDT",
-      "signal": "SELL",
-      "entry": 0.009,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=DELABSUSDT"
-    },
-    {
       "datetime": 1757584800000,
       "symbol": "PUSHUSDT",
       "signal": "SELL",
@@ -469,6 +439,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=HYPERUSDT"
+    },
+    {
+      "datetime": 1757754000000,
+      "symbol": "QTUMUSDT",
+      "signal": "BUY",
+      "entry": 2.631,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=QTUMUSDT"
     }
   ]
 }
