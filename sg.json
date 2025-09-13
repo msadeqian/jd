@@ -429,6 +429,26 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=WILDUSDT"
+    },
+    {
+      "datetime": 1757762100000,
+      "symbol": "WFIUSDT",
+      "signal": "BUY",
+      "entry": 0.642286,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=WFIUSDT"
+    },
+    {
+      "datetime": 1757763900000,
+      "symbol": "QNTUSDT",
+      "signal": "BUY",
+      "entry": 105.09,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=QNTUSDT"
     }
   ]
 }
