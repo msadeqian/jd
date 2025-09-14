@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757686500000,
-      "symbol": "ADAUSDT",
-      "signal": "BUY",
-      "entry": 0.8925,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=ADAUSDT"
-    },
-    {
-      "datetime": 1757686500000,
-      "symbol": "CRVUSDT",
-      "signal": "BUY",
-      "entry": 0.8312,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=CRVUSDT"
-    },
-    {
-      "datetime": 1757686500000,
-      "symbol": "PENDLEUSDT",
-      "signal": "BUY",
-      "entry": 5.218,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=PENDLEUSDT"
-    },
-    {
       "datetime": 1757691000000,
       "symbol": "VVVUSDT",
       "signal": "SELL",
@@ -409,6 +379,16 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=TRUMPUSDT"
+    },
+    {
+      "datetime": 1757862000000,
+      "symbol": "ETHFIUSDT",
+      "signal": "SELL",
+      "entry": 1.466,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=ETHFIUSDT"
     }
   ]
 }
