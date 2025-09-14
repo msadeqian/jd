@@ -319,6 +319,26 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=RENDERUSDT"
+    },
+    {
+      "datetime": 1757823300000,
+      "symbol": "LTCUSDT",
+      "signal": "SELL",
+      "entry": 116.68847,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=LTCUSDT"
+    },
+    {
+      "datetime": 1757823300000,
+      "symbol": "LDOUSDT",
+      "signal": "SELL",
+      "entry": 1.2708,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=LDOUSDT"
     }
   ]
 }
