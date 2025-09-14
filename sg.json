@@ -339,6 +339,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=LDOUSDT"
+    },
+    {
+      "datetime": 1757828700000,
+      "symbol": "APTUSDT",
+      "signal": "BUY",
+      "entry": 4.63,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=APTUSDT"
     }
   ]
 }
