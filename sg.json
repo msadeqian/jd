@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757664000000,
-      "symbol": "PORT3USDT",
-      "signal": "SELL",
-      "entry": 0.03305,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=PORT3USDT"
-    },
-    {
       "datetime": 1757667600000,
       "symbol": "ERAUSDT",
       "signal": "BUY",
@@ -369,6 +359,16 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=MDTUSDT"
+    },
+    {
+      "datetime": 1757840400000,
+      "symbol": "WCTUSDT",
+      "signal": "SELL",
+      "entry": 0.3145,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=WCTUSDT"
     }
   ]
 }
