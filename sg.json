@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757691000000,
-      "symbol": "VVVUSDT",
-      "signal": "SELL",
-      "entry": 2.665,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=VVVUSDT"
-    },
-    {
-      "datetime": 1757691900000,
-      "symbol": "ALICEUSDT",
-      "signal": "BUY",
-      "entry": 0.3847,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ALICEUSDT"
-    },
-    {
       "datetime": 1757693700000,
       "symbol": "ONDOUSDT",
       "signal": "BUY",
@@ -389,6 +369,16 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=ETHFIUSDT"
+    },
+    {
+      "datetime": 1757865600000,
+      "symbol": "MAJORUSDT",
+      "signal": "BUY",
+      "entry": 0.1692,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=MAJORUSDT"
     }
   ]
 }
