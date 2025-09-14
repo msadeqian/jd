@@ -339,6 +339,36 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=ZILUSDT"
+    },
+    {
+      "datetime": 1757854800000,
+      "symbol": "CYBERUSDT",
+      "signal": "SELL",
+      "entry": 1.841,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=CYBERUSDT"
+    },
+    {
+      "datetime": 1757853000000,
+      "symbol": "NILUSDT",
+      "signal": "SELL",
+      "entry": 0.3118,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=NILUSDT"
+    },
+    {
+      "datetime": 1757853900000,
+      "symbol": "ORCAUSDT",
+      "signal": "SELL",
+      "entry": 2.402,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=ORCAUSDT"
     }
   ]
 }
