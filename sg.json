@@ -1,66 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757667600000,
-      "symbol": "ERAUSDT",
-      "signal": "BUY",
-      "entry": 0.7392,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ERAUSDT"
-    },
-    {
-      "datetime": 1757668500000,
-      "symbol": "CHILLGUYUSDT",
-      "signal": "BUY",
-      "entry": 0.0478,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=CHILLGUYUSDT"
-    },
-    {
-      "datetime": 1757670300000,
-      "symbol": "QUICKUSDT",
-      "signal": "SELL",
-      "entry": 0.0251,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=QUICKUSDT"
-    },
-    {
-      "datetime": 1757675700000,
-      "symbol": "THEUSDT",
-      "signal": "SELL",
-      "entry": 0.3468,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=THEUSDT"
-    },
-    {
-      "datetime": 1757677500000,
-      "symbol": "STGUSDT",
-      "signal": "SELL",
-      "entry": 0.1714,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=STGUSDT"
-    },
-    {
-      "datetime": 1757676600000,
-      "symbol": "KAIAUSDT",
-      "signal": "SELL",
-      "entry": 0.1565,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=KAIAUSDT"
-    },
-    {
       "datetime": 1757686500000,
       "symbol": "ADAUSDT",
       "signal": "BUY",
@@ -369,6 +309,36 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=WCTUSDT"
+    },
+    {
+      "datetime": 1757851200000,
+      "symbol": "HIGHUSDT",
+      "signal": "SELL",
+      "entry": 0.568,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=HIGHUSDT"
+    },
+    {
+      "datetime": 1757851200000,
+      "symbol": "HFTUSDT",
+      "signal": "SELL",
+      "entry": 0.0926,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=HFTUSDT"
+    },
+    {
+      "datetime": 1757848500000,
+      "symbol": "ZILUSDT",
+      "signal": "SELL",
+      "entry": 0.01195,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ZILUSDT"
     }
   ]
 }
