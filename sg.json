@@ -369,6 +369,46 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=ORCAUSDT"
+    },
+    {
+      "datetime": 1757856600000,
+      "symbol": "WODUSDT",
+      "signal": "SELL",
+      "entry": 0.0676,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=WODUSDT"
+    },
+    {
+      "datetime": 1757855700000,
+      "symbol": "CHEELUSDT",
+      "signal": "SELL",
+      "entry": 2.266,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=CHEELUSDT"
+    },
+    {
+      "datetime": 1757857500000,
+      "symbol": "RUNEUSDT",
+      "signal": "SELL",
+      "entry": 1.303,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=RUNEUSDT"
+    },
+    {
+      "datetime": 1757858400000,
+      "symbol": "TRUMPUSDT",
+      "signal": "SELL",
+      "entry": 8.727,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=TRUMPUSDT"
     }
   ]
 }
