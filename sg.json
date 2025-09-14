@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757693700000,
-      "symbol": "ONDOUSDT",
-      "signal": "BUY",
-      "entry": 1.0968,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ONDOUSDT"
-    },
-    {
       "datetime": 1757694600000,
       "symbol": "FLOKIUSDT",
       "signal": "BUY",
@@ -379,6 +369,16 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=MAJORUSDT"
+    },
+    {
+      "datetime": 1757867400000,
+      "symbol": "TREEUSDT",
+      "signal": "BUY",
+      "entry": 0.336,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=TREEUSDT"
     }
   ]
 }
