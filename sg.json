@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757754000000,
-      "symbol": "QTUMUSDT",
-      "signal": "BUY",
-      "entry": 2.631,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=QTUMUSDT"
-    },
-    {
-      "datetime": 1757754900000,
-      "symbol": "ACTUSDT",
-      "signal": "BUY",
-      "entry": 0.042,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ACTUSDT"
-    },
-    {
-      "datetime": 1757758500000,
-      "symbol": "WILDUSDT",
-      "signal": "BUY",
-      "entry": 0.3174,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=WILDUSDT"
-    },
-    {
       "datetime": 1757762100000,
       "symbol": "WFIUSDT",
       "signal": "BUY",
@@ -439,6 +409,16 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=HIVEUSDT"
+    },
+    {
+      "datetime": 1757933100000,
+      "symbol": "AVAILUSDT",
+      "signal": "SELL",
+      "entry": 0.01781,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=AVAILUSDT"
     }
   ]
 }
