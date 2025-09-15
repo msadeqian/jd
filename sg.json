@@ -499,6 +499,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=CTSIUSDT"
+    },
+    {
+      "datetime": 1757960100000,
+      "symbol": "KMNOUSDT",
+      "signal": "BUY",
+      "entry": 0.06862,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=KMNOUSDT"
     }
   ]
 }
