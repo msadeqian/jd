@@ -419,6 +419,26 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=TAVAUSDT"
+    },
+    {
+      "datetime": 1757948400000,
+      "symbol": "KMNOUSDT",
+      "signal": "SELL",
+      "entry": 0.06495,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=KMNOUSDT"
+    },
+    {
+      "datetime": 1757947500000,
+      "symbol": "GOMININGUSDT",
+      "signal": "SELL",
+      "entry": 0.49176,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=GOMININGUSDT"
     }
   ]
 }
