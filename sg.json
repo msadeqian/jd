@@ -279,6 +279,106 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=QAIUSDT"
+    },
+    {
+      "datetime": 1757920500000,
+      "symbol": "HEMIUSDT",
+      "signal": "BUY",
+      "entry": 0.05269,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=HEMIUSDT"
+    },
+    {
+      "datetime": 1757923200000,
+      "symbol": "ZECUSDT",
+      "signal": "SELL",
+      "entry": 50.36,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=ZECUSDT"
+    },
+    {
+      "datetime": 1757921400000,
+      "symbol": "AEVOUSDT",
+      "signal": "SELL",
+      "entry": 0.0961,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=AEVOUSDT"
+    },
+    {
+      "datetime": 1757923200000,
+      "symbol": "ILVUSDT",
+      "signal": "SELL",
+      "entry": 14.68,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ILVUSDT"
+    },
+    {
+      "datetime": 1757923200000,
+      "symbol": "ARUSDT",
+      "signal": "SELL",
+      "entry": 7.04,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ARUSDT"
+    },
+    {
+      "datetime": 1757922300000,
+      "symbol": "CELOUSDT",
+      "signal": "SELL",
+      "entry": 0.3126,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=CELOUSDT"
+    },
+    {
+      "datetime": 1757923200000,
+      "symbol": "DOGSUSDT",
+      "signal": "SELL",
+      "entry": 0.0001358,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=DOGSUSDT"
+    },
+    {
+      "datetime": 1757923200000,
+      "symbol": "GALAUSDT",
+      "signal": "SELL",
+      "entry": 0.01702,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=GALAUSDT"
+    },
+    {
+      "datetime": 1757922300000,
+      "symbol": "LAYERUSDT",
+      "signal": "SELL",
+      "entry": 0.537,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=LAYERUSDT"
+    },
+    {
+      "datetime": 1757922300000,
+      "symbol": "CAKEUSDT",
+      "signal": "SELL",
+      "entry": 2.502,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=CAKEUSDT"
     }
   ]
 }
