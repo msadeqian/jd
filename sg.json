@@ -379,6 +379,66 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=CAKEUSDT"
+    },
+    {
+      "datetime": 1757925900000,
+      "symbol": "BMTUSDT",
+      "signal": "SELL",
+      "entry": 0.0675,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=BMTUSDT"
+    },
+    {
+      "datetime": 1757925900000,
+      "symbol": "AIOZUSDT",
+      "signal": "SELL",
+      "entry": 0.3268,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=AIOZUSDT"
+    },
+    {
+      "datetime": 1757924100000,
+      "symbol": "ABUSDT",
+      "signal": "BUY",
+      "entry": 0.008426,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=ABUSDT"
+    },
+    {
+      "datetime": 1757925000000,
+      "symbol": "MASAUSDT",
+      "signal": "SELL",
+      "entry": 0.01826,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=MASAUSDT"
+    },
+    {
+      "datetime": 1757926800000,
+      "symbol": "QAIUSDT",
+      "signal": "SELL",
+      "entry": 102.5,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=QAIUSDT"
+    },
+    {
+      "datetime": 1757925900000,
+      "symbol": "HIVEUSDT",
+      "signal": "SELL",
+      "entry": 0.2019,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=HIVEUSDT"
     }
   ]
 }
