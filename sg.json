@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757762100000,
-      "symbol": "WFIUSDT",
-      "signal": "BUY",
-      "entry": 0.642286,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=WFIUSDT"
-    },
-    {
-      "datetime": 1757763900000,
-      "symbol": "QNTUSDT",
-      "signal": "BUY",
-      "entry": 105.09,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=QNTUSDT"
-    },
-    {
       "datetime": 1757790000000,
       "symbol": "RENDERUSDT",
       "signal": "SELL",
@@ -419,6 +399,16 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=AVAILUSDT"
+    },
+    {
+      "datetime": 1757941200000,
+      "symbol": "NFPUSDT",
+      "signal": "SELL",
+      "entry": 0.0691,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=NFPUSDT"
     }
   ]
 }
