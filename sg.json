@@ -269,6 +269,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=NOSUSDT"
+    },
+    {
+      "datetime": 1757917800000,
+      "symbol": "QAIUSDT",
+      "signal": "BUY",
+      "entry": 103.91,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=QAIUSDT"
     }
   ]
 }
