@@ -1,136 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757694600000,
-      "symbol": "FLOKIUSDT",
-      "signal": "BUY",
-      "entry": 0.00010082,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=FLOKIUSDT"
-    },
-    {
-      "datetime": 1757694600000,
-      "symbol": "WIFUSDT",
-      "signal": "BUY",
-      "entry": 0.918,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=WIFUSDT"
-    },
-    {
-      "datetime": 1757695500000,
-      "symbol": "SFPUSDT",
-      "signal": "BUY",
-      "entry": 0.4776,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=SFPUSDT"
-    },
-    {
-      "datetime": 1757698200000,
-      "symbol": "MEMEUSDT",
-      "signal": "BUY",
-      "entry": 0.002713,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=MEMEUSDT"
-    },
-    {
-      "datetime": 1757700000000,
-      "symbol": "ICNTUSDT",
-      "signal": "BUY",
-      "entry": 0.2572,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ICNTUSDT"
-    },
-    {
-      "datetime": 1757699100000,
-      "symbol": "RICEUSDT",
-      "signal": "SELL",
-      "entry": 0.02007,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=RICEUSDT"
-    },
-    {
-      "datetime": 1757698200000,
-      "symbol": "VVVUSDT",
-      "signal": "BUY",
-      "entry": 2.75,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=VVVUSDT"
-    },
-    {
-      "datetime": 1757700000000,
-      "symbol": "SPKUSDT",
-      "signal": "BUY",
-      "entry": 0.068131,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=SPKUSDT"
-    },
-    {
-      "datetime": 1757702700000,
-      "symbol": "SONICUSDT",
-      "signal": "BUY",
-      "entry": 0.22275,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=SONICUSDT"
-    },
-    {
-      "datetime": 1757700900000,
-      "symbol": "RAREUSDT",
-      "signal": "BUY",
-      "entry": 0.0574,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=RAREUSDT"
-    },
-    {
-      "datetime": 1757700900000,
-      "symbol": "CATIUSDT",
-      "signal": "BUY",
-      "entry": 0.0927,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=CATIUSDT"
-    },
-    {
-      "datetime": 1757700900000,
-      "symbol": "BABYUSDT",
-      "signal": "BUY",
-      "entry": 0.05116,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=BABYUSDT"
-    },
-    {
-      "datetime": 1757702700000,
-      "symbol": "HYPERUSDT",
-      "signal": "BUY",
-      "entry": 0.3275,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=HYPERUSDT"
-    },
-    {
       "datetime": 1757754000000,
       "symbol": "QTUMUSDT",
       "signal": "BUY",
@@ -379,6 +249,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=TREEUSDT"
+    },
+    {
+      "datetime": 1757910600000,
+      "symbol": "ELDEUSDT",
+      "signal": "BUY",
+      "entry": 0.0093,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=ELDEUSDT"
     }
   ]
 }
