@@ -439,6 +439,46 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=GOMININGUSDT"
+    },
+    {
+      "datetime": 1757950200000,
+      "symbol": "CUDISUSDT",
+      "signal": "SELL",
+      "entry": 0.11393,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=CUDISUSDT"
+    },
+    {
+      "datetime": 1757950200000,
+      "symbol": "ALGOUSDT",
+      "signal": "SELL",
+      "entry": 0.23025,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=ALGOUSDT"
+    },
+    {
+      "datetime": 1757951100000,
+      "symbol": "JASMYUSDT",
+      "signal": "SELL",
+      "entry": 0.01392,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=JASMYUSDT"
+    },
+    {
+      "datetime": 1757949300000,
+      "symbol": "GAIAUSDT",
+      "signal": "BUY",
+      "entry": 0.10623,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=GAIAUSDT"
     }
   ]
 }
