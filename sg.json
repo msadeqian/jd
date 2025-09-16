@@ -449,6 +449,26 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=LGCTUSDT"
+    },
+    {
+      "datetime": 1758042900000,
+      "symbol": "LGCTUSDT",
+      "signal": "SELL",
+      "entry": 1.9299,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=LGCTUSDT"
+    },
+    {
+      "datetime": 1758045600000,
+      "symbol": "TAPUSDT",
+      "signal": "SELL",
+      "entry": 0.361,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=TAPUSDT"
     }
   ]
 }
