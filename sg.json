@@ -1,56 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757854800000,
-      "symbol": "CYBERUSDT",
-      "signal": "SELL",
-      "entry": 1.841,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=CYBERUSDT"
-    },
-    {
-      "datetime": 1757853900000,
-      "symbol": "ORCAUSDT",
-      "signal": "SELL",
-      "entry": 2.402,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=ORCAUSDT"
-    },
-    {
-      "datetime": 1757856600000,
-      "symbol": "WODUSDT",
-      "signal": "SELL",
-      "entry": 0.0676,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=WODUSDT"
-    },
-    {
-      "datetime": 1757855700000,
-      "symbol": "CHEELUSDT",
-      "signal": "SELL",
-      "entry": 2.266,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=CHEELUSDT"
-    },
-    {
-      "datetime": 1757857500000,
-      "symbol": "RUNEUSDT",
-      "signal": "SELL",
-      "entry": 1.303,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=RUNEUSDT"
-    },
-    {
       "datetime": 1757858400000,
       "symbol": "TRUMPUSDT",
       "signal": "SELL",
@@ -479,6 +429,36 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=NOBODYUSDT"
+    },
+    {
+      "datetime": 1758030300000,
+      "symbol": "FLUIDUSDT",
+      "signal": "SELL",
+      "entry": 5.732,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=FLUIDUSDT"
+    },
+    {
+      "datetime": 1758028500000,
+      "symbol": "1000SATSUSDT",
+      "signal": "BUY",
+      "entry": 4.041e-05,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=1000SATSUSDT"
+    },
+    {
+      "datetime": 1758031200000,
+      "symbol": "EIGENUSDT",
+      "signal": "SELL",
+      "entry": 1.524,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=EIGENUSDT"
     }
   ]
 }
