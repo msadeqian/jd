@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757858400000,
-      "symbol": "TRUMPUSDT",
-      "signal": "SELL",
-      "entry": 8.727,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=TRUMPUSDT"
-    },
-    {
       "datetime": 1757862000000,
       "symbol": "ETHFIUSDT",
       "signal": "SELL",
@@ -459,6 +449,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=EIGENUSDT"
+    },
+    {
+      "datetime": 1758034800000,
+      "symbol": "NILUSDT",
+      "signal": "SELL",
+      "entry": 0.3141,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=NILUSDT"
     }
   ]
 }
