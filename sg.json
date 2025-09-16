@@ -489,6 +489,16 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=PENGUUSDT"
+    },
+    {
+      "datetime": 1758001500000,
+      "symbol": "TUSDT",
+      "signal": "BUY",
+      "entry": 0.01678,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=TUSDT"
     }
   ]
 }
