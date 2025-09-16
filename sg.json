@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757840400000,
-      "symbol": "WCTUSDT",
-      "signal": "SELL",
-      "entry": 0.3145,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=WCTUSDT"
-    },
-    {
       "datetime": 1757851200000,
       "symbol": "HIGHUSDT",
       "signal": "SELL",
@@ -489,6 +479,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=CCDUSDT"
+    },
+    {
+      "datetime": 1758015900000,
+      "symbol": "NMRUSDT",
+      "signal": "SELL",
+      "entry": 17.22,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=NMRUSDT"
     }
   ]
 }
