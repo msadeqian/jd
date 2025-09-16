@@ -489,6 +489,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=NMRUSDT"
+    },
+    {
+      "datetime": 1758020400000,
+      "symbol": "SERAPHUSDT",
+      "signal": "SELL",
+      "entry": 0.25187,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=SERAPHUSDT"
     }
   ]
 }
