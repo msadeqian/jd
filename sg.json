@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757828700000,
-      "symbol": "APTUSDT",
-      "signal": "BUY",
-      "entry": 4.63,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=APTUSDT"
-    },
-    {
-      "datetime": 1757830500000,
-      "symbol": "ORDIUSDT",
-      "signal": "SELL",
-      "entry": 10.23,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ORDIUSDT"
-    },
-    {
-      "datetime": 1757834100000,
-      "symbol": "MDTUSDT",
-      "signal": "SELL",
-      "entry": 0.02617,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=MDTUSDT"
-    },
-    {
       "datetime": 1757840400000,
       "symbol": "WCTUSDT",
       "signal": "SELL",
@@ -499,6 +469,26 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=TUSDT"
+    },
+    {
+      "datetime": 1758012300000,
+      "symbol": "LIBERTYUSDT",
+      "signal": "SELL",
+      "entry": 0.07486,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=LIBERTYUSDT"
+    },
+    {
+      "datetime": 1758011400000,
+      "symbol": "CCDUSDT",
+      "signal": "BUY",
+      "entry": 0.007625,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=CCDUSDT"
     }
   ]
 }
