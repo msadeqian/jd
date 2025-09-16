@@ -469,6 +469,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=TAPUSDT"
+    },
+    {
+      "datetime": 1758046500000,
+      "symbol": "OLUSDT",
+      "signal": "BUY",
+      "entry": 0.04265,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=OLUSDT"
+    },
+    {
+      "datetime": 1758046500000,
+      "symbol": "HYPERUSDT",
+      "signal": "BUY",
+      "entry": 0.3106,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=HYPERUSDT"
     }
   ]
 }
