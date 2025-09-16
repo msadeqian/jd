@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757862000000,
-      "symbol": "ETHFIUSDT",
-      "signal": "SELL",
-      "entry": 1.466,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=ETHFIUSDT"
-    },
-    {
       "datetime": 1757865600000,
       "symbol": "MAJORUSDT",
       "signal": "BUY",
@@ -459,6 +449,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=NILUSDT"
+    },
+    {
+      "datetime": 1758037500000,
+      "symbol": "AUDIOUSDT",
+      "signal": "BUY",
+      "entry": 0.0618,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=AUDIOUSDT"
     }
   ]
 }
