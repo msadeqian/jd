@@ -499,6 +499,16 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=SERAPHUSDT"
+    },
+    {
+      "datetime": 1758021300000,
+      "symbol": "BRGUSDT",
+      "signal": "BUY",
+      "entry": 0.00029129,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=BRGUSDT"
     }
   ]
 }
