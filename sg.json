@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757951100000,
-      "symbol": "JASMYUSDT",
-      "signal": "SELL",
-      "entry": 0.01392,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=JASMYUSDT"
-    },
-    {
-      "datetime": 1757953800000,
-      "symbol": "IOUSDT",
-      "signal": "SELL",
-      "entry": 0.629,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=IOUSDT"
-    },
-    {
       "datetime": 1757955600000,
       "symbol": "CTSIUSDT",
       "signal": "SELL",
@@ -509,6 +489,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=RIOUSDT"
+    },
+    {
+      "datetime": 1758127500000,
+      "symbol": "MNSRYUSDT",
+      "signal": "SELL",
+      "entry": 0.03449,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=MNSRYUSDT"
     }
   ]
 }
