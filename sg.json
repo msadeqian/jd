@@ -519,6 +519,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=CATIUSDT"
+    },
+    {
+      "datetime": 1758113100000,
+      "symbol": "ETHFIUSDT",
+      "signal": "BUY",
+      "entry": 1.49,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ETHFIUSDT"
+    },
+    {
+      "datetime": 1758111300000,
+      "symbol": "LIBERTYUSDT",
+      "signal": "SELL",
+      "entry": 0.07245,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=LIBERTYUSDT"
     }
   ]
 }
