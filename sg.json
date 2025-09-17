@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757933100000,
-      "symbol": "AVAILUSDT",
-      "signal": "SELL",
-      "entry": 0.01781,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=AVAILUSDT"
-    },
-    {
       "datetime": 1757941200000,
       "symbol": "NFPUSDT",
       "signal": "SELL",
@@ -419,6 +409,96 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=RESOLVUSDT"
+    },
+    {
+      "datetime": 1758105000000,
+      "symbol": "CYBERUSDT",
+      "signal": "SELL",
+      "entry": 1.74,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=CYBERUSDT"
+    },
+    {
+      "datetime": 1758104100000,
+      "symbol": "RUNEUSDT",
+      "signal": "SELL",
+      "entry": 1.259,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=RUNEUSDT"
+    },
+    {
+      "datetime": 1758104100000,
+      "symbol": "MAGICUSDT",
+      "signal": "SELL",
+      "entry": 0.2012,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=MAGICUSDT"
+    },
+    {
+      "datetime": 1758104100000,
+      "symbol": "EIGENUSDT",
+      "signal": "SELL",
+      "entry": 1.498,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=EIGENUSDT"
+    },
+    {
+      "datetime": 1758106800000,
+      "symbol": "RAYUSDT",
+      "signal": "SELL",
+      "entry": 3.211,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=RAYUSDT"
+    },
+    {
+      "datetime": 1758106800000,
+      "symbol": "JOEUSDT",
+      "signal": "SELL",
+      "entry": 0.1722,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=JOEUSDT"
+    },
+    {
+      "datetime": 1758104100000,
+      "symbol": "ANIMEUSDT",
+      "signal": "SELL",
+      "entry": 0.01548,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=ANIMEUSDT"
+    },
+    {
+      "datetime": 1758105900000,
+      "symbol": "TOWERUSDT",
+      "signal": "SELL",
+      "entry": 0.0014554,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=TOWERUSDT"
+    },
+    {
+      "datetime": 1758105000000,
+      "symbol": "HIVEUSDT",
+      "signal": "SELL",
+      "entry": 0.1988,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=HIVEUSDT"
     }
   ]
 }
