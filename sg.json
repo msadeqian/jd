@@ -1,56 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757925900000,
-      "symbol": "BMTUSDT",
-      "signal": "SELL",
-      "entry": 0.0675,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=BMTUSDT"
-    },
-    {
-      "datetime": 1757925900000,
-      "symbol": "AIOZUSDT",
-      "signal": "SELL",
-      "entry": 0.3268,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=AIOZUSDT"
-    },
-    {
-      "datetime": 1757925000000,
-      "symbol": "MASAUSDT",
-      "signal": "SELL",
-      "entry": 0.01826,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=MASAUSDT"
-    },
-    {
-      "datetime": 1757926800000,
-      "symbol": "QAIUSDT",
-      "signal": "SELL",
-      "entry": 102.5,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=QAIUSDT"
-    },
-    {
-      "datetime": 1757925900000,
-      "symbol": "HIVEUSDT",
-      "signal": "SELL",
-      "entry": 0.2019,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=HIVEUSDT"
-    },
-    {
       "datetime": 1757933100000,
       "symbol": "AVAILUSDT",
       "signal": "SELL",
@@ -439,6 +389,36 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=TNSRUSDT"
+    },
+    {
+      "datetime": 1758102300000,
+      "symbol": "ETHFIUSDT",
+      "signal": "SELL",
+      "entry": 1.465,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ETHFIUSDT"
+    },
+    {
+      "datetime": 1758102300000,
+      "symbol": "HIGHUSDT",
+      "signal": "SELL",
+      "entry": 0.545,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=HIGHUSDT"
+    },
+    {
+      "datetime": 1758102300000,
+      "symbol": "RESOLVUSDT",
+      "signal": "SELL",
+      "entry": 0.1453,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=RESOLVUSDT"
     }
   ]
 }
