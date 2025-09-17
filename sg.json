@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757915100000,
-      "symbol": "NOSUSDT",
-      "signal": "BUY",
-      "entry": 1.0399,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=NOSUSDT"
-    },
-    {
-      "datetime": 1757917800000,
-      "symbol": "QAIUSDT",
-      "signal": "BUY",
-      "entry": 103.91,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=QAIUSDT"
-    },
-    {
       "datetime": 1757920500000,
       "symbol": "HEMIUSDT",
       "signal": "BUY",
@@ -519,6 +499,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=ALICEUSDT"
+    },
+    {
+      "datetime": 1758092400000,
+      "symbol": "CVXUSDT",
+      "signal": "BUY",
+      "entry": 3.422,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=CVXUSDT"
     }
   ]
 }
