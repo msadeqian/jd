@@ -1,56 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757944800000,
-      "symbol": "TAVAUSDT",
-      "signal": "SELL",
-      "entry": 0.00986,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=TAVAUSDT"
-    },
-    {
-      "datetime": 1757948400000,
-      "symbol": "KMNOUSDT",
-      "signal": "SELL",
-      "entry": 0.06495,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=KMNOUSDT"
-    },
-    {
-      "datetime": 1757947500000,
-      "symbol": "GOMININGUSDT",
-      "signal": "SELL",
-      "entry": 0.49176,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=GOMININGUSDT"
-    },
-    {
-      "datetime": 1757950200000,
-      "symbol": "CUDISUSDT",
-      "signal": "SELL",
-      "entry": 0.11393,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=CUDISUSDT"
-    },
-    {
-      "datetime": 1757950200000,
-      "symbol": "ALGOUSDT",
-      "signal": "SELL",
-      "entry": 0.23025,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=ALGOUSDT"
-    },
-    {
       "datetime": 1757951100000,
       "symbol": "JASMYUSDT",
       "signal": "SELL",
@@ -59,16 +9,6 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=JASMYUSDT"
-    },
-    {
-      "datetime": 1757949300000,
-      "symbol": "GAIAUSDT",
-      "signal": "BUY",
-      "entry": 0.10623,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=GAIAUSDT"
     },
     {
       "datetime": 1757953800000,
@@ -539,6 +479,36 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=FISUSDT"
+    },
+    {
+      "datetime": 1758123900000,
+      "symbol": "AGTUSDT",
+      "signal": "SELL",
+      "entry": 0.00617,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=AGTUSDT"
+    },
+    {
+      "datetime": 1758123900000,
+      "symbol": "RCADEUSDT",
+      "signal": "BUY",
+      "entry": 0.000355,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=RCADEUSDT"
+    },
+    {
+      "datetime": 1758123900000,
+      "symbol": "RIOUSDT",
+      "signal": "SELL",
+      "entry": 0.2875,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=RIOUSDT"
     }
   ]
 }
