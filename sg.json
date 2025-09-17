@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757910600000,
-      "symbol": "ELDEUSDT",
-      "signal": "BUY",
-      "entry": 0.0093,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=ELDEUSDT"
-    },
-    {
       "datetime": 1757915100000,
       "symbol": "NOSUSDT",
       "signal": "BUY",
@@ -489,6 +479,46 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=HYPERUSDT"
+    },
+    {
+      "datetime": 1758084300000,
+      "symbol": "AAVEUSDT",
+      "signal": "SELL",
+      "entry": 294.47,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=AAVEUSDT"
+    },
+    {
+      "datetime": 1758084300000,
+      "symbol": "PSPUSDT",
+      "signal": "BUY",
+      "entry": 0.031495,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=PSPUSDT"
+    },
+    {
+      "datetime": 1758084300000,
+      "symbol": "MBPUSDT",
+      "signal": "SELL",
+      "entry": 0.08852,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=MBPUSDT"
+    },
+    {
+      "datetime": 1758084300000,
+      "symbol": "ALICEUSDT",
+      "signal": "SELL",
+      "entry": 0.3591,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ALICEUSDT"
     }
   ]
 }
