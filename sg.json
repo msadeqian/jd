@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1757997000000,
-      "symbol": "PENGUUSDT",
-      "signal": "SELL",
-      "entry": 0.032317,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=PENGUUSDT"
-    },
-    {
-      "datetime": 1758001500000,
-      "symbol": "TUSDT",
-      "signal": "BUY",
-      "entry": 0.01678,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=TUSDT"
-    },
-    {
       "datetime": 1758012300000,
       "symbol": "LIBERTYUSDT",
       "signal": "SELL",
@@ -499,6 +479,16 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=1000SATSUSDT"
+    },
+    {
+      "datetime": 1758177000000,
+      "symbol": "REKTUSDT",
+      "signal": "SELL",
+      "entry": 7.982e-07,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=REKTUSDT"
     }
   ]
 }
