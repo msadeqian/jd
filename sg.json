@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758012300000,
-      "symbol": "LIBERTYUSDT",
-      "signal": "SELL",
-      "entry": 0.07486,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=LIBERTYUSDT"
-    },
-    {
-      "datetime": 1758015900000,
-      "symbol": "NMRUSDT",
-      "signal": "SELL",
-      "entry": 17.22,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=NMRUSDT"
-    },
-    {
       "datetime": 1758020400000,
       "symbol": "SERAPHUSDT",
       "signal": "SELL",
@@ -489,6 +469,66 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=HOOKUSDT"
+    },
+    {
+      "datetime": 1758189600000,
+      "symbol": "RENDERUSDT",
+      "signal": "BUY",
+      "entry": 4.031,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=RENDERUSDT"
+    },
+    {
+      "datetime": 1758188700000,
+      "symbol": "AIXBTUSDT",
+      "signal": "BUY",
+      "entry": 0.1223,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=AIXBTUSDT"
+    },
+    {
+      "datetime": 1758189600000,
+      "symbol": "BOMEUSDT",
+      "signal": "BUY",
+      "entry": 0.002139,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=BOMEUSDT"
+    },
+    {
+      "datetime": 1758187800000,
+      "symbol": "TUSDT",
+      "signal": "BUY",
+      "entry": 0.01727,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=TUSDT"
+    },
+    {
+      "datetime": 1758188700000,
+      "symbol": "PIXELUSDT",
+      "signal": "BUY",
+      "entry": 0.03412,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=PIXELUSDT"
+    },
+    {
+      "datetime": 1758186900000,
+      "symbol": "RDNTUSDT",
+      "signal": "BUY",
+      "entry": 0.02219,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=RDNTUSDT"
     }
   ]
 }
