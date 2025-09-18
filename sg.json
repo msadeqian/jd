@@ -11,16 +11,6 @@
       "url": "https://www.tradingview.com/chart?symbol=LIBERTYUSDT"
     },
     {
-      "datetime": 1758011400000,
-      "symbol": "CCDUSDT",
-      "signal": "BUY",
-      "entry": 0.007625,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=CCDUSDT"
-    },
-    {
       "datetime": 1758015900000,
       "symbol": "NMRUSDT",
       "signal": "SELL",
@@ -489,6 +479,16 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=REKTUSDT"
+    },
+    {
+      "datetime": 1758185100000,
+      "symbol": "HOOKUSDT",
+      "signal": "BUY",
+      "entry": 0.1149,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=HOOKUSDT"
     }
   ]
 }
