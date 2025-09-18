@@ -1,56 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758020400000,
-      "symbol": "SERAPHUSDT",
-      "signal": "SELL",
-      "entry": 0.25187,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=SERAPHUSDT"
-    },
-    {
-      "datetime": 1758021300000,
-      "symbol": "BRGUSDT",
-      "signal": "BUY",
-      "entry": 0.00029129,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=BRGUSDT"
-    },
-    {
-      "datetime": 1758026700000,
-      "symbol": "NOBODYUSDT",
-      "signal": "SELL",
-      "entry": 0.06274,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=NOBODYUSDT"
-    },
-    {
-      "datetime": 1758030300000,
-      "symbol": "FLUIDUSDT",
-      "signal": "SELL",
-      "entry": 5.732,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=FLUIDUSDT"
-    },
-    {
-      "datetime": 1758028500000,
-      "symbol": "1000SATSUSDT",
-      "signal": "BUY",
-      "entry": 4.041e-05,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=1000SATSUSDT"
-    },
-    {
       "datetime": 1758031200000,
       "symbol": "EIGENUSDT",
       "signal": "SELL",
@@ -529,6 +479,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=RDNTUSDT"
+    },
+    {
+      "datetime": 1758204000000,
+      "symbol": "SPKUSDT",
+      "signal": "BUY",
+      "entry": 0.061291,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=SPKUSDT"
+    },
+    {
+      "datetime": 1758202200000,
+      "symbol": "BATUSDT",
+      "signal": "BUY",
+      "entry": 0.1603,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=BATUSDT"
     }
   ]
 }
