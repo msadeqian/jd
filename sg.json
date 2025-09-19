@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758110400000,
-      "symbol": "CATIUSDT",
-      "signal": "SELL",
-      "entry": 0.0878,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=CATIUSDT"
-    },
-    {
-      "datetime": 1758113100000,
-      "symbol": "ETHFIUSDT",
-      "signal": "BUY",
-      "entry": 1.49,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ETHFIUSDT"
-    },
-    {
-      "datetime": 1758111300000,
-      "symbol": "LIBERTYUSDT",
-      "signal": "SELL",
-      "entry": 0.07245,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=LIBERTYUSDT"
-    },
-    {
       "datetime": 1758115800000,
       "symbol": "FISUSDT",
       "signal": "SELL",
@@ -349,6 +319,26 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=MUBARAKUSDT"
+    },
+    {
+      "datetime": 1758288600000,
+      "symbol": "STOUSDT",
+      "signal": "SELL",
+      "entry": 0.0978,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=STOUSDT"
+    },
+    {
+      "datetime": 1758287700000,
+      "symbol": "NILUSDT",
+      "signal": "BUY",
+      "entry": 0.3377,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=NILUSDT"
     }
   ]
 }
