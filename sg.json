@@ -1,66 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758105000000,
-      "symbol": "CYBERUSDT",
-      "signal": "SELL",
-      "entry": 1.74,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=CYBERUSDT"
-    },
-    {
-      "datetime": 1758106800000,
-      "symbol": "RAYUSDT",
-      "signal": "SELL",
-      "entry": 3.211,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=RAYUSDT"
-    },
-    {
-      "datetime": 1758106800000,
-      "symbol": "JOEUSDT",
-      "signal": "SELL",
-      "entry": 0.1722,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=JOEUSDT"
-    },
-    {
-      "datetime": 1758105900000,
-      "symbol": "TOWERUSDT",
-      "signal": "SELL",
-      "entry": 0.0014554,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=TOWERUSDT"
-    },
-    {
-      "datetime": 1758105000000,
-      "symbol": "HIVEUSDT",
-      "signal": "SELL",
-      "entry": 0.1988,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=HIVEUSDT"
-    },
-    {
-      "datetime": 1758107700000,
-      "symbol": "KAITOUSDT",
-      "signal": "SELL",
-      "entry": 1.1263,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=KAITOUSDT"
-    },
-    {
       "datetime": 1758110400000,
       "symbol": "CATIUSDT",
       "signal": "SELL",
@@ -399,6 +339,16 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=HBARUSDT"
+    },
+    {
+      "datetime": 1758282300000,
+      "symbol": "MUBARAKUSDT",
+      "signal": "SELL",
+      "entry": 0.03636,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=MUBARAKUSDT"
     }
   ]
 }
