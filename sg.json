@@ -11,16 +11,6 @@
       "url": "https://www.tradingview.com/chart?symbol=OGUSDT"
     },
     {
-      "datetime": 1758096900000,
-      "symbol": "KILOUSDT",
-      "signal": "BUY",
-      "entry": 0.0273,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=KILOUSDT"
-    },
-    {
       "datetime": 1758097800000,
       "symbol": "FARMUSDT",
       "signal": "SELL",
@@ -459,6 +449,36 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=HIVEUSDT"
+    },
+    {
+      "datetime": 1758270600000,
+      "symbol": "BANANAS31USDT",
+      "signal": "SELL",
+      "entry": 0.006148,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=BANANAS31USDT"
+    },
+    {
+      "datetime": 1758270600000,
+      "symbol": "METUSDT",
+      "signal": "BUY",
+      "entry": 0.2396,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=METUSDT"
+    },
+    {
+      "datetime": 1758270600000,
+      "symbol": "ETHUSDT",
+      "signal": "SELL",
+      "entry": 4532.9,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ETHUSDT"
     }
   ]
 }
