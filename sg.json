@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758127500000,
-      "symbol": "MNSRYUSDT",
-      "signal": "SELL",
-      "entry": 0.03449,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=MNSRYUSDT"
-    },
-    {
       "datetime": 1758134700000,
       "symbol": "BABYUSDT",
       "signal": "SELL",
@@ -319,6 +309,26 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=FARTCOINUSDT"
+    },
+    {
+      "datetime": 1758304800000,
+      "symbol": "WEMIXUSDT",
+      "signal": "BUY",
+      "entry": 0.7568,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=WEMIXUSDT"
+    },
+    {
+      "datetime": 1758303900000,
+      "symbol": "TAKERUSDT",
+      "signal": "SELL",
+      "entry": 0.01258,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=TAKERUSDT"
     }
   ]
 }
