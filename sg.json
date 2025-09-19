@@ -1,46 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758115800000,
-      "symbol": "FISUSDT",
-      "signal": "SELL",
-      "entry": 0.1083,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=FISUSDT"
-    },
-    {
-      "datetime": 1758123900000,
-      "symbol": "AGTUSDT",
-      "signal": "SELL",
-      "entry": 0.00617,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=AGTUSDT"
-    },
-    {
-      "datetime": 1758123900000,
-      "symbol": "RCADEUSDT",
-      "signal": "BUY",
-      "entry": 0.000355,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=RCADEUSDT"
-    },
-    {
-      "datetime": 1758123900000,
-      "symbol": "RIOUSDT",
-      "signal": "SELL",
-      "entry": 0.2875,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=RIOUSDT"
-    },
-    {
       "datetime": 1758127500000,
       "symbol": "MNSRYUSDT",
       "signal": "SELL",
@@ -339,6 +299,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=NILUSDT"
+    },
+    {
+      "datetime": 1758297600000,
+      "symbol": "PCIUSDT",
+      "signal": "BUY",
+      "entry": 0.10267,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=PCIUSDT"
+    },
+    {
+      "datetime": 1758294900000,
+      "symbol": "FARTCOINUSDT",
+      "signal": "SELL",
+      "entry": 0.8503,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=FARTCOINUSDT"
     }
   ]
 }
