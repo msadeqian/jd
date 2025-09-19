@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758092400000,
-      "symbol": "CVXUSDT",
-      "signal": "BUY",
-      "entry": 3.422,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=CVXUSDT"
-    },
-    {
       "datetime": 1758097800000,
       "symbol": "OGUSDT",
       "signal": "SELL",
@@ -449,6 +439,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=GEMSUSDT"
+    },
+    {
+      "datetime": 1758267900000,
+      "symbol": "DUSDT",
+      "signal": "SELL",
+      "entry": 0.03562,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=DUSDT"
+    },
+    {
+      "datetime": 1758267900000,
+      "symbol": "HIVEUSDT",
+      "signal": "SELL",
+      "entry": 0.2022,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=HIVEUSDT"
     }
   ]
 }
