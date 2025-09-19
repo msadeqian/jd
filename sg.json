@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758097800000,
-      "symbol": "OGUSDT",
-      "signal": "SELL",
-      "entry": 14.115,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=OGUSDT"
-    },
-    {
-      "datetime": 1758097800000,
-      "symbol": "FARMUSDT",
-      "signal": "SELL",
-      "entry": 27.62,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=FARMUSDT"
-    },
-    {
-      "datetime": 1758097800000,
-      "symbol": "TNSRUSDT",
-      "signal": "SELL",
-      "entry": 0.1185,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=TNSRUSDT"
-    },
-    {
       "datetime": 1758102300000,
       "symbol": "ETHFIUSDT",
       "signal": "SELL",
@@ -479,6 +449,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=ETHUSDT"
+    },
+    {
+      "datetime": 1758275100000,
+      "symbol": "AGTUSDT",
+      "signal": "SELL",
+      "entry": 0.00669,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=AGTUSDT"
     }
   ]
 }
