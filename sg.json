@@ -419,6 +419,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=SXTUSDT"
+    },
+    {
+      "datetime": 1758260700000,
+      "symbol": "TAOUSDT",
+      "signal": "SELL",
+      "entry": 354.9,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=TAOUSDT"
     }
   ]
 }
