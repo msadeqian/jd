@@ -429,6 +429,26 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=TAOUSDT"
+    },
+    {
+      "datetime": 1758262500000,
+      "symbol": "BIDUSDT",
+      "signal": "SELL",
+      "entry": 0.09653,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=BIDUSDT"
+    },
+    {
+      "datetime": 1758262500000,
+      "symbol": "GEMSUSDT",
+      "signal": "BUY",
+      "entry": 0.20469,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=GEMSUSDT"
     }
   ]
 }
