@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758134700000,
-      "symbol": "BABYUSDT",
-      "signal": "SELL",
-      "entry": 0.05112,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=BABYUSDT"
-    },
-    {
-      "datetime": 1758132900000,
-      "symbol": "1000SATSUSDT",
-      "signal": "BUY",
-      "entry": 4.125e-05,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=1000SATSUSDT"
-    },
-    {
       "datetime": 1758177000000,
       "symbol": "REKTUSDT",
       "signal": "SELL",
@@ -329,6 +309,16 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=TAKERUSDT"
+    },
+    {
+      "datetime": 1758341700000,
+      "symbol": "KAITOUSDT",
+      "signal": "SELL",
+      "entry": 1.1405,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=KAITOUSDT"
     }
   ]
 }
