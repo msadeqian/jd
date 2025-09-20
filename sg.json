@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758204000000,
-      "symbol": "SPKUSDT",
-      "signal": "BUY",
-      "entry": 0.061291,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=SPKUSDT"
-    },
-    {
-      "datetime": 1758202200000,
-      "symbol": "BATUSDT",
-      "signal": "BUY",
-      "entry": 0.1603,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=BATUSDT"
-    },
-    {
       "datetime": 1758212100000,
       "symbol": "ETHUSDT",
       "signal": "BUY",
@@ -409,6 +389,26 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=OFTUSDT"
+    },
+    {
+      "datetime": 1758377700000,
+      "symbol": "ALEOUSDT",
+      "signal": "SELL",
+      "entry": 0.222778,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=ALEOUSDT"
+    },
+    {
+      "datetime": 1758378600000,
+      "symbol": "AUDIOUSDT",
+      "signal": "BUY",
+      "entry": 0.062,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=AUDIOUSDT"
     }
   ]
 }
