@@ -399,6 +399,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=DENTUSDT"
+    },
+    {
+      "datetime": 1758374100000,
+      "symbol": "OFTUSDT",
+      "signal": "BUY",
+      "entry": 0.9241,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=OFTUSDT"
     }
   ]
 }
