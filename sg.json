@@ -459,6 +459,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=BTCUSDT"
+    },
+    {
+      "datetime": 1758393900000,
+      "symbol": "RIOUSDT",
+      "signal": "SELL",
+      "entry": 0.2637,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=RIOUSDT"
+    },
+    {
+      "datetime": 1758393000000,
+      "symbol": "WANUSDT",
+      "signal": "BUY",
+      "entry": 0.1068,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=WANUSDT"
     }
   ]
 }
