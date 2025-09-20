@@ -359,6 +359,16 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=THEUSDT"
+    },
+    {
+      "datetime": 1758357900000,
+      "symbol": "JYAIUSDT",
+      "signal": "SELL",
+      "entry": 0.00013793,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=JYAIUSDT"
     }
   ]
 }
