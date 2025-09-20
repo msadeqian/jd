@@ -1,46 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758189600000,
-      "symbol": "RENDERUSDT",
-      "signal": "BUY",
-      "entry": 4.031,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=RENDERUSDT"
-    },
-    {
-      "datetime": 1758188700000,
-      "symbol": "AIXBTUSDT",
-      "signal": "BUY",
-      "entry": 0.1223,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=AIXBTUSDT"
-    },
-    {
-      "datetime": 1758189600000,
-      "symbol": "BOMEUSDT",
-      "signal": "BUY",
-      "entry": 0.002139,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=BOMEUSDT"
-    },
-    {
-      "datetime": 1758188700000,
-      "symbol": "PIXELUSDT",
-      "signal": "BUY",
-      "entry": 0.03412,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=PIXELUSDT"
-    },
-    {
       "datetime": 1758204000000,
       "symbol": "SPKUSDT",
       "signal": "BUY",
@@ -379,6 +339,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=IOTXUSDT"
+    },
+    {
+      "datetime": 1758364200000,
+      "symbol": "ALCXUSDT",
+      "signal": "SELL",
+      "entry": 9.39,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=ALCXUSDT"
+    },
+    {
+      "datetime": 1758364200000,
+      "symbol": "SOLUSDT",
+      "signal": "SELL",
+      "entry": 237.5,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=SOLUSDT"
     }
   ]
 }
