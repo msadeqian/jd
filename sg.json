@@ -359,6 +359,26 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=SOLUSDT"
+    },
+    {
+      "datetime": 1758367800000,
+      "symbol": "HEIUSDT",
+      "signal": "SELL",
+      "entry": 0.4176,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=HEIUSDT"
+    },
+    {
+      "datetime": 1758367800000,
+      "symbol": "SANTOSUSDT",
+      "signal": "SELL",
+      "entry": 1.865,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=SANTOSUSDT"
     }
   ]
 }
