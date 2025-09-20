@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758177000000,
-      "symbol": "REKTUSDT",
-      "signal": "SELL",
-      "entry": 7.982e-07,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=REKTUSDT"
-    },
-    {
       "datetime": 1758185100000,
       "symbol": "HOOKUSDT",
       "signal": "BUY",
@@ -319,6 +309,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=KAITOUSDT"
+    },
+    {
+      "datetime": 1758351600000,
+      "symbol": "SUTUSDT",
+      "signal": "SELL",
+      "entry": 6.02,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=SUTUSDT"
     }
   ]
 }
