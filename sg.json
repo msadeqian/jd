@@ -319,6 +319,46 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=SUTUSDT"
+    },
+    {
+      "datetime": 1758355200000,
+      "symbol": "MSQUSDT",
+      "signal": "SELL",
+      "entry": 7.624,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=MSQUSDT"
+    },
+    {
+      "datetime": 1758352500000,
+      "symbol": "FUNUSDT",
+      "signal": "SELL",
+      "entry": 0.009389,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=FUNUSDT"
+    },
+    {
+      "datetime": 1758354300000,
+      "symbol": "HBARUSDT",
+      "signal": "BUY",
+      "entry": 0.24433,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=HBARUSDT"
+    },
+    {
+      "datetime": 1758353400000,
+      "symbol": "THEUSDT",
+      "signal": "BUY",
+      "entry": 0.3939,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=THEUSDT"
     }
   ]
 }
