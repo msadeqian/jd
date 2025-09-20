@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758212100000,
-      "symbol": "ETHUSDT",
-      "signal": "BUY",
-      "entry": 4617.3,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ETHUSDT"
-    },
-    {
       "datetime": 1758256200000,
       "symbol": "TWTUSDT",
       "signal": "BUY",
@@ -409,6 +399,46 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=AUDIOUSDT"
+    },
+    {
+      "datetime": 1758385800000,
+      "symbol": "XCXUSDT",
+      "signal": "BUY",
+      "entry": 0.0514,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=XCXUSDT"
+    },
+    {
+      "datetime": 1758385800000,
+      "symbol": "LQTYUSDT",
+      "signal": "BUY",
+      "entry": 0.916,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=LQTYUSDT"
+    },
+    {
+      "datetime": 1758386700000,
+      "symbol": "RDNTUSDT",
+      "signal": "BUY",
+      "entry": 0.02186,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=RDNTUSDT"
+    },
+    {
+      "datetime": 1758386700000,
+      "symbol": "RENDERUSDT",
+      "signal": "BUY",
+      "entry": 4.003,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=RENDERUSDT"
     }
   ]
 }
