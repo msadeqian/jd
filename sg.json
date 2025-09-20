@@ -379,6 +379,26 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=SANTOSUSDT"
+    },
+    {
+      "datetime": 1758373200000,
+      "symbol": "BLZUSDT",
+      "signal": "SELL",
+      "entry": 0.03462,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=BLZUSDT"
+    },
+    {
+      "datetime": 1758371400000,
+      "symbol": "DENTUSDT",
+      "signal": "SELL",
+      "entry": 0.00074,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=DENTUSDT"
     }
   ]
 }
