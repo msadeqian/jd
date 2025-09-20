@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758185100000,
-      "symbol": "HOOKUSDT",
-      "signal": "BUY",
-      "entry": 0.1149,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=HOOKUSDT"
-    },
-    {
       "datetime": 1758189600000,
       "symbol": "RENDERUSDT",
       "signal": "BUY",
@@ -41,16 +31,6 @@
       "url": "https://www.tradingview.com/chart?symbol=BOMEUSDT"
     },
     {
-      "datetime": 1758187800000,
-      "symbol": "TUSDT",
-      "signal": "BUY",
-      "entry": 0.01727,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=TUSDT"
-    },
-    {
       "datetime": 1758188700000,
       "symbol": "PIXELUSDT",
       "signal": "BUY",
@@ -59,16 +39,6 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=PIXELUSDT"
-    },
-    {
-      "datetime": 1758186900000,
-      "symbol": "RDNTUSDT",
-      "signal": "BUY",
-      "entry": 0.02219,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=RDNTUSDT"
     },
     {
       "datetime": 1758204000000,
@@ -369,6 +339,46 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=JYAIUSDT"
+    },
+    {
+      "datetime": 1758360600000,
+      "symbol": "GUSDT",
+      "signal": "SELL",
+      "entry": 0.01099,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=GUSDT"
+    },
+    {
+      "datetime": 1758359700000,
+      "symbol": "IDEXUSDT",
+      "signal": "SELL",
+      "entry": 0.02743,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=IDEXUSDT"
+    },
+    {
+      "datetime": 1758361500000,
+      "symbol": "BABYUSDT",
+      "signal": "BUY",
+      "entry": 0.0572,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=BABYUSDT"
+    },
+    {
+      "datetime": 1758360600000,
+      "symbol": "IOTXUSDT",
+      "signal": "SELL",
+      "entry": 0.02548,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=IOTXUSDT"
     }
   ]
 }
