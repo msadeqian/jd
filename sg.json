@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758275100000,
-      "symbol": "AGTUSDT",
-      "signal": "SELL",
-      "entry": 0.00669,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=AGTUSDT"
-    },
-    {
-      "datetime": 1758277800000,
-      "symbol": "HBARUSDT",
-      "signal": "SELL",
-      "entry": 0.24194,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=HBARUSDT"
-    },
-    {
       "datetime": 1758282300000,
       "symbol": "MUBARAKUSDT",
       "signal": "SELL",
@@ -469,6 +449,36 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=LINKUSDT"
+    },
+    {
+      "datetime": 1758452400000,
+      "symbol": "XAIUSDT",
+      "signal": "SELL",
+      "entry": 0.0498,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=XAIUSDT"
+    },
+    {
+      "datetime": 1758450600000,
+      "symbol": "1000SATSUSDT",
+      "signal": "SELL",
+      "entry": 4.006e-05,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=1000SATSUSDT"
+    },
+    {
+      "datetime": 1758451500000,
+      "symbol": "HIVEUSDT",
+      "signal": "SELL",
+      "entry": 0.1981,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=HIVEUSDT"
     }
   ]
 }
