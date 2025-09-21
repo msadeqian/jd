@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758297600000,
-      "symbol": "PCIUSDT",
-      "signal": "BUY",
-      "entry": 0.10267,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=PCIUSDT"
-    },
-    {
-      "datetime": 1758294900000,
-      "symbol": "FARTCOINUSDT",
-      "signal": "SELL",
-      "entry": 0.8503,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=FARTCOINUSDT"
-    },
-    {
       "datetime": 1758304800000,
       "symbol": "WEMIXUSDT",
       "signal": "BUY",
@@ -529,6 +509,66 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=RENDERUSDT"
+    },
+    {
+      "datetime": 1758471300000,
+      "symbol": "ENSUSDT",
+      "signal": "SELL",
+      "entry": 22.89,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ENSUSDT"
+    },
+    {
+      "datetime": 1758473100000,
+      "symbol": "STGUSDT",
+      "signal": "SELL",
+      "entry": 0.1727,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=STGUSDT"
+    },
+    {
+      "datetime": 1758472200000,
+      "symbol": "ANIMEUSDT",
+      "signal": "SELL",
+      "entry": 0.01565,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ANIMEUSDT"
+    },
+    {
+      "datetime": 1758472200000,
+      "symbol": "NEIROUSDT",
+      "signal": "SELL",
+      "entry": 0.00034336,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=NEIROUSDT"
+    },
+    {
+      "datetime": 1758472200000,
+      "symbol": "DOTUSDT",
+      "signal": "SELL",
+      "entry": 4.26,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=DOTUSDT"
+    },
+    {
+      "datetime": 1758471300000,
+      "symbol": "QAIUSDT",
+      "signal": "SELL",
+      "entry": 101.7,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=QAIUSDT"
     }
   ]
 }
