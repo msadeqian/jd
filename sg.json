@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758288600000,
-      "symbol": "STOUSDT",
-      "signal": "SELL",
-      "entry": 0.0978,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=STOUSDT"
-    },
-    {
-      "datetime": 1758287700000,
-      "symbol": "NILUSDT",
-      "signal": "BUY",
-      "entry": 0.3377,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=NILUSDT"
-    },
-    {
       "datetime": 1758297600000,
       "symbol": "PCIUSDT",
       "signal": "BUY",
@@ -509,6 +489,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=ULTIUSDT"
+    },
+    {
+      "datetime": 1758462300000,
+      "symbol": "NXPCUSDT",
+      "signal": "BUY",
+      "entry": 0.6934,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=NXPCUSDT"
+    },
+    {
+      "datetime": 1758463200000,
+      "symbol": "TRBUSDT",
+      "signal": "BUY",
+      "entry": 36.64,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=TRBUSDT"
     }
   ]
 }
