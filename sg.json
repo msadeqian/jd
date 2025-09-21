@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758260700000,
-      "symbol": "TAOUSDT",
-      "signal": "SELL",
-      "entry": 354.9,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=TAOUSDT"
-    },
-    {
-      "datetime": 1758262500000,
-      "symbol": "BIDUSDT",
-      "signal": "SELL",
-      "entry": 0.09653,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=BIDUSDT"
-    },
-    {
-      "datetime": 1758262500000,
-      "symbol": "GEMSUSDT",
-      "signal": "BUY",
-      "entry": 0.20469,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=GEMSUSDT"
-    },
-    {
       "datetime": 1758267900000,
       "symbol": "DUSDT",
       "signal": "SELL",
@@ -479,6 +449,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=NKNUSDT"
+    },
+    {
+      "datetime": 1758437100000,
+      "symbol": "TPTUUSDT",
+      "signal": "SELL",
+      "entry": 1.173,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=TPTUUSDT"
+    },
+    {
+      "datetime": 1758435300000,
+      "symbol": "ALICEUSDT",
+      "signal": "BUY",
+      "entry": 0.3668,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ALICEUSDT"
     }
   ]
 }
