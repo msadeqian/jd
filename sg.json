@@ -569,6 +569,16 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=QAIUSDT"
+    },
+    {
+      "datetime": 1758474900000,
+      "symbol": "DYDXUSDT",
+      "signal": "SELL",
+      "entry": 0.6889,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=DYDXUSDT"
     }
   ]
 }
