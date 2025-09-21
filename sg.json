@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758282300000,
-      "symbol": "MUBARAKUSDT",
-      "signal": "SELL",
-      "entry": 0.03636,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=MUBARAKUSDT"
-    },
-    {
       "datetime": 1758288600000,
       "symbol": "STOUSDT",
       "signal": "SELL",
@@ -479,6 +469,36 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=HIVEUSDT"
+    },
+    {
+      "datetime": 1758456000000,
+      "symbol": "DOGSUSDT",
+      "signal": "SELL",
+      "entry": 0.0001383,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=DOGSUSDT"
+    },
+    {
+      "datetime": 1758454200000,
+      "symbol": "MANTAUSDT",
+      "signal": "SELL",
+      "entry": 0.2129,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=MANTAUSDT"
+    },
+    {
+      "datetime": 1758455100000,
+      "symbol": "ADAUSDT",
+      "signal": "SELL",
+      "entry": 0.8822,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ADAUSDT"
     }
   ]
 }
