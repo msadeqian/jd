@@ -479,6 +479,16 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=WANUSDT"
+    },
+    {
+      "datetime": 1758429000000,
+      "symbol": "ARKMUSDT",
+      "signal": "BUY",
+      "entry": 0.623,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ARKMUSDT"
     }
   ]
 }
