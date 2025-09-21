@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758304800000,
-      "symbol": "WEMIXUSDT",
-      "signal": "BUY",
-      "entry": 0.7568,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=WEMIXUSDT"
-    },
-    {
-      "datetime": 1758303900000,
-      "symbol": "TAKERUSDT",
-      "signal": "SELL",
-      "entry": 0.01258,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=TAKERUSDT"
-    },
-    {
       "datetime": 1758341700000,
       "symbol": "KAITOUSDT",
       "signal": "SELL",
@@ -579,6 +559,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=DYDXUSDT"
+    },
+    {
+      "datetime": 1758478500000,
+      "symbol": "GMXUSDT",
+      "signal": "SELL",
+      "entry": 15.66,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=GMXUSDT"
     }
   ]
 }
