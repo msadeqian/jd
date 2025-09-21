@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758256200000,
-      "symbol": "TWTUSDT",
-      "signal": "BUY",
-      "entry": 1.1711,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=TWTUSDT"
-    },
-    {
-      "datetime": 1758257100000,
-      "symbol": "C98USDT",
-      "signal": "BUY",
-      "entry": 0.0524,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=C98USDT"
-    },
-    {
-      "datetime": 1758258000000,
-      "symbol": "SXTUSDT",
-      "signal": "BUY",
-      "entry": 0.0862,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=SXTUSDT"
-    },
-    {
       "datetime": 1758260700000,
       "symbol": "TAOUSDT",
       "signal": "SELL",
@@ -489,6 +459,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=ARKMUSDT"
+    },
+    {
+      "datetime": 1758433500000,
+      "symbol": "SLPUSDT",
+      "signal": "BUY",
+      "entry": 0.001854,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=SLPUSDT"
+    },
+    {
+      "datetime": 1758433500000,
+      "symbol": "NKNUSDT",
+      "signal": "BUY",
+      "entry": 0.0276,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=NKNUSDT"
     }
   ]
 }
