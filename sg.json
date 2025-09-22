@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758377700000,
-      "symbol": "ALEOUSDT",
-      "signal": "SELL",
-      "entry": 0.222778,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=ALEOUSDT"
-    },
-    {
-      "datetime": 1758378600000,
-      "symbol": "AUDIOUSDT",
-      "signal": "BUY",
-      "entry": 0.062,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=AUDIOUSDT"
-    },
-    {
       "datetime": 1758385800000,
       "symbol": "XCXUSDT",
       "signal": "BUY",
@@ -419,6 +399,16 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=XMRUSDT"
+    },
+    {
+      "datetime": 1758556800000,
+      "symbol": "SOLVUSDT",
+      "signal": "BUY",
+      "entry": 0.04154,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=SOLVUSDT"
     }
   ]
 }
