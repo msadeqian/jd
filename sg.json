@@ -1,126 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758351600000,
-      "symbol": "SUTUSDT",
-      "signal": "SELL",
-      "entry": 6.02,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=SUTUSDT"
-    },
-    {
-      "datetime": 1758355200000,
-      "symbol": "MSQUSDT",
-      "signal": "SELL",
-      "entry": 7.624,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=MSQUSDT"
-    },
-    {
-      "datetime": 1758352500000,
-      "symbol": "FUNUSDT",
-      "signal": "SELL",
-      "entry": 0.009389,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=FUNUSDT"
-    },
-    {
-      "datetime": 1758354300000,
-      "symbol": "HBARUSDT",
-      "signal": "BUY",
-      "entry": 0.24433,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=HBARUSDT"
-    },
-    {
-      "datetime": 1758353400000,
-      "symbol": "THEUSDT",
-      "signal": "BUY",
-      "entry": 0.3939,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=THEUSDT"
-    },
-    {
-      "datetime": 1758357900000,
-      "symbol": "JYAIUSDT",
-      "signal": "SELL",
-      "entry": 0.00013793,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=JYAIUSDT"
-    },
-    {
-      "datetime": 1758360600000,
-      "symbol": "GUSDT",
-      "signal": "SELL",
-      "entry": 0.01099,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=GUSDT"
-    },
-    {
-      "datetime": 1758359700000,
-      "symbol": "IDEXUSDT",
-      "signal": "SELL",
-      "entry": 0.02743,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=IDEXUSDT"
-    },
-    {
-      "datetime": 1758361500000,
-      "symbol": "BABYUSDT",
-      "signal": "BUY",
-      "entry": 0.0572,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=BABYUSDT"
-    },
-    {
-      "datetime": 1758360600000,
-      "symbol": "IOTXUSDT",
-      "signal": "SELL",
-      "entry": 0.02548,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=IOTXUSDT"
-    },
-    {
-      "datetime": 1758364200000,
-      "symbol": "ALCXUSDT",
-      "signal": "SELL",
-      "entry": 9.39,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=ALCXUSDT"
-    },
-    {
-      "datetime": 1758364200000,
-      "symbol": "SOLUSDT",
-      "signal": "SELL",
-      "entry": 237.5,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=SOLUSDT"
-    },
-    {
       "datetime": 1758367800000,
       "symbol": "HEIUSDT",
       "signal": "SELL",
@@ -569,6 +449,16 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=SERAPHUSDT"
+    },
+    {
+      "datetime": 1758538800000,
+      "symbol": "OORTUSDT",
+      "signal": "SELL",
+      "entry": 0.06226,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=OORTUSDT"
     }
   ]
 }
