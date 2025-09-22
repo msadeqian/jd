@@ -409,6 +409,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=SOLVUSDT"
+    },
+    {
+      "datetime": 1758558600000,
+      "symbol": "PRAIUSDT",
+      "signal": "SELL",
+      "entry": 0.02598,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=PRAIUSDT"
     }
   ]
 }
