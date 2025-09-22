@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758341700000,
-      "symbol": "KAITOUSDT",
-      "signal": "SELL",
-      "entry": 1.1405,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=KAITOUSDT"
-    },
-    {
       "datetime": 1758351600000,
       "symbol": "SUTUSDT",
       "signal": "SELL",
@@ -569,6 +559,16 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=GMXUSDT"
+    },
+    {
+      "datetime": 1758516300000,
+      "symbol": "SERAPHUSDT",
+      "signal": "BUY",
+      "entry": 0.22597,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=SERAPHUSDT"
     }
   ]
 }
