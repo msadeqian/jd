@@ -1,56 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758367800000,
-      "symbol": "HEIUSDT",
-      "signal": "SELL",
-      "entry": 0.4176,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=HEIUSDT"
-    },
-    {
-      "datetime": 1758367800000,
-      "symbol": "SANTOSUSDT",
-      "signal": "SELL",
-      "entry": 1.865,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=SANTOSUSDT"
-    },
-    {
-      "datetime": 1758373200000,
-      "symbol": "BLZUSDT",
-      "signal": "SELL",
-      "entry": 0.03462,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=BLZUSDT"
-    },
-    {
-      "datetime": 1758371400000,
-      "symbol": "DENTUSDT",
-      "signal": "SELL",
-      "entry": 0.00074,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=DENTUSDT"
-    },
-    {
-      "datetime": 1758374100000,
-      "symbol": "OFTUSDT",
-      "signal": "BUY",
-      "entry": 0.9241,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=OFTUSDT"
-    },
-    {
       "datetime": 1758377700000,
       "symbol": "ALEOUSDT",
       "signal": "SELL",
@@ -459,6 +409,16 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=OORTUSDT"
+    },
+    {
+      "datetime": 1758548700000,
+      "symbol": "XMRUSDT",
+      "signal": "BUY",
+      "entry": 297.91,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=XMRUSDT"
     }
   ]
 }
