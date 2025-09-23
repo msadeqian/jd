@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758467700000,
-      "symbol": "RENDERUSDT",
-      "signal": "SELL",
-      "entry": 3.954,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=RENDERUSDT"
-    },
-    {
       "datetime": 1758471300000,
       "symbol": "ENSUSDT",
       "signal": "SELL",
@@ -289,6 +279,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=FETUSDT"
+    },
+    {
+      "datetime": 1758641400000,
+      "symbol": "FAIR3USDT",
+      "signal": "SELL",
+      "entry": 0.023388,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=FAIR3USDT"
+    },
+    {
+      "datetime": 1758641400000,
+      "symbol": "JOEUSDT",
+      "signal": "BUY",
+      "entry": 0.1841,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=JOEUSDT"
     }
   ]
 }
