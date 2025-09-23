@@ -329,6 +329,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=LAYERUSDT"
+    },
+    {
+      "datetime": 1758623400000,
+      "symbol": "SIGNUSDT",
+      "signal": "SELL",
+      "entry": 0.07803,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=SIGNUSDT"
+    },
+    {
+      "datetime": 1758623400000,
+      "symbol": "AURAUSDT",
+      "signal": "BUY",
+      "entry": 0.167116,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=AURAUSDT"
     }
   ]
 }
