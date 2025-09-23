@@ -1,56 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758441600000,
-      "symbol": "SFPUSDT",
-      "signal": "BUY",
-      "entry": 0.5023,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=SFPUSDT"
-    },
-    {
-      "datetime": 1758439800000,
-      "symbol": "BABYUSDT",
-      "signal": "BUY",
-      "entry": 0.0572,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=BABYUSDT"
-    },
-    {
-      "datetime": 1758447900000,
-      "symbol": "HOTUSDT",
-      "signal": "SELL",
-      "entry": 0.000945,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=HOTUSDT"
-    },
-    {
-      "datetime": 1758447000000,
-      "symbol": "ARUSDT",
-      "signal": "SELL",
-      "entry": 6.67,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=ARUSDT"
-    },
-    {
-      "datetime": 1758446100000,
-      "symbol": "LINKUSDT",
-      "signal": "SELL",
-      "entry": 23.1,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=LINKUSDT"
-    },
-    {
       "datetime": 1758452400000,
       "symbol": "XAIUSDT",
       "signal": "SELL",
@@ -349,6 +299,36 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=RICEUSDT"
+    },
+    {
+      "datetime": 1758621600000,
+      "symbol": "EULUSDT",
+      "signal": "SELL",
+      "entry": 9.2753,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=EULUSDT"
+    },
+    {
+      "datetime": 1758620700000,
+      "symbol": "RDACUSDT",
+      "signal": "BUY",
+      "entry": 0.005976,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=RDACUSDT"
+    },
+    {
+      "datetime": 1758619800000,
+      "symbol": "LAYERUSDT",
+      "signal": "SELL",
+      "entry": 0.4441,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=LAYERUSDT"
     }
   ]
 }
