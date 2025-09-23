@@ -1,76 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758452400000,
-      "symbol": "XAIUSDT",
-      "signal": "SELL",
-      "entry": 0.0498,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=XAIUSDT"
-    },
-    {
-      "datetime": 1758450600000,
-      "symbol": "1000SATSUSDT",
-      "signal": "SELL",
-      "entry": 4.006e-05,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=1000SATSUSDT"
-    },
-    {
-      "datetime": 1758451500000,
-      "symbol": "HIVEUSDT",
-      "signal": "SELL",
-      "entry": 0.1981,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=HIVEUSDT"
-    },
-    {
-      "datetime": 1758456000000,
-      "symbol": "DOGSUSDT",
-      "signal": "SELL",
-      "entry": 0.0001383,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=DOGSUSDT"
-    },
-    {
-      "datetime": 1758454200000,
-      "symbol": "MANTAUSDT",
-      "signal": "SELL",
-      "entry": 0.2129,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=MANTAUSDT"
-    },
-    {
-      "datetime": 1758455100000,
-      "symbol": "ADAUSDT",
-      "signal": "SELL",
-      "entry": 0.8822,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ADAUSDT"
-    },
-    {
-      "datetime": 1758456900000,
-      "symbol": "ULTIUSDT",
-      "signal": "SELL",
-      "entry": 0.001534,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ULTIUSDT"
-    },
-    {
       "datetime": 1758462300000,
       "symbol": "NXPCUSDT",
       "signal": "BUY",
@@ -349,6 +279,26 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=AURAUSDT"
+    },
+    {
+      "datetime": 1758630600000,
+      "symbol": "GTUSDT",
+      "signal": "BUY",
+      "entry": 16.5056,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=GTUSDT"
+    },
+    {
+      "datetime": 1758631500000,
+      "symbol": "ICNTUSDT",
+      "signal": "BUY",
+      "entry": 0.2332,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ICNTUSDT"
     }
   ]
 }
