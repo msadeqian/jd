@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758463200000,
-      "symbol": "TRBUSDT",
-      "signal": "BUY",
-      "entry": 36.64,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=TRBUSDT"
-    },
-    {
-      "datetime": 1758464100000,
-      "symbol": "CRCLXUSDT",
-      "signal": "BUY",
-      "entry": 143.43,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=CRCLXUSDT"
-    },
-    {
       "datetime": 1758467700000,
       "symbol": "RENDERUSDT",
       "signal": "SELL",
@@ -299,6 +279,16 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=WFIUSDT"
+    },
+    {
+      "datetime": 1758638700000,
+      "symbol": "FETUSDT",
+      "signal": "SELL",
+      "entry": 0.5934,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=FETUSDT"
     }
   ]
 }
