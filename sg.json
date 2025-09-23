@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758429000000,
-      "symbol": "ARKMUSDT",
-      "signal": "BUY",
-      "entry": 0.623,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ARKMUSDT"
-    },
-    {
       "datetime": 1758433500000,
       "symbol": "SLPUSDT",
       "signal": "BUY",
@@ -359,6 +349,36 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=KUSDT"
+    },
+    {
+      "datetime": 1758600900000,
+      "symbol": "STGUSDT",
+      "signal": "SELL",
+      "entry": 0.1604,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=STGUSDT"
+    },
+    {
+      "datetime": 1758603600000,
+      "symbol": "ACTUSDT",
+      "signal": "SELL",
+      "entry": 0.033,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=ACTUSDT"
+    },
+    {
+      "datetime": 1758602700000,
+      "symbol": "CKBUSDT",
+      "signal": "SELL",
+      "entry": 0.004424,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=CKBUSDT"
     }
   ]
 }
