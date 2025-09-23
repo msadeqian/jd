@@ -1,66 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758471300000,
-      "symbol": "ENSUSDT",
-      "signal": "SELL",
-      "entry": 22.89,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ENSUSDT"
-    },
-    {
-      "datetime": 1758473100000,
-      "symbol": "STGUSDT",
-      "signal": "SELL",
-      "entry": 0.1727,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=STGUSDT"
-    },
-    {
-      "datetime": 1758472200000,
-      "symbol": "ANIMEUSDT",
-      "signal": "SELL",
-      "entry": 0.01565,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ANIMEUSDT"
-    },
-    {
-      "datetime": 1758472200000,
-      "symbol": "NEIROUSDT",
-      "signal": "SELL",
-      "entry": 0.00034336,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=NEIROUSDT"
-    },
-    {
-      "datetime": 1758472200000,
-      "symbol": "DOTUSDT",
-      "signal": "SELL",
-      "entry": 4.26,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=DOTUSDT"
-    },
-    {
-      "datetime": 1758471300000,
-      "symbol": "QAIUSDT",
-      "signal": "SELL",
-      "entry": 101.7,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=QAIUSDT"
-    },
-    {
       "datetime": 1758474900000,
       "symbol": "DYDXUSDT",
       "signal": "SELL",
@@ -299,6 +239,16 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=JOEUSDT"
+    },
+    {
+      "datetime": 1758646800000,
+      "symbol": "BORGUSDT",
+      "signal": "SELL",
+      "entry": 0.41464644,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=BORGUSDT"
     }
   ]
 }
