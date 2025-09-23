@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758478500000,
-      "symbol": "GMXUSDT",
-      "signal": "SELL",
-      "entry": 15.66,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=GMXUSDT"
-    },
-    {
       "datetime": 1758516300000,
       "symbol": "SERAPHUSDT",
       "signal": "BUY",
@@ -279,6 +269,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=1000SATSUSDT"
+    },
+    {
+      "datetime": 1758653100000,
+      "symbol": "ICNTUSDT",
+      "signal": "SELL",
+      "entry": 0.2136,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ICNTUSDT"
     }
   ]
 }
