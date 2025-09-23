@@ -1,46 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758433500000,
-      "symbol": "SLPUSDT",
-      "signal": "BUY",
-      "entry": 0.001854,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=SLPUSDT"
-    },
-    {
-      "datetime": 1758433500000,
-      "symbol": "NKNUSDT",
-      "signal": "BUY",
-      "entry": 0.0276,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=NKNUSDT"
-    },
-    {
-      "datetime": 1758437100000,
-      "symbol": "TPTUUSDT",
-      "signal": "SELL",
-      "entry": 1.173,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=TPTUUSDT"
-    },
-    {
-      "datetime": 1758435300000,
-      "symbol": "ALICEUSDT",
-      "signal": "BUY",
-      "entry": 0.3668,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ALICEUSDT"
-    },
-    {
       "datetime": 1758441600000,
       "symbol": "SFPUSDT",
       "signal": "BUY",
@@ -379,6 +339,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=CKBUSDT"
+    },
+    {
+      "datetime": 1758611700000,
+      "symbol": "RICEUSDT",
+      "signal": "BUY",
+      "entry": 0.0172,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=RICEUSDT"
     }
   ]
 }
