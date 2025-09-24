@@ -279,6 +279,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=ICNTUSDT"
+    },
+    {
+      "datetime": 1758689100000,
+      "symbol": "ORCAUSDT",
+      "signal": "SELL",
+      "entry": 2.002,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ORCAUSDT"
     }
   ]
 }
