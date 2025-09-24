@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758516300000,
-      "symbol": "SERAPHUSDT",
-      "signal": "BUY",
-      "entry": 0.22597,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=SERAPHUSDT"
-    },
-    {
       "datetime": 1758538800000,
       "symbol": "OORTUSDT",
       "signal": "SELL",
@@ -289,6 +279,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=ORCAUSDT"
+    },
+    {
+      "datetime": 1758692700000,
+      "symbol": "URANUSUSDT",
+      "signal": "BUY",
+      "entry": 0.2646,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=URANUSUSDT"
     }
   ]
 }
