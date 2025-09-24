@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758556800000,
-      "symbol": "SOLVUSDT",
-      "signal": "BUY",
-      "entry": 0.04154,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=SOLVUSDT"
-    },
-    {
-      "datetime": 1758558600000,
-      "symbol": "PRAIUSDT",
-      "signal": "SELL",
-      "entry": 0.02598,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=PRAIUSDT"
-    },
-    {
       "datetime": 1758565800000,
       "symbol": "ONDOUSDT",
       "signal": "SELL",
@@ -449,6 +429,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=ACHUSDT"
+    },
+    {
+      "datetime": 1758735900000,
+      "symbol": "RHEAUSDT",
+      "signal": "BUY",
+      "entry": 0.03647,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=RHEAUSDT"
+    },
+    {
+      "datetime": 1758735000000,
+      "symbol": "PPTUSDT",
+      "signal": "BUY",
+      "entry": 0.1265,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=PPTUSDT"
     }
   ]
 }
