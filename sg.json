@@ -359,6 +359,46 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=SCRUSDT"
+    },
+    {
+      "datetime": 1758710700000,
+      "symbol": "DKTUSDT",
+      "signal": "BUY",
+      "entry": 0.006889,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=DKTUSDT"
+    },
+    {
+      "datetime": 1758710700000,
+      "symbol": "SCRTUSDT",
+      "signal": "BUY",
+      "entry": 0.1585,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=SCRTUSDT"
+    },
+    {
+      "datetime": 1758708900000,
+      "symbol": "ZILUSDT",
+      "signal": "BUY",
+      "entry": 0.01093,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ZILUSDT"
+    },
+    {
+      "datetime": 1758708900000,
+      "symbol": "MBPUSDT",
+      "signal": "BUY",
+      "entry": 0.08436,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=MBPUSDT"
     }
   ]
 }
