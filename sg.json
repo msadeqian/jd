@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758538800000,
-      "symbol": "OORTUSDT",
-      "signal": "SELL",
-      "entry": 0.06226,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=OORTUSDT"
-    },
-    {
       "datetime": 1758548700000,
       "symbol": "XMRUSDT",
       "signal": "BUY",
@@ -399,6 +389,16 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=MBPUSDT"
+    },
+    {
+      "datetime": 1758713400000,
+      "symbol": "TURBOUSDT",
+      "signal": "BUY",
+      "entry": 0.003645,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=TURBOUSDT"
     }
   ]
 }
