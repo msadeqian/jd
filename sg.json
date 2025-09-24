@@ -289,6 +289,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=URANUSUSDT"
+    },
+    {
+      "datetime": 1758694500000,
+      "symbol": "PORTOUSDT",
+      "signal": "BUY",
+      "entry": 0.989,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=PORTOUSDT"
     }
   ]
 }
