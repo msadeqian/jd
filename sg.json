@@ -429,6 +429,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=ORCAUSDT"
+    },
+    {
+      "datetime": 1758724200000,
+      "symbol": "YGGUSDT",
+      "signal": "BUY",
+      "entry": 0.1617,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=YGGUSDT"
+    },
+    {
+      "datetime": 1758725100000,
+      "symbol": "ACHUSDT",
+      "signal": "BUY",
+      "entry": 0.0184,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ACHUSDT"
     }
   ]
 }
