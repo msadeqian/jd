@@ -449,6 +449,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=PPTUSDT"
+    },
+    {
+      "datetime": 1758737700000,
+      "symbol": "YGGUSDT",
+      "signal": "SELL",
+      "entry": 0.1597,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=YGGUSDT"
+    },
+    {
+      "datetime": 1758738600000,
+      "symbol": "ZENUSDT",
+      "signal": "SELL",
+      "entry": 6.663,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=ZENUSDT"
     }
   ]
 }
