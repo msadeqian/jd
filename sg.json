@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758548700000,
-      "symbol": "XMRUSDT",
-      "signal": "BUY",
-      "entry": 297.91,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=XMRUSDT"
-    },
-    {
       "datetime": 1758556800000,
       "symbol": "SOLVUSDT",
       "signal": "BUY",
@@ -409,6 +399,36 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=BMTUSDT"
+    },
+    {
+      "datetime": 1758721500000,
+      "symbol": "LINKUSDT",
+      "signal": "SELL",
+      "entry": 21.56,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=LINKUSDT"
+    },
+    {
+      "datetime": 1758721500000,
+      "symbol": "RESOLVUSDT",
+      "signal": "SELL",
+      "entry": 0.1183,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=RESOLVUSDT"
+    },
+    {
+      "datetime": 1758722400000,
+      "symbol": "ORCAUSDT",
+      "signal": "BUY",
+      "entry": 2.074,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ORCAUSDT"
     }
   ]
 }
