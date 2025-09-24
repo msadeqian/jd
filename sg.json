@@ -299,6 +299,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=PORTOUSDT"
+    },
+    {
+      "datetime": 1758703500000,
+      "symbol": "SIGNUSDT",
+      "signal": "BUY",
+      "entry": 0.11126,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=SIGNUSDT"
     }
   ]
 }
