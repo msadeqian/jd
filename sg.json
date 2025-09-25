@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758636000000,
-      "symbol": "WFIUSDT",
-      "signal": "SELL",
-      "entry": 0.674979,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=WFIUSDT"
-    },
-    {
       "datetime": 1758638700000,
       "symbol": "FETUSDT",
       "signal": "SELL",
@@ -449,6 +439,16 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=MBXUSDT"
+    },
+    {
+      "datetime": 1758811500000,
+      "symbol": "SAPIENUSDT",
+      "signal": "BUY",
+      "entry": 0.20977,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=SAPIENUSDT"
     }
   ]
 }
