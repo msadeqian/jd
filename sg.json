@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758630600000,
-      "symbol": "GTUSDT",
-      "signal": "BUY",
-      "entry": 16.5056,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=GTUSDT"
-    },
-    {
-      "datetime": 1758631500000,
-      "symbol": "ICNTUSDT",
-      "signal": "BUY",
-      "entry": 0.2332,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ICNTUSDT"
-    },
-    {
       "datetime": 1758636000000,
       "symbol": "WFIUSDT",
       "signal": "SELL",
@@ -459,6 +439,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=CBKUSDT"
+    },
+    {
+      "datetime": 1758805200000,
+      "symbol": "MBXUSDT",
+      "signal": "SELL",
+      "entry": 0.1493,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=MBXUSDT"
     }
   ]
 }
