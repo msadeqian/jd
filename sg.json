@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758603600000,
-      "symbol": "ACTUSDT",
-      "signal": "SELL",
-      "entry": 0.033,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=ACTUSDT"
-    },
-    {
-      "datetime": 1758602700000,
-      "symbol": "CKBUSDT",
-      "signal": "SELL",
-      "entry": 0.004424,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=CKBUSDT"
-    },
-    {
       "datetime": 1758611700000,
       "symbol": "RICEUSDT",
       "signal": "BUY",
@@ -449,6 +429,46 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=IKAUSDT"
+    },
+    {
+      "datetime": 1758781800000,
+      "symbol": "DOTUSDT",
+      "signal": "SELL",
+      "entry": 3.92,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=DOTUSDT"
+    },
+    {
+      "datetime": 1758782700000,
+      "symbol": "SUPUSDT",
+      "signal": "BUY",
+      "entry": 0.07933,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=SUPUSDT"
+    },
+    {
+      "datetime": 1758782700000,
+      "symbol": "NMTUSDT",
+      "signal": "SELL",
+      "entry": 0.391,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=NMTUSDT"
+    },
+    {
+      "datetime": 1758780900000,
+      "symbol": "GEMSUSDT",
+      "signal": "SELL",
+      "entry": 0.2026,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=GEMSUSDT"
     }
   ]
 }
