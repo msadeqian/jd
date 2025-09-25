@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758623400000,
-      "symbol": "SIGNUSDT",
-      "signal": "SELL",
-      "entry": 0.07803,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=SIGNUSDT"
-    },
-    {
-      "datetime": 1758623400000,
-      "symbol": "AURAUSDT",
-      "signal": "BUY",
-      "entry": 0.167116,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=AURAUSDT"
-    },
-    {
       "datetime": 1758630600000,
       "symbol": "GTUSDT",
       "signal": "BUY",
@@ -449,6 +429,36 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=RWAUSDT"
+    },
+    {
+      "datetime": 1758798900000,
+      "symbol": "SFPUSDT",
+      "signal": "BUY",
+      "entry": 0.4898,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=SFPUSDT"
+    },
+    {
+      "datetime": 1758799800000,
+      "symbol": "FLUIDUSDT",
+      "signal": "SELL",
+      "entry": 6.148,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=FLUIDUSDT"
+    },
+    {
+      "datetime": 1758801600000,
+      "symbol": "CBKUSDT",
+      "signal": "SELL",
+      "entry": 0.4937,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=CBKUSDT"
     }
   ]
 }
