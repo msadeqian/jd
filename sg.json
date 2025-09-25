@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758638700000,
-      "symbol": "FETUSDT",
-      "signal": "SELL",
-      "entry": 0.5934,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=FETUSDT"
-    },
-    {
-      "datetime": 1758641400000,
-      "symbol": "FAIR3USDT",
-      "signal": "SELL",
-      "entry": 0.023388,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=FAIR3USDT"
-    },
-    {
-      "datetime": 1758641400000,
-      "symbol": "JOEUSDT",
-      "signal": "BUY",
-      "entry": 0.1841,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=JOEUSDT"
-    },
-    {
       "datetime": 1758646800000,
       "symbol": "BORGUSDT",
       "signal": "SELL",
@@ -449,6 +419,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=SAPIENUSDT"
+    },
+    {
+      "datetime": 1758818700000,
+      "symbol": "IOUSDT",
+      "signal": "SELL",
+      "entry": 0.522,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=IOUSDT"
+    },
+    {
+      "datetime": 1758818700000,
+      "symbol": "WAIUSDT",
+      "signal": "SELL",
+      "entry": 0.05264,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=WAIUSDT"
     }
   ]
 }
