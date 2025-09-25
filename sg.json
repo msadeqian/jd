@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758621600000,
-      "symbol": "EULUSDT",
-      "signal": "SELL",
-      "entry": 9.2753,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=EULUSDT"
-    },
-    {
-      "datetime": 1758620700000,
-      "symbol": "RDACUSDT",
-      "signal": "BUY",
-      "entry": 0.005976,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=RDACUSDT"
-    },
-    {
-      "datetime": 1758619800000,
-      "symbol": "LAYERUSDT",
-      "signal": "SELL",
-      "entry": 0.4441,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=LAYERUSDT"
-    },
-    {
       "datetime": 1758623400000,
       "symbol": "SIGNUSDT",
       "signal": "SELL",
@@ -469,6 +439,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=QNTUSDT"
+    },
+    {
+      "datetime": 1758796200000,
+      "symbol": "RWAUSDT",
+      "signal": "SELL",
+      "entry": 0.006945,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=RWAUSDT"
     }
   ]
 }
