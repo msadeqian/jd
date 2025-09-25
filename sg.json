@@ -1,56 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758646800000,
-      "symbol": "BORGUSDT",
-      "signal": "SELL",
-      "entry": 0.41464644,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=BORGUSDT"
-    },
-    {
-      "datetime": 1758649500000,
-      "symbol": "HUMAUSDT",
-      "signal": "BUY",
-      "entry": 0.03198,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=HUMAUSDT"
-    },
-    {
-      "datetime": 1758649500000,
-      "symbol": "HOODUSDT",
-      "signal": "BUY",
-      "entry": 2.667e-05,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=HOODUSDT"
-    },
-    {
-      "datetime": 1758649500000,
-      "symbol": "BTCUSDT",
-      "signal": "SELL",
-      "entry": 111930.0,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=BTCUSDT"
-    },
-    {
-      "datetime": 1758648600000,
-      "symbol": "1000SATSUSDT",
-      "signal": "SELL",
-      "entry": 3.41e-05,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=1000SATSUSDT"
-    },
-    {
       "datetime": 1758653100000,
       "symbol": "ICNTUSDT",
       "signal": "SELL",
@@ -439,6 +389,36 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=WAIUSDT"
+    },
+    {
+      "datetime": 1758823200000,
+      "symbol": "AWEUSDT",
+      "signal": "SELL",
+      "entry": 0.0918,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=AWEUSDT"
+    },
+    {
+      "datetime": 1758822300000,
+      "symbol": "ACEUSDT",
+      "signal": "SELL",
+      "entry": 0.448,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=ACEUSDT"
+    },
+    {
+      "datetime": 1758822300000,
+      "symbol": "FETUSDT",
+      "signal": "SELL",
+      "entry": 0.556,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=FETUSDT"
     }
   ]
 }
