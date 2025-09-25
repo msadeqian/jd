@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758565800000,
-      "symbol": "ONDOUSDT",
-      "signal": "SELL",
-      "entry": 0.9232,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ONDOUSDT"
-    },
-    {
-      "datetime": 1758567600000,
-      "symbol": "KUSDT",
-      "signal": "BUY",
-      "entry": 0.174,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=KUSDT"
-    },
-    {
-      "datetime": 1758600900000,
-      "symbol": "STGUSDT",
-      "signal": "SELL",
-      "entry": 0.1604,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=STGUSDT"
-    },
-    {
       "datetime": 1758603600000,
       "symbol": "ACTUSDT",
       "signal": "SELL",
@@ -469,6 +439,16 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=ZENUSDT"
+    },
+    {
+      "datetime": 1758775500000,
+      "symbol": "IKAUSDT",
+      "signal": "SELL",
+      "entry": 0.028247,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=IKAUSDT"
     }
   ]
 }
