@@ -1,46 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758653100000,
-      "symbol": "ICNTUSDT",
-      "signal": "SELL",
-      "entry": 0.2136,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ICNTUSDT"
-    },
-    {
-      "datetime": 1758689100000,
-      "symbol": "ORCAUSDT",
-      "signal": "SELL",
-      "entry": 2.002,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ORCAUSDT"
-    },
-    {
-      "datetime": 1758692700000,
-      "symbol": "URANUSUSDT",
-      "signal": "BUY",
-      "entry": 0.2646,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=URANUSUSDT"
-    },
-    {
-      "datetime": 1758694500000,
-      "symbol": "PORTOUSDT",
-      "signal": "BUY",
-      "entry": 0.989,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=PORTOUSDT"
-    },
-    {
       "datetime": 1758703500000,
       "symbol": "SIGNUSDT",
       "signal": "BUY",
@@ -419,6 +379,26 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=FETUSDT"
+    },
+    {
+      "datetime": 1758871800000,
+      "symbol": "ALPINEUSDT",
+      "signal": "SELL",
+      "entry": 2.054,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=ALPINEUSDT"
+    },
+    {
+      "datetime": 1758870900000,
+      "symbol": "IOTXUSDT",
+      "signal": "SELL",
+      "entry": 0.02367,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=IOTXUSDT"
     }
   ]
 }
