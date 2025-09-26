@@ -399,6 +399,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=IOTXUSDT"
+    },
+    {
+      "datetime": 1758874500000,
+      "symbol": "SANTOSUSDT",
+      "signal": "BUY",
+      "entry": 1.78,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=SANTOSUSDT"
     }
   ]
 }
