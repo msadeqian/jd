@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758703500000,
-      "symbol": "SIGNUSDT",
-      "signal": "BUY",
-      "entry": 0.11126,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=SIGNUSDT"
-    },
-    {
-      "datetime": 1758707100000,
-      "symbol": "ONGUSDT",
-      "signal": "BUY",
-      "entry": 0.1564,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=ONGUSDT"
-    },
-    {
-      "datetime": 1758707100000,
-      "symbol": "COMPUSDT",
-      "signal": "BUY",
-      "entry": 42.05,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=COMPUSDT"
-    },
-    {
       "datetime": 1758708000000,
       "symbol": "MBPUSDT",
       "signal": "BUY",
@@ -49,16 +19,6 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=ZEXUSDT"
-    },
-    {
-      "datetime": 1758706200000,
-      "symbol": "SCRUSDT",
-      "signal": "BUY",
-      "entry": 0.286,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=SCRUSDT"
     },
     {
       "datetime": 1758710700000,
@@ -409,6 +369,16 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=SANTOSUSDT"
+    },
+    {
+      "datetime": 1758880800000,
+      "symbol": "SUPERUSDT",
+      "signal": "SELL",
+      "entry": 0.4858,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=SUPERUSDT"
     }
   ]
 }
