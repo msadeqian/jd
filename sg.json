@@ -269,6 +269,16 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=YFIUSDT"
+    },
+    {
+      "datetime": 1758900600000,
+      "symbol": "SPKUSDT",
+      "signal": "SELL",
+      "entry": 0.050148,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=SPKUSDT"
     }
   ]
 }
