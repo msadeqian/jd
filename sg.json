@@ -1,136 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758708000000,
-      "symbol": "MBPUSDT",
-      "signal": "BUY",
-      "entry": 0.08446,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=MBPUSDT"
-    },
-    {
-      "datetime": 1758708000000,
-      "symbol": "ZEXUSDT",
-      "signal": "BUY",
-      "entry": 0.13919,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=ZEXUSDT"
-    },
-    {
-      "datetime": 1758710700000,
-      "symbol": "DKTUSDT",
-      "signal": "BUY",
-      "entry": 0.006889,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=DKTUSDT"
-    },
-    {
-      "datetime": 1758710700000,
-      "symbol": "SCRTUSDT",
-      "signal": "BUY",
-      "entry": 0.1585,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=SCRTUSDT"
-    },
-    {
-      "datetime": 1758708900000,
-      "symbol": "ZILUSDT",
-      "signal": "BUY",
-      "entry": 0.01093,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ZILUSDT"
-    },
-    {
-      "datetime": 1758708900000,
-      "symbol": "MBPUSDT",
-      "signal": "BUY",
-      "entry": 0.08436,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=MBPUSDT"
-    },
-    {
-      "datetime": 1758713400000,
-      "symbol": "TURBOUSDT",
-      "signal": "BUY",
-      "entry": 0.003645,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=TURBOUSDT"
-    },
-    {
-      "datetime": 1758716100000,
-      "symbol": "BMTUSDT",
-      "signal": "BUY",
-      "entry": 0.0691,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=BMTUSDT"
-    },
-    {
-      "datetime": 1758721500000,
-      "symbol": "LINKUSDT",
-      "signal": "SELL",
-      "entry": 21.56,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=LINKUSDT"
-    },
-    {
-      "datetime": 1758721500000,
-      "symbol": "RESOLVUSDT",
-      "signal": "SELL",
-      "entry": 0.1183,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=RESOLVUSDT"
-    },
-    {
-      "datetime": 1758722400000,
-      "symbol": "ORCAUSDT",
-      "signal": "BUY",
-      "entry": 2.074,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ORCAUSDT"
-    },
-    {
-      "datetime": 1758724200000,
-      "symbol": "YGGUSDT",
-      "signal": "BUY",
-      "entry": 0.1617,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=YGGUSDT"
-    },
-    {
-      "datetime": 1758725100000,
-      "symbol": "ACHUSDT",
-      "signal": "BUY",
-      "entry": 0.0184,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ACHUSDT"
-    },
-    {
       "datetime": 1758735900000,
       "symbol": "RHEAUSDT",
       "signal": "BUY",
@@ -379,6 +249,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=SUPERUSDT"
+    },
+    {
+      "datetime": 1758897000000,
+      "symbol": "NMRUSDT",
+      "signal": "SELL",
+      "entry": 15.34,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=NMRUSDT"
+    },
+    {
+      "datetime": 1758898800000,
+      "symbol": "YFIUSDT",
+      "signal": "BUY",
+      "entry": 5132.0,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=YFIUSDT"
     }
   ]
 }
