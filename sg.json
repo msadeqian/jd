@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758735900000,
-      "symbol": "RHEAUSDT",
-      "signal": "BUY",
-      "entry": 0.03647,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=RHEAUSDT"
-    },
-    {
-      "datetime": 1758735000000,
-      "symbol": "PPTUSDT",
-      "signal": "BUY",
-      "entry": 0.1265,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=PPTUSDT"
-    },
-    {
       "datetime": 1758737700000,
       "symbol": "YGGUSDT",
       "signal": "SELL",
@@ -289,6 +269,36 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=CKBUSDT"
+    },
+    {
+      "datetime": 1758907800000,
+      "symbol": "KNCUSDT",
+      "signal": "BUY",
+      "entry": 0.3317,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=KNCUSDT"
+    },
+    {
+      "datetime": 1758908700000,
+      "symbol": "METISUSDT",
+      "signal": "BUY",
+      "entry": 13.18,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=METISUSDT"
+    },
+    {
+      "datetime": 1758909600000,
+      "symbol": "DFDVxUSDT",
+      "signal": "BUY",
+      "entry": 15.3,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=DFDVxUSDT"
     }
   ]
 }
