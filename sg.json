@@ -279,6 +279,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=SPKUSDT"
+    },
+    {
+      "datetime": 1758905100000,
+      "symbol": "CKBUSDT",
+      "signal": "BUY",
+      "entry": 0.004215,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=CKBUSDT"
     }
   ]
 }
