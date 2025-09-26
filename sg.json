@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758737700000,
-      "symbol": "YGGUSDT",
-      "signal": "SELL",
-      "entry": 0.1597,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=YGGUSDT"
-    },
-    {
-      "datetime": 1758738600000,
-      "symbol": "ZENUSDT",
-      "signal": "SELL",
-      "entry": 6.663,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=ZENUSDT"
-    },
-    {
       "datetime": 1758775500000,
       "symbol": "IKAUSDT",
       "signal": "SELL",
@@ -299,6 +279,36 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=DFDVxUSDT"
+    },
+    {
+      "datetime": 1758910500000,
+      "symbol": "FARMUSDT",
+      "signal": "BUY",
+      "entry": 26.46,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=FARMUSDT"
+    },
+    {
+      "datetime": 1758912300000,
+      "symbol": "KAIAUSDT",
+      "signal": "BUY",
+      "entry": 0.1531,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=KAIAUSDT"
+    },
+    {
+      "datetime": 1758913200000,
+      "symbol": "PYRUSDT",
+      "signal": "BUY",
+      "entry": 0.962,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=PYRUSDT"
     }
   ]
 }
