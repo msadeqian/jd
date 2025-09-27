@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758775500000,
-      "symbol": "IKAUSDT",
-      "signal": "SELL",
-      "entry": 0.028247,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=IKAUSDT"
-    },
-    {
       "datetime": 1758781800000,
       "symbol": "DOTUSDT",
       "signal": "SELL",
@@ -309,6 +299,16 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=PYRUSDT"
+    },
+    {
+      "datetime": 1758949200000,
+      "symbol": "HITUSDT",
+      "signal": "BUY",
+      "entry": 0.3407,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=HITUSDT"
     }
   ]
 }
