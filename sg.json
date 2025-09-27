@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758823200000,
-      "symbol": "AWEUSDT",
-      "signal": "SELL",
-      "entry": 0.0918,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=AWEUSDT"
-    },
-    {
-      "datetime": 1758822300000,
-      "symbol": "ACEUSDT",
-      "signal": "SELL",
-      "entry": 0.448,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=ACEUSDT"
-    },
-    {
-      "datetime": 1758822300000,
-      "symbol": "FETUSDT",
-      "signal": "SELL",
-      "entry": 0.556,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=FETUSDT"
-    },
-    {
       "datetime": 1758871800000,
       "symbol": "ALPINEUSDT",
       "signal": "SELL",
@@ -369,6 +339,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=PIUSDT"
+    },
+    {
+      "datetime": 1758998700000,
+      "symbol": "SANTOSUSDT",
+      "signal": "BUY",
+      "entry": 1.961,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=SANTOSUSDT"
+    },
+    {
+      "datetime": 1758996900000,
+      "symbol": "PIRATEUSDT",
+      "signal": "BUY",
+      "entry": 0.02529,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=PIRATEUSDT"
     }
   ]
 }
