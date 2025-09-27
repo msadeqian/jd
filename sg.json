@@ -309,6 +309,16 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=HITUSDT"
+    },
+    {
+      "datetime": 1758950100000,
+      "symbol": "ABUSDT",
+      "signal": "BUY",
+      "entry": 0.008311,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=ABUSDT"
     }
   ]
 }
