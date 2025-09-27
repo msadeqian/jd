@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758781800000,
-      "symbol": "DOTUSDT",
-      "signal": "SELL",
-      "entry": 3.92,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=DOTUSDT"
-    },
-    {
-      "datetime": 1758782700000,
-      "symbol": "SUPUSDT",
-      "signal": "BUY",
-      "entry": 0.07933,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=SUPUSDT"
-    },
-    {
-      "datetime": 1758782700000,
-      "symbol": "NMTUSDT",
-      "signal": "SELL",
-      "entry": 0.391,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=NMTUSDT"
-    },
-    {
       "datetime": 1758787200000,
       "symbol": "QNTUSDT",
       "signal": "SELL",
@@ -339,6 +309,36 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=HUSTLEUSDT"
+    },
+    {
+      "datetime": 1758958200000,
+      "symbol": "FTTUSDT",
+      "signal": "SELL",
+      "entry": 0.899,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=FTTUSDT"
+    },
+    {
+      "datetime": 1758957300000,
+      "symbol": "IMAGINEUSDT",
+      "signal": "SELL",
+      "entry": 9.22e-05,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=IMAGINEUSDT"
+    },
+    {
+      "datetime": 1758960000000,
+      "symbol": "ZNDUSDT",
+      "signal": "SELL",
+      "entry": 0.2485,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=ZNDUSDT"
     }
   ]
 }
