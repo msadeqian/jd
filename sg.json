@@ -31,16 +31,6 @@
       "url": "https://www.tradingview.com/chart?symbol=NMTUSDT"
     },
     {
-      "datetime": 1758780900000,
-      "symbol": "GEMSUSDT",
-      "signal": "SELL",
-      "entry": 0.2026,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=GEMSUSDT"
-    },
-    {
       "datetime": 1758787200000,
       "symbol": "QNTUSDT",
       "signal": "SELL",
@@ -319,6 +309,36 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=ABUSDT"
+    },
+    {
+      "datetime": 1758953700000,
+      "symbol": "FLUIDUSDT",
+      "signal": "SELL",
+      "entry": 6.073,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=FLUIDUSDT"
+    },
+    {
+      "datetime": 1758953700000,
+      "symbol": "TRUUSDT",
+      "signal": "SELL",
+      "entry": 0.0271,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=TRUUSDT"
+    },
+    {
+      "datetime": 1758954600000,
+      "symbol": "HUSTLEUSDT",
+      "signal": "SELL",
+      "entry": 0.011511,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=HUSTLEUSDT"
     }
   ]
 }
