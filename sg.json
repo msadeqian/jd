@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758796200000,
-      "symbol": "RWAUSDT",
-      "signal": "SELL",
-      "entry": 0.006945,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=RWAUSDT"
-    },
-    {
-      "datetime": 1758798900000,
-      "symbol": "SFPUSDT",
-      "signal": "BUY",
-      "entry": 0.4898,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=SFPUSDT"
-    },
-    {
-      "datetime": 1758799800000,
-      "symbol": "FLUIDUSDT",
-      "signal": "SELL",
-      "entry": 6.148,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=FLUIDUSDT"
-    },
-    {
       "datetime": 1758801600000,
       "symbol": "CBKUSDT",
       "signal": "SELL",
@@ -369,6 +339,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=OSMOUSDT"
+    },
+    {
+      "datetime": 1758973500000,
+      "symbol": "AIUSDT",
+      "signal": "BUY",
+      "entry": 0.1229,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=AIUSDT"
     }
   ]
 }
