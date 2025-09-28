@@ -419,6 +419,16 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=MSTRUSDT"
+    },
+    {
+      "datetime": 1759062600000,
+      "symbol": "MANYUUSDT",
+      "signal": "BUY",
+      "entry": 3.07e-08,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=MANYUUSDT"
     }
   ]
 }
