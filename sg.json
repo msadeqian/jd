@@ -409,6 +409,16 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=DIAUSDT"
+    },
+    {
+      "datetime": 1759058100000,
+      "symbol": "MSTRUSDT",
+      "signal": "BUY",
+      "entry": 0.12412,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=MSTRUSDT"
     }
   ]
 }
