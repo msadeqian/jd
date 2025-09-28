@@ -1,46 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758897000000,
-      "symbol": "NMRUSDT",
-      "signal": "SELL",
-      "entry": 15.34,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=NMRUSDT"
-    },
-    {
-      "datetime": 1758898800000,
-      "symbol": "YFIUSDT",
-      "signal": "BUY",
-      "entry": 5132.0,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=YFIUSDT"
-    },
-    {
-      "datetime": 1758900600000,
-      "symbol": "SPKUSDT",
-      "signal": "SELL",
-      "entry": 0.050148,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=SPKUSDT"
-    },
-    {
-      "datetime": 1758905100000,
-      "symbol": "CKBUSDT",
-      "signal": "BUY",
-      "entry": 0.004215,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=CKBUSDT"
-    },
-    {
       "datetime": 1758907800000,
       "symbol": "KNCUSDT",
       "signal": "BUY",
@@ -449,6 +409,56 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=GLMRUSDT"
+    },
+    {
+      "datetime": 1759077000000,
+      "symbol": "PROMUSDT",
+      "signal": "BUY",
+      "entry": 10.044,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=PROMUSDT"
+    },
+    {
+      "datetime": 1759077900000,
+      "symbol": "AUSDT",
+      "signal": "BUY",
+      "entry": 0.4071,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=AUSDT"
+    },
+    {
+      "datetime": 1759078800000,
+      "symbol": "ARKUSDT",
+      "signal": "BUY",
+      "entry": 0.4157,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=ARKUSDT"
+    },
+    {
+      "datetime": 1759076100000,
+      "symbol": "MAGICUSDT",
+      "signal": "BUY",
+      "entry": 0.173,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=MAGICUSDT"
+    },
+    {
+      "datetime": 1759077000000,
+      "symbol": "LINKUSDT",
+      "signal": "BUY",
+      "entry": 21.18,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=LINKUSDT"
     }
   ]
 }
