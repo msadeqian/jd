@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758874500000,
-      "symbol": "SANTOSUSDT",
-      "signal": "BUY",
-      "entry": 1.78,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=SANTOSUSDT"
-    },
-    {
       "datetime": 1758880800000,
       "symbol": "SUPERUSDT",
       "signal": "SELL",
@@ -399,6 +389,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=ZECUSDT"
+    },
+    {
+      "datetime": 1759051800000,
+      "symbol": "KMNOUSDT",
+      "signal": "SELL",
+      "entry": 0.06707,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=KMNOUSDT"
+    },
+    {
+      "datetime": 1759051800000,
+      "symbol": "MGOUSDT",
+      "signal": "SELL",
+      "entry": 0.026844,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=MGOUSDT"
     }
   ]
 }
