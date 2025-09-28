@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758871800000,
-      "symbol": "ALPINEUSDT",
-      "signal": "SELL",
-      "entry": 2.054,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=ALPINEUSDT"
-    },
-    {
-      "datetime": 1758870900000,
-      "symbol": "IOTXUSDT",
-      "signal": "SELL",
-      "entry": 0.02367,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=IOTXUSDT"
-    },
-    {
       "datetime": 1758874500000,
       "symbol": "SANTOSUSDT",
       "signal": "BUY",
@@ -409,6 +389,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=AIXUSDT"
+    },
+    {
+      "datetime": 1759045500000,
+      "symbol": "ZECUSDT",
+      "signal": "BUY",
+      "entry": 56.65,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ZECUSDT"
     }
   ]
 }
