@@ -1,46 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758908700000,
-      "symbol": "METISUSDT",
-      "signal": "BUY",
-      "entry": 13.18,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=METISUSDT"
-    },
-    {
-      "datetime": 1758909600000,
-      "symbol": "DFDVxUSDT",
-      "signal": "BUY",
-      "entry": 15.3,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=DFDVxUSDT"
-    },
-    {
-      "datetime": 1758910500000,
-      "symbol": "FARMUSDT",
-      "signal": "BUY",
-      "entry": 26.46,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=FARMUSDT"
-    },
-    {
-      "datetime": 1758912300000,
-      "symbol": "KAIAUSDT",
-      "signal": "BUY",
-      "entry": 0.1531,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=KAIAUSDT"
-    },
-    {
       "datetime": 1758913200000,
       "symbol": "PYRUSDT",
       "signal": "BUY",
@@ -459,6 +419,46 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=AGLDUSDT"
+    },
+    {
+      "datetime": 1759084200000,
+      "symbol": "TLMUSDT",
+      "signal": "BUY",
+      "entry": 0.00408,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=TLMUSDT"
+    },
+    {
+      "datetime": 1759084200000,
+      "symbol": "TRBUSDT",
+      "signal": "BUY",
+      "entry": 31.04,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=TRBUSDT"
+    },
+    {
+      "datetime": 1759086000000,
+      "symbol": "VTHOUSDT",
+      "signal": "BUY",
+      "entry": 0.001604,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=VTHOUSDT"
+    },
+    {
+      "datetime": 1759083300000,
+      "symbol": "HYPERUSDT",
+      "signal": "BUY",
+      "entry": 0.2611,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=HYPERUSDT"
     }
   ]
 }
