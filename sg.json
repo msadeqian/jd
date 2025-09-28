@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758880800000,
-      "symbol": "SUPERUSDT",
-      "signal": "SELL",
-      "entry": 0.4858,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=SUPERUSDT"
-    },
-    {
       "datetime": 1758897000000,
       "symbol": "NMRUSDT",
       "signal": "SELL",
@@ -409,6 +399,16 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=MGOUSDT"
+    },
+    {
+      "datetime": 1759055400000,
+      "symbol": "DIAUSDT",
+      "signal": "SELL",
+      "entry": 0.5681,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=DIAUSDT"
     }
   ]
 }
