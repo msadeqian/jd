@@ -429,6 +429,26 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=MANYUUSDT"
+    },
+    {
+      "datetime": 1759067100000,
+      "symbol": "ALICEUSDT",
+      "signal": "BUY",
+      "entry": 0.3125,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ALICEUSDT"
+    },
+    {
+      "datetime": 1759067100000,
+      "symbol": "GLMRUSDT",
+      "signal": "BUY",
+      "entry": 0.0591,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=GLMRUSDT"
     }
   ]
 }
