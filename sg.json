@@ -399,6 +399,16 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=RYOUSDT"
+    },
+    {
+      "datetime": 1759036500000,
+      "symbol": "AIXUSDT",
+      "signal": "BUY",
+      "entry": 0.003354,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=AIXUSDT"
     }
   ]
 }
