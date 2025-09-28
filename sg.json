@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758907800000,
-      "symbol": "KNCUSDT",
-      "signal": "BUY",
-      "entry": 0.3317,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=KNCUSDT"
-    },
-    {
       "datetime": 1758908700000,
       "symbol": "METISUSDT",
       "signal": "BUY",
@@ -459,6 +449,16 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=LINKUSDT"
+    },
+    {
+      "datetime": 1759081500000,
+      "symbol": "AGLDUSDT",
+      "signal": "BUY",
+      "entry": 0.559,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=AGLDUSDT"
     }
   ]
 }
