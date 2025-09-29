@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758975300000,
-      "symbol": "AICELLUSDT",
-      "signal": "BUY",
-      "entry": 0.002506,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=AICELLUSDT"
-    },
-    {
-      "datetime": 1758977100000,
-      "symbol": "ASTRUSDT",
-      "signal": "BUY",
-      "entry": 0.02255,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ASTRUSDT"
-    },
-    {
-      "datetime": 1758977100000,
-      "symbol": "HIVEUSDT",
-      "signal": "BUY",
-      "entry": 0.1808,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=HIVEUSDT"
-    },
-    {
       "datetime": 1758978900000,
       "symbol": "HYPERUSDT",
       "signal": "BUY",
@@ -399,6 +369,36 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=YALAUSDT"
+    },
+    {
+      "datetime": 1759149000000,
+      "symbol": "FLOKIUSDT",
+      "signal": "SELL",
+      "entry": 8.042e-05,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=FLOKIUSDT"
+    },
+    {
+      "datetime": 1759150800000,
+      "symbol": "AVAUSDT",
+      "signal": "SELL",
+      "entry": 0.4885,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=AVAUSDT"
+    },
+    {
+      "datetime": 1759149900000,
+      "symbol": "BABYUSDT",
+      "signal": "SELL",
+      "entry": 0.04539,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=BABYUSDT"
     }
   ]
 }
