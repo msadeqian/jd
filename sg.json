@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758913200000,
-      "symbol": "PYRUSDT",
-      "signal": "BUY",
-      "entry": 0.962,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=PYRUSDT"
-    },
-    {
-      "datetime": 1758949200000,
-      "symbol": "HITUSDT",
-      "signal": "BUY",
-      "entry": 0.3407,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=HITUSDT"
-    },
-    {
-      "datetime": 1758950100000,
-      "symbol": "ABUSDT",
-      "signal": "BUY",
-      "entry": 0.008311,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=ABUSDT"
-    },
-    {
       "datetime": 1758953700000,
       "symbol": "FLUIDUSDT",
       "signal": "SELL",
@@ -459,6 +429,16 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=HYPERUSDT"
+    },
+    {
+      "datetime": 1759124700000,
+      "symbol": "ARUSDT",
+      "signal": "SELL",
+      "entry": 5.61,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ARUSDT"
     }
   ]
 }
