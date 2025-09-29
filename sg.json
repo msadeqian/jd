@@ -399,6 +399,26 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=BABYUSDT"
+    },
+    {
+      "datetime": 1759151700000,
+      "symbol": "ALICEUSDT",
+      "signal": "SELL",
+      "entry": 0.3062,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=ALICEUSDT"
+    },
+    {
+      "datetime": 1759151700000,
+      "symbol": "PYRUSDT",
+      "signal": "SELL",
+      "entry": 0.934,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=PYRUSDT"
     }
   ]
 }
