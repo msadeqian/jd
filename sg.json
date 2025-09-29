@@ -1,96 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758953700000,
-      "symbol": "FLUIDUSDT",
-      "signal": "SELL",
-      "entry": 6.073,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=FLUIDUSDT"
-    },
-    {
-      "datetime": 1758953700000,
-      "symbol": "TRUUSDT",
-      "signal": "SELL",
-      "entry": 0.0271,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=TRUUSDT"
-    },
-    {
-      "datetime": 1758954600000,
-      "symbol": "HUSTLEUSDT",
-      "signal": "SELL",
-      "entry": 0.011511,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=HUSTLEUSDT"
-    },
-    {
-      "datetime": 1758958200000,
-      "symbol": "FTTUSDT",
-      "signal": "SELL",
-      "entry": 0.899,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=FTTUSDT"
-    },
-    {
-      "datetime": 1758957300000,
-      "symbol": "IMAGINEUSDT",
-      "signal": "SELL",
-      "entry": 9.22e-05,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=IMAGINEUSDT"
-    },
-    {
-      "datetime": 1758960000000,
-      "symbol": "ZNDUSDT",
-      "signal": "SELL",
-      "entry": 0.2485,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=ZNDUSDT"
-    },
-    {
-      "datetime": 1758962700000,
-      "symbol": "LIONUSDT",
-      "signal": "SELL",
-      "entry": 0.01552,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=LIONUSDT"
-    },
-    {
-      "datetime": 1758960900000,
-      "symbol": "SYNTUSDT",
-      "signal": "BUY",
-      "entry": 0.0138,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=SYNTUSDT"
-    },
-    {
-      "datetime": 1758960900000,
-      "symbol": "SCUSDT",
-      "signal": "SELL",
-      "entry": 0.002586,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=SCUSDT"
-    },
-    {
       "datetime": 1758963600000,
       "symbol": "OSMOUSDT",
       "signal": "SELL",
@@ -439,6 +349,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=ARUSDT"
+    },
+    {
+      "datetime": 1759136400000,
+      "symbol": "SEIUSDT",
+      "signal": "BUY",
+      "entry": 0.2828,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=SEIUSDT"
     }
   ]
 }
