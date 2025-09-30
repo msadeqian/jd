@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759062600000,
-      "symbol": "MANYUUSDT",
-      "signal": "BUY",
-      "entry": 3.07e-08,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=MANYUUSDT"
-    },
-    {
-      "datetime": 1759067100000,
-      "symbol": "ALICEUSDT",
-      "signal": "BUY",
-      "entry": 0.3125,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ALICEUSDT"
-    },
-    {
-      "datetime": 1759067100000,
-      "symbol": "GLMRUSDT",
-      "signal": "BUY",
-      "entry": 0.0591,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=GLMRUSDT"
-    },
-    {
       "datetime": 1759077000000,
       "symbol": "PROMUSDT",
       "signal": "BUY",
@@ -509,6 +479,36 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=MUBARAKUSDT"
+    },
+    {
+      "datetime": 1759243500000,
+      "symbol": "LDOUSDT",
+      "signal": "SELL",
+      "entry": 1.0999,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=LDOUSDT"
+    },
+    {
+      "datetime": 1759242600000,
+      "symbol": "SUSHIUSDT",
+      "signal": "SELL",
+      "entry": 0.6548,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=SUSHIUSDT"
+    },
+    {
+      "datetime": 1759242600000,
+      "symbol": "DUPEUSDT",
+      "signal": "BUY",
+      "entry": 0.008777,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=DUPEUSDT"
     }
   ]
 }
