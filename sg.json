@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759045500000,
-      "symbol": "ZECUSDT",
-      "signal": "BUY",
-      "entry": 56.65,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ZECUSDT"
-    },
-    {
       "datetime": 1759051800000,
       "symbol": "KMNOUSDT",
       "signal": "SELL",
@@ -489,6 +479,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=STORJUSDT"
+    },
+    {
+      "datetime": 1759221000000,
+      "symbol": "REXUSDT",
+      "signal": "SELL",
+      "entry": 0.020461,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=REXUSDT"
     }
   ]
 }
