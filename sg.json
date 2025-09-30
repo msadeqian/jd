@@ -509,6 +509,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=DUPEUSDT"
+    },
+    {
+      "datetime": 1759248000000,
+      "symbol": "HYPERUSDT",
+      "signal": "SELL",
+      "entry": 0.2381,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=HYPERUSDT"
+    },
+    {
+      "datetime": 1759247100000,
+      "symbol": "1000SATSUSDT",
+      "signal": "BUY",
+      "entry": 3.865e-05,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=1000SATSUSDT"
     }
   ]
 }
