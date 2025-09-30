@@ -469,6 +469,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=FUSDT"
+    },
+    {
+      "datetime": 1759218300000,
+      "symbol": "IOTAUSDT",
+      "signal": "SELL",
+      "entry": 0.1646,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=IOTAUSDT"
+    },
+    {
+      "datetime": 1759218300000,
+      "symbol": "STORJUSDT",
+      "signal": "BUY",
+      "entry": 0.2281,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=STORJUSDT"
     }
   ]
 }
