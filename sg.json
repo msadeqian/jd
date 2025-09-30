@@ -1,86 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759077000000,
-      "symbol": "PROMUSDT",
-      "signal": "BUY",
-      "entry": 10.044,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=PROMUSDT"
-    },
-    {
-      "datetime": 1759077900000,
-      "symbol": "AUSDT",
-      "signal": "BUY",
-      "entry": 0.4071,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=AUSDT"
-    },
-    {
-      "datetime": 1759078800000,
-      "symbol": "ARKUSDT",
-      "signal": "BUY",
-      "entry": 0.4157,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=ARKUSDT"
-    },
-    {
-      "datetime": 1759076100000,
-      "symbol": "MAGICUSDT",
-      "signal": "BUY",
-      "entry": 0.173,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=MAGICUSDT"
-    },
-    {
-      "datetime": 1759077000000,
-      "symbol": "LINKUSDT",
-      "signal": "BUY",
-      "entry": 21.18,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=LINKUSDT"
-    },
-    {
-      "datetime": 1759081500000,
-      "symbol": "AGLDUSDT",
-      "signal": "BUY",
-      "entry": 0.559,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=AGLDUSDT"
-    },
-    {
-      "datetime": 1759084200000,
-      "symbol": "TLMUSDT",
-      "signal": "BUY",
-      "entry": 0.00408,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=TLMUSDT"
-    },
-    {
-      "datetime": 1759084200000,
-      "symbol": "TRBUSDT",
-      "signal": "BUY",
-      "entry": 31.04,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=TRBUSDT"
-    },
-    {
       "datetime": 1759086000000,
       "symbol": "VTHOUSDT",
       "signal": "BUY",
@@ -89,16 +9,6 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=VTHOUSDT"
-    },
-    {
-      "datetime": 1759083300000,
-      "symbol": "HYPERUSDT",
-      "signal": "BUY",
-      "entry": 0.2611,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=HYPERUSDT"
     },
     {
       "datetime": 1759124700000,
@@ -529,6 +439,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=1000SATSUSDT"
+    },
+    {
+      "datetime": 1759257900000,
+      "symbol": "DEXEUSDT",
+      "signal": "BUY",
+      "entry": 9.535,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=DEXEUSDT"
     }
   ]
 }
