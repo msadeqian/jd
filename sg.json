@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1758998700000,
-      "symbol": "SANTOSUSDT",
-      "signal": "BUY",
-      "entry": 1.961,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=SANTOSUSDT"
-    },
-    {
-      "datetime": 1758996900000,
-      "symbol": "PIRATEUSDT",
-      "signal": "BUY",
-      "entry": 0.02529,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=PIRATEUSDT"
-    },
-    {
       "datetime": 1759034700000,
       "symbol": "SUNUSDT",
       "signal": "BUY",
@@ -39,26 +19,6 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=AIXUSDT"
-    },
-    {
-      "datetime": 1759032900000,
-      "symbol": "NEONUSDT",
-      "signal": "SELL",
-      "entry": 0.12307,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=NEONUSDT"
-    },
-    {
-      "datetime": 1759032900000,
-      "symbol": "RYOUSDT",
-      "signal": "SELL",
-      "entry": 6.444,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=RYOUSDT"
     },
     {
       "datetime": 1759036500000,
@@ -469,6 +429,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=EDUUSDT"
+    },
+    {
+      "datetime": 1759207500000,
+      "symbol": "FETUSDT",
+      "signal": "SELL",
+      "entry": 0.5653,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=FETUSDT"
     }
   ]
 }
