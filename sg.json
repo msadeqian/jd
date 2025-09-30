@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759034700000,
-      "symbol": "SUNUSDT",
-      "signal": "BUY",
-      "entry": 0.02632,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=SUNUSDT"
-    },
-    {
-      "datetime": 1759035600000,
-      "symbol": "AIXUSDT",
-      "signal": "BUY",
-      "entry": 0.003354,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=AIXUSDT"
-    },
-    {
-      "datetime": 1759036500000,
-      "symbol": "AIXUSDT",
-      "signal": "BUY",
-      "entry": 0.003354,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=AIXUSDT"
-    },
-    {
       "datetime": 1759045500000,
       "symbol": "ZECUSDT",
       "signal": "BUY",
@@ -439,6 +409,56 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=FETUSDT"
+    },
+    {
+      "datetime": 1759210200000,
+      "symbol": "MUSDT",
+      "signal": "BUY",
+      "entry": 2.455919,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=MUSDT"
+    },
+    {
+      "datetime": 1759209300000,
+      "symbol": "NEARUSDT",
+      "signal": "SELL",
+      "entry": 2.719,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=NEARUSDT"
+    },
+    {
+      "datetime": 1759211100000,
+      "symbol": "IDUSDT",
+      "signal": "SELL",
+      "entry": 0.1462,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=IDUSDT"
+    },
+    {
+      "datetime": 1759212000000,
+      "symbol": "RUNEUSDT",
+      "signal": "SELL",
+      "entry": 1.141,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=RUNEUSDT"
+    },
+    {
+      "datetime": 1759209300000,
+      "symbol": "BANANAS31USDT",
+      "signal": "BUY",
+      "entry": 0.005227,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=BANANAS31USDT"
     }
   ]
 }
