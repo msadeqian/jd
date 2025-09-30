@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759058100000,
-      "symbol": "MSTRUSDT",
-      "signal": "BUY",
-      "entry": 0.12412,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=MSTRUSDT"
-    },
-    {
       "datetime": 1759062600000,
       "symbol": "MANYUUSDT",
       "signal": "BUY",
@@ -499,6 +489,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=OSMOUSDT"
+    },
+    {
+      "datetime": 1759231800000,
+      "symbol": "TUTUSDT",
+      "signal": "SELL",
+      "entry": 0.08337,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=TUTUSDT"
+    },
+    {
+      "datetime": 1759230900000,
+      "symbol": "MUBARAKUSDT",
+      "signal": "SELL",
+      "entry": 0.02836,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=MUBARAKUSDT"
     }
   ]
 }
