@@ -459,6 +459,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=BANANAS31USDT"
+    },
+    {
+      "datetime": 1759213800000,
+      "symbol": "FUSDT",
+      "signal": "SELL",
+      "entry": 0.01232,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=FUSDT"
     }
   ]
 }
