@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759051800000,
-      "symbol": "KMNOUSDT",
-      "signal": "SELL",
-      "entry": 0.06707,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=KMNOUSDT"
-    },
-    {
-      "datetime": 1759051800000,
-      "symbol": "MGOUSDT",
-      "signal": "SELL",
-      "entry": 0.026844,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=MGOUSDT"
-    },
-    {
       "datetime": 1759055400000,
       "symbol": "DIAUSDT",
       "signal": "SELL",
@@ -489,6 +469,36 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=REXUSDT"
+    },
+    {
+      "datetime": 1759224600000,
+      "symbol": "IOSTUSDT",
+      "signal": "SELL",
+      "entry": 0.002946,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=IOSTUSDT"
+    },
+    {
+      "datetime": 1759225500000,
+      "symbol": "GTCUSDT",
+      "signal": "SELL",
+      "entry": 0.257,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=GTCUSDT"
+    },
+    {
+      "datetime": 1759225500000,
+      "symbol": "FLUXUSDT",
+      "signal": "SELL",
+      "entry": 0.1837,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=FLUXUSDT"
     }
   ]
 }
