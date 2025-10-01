@@ -469,6 +469,26 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=AAVEUSDT"
+    },
+    {
+      "datetime": 1759296600000,
+      "symbol": "XTZUSDT",
+      "signal": "BUY",
+      "entry": 0.6783,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=XTZUSDT"
+    },
+    {
+      "datetime": 1759295700000,
+      "symbol": "JTOUSDT",
+      "signal": "BUY",
+      "entry": 1.574,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=JTOUSDT"
     }
   ]
 }
