@@ -1,56 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759157100000,
-      "symbol": "PEPEUSDT",
-      "signal": "BUY",
-      "entry": 9.41e-06,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=PEPEUSDT"
-    },
-    {
-      "datetime": 1759156200000,
-      "symbol": "SEIUSDT",
-      "signal": "BUY",
-      "entry": 0.2839,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=SEIUSDT"
-    },
-    {
-      "datetime": 1759156200000,
-      "symbol": "RAYUSDT",
-      "signal": "BUY",
-      "entry": 2.688,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=RAYUSDT"
-    },
-    {
-      "datetime": 1759156200000,
-      "symbol": "1INCHUSDT",
-      "signal": "BUY",
-      "entry": 0.2395,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=1INCHUSDT"
-    },
-    {
-      "datetime": 1759158000000,
-      "symbol": "RESOLVUSDT",
-      "signal": "BUY",
-      "entry": 0.1093,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=RESOLVUSDT"
-    },
-    {
       "datetime": 1759166100000,
       "symbol": "WLDUSDT",
       "signal": "SELL",
@@ -559,6 +509,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=IOTXUSDT"
+    },
+    {
+      "datetime": 1759332600000,
+      "symbol": "ADXUSDT",
+      "signal": "BUY",
+      "entry": 0.1056,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=ADXUSDT"
+    },
+    {
+      "datetime": 1759334400000,
+      "symbol": "STATUSDT",
+      "signal": "BUY",
+      "entry": 0.12501,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=STATUSDT"
     }
   ]
 }
