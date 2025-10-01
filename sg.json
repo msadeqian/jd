@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759147200000,
-      "symbol": "YALAUSDT",
-      "signal": "SELL",
-      "entry": 0.0846,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=YALAUSDT"
-    },
-    {
-      "datetime": 1759149000000,
-      "symbol": "FLOKIUSDT",
-      "signal": "SELL",
-      "entry": 8.042e-05,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=FLOKIUSDT"
-    },
-    {
       "datetime": 1759150800000,
       "symbol": "AVAUSDT",
       "signal": "SELL",
@@ -609,6 +589,16 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=HUMAUSDT"
+    },
+    {
+      "datetime": 1759322700000,
+      "symbol": "THEUSDT",
+      "signal": "SELL",
+      "entry": 0.4037,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=THEUSDT"
     }
   ]
 }
