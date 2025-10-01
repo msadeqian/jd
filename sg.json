@@ -519,6 +519,76 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=AEVOUSDT"
+    },
+    {
+      "datetime": 1759308300000,
+      "symbol": "HFTUSDT",
+      "signal": "BUY",
+      "entry": 0.0754,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=HFTUSDT"
+    },
+    {
+      "datetime": 1759307400000,
+      "symbol": "TLMUSDT",
+      "signal": "BUY",
+      "entry": 0.00419,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=TLMUSDT"
+    },
+    {
+      "datetime": 1759308300000,
+      "symbol": "TAOUSDT",
+      "signal": "BUY",
+      "entry": 313.4,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=TAOUSDT"
+    },
+    {
+      "datetime": 1759307400000,
+      "symbol": "BATUSDT",
+      "signal": "BUY",
+      "entry": 0.1448,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=BATUSDT"
+    },
+    {
+      "datetime": 1759309200000,
+      "symbol": "ALCXUSDT",
+      "signal": "BUY",
+      "entry": 8.53,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ALCXUSDT"
+    },
+    {
+      "datetime": 1759308300000,
+      "symbol": "DUSKUSDT",
+      "signal": "BUY",
+      "entry": 0.0562,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=DUSKUSDT"
+    },
+    {
+      "datetime": 1759307400000,
+      "symbol": "SCRUSDT",
+      "signal": "BUY",
+      "entry": 0.283,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=SCRUSDT"
     }
   ]
 }
