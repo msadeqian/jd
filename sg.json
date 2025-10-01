@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759136400000,
-      "symbol": "SEIUSDT",
-      "signal": "BUY",
-      "entry": 0.2828,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=SEIUSDT"
-    },
-    {
-      "datetime": 1759137300000,
-      "symbol": "IDEXUSDT",
-      "signal": "SELL",
-      "entry": 0.0252,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=IDEXUSDT"
-    },
-    {
       "datetime": 1759143600000,
       "symbol": "MUSDT",
       "signal": "BUY",
@@ -589,6 +569,66 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=SCRUSDT"
+    },
+    {
+      "datetime": 1759310100000,
+      "symbol": "PROMUSDT",
+      "signal": "BUY",
+      "entry": 9.873,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=PROMUSDT"
+    },
+    {
+      "datetime": 1759311000000,
+      "symbol": "NEARUSDT",
+      "signal": "BUY",
+      "entry": 2.824,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=NEARUSDT"
+    },
+    {
+      "datetime": 1759311900000,
+      "symbol": "ASRUSDT",
+      "signal": "BUY",
+      "entry": 2.263,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ASRUSDT"
+    },
+    {
+      "datetime": 1759310100000,
+      "symbol": "AEVOUSDT",
+      "signal": "BUY",
+      "entry": 0.1154,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=AEVOUSDT"
+    },
+    {
+      "datetime": 1759311000000,
+      "symbol": "UTKUSDT",
+      "signal": "BUY",
+      "entry": 0.02585,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=UTKUSDT"
+    },
+    {
+      "datetime": 1759310100000,
+      "symbol": "LQTYUSDT",
+      "signal": "BUY",
+      "entry": 0.72,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=LQTYUSDT"
     }
   ]
 }
