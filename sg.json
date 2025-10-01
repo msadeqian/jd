@@ -1,46 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759143600000,
-      "symbol": "MUSDT",
-      "signal": "BUY",
-      "entry": 2.343843,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=MUSDT"
-    },
-    {
-      "datetime": 1759144500000,
-      "symbol": "ARBUSDT",
-      "signal": "SELL",
-      "entry": 0.4162,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=ARBUSDT"
-    },
-    {
-      "datetime": 1759146300000,
-      "symbol": "ONDOUSDT",
-      "signal": "SELL",
-      "entry": 0.8799,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=ONDOUSDT"
-    },
-    {
-      "datetime": 1759145400000,
-      "symbol": "FLOCKUSDT",
-      "signal": "SELL",
-      "entry": 0.27992,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=FLOCKUSDT"
-    },
-    {
       "datetime": 1759147200000,
       "symbol": "YALAUSDT",
       "signal": "SELL",
@@ -629,6 +589,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=LQTYUSDT"
+    },
+    {
+      "datetime": 1759320000000,
+      "symbol": "ALEOUSDT",
+      "signal": "BUY",
+      "entry": 0.228274,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ALEOUSDT"
+    },
+    {
+      "datetime": 1759319100000,
+      "symbol": "HUMAUSDT",
+      "signal": "BUY",
+      "entry": 0.03519,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=HUMAUSDT"
     }
   ]
 }
