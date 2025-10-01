@@ -529,6 +529,16 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=STATUSDT"
+    },
+    {
+      "datetime": 1759336200000,
+      "symbol": "SANTOSUSDT",
+      "signal": "SELL",
+      "entry": 1.99,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=SANTOSUSDT"
     }
   ]
 }
