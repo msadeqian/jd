@@ -1,46 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759150800000,
-      "symbol": "AVAUSDT",
-      "signal": "SELL",
-      "entry": 0.4885,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=AVAUSDT"
-    },
-    {
-      "datetime": 1759149900000,
-      "symbol": "BABYUSDT",
-      "signal": "SELL",
-      "entry": 0.04539,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=BABYUSDT"
-    },
-    {
-      "datetime": 1759151700000,
-      "symbol": "ALICEUSDT",
-      "signal": "SELL",
-      "entry": 0.3062,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=ALICEUSDT"
-    },
-    {
-      "datetime": 1759151700000,
-      "symbol": "PYRUSDT",
-      "signal": "SELL",
-      "entry": 0.934,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=PYRUSDT"
-    },
-    {
       "datetime": 1759157100000,
       "symbol": "PEPEUSDT",
       "signal": "BUY",
@@ -49,16 +9,6 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=PEPEUSDT"
-    },
-    {
-      "datetime": 1759155300000,
-      "symbol": "ETCUSDT",
-      "signal": "BUY",
-      "entry": 18.53,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=ETCUSDT"
     },
     {
       "datetime": 1759156200000,
@@ -599,6 +549,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=THEUSDT"
+    },
+    {
+      "datetime": 1759329000000,
+      "symbol": "IOTXUSDT",
+      "signal": "BUY",
+      "entry": 0.02337,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=IOTXUSDT"
     }
   ]
 }
