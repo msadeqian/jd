@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759124700000,
-      "symbol": "ARUSDT",
-      "signal": "SELL",
-      "entry": 5.61,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ARUSDT"
-    },
-    {
       "datetime": 1759136400000,
       "symbol": "SEIUSDT",
       "signal": "BUY",
@@ -489,6 +479,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=JTOUSDT"
+    },
+    {
+      "datetime": 1759299300000,
+      "symbol": "SQTUSDT",
+      "signal": "BUY",
+      "entry": 0.0012316,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=SQTUSDT"
+    },
+    {
+      "datetime": 1759302000000,
+      "symbol": "LINKUSDT",
+      "signal": "SELL",
+      "entry": 21.18,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=LINKUSDT"
     }
   ]
 }
