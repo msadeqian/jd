@@ -499,6 +499,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=LINKUSDT"
+    },
+    {
+      "datetime": 1759304700000,
+      "symbol": "CHZUSDT",
+      "signal": "BUY",
+      "entry": 0.0418,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=CHZUSDT"
+    },
+    {
+      "datetime": 1759305600000,
+      "symbol": "AEVOUSDT",
+      "signal": "SELL",
+      "entry": 0.1097,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=AEVOUSDT"
     }
   ]
 }
