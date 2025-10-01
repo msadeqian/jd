@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759086000000,
-      "symbol": "VTHOUSDT",
-      "signal": "BUY",
-      "entry": 0.001604,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=VTHOUSDT"
-    },
-    {
       "datetime": 1759124700000,
       "symbol": "ARUSDT",
       "signal": "SELL",
@@ -449,6 +439,36 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=DEXEUSDT"
+    },
+    {
+      "datetime": 1759292100000,
+      "symbol": "ALPINEUSDT",
+      "signal": "SELL",
+      "entry": 1.655,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=ALPINEUSDT"
+    },
+    {
+      "datetime": 1759292100000,
+      "symbol": "CVXUSDT",
+      "signal": "BUY",
+      "entry": 3.17,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=CVXUSDT"
+    },
+    {
+      "datetime": 1759293900000,
+      "symbol": "AAVEUSDT",
+      "signal": "SELL",
+      "entry": 271.39,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=AAVEUSDT"
     }
   ]
 }
