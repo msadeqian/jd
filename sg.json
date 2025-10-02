@@ -349,6 +349,76 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=MANAUSDT"
+    },
+    {
+      "datetime": 1759426200000,
+      "symbol": "GLMRUSDT",
+      "signal": "BUY",
+      "entry": 0.0596,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=GLMRUSDT"
+    },
+    {
+      "datetime": 1759425300000,
+      "symbol": "YALAUSDT",
+      "signal": "BUY",
+      "entry": 0.1021,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=YALAUSDT"
+    },
+    {
+      "datetime": 1759428000000,
+      "symbol": "AIXBTUSDT",
+      "signal": "BUY",
+      "entry": 0.1006,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=AIXBTUSDT"
+    },
+    {
+      "datetime": 1759428000000,
+      "symbol": "ANIMEUSDT",
+      "signal": "BUY",
+      "entry": 0.01486,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ANIMEUSDT"
+    },
+    {
+      "datetime": 1759428000000,
+      "symbol": "OMUSDT",
+      "signal": "BUY",
+      "entry": 0.177,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=OMUSDT"
+    },
+    {
+      "datetime": 1759428000000,
+      "symbol": "HIVEUSDT",
+      "signal": "BUY",
+      "entry": 0.1908,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=HIVEUSDT"
+    },
+    {
+      "datetime": 1759428000000,
+      "symbol": "AAVEUSDT",
+      "signal": "BUY",
+      "entry": 288.82,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=AAVEUSDT"
     }
   ]
 }
