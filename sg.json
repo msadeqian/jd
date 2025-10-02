@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759207500000,
-      "symbol": "FETUSDT",
-      "signal": "SELL",
-      "entry": 0.5653,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=FETUSDT"
-    },
-    {
       "datetime": 1759210200000,
       "symbol": "MUSDT",
       "signal": "BUY",
@@ -19,16 +9,6 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=MUSDT"
-    },
-    {
-      "datetime": 1759209300000,
-      "symbol": "NEARUSDT",
-      "signal": "SELL",
-      "entry": 2.719,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=NEARUSDT"
     },
     {
       "datetime": 1759211100000,
@@ -49,16 +29,6 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=RUNEUSDT"
-    },
-    {
-      "datetime": 1759209300000,
-      "symbol": "BANANAS31USDT",
-      "signal": "BUY",
-      "entry": 0.005227,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=BANANAS31USDT"
     },
     {
       "datetime": 1759213800000,
@@ -519,6 +489,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=REZUSDT"
+    },
+    {
+      "datetime": 1759383000000,
+      "symbol": "HEIUSDT",
+      "signal": "BUY",
+      "entry": 0.3749,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=HEIUSDT"
     }
   ]
 }
