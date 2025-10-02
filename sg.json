@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759166100000,
-      "symbol": "WLDUSDT",
-      "signal": "SELL",
-      "entry": 1.266,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=WLDUSDT"
-    },
-    {
-      "datetime": 1759167000000,
-      "symbol": "KAIAUSDT",
-      "signal": "SELL",
-      "entry": 0.1521,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=KAIAUSDT"
-    },
-    {
-      "datetime": 1759167900000,
-      "symbol": "EDUUSDT",
-      "signal": "SELL",
-      "entry": 0.1301,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=EDUUSDT"
-    },
-    {
       "datetime": 1759207500000,
       "symbol": "FETUSDT",
       "signal": "SELL",
@@ -539,6 +509,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=SANTOSUSDT"
+    },
+    {
+      "datetime": 1759380300000,
+      "symbol": "REZUSDT",
+      "signal": "BUY",
+      "entry": 0.01215,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=REZUSDT"
     }
   ]
 }
