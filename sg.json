@@ -1,76 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759231800000,
-      "symbol": "TUTUSDT",
-      "signal": "SELL",
-      "entry": 0.08337,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=TUTUSDT"
-    },
-    {
-      "datetime": 1759230900000,
-      "symbol": "MUBARAKUSDT",
-      "signal": "SELL",
-      "entry": 0.02836,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=MUBARAKUSDT"
-    },
-    {
-      "datetime": 1759243500000,
-      "symbol": "LDOUSDT",
-      "signal": "SELL",
-      "entry": 1.0999,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=LDOUSDT"
-    },
-    {
-      "datetime": 1759242600000,
-      "symbol": "SUSHIUSDT",
-      "signal": "SELL",
-      "entry": 0.6548,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=SUSHIUSDT"
-    },
-    {
-      "datetime": 1759242600000,
-      "symbol": "DUPEUSDT",
-      "signal": "BUY",
-      "entry": 0.008777,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=DUPEUSDT"
-    },
-    {
-      "datetime": 1759248000000,
-      "symbol": "HYPERUSDT",
-      "signal": "SELL",
-      "entry": 0.2381,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=HYPERUSDT"
-    },
-    {
-      "datetime": 1759247100000,
-      "symbol": "1000SATSUSDT",
-      "signal": "BUY",
-      "entry": 3.865e-05,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=1000SATSUSDT"
-    },
-    {
       "datetime": 1759257900000,
       "symbol": "DEXEUSDT",
       "signal": "BUY",
@@ -409,6 +339,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=ICNTUSDT"
+    },
+    {
+      "datetime": 1759421700000,
+      "symbol": "MANAUSDT",
+      "signal": "BUY",
+      "entry": 0.33312,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=MANAUSDT"
     }
   ]
 }
