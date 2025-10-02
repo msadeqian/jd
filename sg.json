@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759229100000,
-      "symbol": "OSMOUSDT",
-      "signal": "SELL",
-      "entry": 0.1341,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=OSMOUSDT"
-    },
-    {
       "datetime": 1759231800000,
       "symbol": "TUTUSDT",
       "signal": "SELL",
@@ -409,6 +399,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=PAXGUSDT"
+    },
+    {
+      "datetime": 1759403700000,
+      "symbol": "ICNTUSDT",
+      "signal": "SELL",
+      "entry": 0.2437,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ICNTUSDT"
     }
   ]
 }
