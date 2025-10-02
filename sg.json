@@ -1,106 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759210200000,
-      "symbol": "MUSDT",
-      "signal": "BUY",
-      "entry": 2.455919,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=MUSDT"
-    },
-    {
-      "datetime": 1759211100000,
-      "symbol": "IDUSDT",
-      "signal": "SELL",
-      "entry": 0.1462,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=IDUSDT"
-    },
-    {
-      "datetime": 1759212000000,
-      "symbol": "RUNEUSDT",
-      "signal": "SELL",
-      "entry": 1.141,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=RUNEUSDT"
-    },
-    {
-      "datetime": 1759213800000,
-      "symbol": "FUSDT",
-      "signal": "SELL",
-      "entry": 0.01232,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=FUSDT"
-    },
-    {
-      "datetime": 1759218300000,
-      "symbol": "IOTAUSDT",
-      "signal": "SELL",
-      "entry": 0.1646,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=IOTAUSDT"
-    },
-    {
-      "datetime": 1759218300000,
-      "symbol": "STORJUSDT",
-      "signal": "BUY",
-      "entry": 0.2281,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=STORJUSDT"
-    },
-    {
-      "datetime": 1759221000000,
-      "symbol": "REXUSDT",
-      "signal": "SELL",
-      "entry": 0.020461,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=REXUSDT"
-    },
-    {
-      "datetime": 1759224600000,
-      "symbol": "IOSTUSDT",
-      "signal": "SELL",
-      "entry": 0.002946,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=IOSTUSDT"
-    },
-    {
-      "datetime": 1759225500000,
-      "symbol": "GTCUSDT",
-      "signal": "SELL",
-      "entry": 0.257,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=GTCUSDT"
-    },
-    {
-      "datetime": 1759225500000,
-      "symbol": "FLUXUSDT",
-      "signal": "SELL",
-      "entry": 0.1837,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=FLUXUSDT"
-    },
-    {
       "datetime": 1759229100000,
       "symbol": "OSMOUSDT",
       "signal": "SELL",
@@ -499,6 +399,16 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=HEIUSDT"
+    },
+    {
+      "datetime": 1759400100000,
+      "symbol": "PAXGUSDT",
+      "signal": "BUY",
+      "entry": 3885.16,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=PAXGUSDT"
     }
   ]
 }
