@@ -429,6 +429,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=ALICEUSDT"
+    },
+    {
+      "datetime": 1759513500000,
+      "symbol": "ABUSDT",
+      "signal": "BUY",
+      "entry": 0.008308,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=ABUSDT"
     }
   ]
 }
