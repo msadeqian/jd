@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759334400000,
-      "symbol": "STATUSDT",
-      "signal": "BUY",
-      "entry": 0.12501,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=STATUSDT"
-    },
-    {
-      "datetime": 1759336200000,
-      "symbol": "SANTOSUSDT",
-      "signal": "SELL",
-      "entry": 1.99,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=SANTOSUSDT"
-    },
-    {
       "datetime": 1759380300000,
       "symbol": "REZUSDT",
       "signal": "BUY",
@@ -389,6 +369,66 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=RENDERUSDT"
+    },
+    {
+      "datetime": 1759508100000,
+      "symbol": "YALAUSDT",
+      "signal": "BUY",
+      "entry": 0.1037,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=YALAUSDT"
+    },
+    {
+      "datetime": 1759509000000,
+      "symbol": "ARPAUSDT",
+      "signal": "BUY",
+      "entry": 0.02196,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=ARPAUSDT"
+    },
+    {
+      "datetime": 1759509000000,
+      "symbol": "ADXUSDT",
+      "signal": "BUY",
+      "entry": 0.1109,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=ADXUSDT"
+    },
+    {
+      "datetime": 1759508100000,
+      "symbol": "ARBUSDT",
+      "signal": "BUY",
+      "entry": 0.4559,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=ARBUSDT"
+    },
+    {
+      "datetime": 1759509900000,
+      "symbol": "LQTYUSDT",
+      "signal": "BUY",
+      "entry": 0.762,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=LQTYUSDT"
+    },
+    {
+      "datetime": 1759509000000,
+      "symbol": "ALICEUSDT",
+      "signal": "BUY",
+      "entry": 0.3262,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ALICEUSDT"
     }
   ]
 }
