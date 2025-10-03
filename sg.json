@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759320000000,
-      "symbol": "ALEOUSDT",
-      "signal": "BUY",
-      "entry": 0.228274,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ALEOUSDT"
-    },
-    {
-      "datetime": 1759319100000,
-      "symbol": "HUMAUSDT",
-      "signal": "BUY",
-      "entry": 0.03519,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=HUMAUSDT"
-    },
-    {
-      "datetime": 1759322700000,
-      "symbol": "THEUSDT",
-      "signal": "SELL",
-      "entry": 0.4037,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=THEUSDT"
-    },
-    {
       "datetime": 1759329000000,
       "symbol": "IOTXUSDT",
       "signal": "BUY",
@@ -309,6 +279,36 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=RENDERUSDT"
+    },
+    {
+      "datetime": 1759497300000,
+      "symbol": "AAVEUSDT",
+      "signal": "BUY",
+      "entry": 289.59,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=AAVEUSDT"
+    },
+    {
+      "datetime": 1759498200000,
+      "symbol": "MBOXUSDT",
+      "signal": "BUY",
+      "entry": 0.0584,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=MBOXUSDT"
+    },
+    {
+      "datetime": 1759498200000,
+      "symbol": "LOOKUSDT",
+      "signal": "SELL",
+      "entry": 0.0585,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=LOOKUSDT"
     }
   ]
 }
