@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759400100000,
-      "symbol": "PAXGUSDT",
-      "signal": "BUY",
-      "entry": 3885.16,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=PAXGUSDT"
-    },
-    {
       "datetime": 1759403700000,
       "symbol": "ICNTUSDT",
       "signal": "SELL",
@@ -569,6 +559,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=ALICEUSDT"
+    },
+    {
+      "datetime": 1759574700000,
+      "symbol": "DOGEUSDT",
+      "signal": "SELL",
+      "entry": 0.2496,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=DOGEUSDT"
+    },
+    {
+      "datetime": 1759575600000,
+      "symbol": "LAUSDT",
+      "signal": "SELL",
+      "entry": 0.3727,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=LAUSDT"
     }
   ]
 }
