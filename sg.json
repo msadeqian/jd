@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759421700000,
-      "symbol": "MANAUSDT",
-      "signal": "BUY",
-      "entry": 0.33312,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=MANAUSDT"
-    },
-    {
       "datetime": 1759426200000,
       "symbol": "GLMRUSDT",
       "signal": "BUY",
@@ -659,6 +649,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=GTCUSDT"
+    },
+    {
+      "datetime": 1759597200000,
+      "symbol": "RIOUSDT",
+      "signal": "SELL",
+      "entry": 0.2601,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=RIOUSDT"
     }
   ]
 }
