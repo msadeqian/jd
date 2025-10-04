@@ -1,86 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759426200000,
-      "symbol": "GLMRUSDT",
-      "signal": "BUY",
-      "entry": 0.0596,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=GLMRUSDT"
-    },
-    {
-      "datetime": 1759428000000,
-      "symbol": "AIXBTUSDT",
-      "signal": "BUY",
-      "entry": 0.1006,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=AIXBTUSDT"
-    },
-    {
-      "datetime": 1759428000000,
-      "symbol": "ANIMEUSDT",
-      "signal": "BUY",
-      "entry": 0.01486,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ANIMEUSDT"
-    },
-    {
-      "datetime": 1759428000000,
-      "symbol": "OMUSDT",
-      "signal": "BUY",
-      "entry": 0.177,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=OMUSDT"
-    },
-    {
-      "datetime": 1759428000000,
-      "symbol": "HIVEUSDT",
-      "signal": "BUY",
-      "entry": 0.1908,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=HIVEUSDT"
-    },
-    {
-      "datetime": 1759428000000,
-      "symbol": "AAVEUSDT",
-      "signal": "BUY",
-      "entry": 288.82,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=AAVEUSDT"
-    },
-    {
-      "datetime": 1759428900000,
-      "symbol": "ETCUSDT",
-      "signal": "BUY",
-      "entry": 19.91,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ETCUSDT"
-    },
-    {
-      "datetime": 1759428900000,
-      "symbol": "SOPHUSDT",
-      "signal": "BUY",
-      "entry": 0.02907,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=SOPHUSDT"
-    },
-    {
       "datetime": 1759431600000,
       "symbol": "BANANAS31USDT",
       "signal": "BUY",
@@ -89,16 +9,6 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=BANANAS31USDT"
-    },
-    {
-      "datetime": 1759428900000,
-      "symbol": "LUNCUSDT",
-      "signal": "BUY",
-      "entry": 5.734e-05,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=LUNCUSDT"
     },
     {
       "datetime": 1759431600000,
@@ -659,6 +569,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=POWRUSDT"
+    },
+    {
+      "datetime": 1759604400000,
+      "symbol": "CELOUSDT",
+      "signal": "BUY",
+      "entry": 0.338,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=CELOUSDT"
     }
   ]
 }
