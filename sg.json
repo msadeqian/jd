@@ -489,6 +489,36 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=MATUSDT"
+    },
+    {
+      "datetime": 1759568400000,
+      "symbol": "AUCTIONUSDT",
+      "signal": "SELL",
+      "entry": 8.65,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=AUCTIONUSDT"
+    },
+    {
+      "datetime": 1759567500000,
+      "symbol": "SEIUSDT",
+      "signal": "SELL",
+      "entry": 0.2914,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=SEIUSDT"
+    },
+    {
+      "datetime": 1759566600000,
+      "symbol": "STORJUSDT",
+      "signal": "SELL",
+      "entry": 0.2385,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=STORJUSDT"
     }
   ]
 }
