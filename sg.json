@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759383000000,
-      "symbol": "HEIUSDT",
-      "signal": "BUY",
-      "entry": 0.3749,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=HEIUSDT"
-    },
-    {
       "datetime": 1759400100000,
       "symbol": "PAXGUSDT",
       "signal": "BUY",
@@ -449,6 +439,36 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=AIUSDT"
+    },
+    {
+      "datetime": 1759559400000,
+      "symbol": "HOOKUSDT",
+      "signal": "BUY",
+      "entry": 0.1153,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=HOOKUSDT"
+    },
+    {
+      "datetime": 1759559400000,
+      "symbol": "PNUTUSDT",
+      "signal": "BUY",
+      "entry": 0.2257,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=PNUTUSDT"
+    },
+    {
+      "datetime": 1759559400000,
+      "symbol": "IOSTUSDT",
+      "signal": "BUY",
+      "entry": 0.00314,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=IOSTUSDT"
     }
   ]
 }
