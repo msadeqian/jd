@@ -11,16 +11,6 @@
       "url": "https://www.tradingview.com/chart?symbol=GLMRUSDT"
     },
     {
-      "datetime": 1759425300000,
-      "symbol": "YALAUSDT",
-      "signal": "BUY",
-      "entry": 0.1021,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=YALAUSDT"
-    },
-    {
       "datetime": 1759428000000,
       "symbol": "AIXBTUSDT",
       "signal": "BUY",
@@ -659,6 +649,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=RIOUSDT"
+    },
+    {
+      "datetime": 1759599000000,
+      "symbol": "POWRUSDT",
+      "signal": "SELL",
+      "entry": 0.1477,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=POWRUSDT"
     }
   ]
 }
