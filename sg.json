@@ -469,6 +469,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=IOSTUSDT"
+    },
+    {
+      "datetime": 1759564800000,
+      "symbol": "STOUSDT",
+      "signal": "SELL",
+      "entry": 0.0887,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=STOUSDT"
+    },
+    {
+      "datetime": 1759563900000,
+      "symbol": "MATUSDT",
+      "signal": "SELL",
+      "entry": 0.6511,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=MATUSDT"
     }
   ]
 }
