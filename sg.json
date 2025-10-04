@@ -589,6 +589,36 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=COAUSDT"
+    },
+    {
+      "datetime": 1759588200000,
+      "symbol": "TOWNSUSDT",
+      "signal": "SELL",
+      "entry": 0.01905,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=TOWNSUSDT"
+    },
+    {
+      "datetime": 1759589100000,
+      "symbol": "INJUSDT",
+      "signal": "SELL",
+      "entry": 12.85,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=INJUSDT"
+    },
+    {
+      "datetime": 1759589100000,
+      "symbol": "AUDIOUSDT",
+      "signal": "SELL",
+      "entry": 0.0557,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=AUDIOUSDT"
     }
   ]
 }
