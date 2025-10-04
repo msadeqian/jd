@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759403700000,
-      "symbol": "ICNTUSDT",
-      "signal": "SELL",
-      "entry": 0.2437,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ICNTUSDT"
-    },
-    {
       "datetime": 1759421700000,
       "symbol": "MANAUSDT",
       "signal": "BUY",
@@ -589,6 +579,16 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=DUSDT"
+    },
+    {
+      "datetime": 1759584600000,
+      "symbol": "COAUSDT",
+      "signal": "BUY",
+      "entry": 0.009233,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=COAUSDT"
     }
   ]
 }
