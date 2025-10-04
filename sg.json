@@ -519,6 +519,56 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=STORJUSDT"
+    },
+    {
+      "datetime": 1759570200000,
+      "symbol": "OLUSDT",
+      "signal": "BUY",
+      "entry": 0.03959,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=OLUSDT"
+    },
+    {
+      "datetime": 1759570200000,
+      "symbol": "FILUSDT",
+      "signal": "SELL",
+      "entry": 2.336,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=FILUSDT"
+    },
+    {
+      "datetime": 1759571100000,
+      "symbol": "SLPUSDT",
+      "signal": "SELL",
+      "entry": 0.001614,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=SLPUSDT"
+    },
+    {
+      "datetime": 1759571100000,
+      "symbol": "RDNTUSDT",
+      "signal": "SELL",
+      "entry": 0.02056,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=RDNTUSDT"
+    },
+    {
+      "datetime": 1759571100000,
+      "symbol": "ALICEUSDT",
+      "signal": "SELL",
+      "entry": 0.3113,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ALICEUSDT"
     }
   ]
 }
