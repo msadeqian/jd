@@ -569,6 +569,46 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=ADAUSDT"
+    },
+    {
+      "datetime": 1759644000000,
+      "symbol": "COSUSDT",
+      "signal": "BUY",
+      "entry": 0.003117,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=COSUSDT"
+    },
+    {
+      "datetime": 1759641300000,
+      "symbol": "ICNTUSDT",
+      "signal": "BUY",
+      "entry": 0.2699,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ICNTUSDT"
+    },
+    {
+      "datetime": 1759641300000,
+      "symbol": "JOEUSDT",
+      "signal": "BUY",
+      "entry": 0.1687,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=JOEUSDT"
+    },
+    {
+      "datetime": 1759641300000,
+      "symbol": "NEIROUSDT",
+      "signal": "BUY",
+      "entry": 0.00029212,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=NEIROUSDT"
     }
   ]
 }
