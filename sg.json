@@ -1,46 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759497300000,
-      "symbol": "AAVEUSDT",
-      "signal": "BUY",
-      "entry": 289.59,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=AAVEUSDT"
-    },
-    {
-      "datetime": 1759498200000,
-      "symbol": "MBOXUSDT",
-      "signal": "BUY",
-      "entry": 0.0584,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=MBOXUSDT"
-    },
-    {
-      "datetime": 1759498200000,
-      "symbol": "LOOKUSDT",
-      "signal": "SELL",
-      "entry": 0.0585,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=LOOKUSDT"
-    },
-    {
-      "datetime": 1759500900000,
-      "symbol": "INUSDT",
-      "signal": "BUY",
-      "entry": 0.1004,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=INUSDT"
-    },
-    {
       "datetime": 1759503600000,
       "symbol": "PENDLEUSDT",
       "signal": "SELL",
@@ -49,16 +9,6 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=PENDLEUSDT"
-    },
-    {
-      "datetime": 1759501800000,
-      "symbol": "CVXUSDT",
-      "signal": "BUY",
-      "entry": 3.463,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=CVXUSDT"
     },
     {
       "datetime": 1759507200000,
@@ -669,6 +619,26 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=STORJUSDT"
+    },
+    {
+      "datetime": 1759673700000,
+      "symbol": "ILVUSDT",
+      "signal": "SELL",
+      "entry": 14.98,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ILVUSDT"
+    },
+    {
+      "datetime": 1759676400000,
+      "symbol": "GLMUSDT",
+      "signal": "SELL",
+      "entry": 0.2243,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=GLMUSDT"
     }
   ]
 }
