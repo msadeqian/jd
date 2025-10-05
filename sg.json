@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759503600000,
-      "symbol": "PENDLEUSDT",
-      "signal": "SELL",
-      "entry": 4.857,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=PENDLEUSDT"
-    },
-    {
       "datetime": 1759507200000,
       "symbol": "WLDUSDT",
       "signal": "BUY",
@@ -39,16 +29,6 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=SYRUPUSDT"
-    },
-    {
-      "datetime": 1759505400000,
-      "symbol": "BOMEUSDT",
-      "signal": "BUY",
-      "entry": 0.001772,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=BOMEUSDT"
     },
     {
       "datetime": 1759507200000,
@@ -639,6 +619,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=GLMUSDT"
+    },
+    {
+      "datetime": 1759679100000,
+      "symbol": "FUSDT",
+      "signal": "BUY",
+      "entry": 0.01243,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=FUSDT"
     }
   ]
 }
