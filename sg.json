@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759431600000,
-      "symbol": "BANANAS31USDT",
-      "signal": "BUY",
-      "entry": 0.005383,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=BANANAS31USDT"
-    },
-    {
-      "datetime": 1759431600000,
-      "symbol": "FETUSDT",
-      "signal": "BUY",
-      "entry": 0.6065,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=FETUSDT"
-    },
-    {
       "datetime": 1759473900000,
       "symbol": "DCRUSDT",
       "signal": "BUY",
@@ -579,6 +559,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=CELOUSDT"
+    },
+    {
+      "datetime": 1759640400000,
+      "symbol": "ADAUSDT",
+      "signal": "BUY",
+      "entry": 0.8703,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=ADAUSDT"
     }
   ]
 }
