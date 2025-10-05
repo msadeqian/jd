@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759509900000,
-      "symbol": "LQTYUSDT",
-      "signal": "BUY",
-      "entry": 0.762,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=LQTYUSDT"
-    },
-    {
       "datetime": 1759513500000,
       "symbol": "ABUSDT",
       "signal": "BUY",
@@ -529,6 +519,36 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=BIGTIMEUSDT"
+    },
+    {
+      "datetime": 1759684500000,
+      "symbol": "SOPHUSDT",
+      "signal": "SELL",
+      "entry": 0.02906,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=SOPHUSDT"
+    },
+    {
+      "datetime": 1759685400000,
+      "symbol": "ENJUSDT",
+      "signal": "SELL",
+      "entry": 0.0628,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ENJUSDT"
+    },
+    {
+      "datetime": 1759686300000,
+      "symbol": "BLUEUSDT",
+      "signal": "SELL",
+      "entry": 0.1171,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=BLUEUSDT"
     }
   ]
 }
