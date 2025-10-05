@@ -1,106 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759507200000,
-      "symbol": "WLDUSDT",
-      "signal": "BUY",
-      "entry": 1.362,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=WLDUSDT"
-    },
-    {
-      "datetime": 1759507200000,
-      "symbol": "MNSRYUSDT",
-      "signal": "BUY",
-      "entry": 0.03141,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=MNSRYUSDT"
-    },
-    {
-      "datetime": 1759507200000,
-      "symbol": "SYRUPUSDT",
-      "signal": "BUY",
-      "entry": 0.4178,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=SYRUPUSDT"
-    },
-    {
-      "datetime": 1759507200000,
-      "symbol": "DOGEUSDT",
-      "signal": "BUY",
-      "entry": 0.2614,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=DOGEUSDT"
-    },
-    {
-      "datetime": 1759507200000,
-      "symbol": "LAYERUSDT",
-      "signal": "BUY",
-      "entry": 0.429,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=LAYERUSDT"
-    },
-    {
-      "datetime": 1759506300000,
-      "symbol": "RENDERUSDT",
-      "signal": "BUY",
-      "entry": 3.669,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=RENDERUSDT"
-    },
-    {
-      "datetime": 1759508100000,
-      "symbol": "YALAUSDT",
-      "signal": "BUY",
-      "entry": 0.1037,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=YALAUSDT"
-    },
-    {
-      "datetime": 1759509000000,
-      "symbol": "ARPAUSDT",
-      "signal": "BUY",
-      "entry": 0.02196,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=ARPAUSDT"
-    },
-    {
-      "datetime": 1759509000000,
-      "symbol": "ADXUSDT",
-      "signal": "BUY",
-      "entry": 0.1109,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=ADXUSDT"
-    },
-    {
-      "datetime": 1759508100000,
-      "symbol": "ARBUSDT",
-      "signal": "BUY",
-      "entry": 0.4559,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=ARBUSDT"
-    },
-    {
       "datetime": 1759509900000,
       "symbol": "LQTYUSDT",
       "signal": "BUY",
@@ -109,16 +9,6 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=LQTYUSDT"
-    },
-    {
-      "datetime": 1759509000000,
-      "symbol": "ALICEUSDT",
-      "signal": "BUY",
-      "entry": 0.3262,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ALICEUSDT"
     },
     {
       "datetime": 1759513500000,
@@ -629,6 +519,16 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=FUSDT"
+    },
+    {
+      "datetime": 1759682700000,
+      "symbol": "BIGTIMEUSDT",
+      "signal": "SELL",
+      "entry": 0.04872,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=BIGTIMEUSDT"
     }
   ]
 }
