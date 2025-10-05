@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759489200000,
-      "symbol": "PEPEUSDT",
-      "signal": "SELL",
-      "entry": 9.94e-06,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=PEPEUSDT"
-    },
-    {
       "datetime": 1759497300000,
       "symbol": "AAVEUSDT",
       "signal": "BUY",
@@ -649,6 +639,26 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=FLMUSDT"
+    },
+    {
+      "datetime": 1759663800000,
+      "symbol": "OMIUSDT",
+      "signal": "SELL",
+      "entry": 0.0003261,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=OMIUSDT"
+    },
+    {
+      "datetime": 1759662900000,
+      "symbol": "DIAUSDT",
+      "signal": "SELL",
+      "entry": 0.5683,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=DIAUSDT"
     }
   ]
 }
