@@ -659,6 +659,16 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=DIAUSDT"
+    },
+    {
+      "datetime": 1759668300000,
+      "symbol": "STORJUSDT",
+      "signal": "SELL",
+      "entry": 0.2362,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=STORJUSDT"
     }
   ]
 }
