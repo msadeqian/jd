@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759486500000,
-      "symbol": "LINKUSDT",
-      "signal": "SELL",
-      "entry": 22.36,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=LINKUSDT"
-    },
-    {
       "datetime": 1759489200000,
       "symbol": "PEPEUSDT",
       "signal": "SELL",
@@ -19,36 +9,6 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=PEPEUSDT"
-    },
-    {
-      "datetime": 1759488300000,
-      "symbol": "BLOCKUSDT",
-      "signal": "SELL",
-      "entry": 0.000477,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=BLOCKUSDT"
-    },
-    {
-      "datetime": 1759488300000,
-      "symbol": "EIGENUSDT",
-      "signal": "BUY",
-      "entry": 1.818,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=EIGENUSDT"
-    },
-    {
-      "datetime": 1759486500000,
-      "symbol": "RENDERUSDT",
-      "signal": "SELL",
-      "entry": 3.584,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=RENDERUSDT"
     },
     {
       "datetime": 1759497300000,
@@ -659,6 +619,36 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=LAZIOUSDT"
+    },
+    {
+      "datetime": 1759660200000,
+      "symbol": "RICEUSDT",
+      "signal": "BUY",
+      "entry": 0.02066,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=RICEUSDT"
+    },
+    {
+      "datetime": 1759662000000,
+      "symbol": "BSXUSDT",
+      "signal": "SELL",
+      "entry": 0.027461,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=BSXUSDT"
+    },
+    {
+      "datetime": 1759660200000,
+      "symbol": "FLMUSDT",
+      "signal": "SELL",
+      "entry": 0.0254,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=FLMUSDT"
     }
   ]
 }
