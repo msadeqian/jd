@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759473900000,
-      "symbol": "DCRUSDT",
-      "signal": "BUY",
-      "entry": 20.89,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=DCRUSDT"
-    },
-    {
-      "datetime": 1759476600000,
-      "symbol": "SPXUSDT",
-      "signal": "BUY",
-      "entry": 1.232,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=SPXUSDT"
-    },
-    {
       "datetime": 1759486500000,
       "symbol": "LINKUSDT",
       "signal": "SELL",
@@ -629,6 +609,46 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=BIGTIMEUSDT"
+    },
+    {
+      "datetime": 1759651200000,
+      "symbol": "CKBUSDT",
+      "signal": "BUY",
+      "entry": 0.004414,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=CKBUSDT"
+    },
+    {
+      "datetime": 1759650300000,
+      "symbol": "PAPARAZZIUSDT",
+      "signal": "BUY",
+      "entry": 0.04512,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=PAPARAZZIUSDT"
+    },
+    {
+      "datetime": 1759648500000,
+      "symbol": "LAYERUSDT",
+      "signal": "BUY",
+      "entry": 0.4206,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=LAYERUSDT"
+    },
+    {
+      "datetime": 1759648500000,
+      "symbol": "SPKUSDT",
+      "signal": "BUY",
+      "entry": 0.052819,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=SPKUSDT"
     }
   ]
 }
