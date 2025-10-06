@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759584600000,
-      "symbol": "COAUSDT",
-      "signal": "BUY",
-      "entry": 0.009233,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=COAUSDT"
-    },
-    {
       "datetime": 1759588200000,
       "symbol": "TOWNSUSDT",
       "signal": "SELL",
@@ -559,6 +549,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=HIVEUSDT"
+    },
+    {
+      "datetime": 1759756500000,
+      "symbol": "INJUSDT",
+      "signal": "BUY",
+      "entry": 13.24,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=INJUSDT"
+    },
+    {
+      "datetime": 1759758300000,
+      "symbol": "DOTUSDT",
+      "signal": "BUY",
+      "entry": 4.41,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=DOTUSDT"
     }
   ]
 }
