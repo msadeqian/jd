@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759593600000,
-      "symbol": "GTCUSDT",
-      "signal": "SELL",
-      "entry": 0.279,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=GTCUSDT"
-    },
-    {
       "datetime": 1759597200000,
       "symbol": "RIOUSDT",
       "signal": "SELL",
@@ -539,6 +529,26 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=RHEAUSDT"
+    },
+    {
+      "datetime": 1759768200000,
+      "symbol": "HOMEUSDT",
+      "signal": "BUY",
+      "entry": 0.03113,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=HOMEUSDT"
+    },
+    {
+      "datetime": 1759770000000,
+      "symbol": "QUAIUSDT",
+      "signal": "SELL",
+      "entry": 0.04274,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=QUAIUSDT"
     }
   ]
 }
