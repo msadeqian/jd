@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759574700000,
-      "symbol": "DOGEUSDT",
-      "signal": "SELL",
-      "entry": 0.2496,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=DOGEUSDT"
-    },
-    {
       "datetime": 1759575600000,
       "symbol": "LAUSDT",
       "signal": "SELL",
@@ -539,6 +529,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=PYRUSDT"
+    },
+    {
+      "datetime": 1759748400000,
+      "symbol": "AAPLXUSDT",
+      "signal": "BUY",
+      "entry": 259.45,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=AAPLXUSDT"
     }
   ]
 }
