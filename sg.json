@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759559400000,
-      "symbol": "HOOKUSDT",
-      "signal": "BUY",
-      "entry": 0.1153,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=HOOKUSDT"
-    },
-    {
-      "datetime": 1759559400000,
-      "symbol": "PNUTUSDT",
-      "signal": "BUY",
-      "entry": 0.2257,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=PNUTUSDT"
-    },
-    {
-      "datetime": 1759559400000,
-      "symbol": "IOSTUSDT",
-      "signal": "BUY",
-      "entry": 0.00314,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=IOSTUSDT"
-    },
-    {
       "datetime": 1759564800000,
       "symbol": "STOUSDT",
       "signal": "SELL",
@@ -579,6 +549,36 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=LTCUSDT"
+    },
+    {
+      "datetime": 1759731300000,
+      "symbol": "AAVEUSDT",
+      "signal": "BUY",
+      "entry": 289.76,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=AAVEUSDT"
+    },
+    {
+      "datetime": 1759731300000,
+      "symbol": "SUPUSDT",
+      "signal": "BUY",
+      "entry": 0.12982,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=SUPUSDT"
+    },
+    {
+      "datetime": 1759734000000,
+      "symbol": "EDUUSDT",
+      "signal": "BUY",
+      "entry": 0.1418,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=EDUUSDT"
     }
   ]
 }
