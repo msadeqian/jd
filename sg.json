@@ -549,6 +549,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=PORT3USDT"
+    },
+    {
+      "datetime": 1759774500000,
+      "symbol": "NFLXXUSDT",
+      "signal": "BUY",
+      "entry": 1161.69,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=NFLXXUSDT"
     }
   ]
 }
