@@ -11,16 +11,6 @@
       "url": "https://www.tradingview.com/chart?symbol=ARUSDT"
     },
     {
-      "datetime": 1759553100000,
-      "symbol": "AIUSDT",
-      "signal": "SELL",
-      "entry": 0.1239,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=AIUSDT"
-    },
-    {
       "datetime": 1759559400000,
       "symbol": "HOOKUSDT",
       "signal": "BUY",
@@ -569,6 +559,26 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=TRBUSDT"
+    },
+    {
+      "datetime": 1759726800000,
+      "symbol": "STARUSDT",
+      "signal": "SELL",
+      "entry": 0.13119,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=STARUSDT"
+    },
+    {
+      "datetime": 1759725900000,
+      "symbol": "CAKEUSDT",
+      "signal": "BUY",
+      "entry": 3.424,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=CAKEUSDT"
     }
   ]
 }
