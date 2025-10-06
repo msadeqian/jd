@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759554000000,
-      "symbol": "ARUSDT",
-      "signal": "SELL",
-      "entry": 5.94,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=ARUSDT"
-    },
-    {
       "datetime": 1759559400000,
       "symbol": "HOOKUSDT",
       "signal": "BUY",
@@ -579,6 +569,16 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=CAKEUSDT"
+    },
+    {
+      "datetime": 1759727700000,
+      "symbol": "LTCUSDT",
+      "signal": "BUY",
+      "entry": 120.62839,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=LTCUSDT"
     }
   ]
 }
