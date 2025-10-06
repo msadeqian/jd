@@ -529,6 +529,36 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=BRUSDT"
+    },
+    {
+      "datetime": 1759752900000,
+      "symbol": "SYNUSDT",
+      "signal": "BUY",
+      "entry": 0.1178,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=SYNUSDT"
+    },
+    {
+      "datetime": 1759753800000,
+      "symbol": "API3USDT",
+      "signal": "BUY",
+      "entry": 0.8001,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=API3USDT"
+    },
+    {
+      "datetime": 1759754700000,
+      "symbol": "HIVEUSDT",
+      "signal": "BUY",
+      "entry": 0.1886,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=HIVEUSDT"
     }
   ]
 }
