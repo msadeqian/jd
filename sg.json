@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759564800000,
-      "symbol": "STOUSDT",
-      "signal": "SELL",
-      "entry": 0.0887,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=STOUSDT"
-    },
-    {
-      "datetime": 1759563900000,
-      "symbol": "MATUSDT",
-      "signal": "SELL",
-      "entry": 0.6511,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=MATUSDT"
-    },
-    {
       "datetime": 1759568400000,
       "symbol": "AUCTIONUSDT",
       "signal": "SELL",
@@ -29,26 +9,6 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=AUCTIONUSDT"
-    },
-    {
-      "datetime": 1759567500000,
-      "symbol": "SEIUSDT",
-      "signal": "SELL",
-      "entry": 0.2914,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=SEIUSDT"
-    },
-    {
-      "datetime": 1759566600000,
-      "symbol": "STORJUSDT",
-      "signal": "SELL",
-      "entry": 0.2385,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=STORJUSDT"
     },
     {
       "datetime": 1759570200000,
@@ -579,6 +539,36 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=EDUUSDT"
+    },
+    {
+      "datetime": 1759740300000,
+      "symbol": "DOGEUSDT",
+      "signal": "BUY",
+      "entry": 0.2574,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=DOGEUSDT"
+    },
+    {
+      "datetime": 1759739400000,
+      "symbol": "NXPCUSDT",
+      "signal": "BUY",
+      "entry": 0.5297,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=NXPCUSDT"
+    },
+    {
+      "datetime": 1759741200000,
+      "symbol": "OBTUSDT",
+      "signal": "BUY",
+      "entry": 0.00467,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=OBTUSDT"
     }
   ]
 }
