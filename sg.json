@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759575600000,
-      "symbol": "LAUSDT",
-      "signal": "SELL",
-      "entry": 0.3727,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=LAUSDT"
-    },
-    {
-      "datetime": 1759576500000,
-      "symbol": "DUSDT",
-      "signal": "SELL",
-      "entry": 0.03119,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=DUSDT"
-    },
-    {
       "datetime": 1759584600000,
       "symbol": "COAUSDT",
       "signal": "BUY",
@@ -539,6 +519,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=AAPLXUSDT"
+    },
+    {
+      "datetime": 1759751100000,
+      "symbol": "BRUSDT",
+      "signal": "SELL",
+      "entry": 0.07397,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=BRUSDT"
     }
   ]
 }
