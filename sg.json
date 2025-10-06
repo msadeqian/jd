@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759597200000,
-      "symbol": "RIOUSDT",
-      "signal": "SELL",
-      "entry": 0.2601,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=RIOUSDT"
-    },
-    {
-      "datetime": 1759599000000,
-      "symbol": "POWRUSDT",
-      "signal": "SELL",
-      "entry": 0.1477,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=POWRUSDT"
-    },
-    {
       "datetime": 1759604400000,
       "symbol": "CELOUSDT",
       "signal": "BUY",
@@ -549,6 +529,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=QUAIUSDT"
+    },
+    {
+      "datetime": 1759773600000,
+      "symbol": "FORMUSDT",
+      "signal": "SELL",
+      "entry": 1.1043,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=FORMUSDT"
+    },
+    {
+      "datetime": 1759773600000,
+      "symbol": "PORT3USDT",
+      "signal": "BUY",
+      "entry": 0.07296,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=PORT3USDT"
     }
   ]
 }
