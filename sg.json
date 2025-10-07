@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759657500000,
-      "symbol": "LAZIOUSDT",
-      "signal": "BUY",
-      "entry": 1.102,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=LAZIOUSDT"
-    },
-    {
-      "datetime": 1759660200000,
-      "symbol": "RICEUSDT",
-      "signal": "BUY",
-      "entry": 0.02066,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=RICEUSDT"
-    },
-    {
       "datetime": 1759662000000,
       "symbol": "BSXUSDT",
       "signal": "SELL",
@@ -29,16 +9,6 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=BSXUSDT"
-    },
-    {
-      "datetime": 1759660200000,
-      "symbol": "FLMUSDT",
-      "signal": "SELL",
-      "entry": 0.0254,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=FLMUSDT"
     },
     {
       "datetime": 1759663800000,
@@ -499,6 +469,66 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=RAYUSDT"
+    },
+    {
+      "datetime": 1759833900000,
+      "symbol": "WLDUSDT",
+      "signal": "SELL",
+      "entry": 1.276,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=WLDUSDT"
+    },
+    {
+      "datetime": 1759834800000,
+      "symbol": "DODOUSDT",
+      "signal": "BUY",
+      "entry": 0.0475,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=DODOUSDT"
+    },
+    {
+      "datetime": 1759834800000,
+      "symbol": "EPICUSDT",
+      "signal": "SELL",
+      "entry": 1.764,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=EPICUSDT"
+    },
+    {
+      "datetime": 1759833000000,
+      "symbol": "NEARUSDT",
+      "signal": "BUY",
+      "entry": 3.012,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=NEARUSDT"
+    },
+    {
+      "datetime": 1759833000000,
+      "symbol": "WOOUSDT",
+      "signal": "BUY",
+      "entry": 0.0735,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=WOOUSDT"
+    },
+    {
+      "datetime": 1759833900000,
+      "symbol": "SCRUSDT",
+      "signal": "SELL",
+      "entry": 0.284,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=SCRUSDT"
     }
   ]
 }
