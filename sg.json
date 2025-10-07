@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759651200000,
-      "symbol": "CKBUSDT",
-      "signal": "BUY",
-      "entry": 0.004414,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=CKBUSDT"
-    },
-    {
       "datetime": 1759657500000,
       "symbol": "LAZIOUSDT",
       "signal": "BUY",
@@ -479,6 +469,36 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=RENDERUSDT"
+    },
+    {
+      "datetime": 1759827600000,
+      "symbol": "LIGHTUSDT",
+      "signal": "SELL",
+      "entry": 0.8136,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=LIGHTUSDT"
+    },
+    {
+      "datetime": 1759826700000,
+      "symbol": "CRCLXUSDT",
+      "signal": "SELL",
+      "entry": 147.79,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=CRCLXUSDT"
+    },
+    {
+      "datetime": 1759827600000,
+      "symbol": "RAYUSDT",
+      "signal": "SELL",
+      "entry": 2.92,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=RAYUSDT"
     }
   ]
 }
