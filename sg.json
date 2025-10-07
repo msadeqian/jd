@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759662000000,
-      "symbol": "BSXUSDT",
-      "signal": "SELL",
-      "entry": 0.027461,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=BSXUSDT"
-    },
-    {
-      "datetime": 1759663800000,
-      "symbol": "OMIUSDT",
-      "signal": "SELL",
-      "entry": 0.0003261,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=OMIUSDT"
-    },
-    {
-      "datetime": 1759662900000,
-      "symbol": "DIAUSDT",
-      "signal": "SELL",
-      "entry": 0.5683,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=DIAUSDT"
-    },
-    {
       "datetime": 1759668300000,
       "symbol": "STORJUSDT",
       "signal": "SELL",
@@ -529,6 +499,76 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=SCRUSDT"
+    },
+    {
+      "datetime": 1759837500000,
+      "symbol": "ARBUSDT",
+      "signal": "BUY",
+      "entry": 0.4521,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ARBUSDT"
+    },
+    {
+      "datetime": 1759836600000,
+      "symbol": "ZROUSDT",
+      "signal": "BUY",
+      "entry": 2.453,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=ZROUSDT"
+    },
+    {
+      "datetime": 1759835700000,
+      "symbol": "ZKUSDT",
+      "signal": "BUY",
+      "entry": 0.05946,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ZKUSDT"
+    },
+    {
+      "datetime": 1759837500000,
+      "symbol": "BCHUSDT",
+      "signal": "SELL",
+      "entry": 591.99,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=BCHUSDT"
+    },
+    {
+      "datetime": 1759836600000,
+      "symbol": "ORDIUSDT",
+      "signal": "BUY",
+      "entry": 8.664,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ORDIUSDT"
+    },
+    {
+      "datetime": 1759836600000,
+      "symbol": "RAREUSDT",
+      "signal": "BUY",
+      "entry": 0.0524,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=RAREUSDT"
+    },
+    {
+      "datetime": 1759837500000,
+      "symbol": "ALICEUSDT",
+      "signal": "BUY",
+      "entry": 0.3554,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=ALICEUSDT"
     }
   ]
 }
