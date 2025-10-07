@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759688100000,
-      "symbol": "RENDERUSDT",
-      "signal": "SELL",
-      "entry": 3.49,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=RENDERUSDT"
-    },
-    {
-      "datetime": 1759688100000,
-      "symbol": "SANDUSDT",
-      "signal": "SELL",
-      "entry": 0.2785,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=SANDUSDT"
-    },
-    {
-      "datetime": 1759689000000,
-      "symbol": "TRBUSDT",
-      "signal": "SELL",
-      "entry": 33.2,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=TRBUSDT"
-    },
-    {
       "datetime": 1759726800000,
       "symbol": "STARUSDT",
       "signal": "SELL",
@@ -679,6 +649,26 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=NFPUSDT"
+    },
+    {
+      "datetime": 1759862700000,
+      "symbol": "STRKUSDT",
+      "signal": "SELL",
+      "entry": 0.1692,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=STRKUSDT"
+    },
+    {
+      "datetime": 1759862700000,
+      "symbol": "MITOUSDT",
+      "signal": "SELL",
+      "entry": 0.1545,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=MITOUSDT"
     }
   ]
 }
