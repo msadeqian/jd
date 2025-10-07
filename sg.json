@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759676400000,
-      "symbol": "GLMUSDT",
-      "signal": "SELL",
-      "entry": 0.2243,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=GLMUSDT"
-    },
-    {
-      "datetime": 1759679100000,
-      "symbol": "FUSDT",
-      "signal": "BUY",
-      "entry": 0.01243,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=FUSDT"
-    },
-    {
       "datetime": 1759682700000,
       "symbol": "BIGTIMEUSDT",
       "signal": "SELL",
@@ -699,6 +679,36 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=SCRUSDT"
+    },
+    {
+      "datetime": 1759853700000,
+      "symbol": "FARTCOINUSDT",
+      "signal": "SELL",
+      "entry": 0.6657,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=FARTCOINUSDT"
+    },
+    {
+      "datetime": 1759854600000,
+      "symbol": "PENGUUSDT",
+      "signal": "SELL",
+      "entry": 0.031052,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=PENGUUSDT"
+    },
+    {
+      "datetime": 1759855500000,
+      "symbol": "RIOUSDT",
+      "signal": "SELL",
+      "entry": 0.2664,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=RIOUSDT"
     }
   ]
 }
