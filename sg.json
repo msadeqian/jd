@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759644000000,
-      "symbol": "COSUSDT",
-      "signal": "BUY",
-      "entry": 0.003117,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=COSUSDT"
-    },
-    {
-      "datetime": 1759646700000,
-      "symbol": "PIUSDT",
-      "signal": "BUY",
-      "entry": 0.2616,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=PIUSDT"
-    },
-    {
-      "datetime": 1759645800000,
-      "symbol": "BIGTIMEUSDT",
-      "signal": "BUY",
-      "entry": 0.04955,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=BIGTIMEUSDT"
-    },
-    {
       "datetime": 1759651200000,
       "symbol": "CKBUSDT",
       "signal": "BUY",
@@ -39,36 +9,6 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=CKBUSDT"
-    },
-    {
-      "datetime": 1759650300000,
-      "symbol": "PAPARAZZIUSDT",
-      "signal": "BUY",
-      "entry": 0.04512,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=PAPARAZZIUSDT"
-    },
-    {
-      "datetime": 1759648500000,
-      "symbol": "LAYERUSDT",
-      "signal": "BUY",
-      "entry": 0.4206,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=LAYERUSDT"
-    },
-    {
-      "datetime": 1759648500000,
-      "symbol": "SPKUSDT",
-      "signal": "BUY",
-      "entry": 0.052819,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=SPKUSDT"
     },
     {
       "datetime": 1759657500000,
@@ -519,6 +459,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=OSMOUSDT"
+    },
+    {
+      "datetime": 1759824000000,
+      "symbol": "ALTUSDT",
+      "signal": "SELL",
+      "entry": 0.02912,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=ALTUSDT"
+    },
+    {
+      "datetime": 1759821300000,
+      "symbol": "RENDERUSDT",
+      "signal": "SELL",
+      "entry": 3.541,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=RENDERUSDT"
     }
   ]
 }
