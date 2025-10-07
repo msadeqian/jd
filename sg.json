@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759668300000,
-      "symbol": "STORJUSDT",
-      "signal": "SELL",
-      "entry": 0.2362,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=STORJUSDT"
-    },
-    {
       "datetime": 1759673700000,
       "symbol": "ILVUSDT",
       "signal": "SELL",
@@ -579,6 +569,46 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=AIUSDT"
+    },
+    {
+      "datetime": 1759844700000,
+      "symbol": "CRVUSDT",
+      "signal": "BUY",
+      "entry": 0.8014,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=CRVUSDT"
+    },
+    {
+      "datetime": 1759842900000,
+      "symbol": "TKOUSDT",
+      "signal": "BUY",
+      "entry": 0.1911,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=TKOUSDT"
+    },
+    {
+      "datetime": 1759845600000,
+      "symbol": "ERAUSDT",
+      "signal": "SELL",
+      "entry": 0.53,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ERAUSDT"
+    },
+    {
+      "datetime": 1759842900000,
+      "symbol": "UTKUSDT",
+      "signal": "BUY",
+      "entry": 0.02877,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=UTKUSDT"
     }
   ]
 }
