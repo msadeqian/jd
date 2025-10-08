@@ -1,66 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759740300000,
-      "symbol": "DOGEUSDT",
-      "signal": "BUY",
-      "entry": 0.2574,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=DOGEUSDT"
-    },
-    {
-      "datetime": 1759739400000,
-      "symbol": "NXPCUSDT",
-      "signal": "BUY",
-      "entry": 0.5297,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=NXPCUSDT"
-    },
-    {
-      "datetime": 1759741200000,
-      "symbol": "OBTUSDT",
-      "signal": "BUY",
-      "entry": 0.00467,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=OBTUSDT"
-    },
-    {
-      "datetime": 1759742100000,
-      "symbol": "FILUSDT",
-      "signal": "BUY",
-      "entry": 2.355,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=FILUSDT"
-    },
-    {
-      "datetime": 1759744800000,
-      "symbol": "BANANAS31USDT",
-      "signal": "BUY",
-      "entry": 0.005321,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=BANANAS31USDT"
-    },
-    {
-      "datetime": 1759743000000,
-      "symbol": "PYRUSDT",
-      "signal": "BUY",
-      "entry": 0.995,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=PYRUSDT"
-    },
-    {
       "datetime": 1759748400000,
       "symbol": "AAPLXUSDT",
       "signal": "BUY",
@@ -669,6 +609,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=XMRUSDT"
+    },
+    {
+      "datetime": 1759919400000,
+      "symbol": "BOOMUSDT",
+      "signal": "BUY",
+      "entry": 0.03677,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=BOOMUSDT"
     }
   ]
 }
