@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759748400000,
-      "symbol": "AAPLXUSDT",
-      "signal": "BUY",
-      "entry": 259.45,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=AAPLXUSDT"
-    },
-    {
       "datetime": 1759751100000,
       "symbol": "BRUSDT",
       "signal": "SELL",
@@ -619,6 +609,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=BOOMUSDT"
+    },
+    {
+      "datetime": 1759923000000,
+      "symbol": "DFUSDT",
+      "signal": "SELL",
+      "entry": 0.02615,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=DFUSDT"
     }
   ]
 }
