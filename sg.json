@@ -1,96 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759751100000,
-      "symbol": "BRUSDT",
-      "signal": "SELL",
-      "entry": 0.07397,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=BRUSDT"
-    },
-    {
-      "datetime": 1759752900000,
-      "symbol": "SYNUSDT",
-      "signal": "BUY",
-      "entry": 0.1178,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=SYNUSDT"
-    },
-    {
-      "datetime": 1759753800000,
-      "symbol": "API3USDT",
-      "signal": "BUY",
-      "entry": 0.8001,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=API3USDT"
-    },
-    {
-      "datetime": 1759754700000,
-      "symbol": "HIVEUSDT",
-      "signal": "BUY",
-      "entry": 0.1886,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=HIVEUSDT"
-    },
-    {
-      "datetime": 1759756500000,
-      "symbol": "INJUSDT",
-      "signal": "BUY",
-      "entry": 13.24,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=INJUSDT"
-    },
-    {
-      "datetime": 1759758300000,
-      "symbol": "DOTUSDT",
-      "signal": "BUY",
-      "entry": 4.41,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=DOTUSDT"
-    },
-    {
-      "datetime": 1759762800000,
-      "symbol": "ROAMUSDT",
-      "signal": "BUY",
-      "entry": 0.1014,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ROAMUSDT"
-    },
-    {
-      "datetime": 1759766400000,
-      "symbol": "MAVUSDT",
-      "signal": "BUY",
-      "entry": 0.05977,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=MAVUSDT"
-    },
-    {
-      "datetime": 1759764600000,
-      "symbol": "RHEAUSDT",
-      "signal": "SELL",
-      "entry": 0.02875,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=RHEAUSDT"
-    },
-    {
       "datetime": 1759768200000,
       "symbol": "HOMEUSDT",
       "signal": "BUY",
@@ -619,6 +529,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=DFUSDT"
+    },
+    {
+      "datetime": 1759940100000,
+      "symbol": "CFXUSDT",
+      "signal": "BUY",
+      "entry": 0.1474,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=CFXUSDT"
+    },
+    {
+      "datetime": 1759941000000,
+      "symbol": "ALICEUSDT",
+      "signal": "BUY",
+      "entry": 0.3479,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=ALICEUSDT"
     }
   ]
 }
