@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759731300000,
-      "symbol": "AAVEUSDT",
-      "signal": "BUY",
-      "entry": 289.76,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=AAVEUSDT"
-    },
-    {
-      "datetime": 1759731300000,
-      "symbol": "SUPUSDT",
-      "signal": "BUY",
-      "entry": 0.12982,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=SUPUSDT"
-    },
-    {
-      "datetime": 1759734000000,
-      "symbol": "EDUUSDT",
-      "signal": "BUY",
-      "entry": 0.1418,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=EDUUSDT"
-    },
-    {
       "datetime": 1759740300000,
       "symbol": "DOGEUSDT",
       "signal": "BUY",
@@ -679,6 +649,26 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=IOTAUSDT"
+    },
+    {
+      "datetime": 1759909500000,
+      "symbol": "REKTUSDT",
+      "signal": "BUY",
+      "entry": 6.197e-07,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=REKTUSDT"
+    },
+    {
+      "datetime": 1759908600000,
+      "symbol": "XMRUSDT",
+      "signal": "BUY",
+      "entry": 321.67,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=XMRUSDT"
     }
   ]
 }
