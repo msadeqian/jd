@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759768200000,
-      "symbol": "HOMEUSDT",
-      "signal": "BUY",
-      "entry": 0.03113,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=HOMEUSDT"
-    },
-    {
-      "datetime": 1759770000000,
-      "symbol": "QUAIUSDT",
-      "signal": "SELL",
-      "entry": 0.04274,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=QUAIUSDT"
-    },
-    {
       "datetime": 1759773600000,
       "symbol": "FORMUSDT",
       "signal": "SELL",
@@ -549,6 +529,46 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=ALICEUSDT"
+    },
+    {
+      "datetime": 1759946400000,
+      "symbol": "YGGUSDT",
+      "signal": "BUY",
+      "entry": 0.1707,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=YGGUSDT"
+    },
+    {
+      "datetime": 1759946400000,
+      "symbol": "FILUSDT",
+      "signal": "BUY",
+      "entry": 2.406,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=FILUSDT"
+    },
+    {
+      "datetime": 1759946400000,
+      "symbol": "CHEELUSDT",
+      "signal": "BUY",
+      "entry": 1.0938,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=CHEELUSDT"
+    },
+    {
+      "datetime": 1759946400000,
+      "symbol": "IOTXUSDT",
+      "signal": "BUY",
+      "entry": 0.02403,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=IOTXUSDT"
     }
   ]
 }
