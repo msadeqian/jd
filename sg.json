@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759726800000,
-      "symbol": "STARUSDT",
-      "signal": "SELL",
-      "entry": 0.13119,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=STARUSDT"
-    },
-    {
-      "datetime": 1759725900000,
-      "symbol": "CAKEUSDT",
-      "signal": "BUY",
-      "entry": 3.424,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=CAKEUSDT"
-    },
-    {
-      "datetime": 1759727700000,
-      "symbol": "LTCUSDT",
-      "signal": "BUY",
-      "entry": 120.62839,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=LTCUSDT"
-    },
-    {
       "datetime": 1759731300000,
       "symbol": "AAVEUSDT",
       "signal": "BUY",
@@ -689,6 +659,26 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=IOTXUSDT"
+    },
+    {
+      "datetime": 1759903200000,
+      "symbol": "IDUSDT",
+      "signal": "SELL",
+      "entry": 0.1485,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=IDUSDT"
+    },
+    {
+      "datetime": 1759903200000,
+      "symbol": "IOTAUSDT",
+      "signal": "SELL",
+      "entry": 0.1821,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=IOTAUSDT"
     }
   ]
 }
