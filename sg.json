@@ -1,96 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759834800000,
-      "symbol": "DODOUSDT",
-      "signal": "BUY",
-      "entry": 0.0475,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=DODOUSDT"
-    },
-    {
-      "datetime": 1759834800000,
-      "symbol": "EPICUSDT",
-      "signal": "SELL",
-      "entry": 1.764,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=EPICUSDT"
-    },
-    {
-      "datetime": 1759837500000,
-      "symbol": "ARBUSDT",
-      "signal": "BUY",
-      "entry": 0.4521,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ARBUSDT"
-    },
-    {
-      "datetime": 1759836600000,
-      "symbol": "ZROUSDT",
-      "signal": "BUY",
-      "entry": 2.453,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=ZROUSDT"
-    },
-    {
-      "datetime": 1759835700000,
-      "symbol": "ZKUSDT",
-      "signal": "BUY",
-      "entry": 0.05946,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ZKUSDT"
-    },
-    {
-      "datetime": 1759837500000,
-      "symbol": "BCHUSDT",
-      "signal": "SELL",
-      "entry": 591.99,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=BCHUSDT"
-    },
-    {
-      "datetime": 1759836600000,
-      "symbol": "ORDIUSDT",
-      "signal": "BUY",
-      "entry": 8.664,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ORDIUSDT"
-    },
-    {
-      "datetime": 1759836600000,
-      "symbol": "RAREUSDT",
-      "signal": "BUY",
-      "entry": 0.0524,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=RAREUSDT"
-    },
-    {
-      "datetime": 1759837500000,
-      "symbol": "ALICEUSDT",
-      "signal": "BUY",
-      "entry": 0.3554,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=ALICEUSDT"
-    },
-    {
       "datetime": 1759841100000,
       "symbol": "AIUSDT",
       "signal": "BUY",
@@ -659,6 +569,26 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=LNUSDT"
+    },
+    {
+      "datetime": 1760011200000,
+      "symbol": "UTKUSDT",
+      "signal": "BUY",
+      "entry": 0.02789,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=UTKUSDT"
+    },
+    {
+      "datetime": 1760009400000,
+      "symbol": "WCTUSDT",
+      "signal": "BUY",
+      "entry": 0.2543,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=WCTUSDT"
     }
   ]
 }
