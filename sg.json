@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759824000000,
-      "symbol": "ALTUSDT",
-      "signal": "SELL",
-      "entry": 0.02912,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=ALTUSDT"
-    },
-    {
       "datetime": 1759827600000,
       "symbol": "LIGHTUSDT",
       "signal": "SELL",
@@ -19,16 +9,6 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=LIGHTUSDT"
-    },
-    {
-      "datetime": 1759826700000,
-      "symbol": "CRCLXUSDT",
-      "signal": "SELL",
-      "entry": 147.79,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=CRCLXUSDT"
     },
     {
       "datetime": 1759827600000,
@@ -649,6 +629,46 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=IDOLUSDT"
+    },
+    {
+      "datetime": 1759998600000,
+      "symbol": "MNSRYUSDT",
+      "signal": "SELL",
+      "entry": 0.02911,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=MNSRYUSDT"
+    },
+    {
+      "datetime": 1759999500000,
+      "symbol": "WEMIXUSDT",
+      "signal": "SELL",
+      "entry": 0.6507,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=WEMIXUSDT"
+    },
+    {
+      "datetime": 1759999500000,
+      "symbol": "IDEXUSDT",
+      "signal": "SELL",
+      "entry": 0.02412,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=IDEXUSDT"
+    },
+    {
+      "datetime": 1760000400000,
+      "symbol": "MOEWUSDT",
+      "signal": "SELL",
+      "entry": 0.000487,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=MOEWUSDT"
     }
   ]
 }
