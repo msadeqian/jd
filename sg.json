@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759860000000,
-      "symbol": "NFPUSDT",
-      "signal": "SELL",
-      "entry": 0.0601,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=NFPUSDT"
-    },
-    {
       "datetime": 1759862700000,
       "symbol": "STRKUSDT",
       "signal": "SELL",
@@ -479,6 +469,16 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=KAVAUSDT"
+    },
+    {
+      "datetime": 1760033700000,
+      "symbol": "DASHUSDT",
+      "signal": "BUY",
+      "entry": 32.56,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=DASHUSDT"
     }
   ]
 }
