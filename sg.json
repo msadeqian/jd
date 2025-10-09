@@ -609,6 +609,36 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=RESOLVUSDT"
+    },
+    {
+      "datetime": 1759983300000,
+      "symbol": "COOKIEUSDT",
+      "signal": "SELL",
+      "entry": 0.1226,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=COOKIEUSDT"
+    },
+    {
+      "datetime": 1759984200000,
+      "symbol": "CYBERUSDT",
+      "signal": "SELL",
+      "entry": 1.57,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=CYBERUSDT"
+    },
+    {
+      "datetime": 1759983300000,
+      "symbol": "BNBUSDT",
+      "signal": "SELL",
+      "entry": 1290.57,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=BNBUSDT"
     }
   ]
 }
