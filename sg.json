@@ -11,16 +11,6 @@
       "url": "https://www.tradingview.com/chart?symbol=ALTUSDT"
     },
     {
-      "datetime": 1759821300000,
-      "symbol": "RENDERUSDT",
-      "signal": "SELL",
-      "entry": 3.541,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=RENDERUSDT"
-    },
-    {
       "datetime": 1759827600000,
       "symbol": "LIGHTUSDT",
       "signal": "SELL",
@@ -649,6 +639,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=BNBUSDT"
+    },
+    {
+      "datetime": 1759995000000,
+      "symbol": "IDOLUSDT",
+      "signal": "SELL",
+      "entry": 0.03726,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=IDOLUSDT"
     }
   ]
 }
