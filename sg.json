@@ -469,6 +469,16 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=SLPUSDT"
+    },
+    {
+      "datetime": 1760032800000,
+      "symbol": "KAVAUSDT",
+      "signal": "BUY",
+      "entry": 0.3368,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=KAVAUSDT"
     }
   ]
 }
