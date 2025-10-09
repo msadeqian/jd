@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759833900000,
-      "symbol": "WLDUSDT",
-      "signal": "SELL",
-      "entry": 1.276,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=WLDUSDT"
-    },
-    {
       "datetime": 1759834800000,
       "symbol": "DODOUSDT",
       "signal": "BUY",
@@ -29,36 +19,6 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=EPICUSDT"
-    },
-    {
-      "datetime": 1759833000000,
-      "symbol": "NEARUSDT",
-      "signal": "BUY",
-      "entry": 3.012,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=NEARUSDT"
-    },
-    {
-      "datetime": 1759833000000,
-      "symbol": "WOOUSDT",
-      "signal": "BUY",
-      "entry": 0.0735,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=WOOUSDT"
-    },
-    {
-      "datetime": 1759833900000,
-      "symbol": "SCRUSDT",
-      "signal": "SELL",
-      "entry": 0.284,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=SCRUSDT"
     },
     {
       "datetime": 1759837500000,
@@ -679,6 +639,26 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=MCADEUSDT"
+    },
+    {
+      "datetime": 1760007600000,
+      "symbol": "YALAUSDT",
+      "signal": "SELL",
+      "entry": 0.1043,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=YALAUSDT"
+    },
+    {
+      "datetime": 1760007600000,
+      "symbol": "LNUSDT",
+      "signal": "BUY",
+      "entry": 0.01675,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=LNUSDT"
     }
   ]
 }
