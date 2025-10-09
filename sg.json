@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759844700000,
-      "symbol": "CRVUSDT",
-      "signal": "BUY",
-      "entry": 0.8014,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=CRVUSDT"
-    },
-    {
-      "datetime": 1759845600000,
-      "symbol": "ERAUSDT",
-      "signal": "SELL",
-      "entry": 0.53,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ERAUSDT"
-    },
-    {
       "datetime": 1759847400000,
       "symbol": "HYPERUSDT",
       "signal": "SELL",
@@ -569,6 +549,36 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=ACEUSDT"
+    },
+    {
+      "datetime": 1760020200000,
+      "symbol": "RESOLVUSDT",
+      "signal": "SELL",
+      "entry": 0.0975,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=RESOLVUSDT"
+    },
+    {
+      "datetime": 1760020200000,
+      "symbol": "CGPTUSDT",
+      "signal": "SELL",
+      "entry": 0.0773,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=CGPTUSDT"
+    },
+    {
+      "datetime": 1760019300000,
+      "symbol": "PYRUSDT",
+      "signal": "SELL",
+      "entry": 0.923,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=PYRUSDT"
     }
   ]
 }
