@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759827600000,
-      "symbol": "LIGHTUSDT",
-      "signal": "SELL",
-      "entry": 0.8136,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=LIGHTUSDT"
-    },
-    {
-      "datetime": 1759827600000,
-      "symbol": "RAYUSDT",
-      "signal": "SELL",
-      "entry": 2.92,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=RAYUSDT"
-    },
-    {
       "datetime": 1759833900000,
       "symbol": "WLDUSDT",
       "signal": "SELL",
@@ -669,6 +649,36 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=MOEWUSDT"
+    },
+    {
+      "datetime": 1760002200000,
+      "symbol": "WLDUSDT",
+      "signal": "SELL",
+      "entry": 1.203,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=WLDUSDT"
+    },
+    {
+      "datetime": 1760003100000,
+      "symbol": "SXTUSDT",
+      "signal": "SELL",
+      "entry": 0.0676,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=SXTUSDT"
+    },
+    {
+      "datetime": 1760003100000,
+      "symbol": "MCADEUSDT",
+      "signal": "SELL",
+      "entry": 0.0128,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=MCADEUSDT"
     }
   ]
 }
