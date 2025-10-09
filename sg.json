@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759815000000,
-      "symbol": "OSMOUSDT",
-      "signal": "SELL",
-      "entry": 0.1705,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=OSMOUSDT"
-    },
-    {
       "datetime": 1759824000000,
       "symbol": "ALTUSDT",
       "signal": "SELL",
@@ -638,6 +628,26 @@
       "stop_loss": null,
       "take_profit": null,
       "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=BNBUSDT"
+    },
+    {
+      "datetime": 1759990500000,
+      "symbol": "FLMUSDT",
+      "signal": "BUY",
+      "entry": 0.0257,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=FLMUSDT"
+    },
+    {
+      "datetime": 1759992300000,
+      "symbol": "BNBUSDT",
+      "signal": "BUY",
+      "entry": 1309.19,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=BNBUSDT"
     }
   ]
