@@ -759,6 +759,76 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=VANRYUSDT"
+    },
+    {
+      "datetime": 1760118300000,
+      "symbol": "ETCUSDT",
+      "signal": "SELL",
+      "entry": 18.74,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=ETCUSDT"
+    },
+    {
+      "datetime": 1760116500000,
+      "symbol": "ALGOUSDT",
+      "signal": "SELL",
+      "entry": 0.21257,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=ALGOUSDT"
+    },
+    {
+      "datetime": 1760119200000,
+      "symbol": "LPTUSDT",
+      "signal": "SELL",
+      "entry": 6.11,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=LPTUSDT"
+    },
+    {
+      "datetime": 1760119200000,
+      "symbol": "ZKUSDT",
+      "signal": "SELL",
+      "entry": 0.05389,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=ZKUSDT"
+    },
+    {
+      "datetime": 1760119200000,
+      "symbol": "HFTUSDT",
+      "signal": "SELL",
+      "entry": 0.0704,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=HFTUSDT"
+    },
+    {
+      "datetime": 1760117400000,
+      "symbol": "RLCUSDT",
+      "signal": "SELL",
+      "entry": 1.024,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=RLCUSDT"
+    },
+    {
+      "datetime": 1760117400000,
+      "symbol": "ENJUSDT",
+      "signal": "SELL",
+      "entry": 0.059,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=ENJUSDT"
     }
   ]
 }
