@@ -499,6 +499,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=KAIAUSDT"
+    },
+    {
+      "datetime": 1760080500000,
+      "symbol": "AEVOUSDT",
+      "signal": "SELL",
+      "entry": 0.097,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=AEVOUSDT"
     }
   ]
 }
