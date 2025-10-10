@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759903200000,
-      "symbol": "IDUSDT",
-      "signal": "SELL",
-      "entry": 0.1485,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=IDUSDT"
-    },
-    {
-      "datetime": 1759903200000,
-      "symbol": "IOTAUSDT",
-      "signal": "SELL",
-      "entry": 0.1821,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=IOTAUSDT"
-    },
-    {
       "datetime": 1759909500000,
       "symbol": "REKTUSDT",
       "signal": "BUY",
@@ -489,6 +469,36 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=HYPERUSDT"
+    },
+    {
+      "datetime": 1760076900000,
+      "symbol": "SUIUSDT",
+      "signal": "BUY",
+      "entry": 3.4589,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=SUIUSDT"
+    },
+    {
+      "datetime": 1760078700000,
+      "symbol": "CGPTUSDT",
+      "signal": "SELL",
+      "entry": 0.0793,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=CGPTUSDT"
+    },
+    {
+      "datetime": 1760079600000,
+      "symbol": "KAIAUSDT",
+      "signal": "SELL",
+      "entry": 0.139,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=KAIAUSDT"
     }
   ]
 }
