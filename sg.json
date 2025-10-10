@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759909500000,
-      "symbol": "REKTUSDT",
-      "signal": "BUY",
-      "entry": 6.197e-07,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=REKTUSDT"
-    },
-    {
-      "datetime": 1759908600000,
-      "symbol": "XMRUSDT",
-      "signal": "BUY",
-      "entry": 321.67,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=XMRUSDT"
-    },
-    {
       "datetime": 1759919400000,
       "symbol": "BOOMUSDT",
       "signal": "BUY",
@@ -509,6 +489,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=AEVOUSDT"
+    },
+    {
+      "datetime": 1760084100000,
+      "symbol": "RWAUSDT",
+      "signal": "SELL",
+      "entry": 0.008615,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=RWAUSDT"
     }
   ]
 }
