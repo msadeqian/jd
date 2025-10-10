@@ -499,6 +499,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=RWAUSDT"
+    },
+    {
+      "datetime": 1760088600000,
+      "symbol": "HBARUSDT",
+      "signal": "BUY",
+      "entry": 0.21504,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=HBARUSDT"
     }
   ]
 }
