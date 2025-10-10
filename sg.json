@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759940100000,
-      "symbol": "CFXUSDT",
-      "signal": "BUY",
-      "entry": 0.1474,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=CFXUSDT"
-    },
-    {
-      "datetime": 1759941000000,
-      "symbol": "ALICEUSDT",
-      "signal": "BUY",
-      "entry": 0.3479,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=ALICEUSDT"
-    },
-    {
       "datetime": 1759946400000,
       "symbol": "YGGUSDT",
       "signal": "BUY",
@@ -739,6 +719,46 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=ETHUSDT"
+    },
+    {
+      "datetime": 1760115600000,
+      "symbol": "DOTUSDT",
+      "signal": "SELL",
+      "entry": 4.02,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=DOTUSDT"
+    },
+    {
+      "datetime": 1760114700000,
+      "symbol": "HAEDALUSDT",
+      "signal": "SELL",
+      "entry": 0.1272,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=HAEDALUSDT"
+    },
+    {
+      "datetime": 1760112900000,
+      "symbol": "ATLAUSDT",
+      "signal": "SELL",
+      "entry": 37.9558,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=ATLAUSDT"
+    },
+    {
+      "datetime": 1760114700000,
+      "symbol": "VANRYUSDT",
+      "signal": "SELL",
+      "entry": 0.0252,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=VANRYUSDT"
     }
   ]
 }
