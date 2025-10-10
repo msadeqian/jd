@@ -629,6 +629,116 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=EPICUSDT"
+    },
+    {
+      "datetime": 1760110200000,
+      "symbol": "LAUSDT",
+      "signal": "SELL",
+      "entry": 0.3592,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=LAUSDT"
+    },
+    {
+      "datetime": 1760111100000,
+      "symbol": "SLPUSDT",
+      "signal": "SELL",
+      "entry": 0.00152,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=SLPUSDT"
+    },
+    {
+      "datetime": 1760111100000,
+      "symbol": "ARKMUSDT",
+      "signal": "SELL",
+      "entry": 0.5,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=ARKMUSDT"
+    },
+    {
+      "datetime": 1760111100000,
+      "symbol": "TCOMUSDT",
+      "signal": "SELL",
+      "entry": 0.02442,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=TCOMUSDT"
+    },
+    {
+      "datetime": 1760110200000,
+      "symbol": "HIGHUSDT",
+      "signal": "SELL",
+      "entry": 0.447,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=HIGHUSDT"
+    },
+    {
+      "datetime": 1760110200000,
+      "symbol": "GOOGLXUSDT",
+      "signal": "SELL",
+      "entry": 238.23,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=GOOGLXUSDT"
+    },
+    {
+      "datetime": 1760110200000,
+      "symbol": "AVAILUSDT",
+      "signal": "SELL",
+      "entry": 0.01181,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=AVAILUSDT"
+    },
+    {
+      "datetime": 1760111100000,
+      "symbol": "NEXOUSDT",
+      "signal": "SELL",
+      "entry": 1.244,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=NEXOUSDT"
+    },
+    {
+      "datetime": 1760110200000,
+      "symbol": "BANANAS31USDT",
+      "signal": "SELL",
+      "entry": 0.005145,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=BANANAS31USDT"
+    },
+    {
+      "datetime": 1760111100000,
+      "symbol": "ORDIUSDT",
+      "signal": "SELL",
+      "entry": 7.445,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=ORDIUSDT"
+    },
+    {
+      "datetime": 1760109300000,
+      "symbol": "ETHUSDT",
+      "signal": "SELL",
+      "entry": 4174.54,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ETHUSDT"
     }
   ]
 }
