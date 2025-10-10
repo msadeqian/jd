@@ -609,6 +609,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=RENDERUSDT"
+    },
+    {
+      "datetime": 1760106600000,
+      "symbol": "CELOUSDT",
+      "signal": "SELL",
+      "entry": 0.3496,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=CELOUSDT"
+    },
+    {
+      "datetime": 1760108400000,
+      "symbol": "EPICUSDT",
+      "signal": "SELL",
+      "entry": 1.483,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=EPICUSDT"
     }
   ]
 }
