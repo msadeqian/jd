@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759898700000,
-      "symbol": "AIUSDT",
-      "signal": "SELL",
-      "entry": 0.1233,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=AIUSDT"
-    },
-    {
       "datetime": 1759903200000,
       "symbol": "IDUSDT",
       "signal": "SELL",
@@ -479,6 +469,26 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=WANUSDT"
+    },
+    {
+      "datetime": 1760075100000,
+      "symbol": "NOTUSDT",
+      "signal": "BUY",
+      "entry": 0.001587,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=NOTUSDT"
+    },
+    {
+      "datetime": 1760076000000,
+      "symbol": "HYPERUSDT",
+      "signal": "BUY",
+      "entry": 0.266,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=HYPERUSDT"
     }
   ]
 }
