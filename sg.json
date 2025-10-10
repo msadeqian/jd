@@ -569,6 +569,46 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=DOGEUSDT"
+    },
+    {
+      "datetime": 1760103900000,
+      "symbol": "A2ZUSDT",
+      "signal": "SELL",
+      "entry": 0.005518,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=A2ZUSDT"
+    },
+    {
+      "datetime": 1760102100000,
+      "symbol": "EDUUSDT",
+      "signal": "BUY",
+      "entry": 0.1451,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=EDUUSDT"
+    },
+    {
+      "datetime": 1760103000000,
+      "symbol": "HYPERUSDT",
+      "signal": "BUY",
+      "entry": 0.2668,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=HYPERUSDT"
+    },
+    {
+      "datetime": 1760103900000,
+      "symbol": "RENDERUSDT",
+      "signal": "BUY",
+      "entry": 3.309,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=RENDERUSDT"
     }
   ]
 }
