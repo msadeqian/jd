@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759919400000,
-      "symbol": "BOOMUSDT",
-      "signal": "BUY",
-      "entry": 0.03677,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=BOOMUSDT"
-    },
-    {
       "datetime": 1759923000000,
       "symbol": "DFUSDT",
       "signal": "SELL",
@@ -509,6 +499,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=HBARUSDT"
+    },
+    {
+      "datetime": 1760093100000,
+      "symbol": "KAVAUSDT",
+      "signal": "BUY",
+      "entry": 0.3386,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=KAVAUSDT"
     }
   ]
 }
