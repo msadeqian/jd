@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759923000000,
-      "symbol": "DFUSDT",
-      "signal": "SELL",
-      "entry": 0.02615,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=DFUSDT"
-    },
-    {
       "datetime": 1759940100000,
       "symbol": "CFXUSDT",
       "signal": "BUY",
@@ -509,6 +499,46 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=KAVAUSDT"
+    },
+    {
+      "datetime": 1760094900000,
+      "symbol": "ALICEUSDT",
+      "signal": "BUY",
+      "entry": 0.4643,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ALICEUSDT"
+    },
+    {
+      "datetime": 1760097600000,
+      "symbol": "AXLUSDT",
+      "signal": "BUY",
+      "entry": 0.2957,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=AXLUSDT"
+    },
+    {
+      "datetime": 1760097600000,
+      "symbol": "ARKMUSDT",
+      "signal": "BUY",
+      "entry": 0.527,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ARKMUSDT"
+    },
+    {
+      "datetime": 1760094900000,
+      "symbol": "OSMOUSDT",
+      "signal": "BUY",
+      "entry": 0.1567,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=OSMOUSDT"
     }
   ]
 }
