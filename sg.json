@@ -1,66 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760020200000,
-      "symbol": "RESOLVUSDT",
-      "signal": "SELL",
-      "entry": 0.0975,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=RESOLVUSDT"
-    },
-    {
-      "datetime": 1760020200000,
-      "symbol": "CGPTUSDT",
-      "signal": "SELL",
-      "entry": 0.0773,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=CGPTUSDT"
-    },
-    {
-      "datetime": 1760022900000,
-      "symbol": "SUNUSDT",
-      "signal": "SELL",
-      "entry": 0.02592,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=SUNUSDT"
-    },
-    {
-      "datetime": 1760029200000,
-      "symbol": "SLPUSDT",
-      "signal": "BUY",
-      "entry": 0.001615,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=SLPUSDT"
-    },
-    {
-      "datetime": 1760032800000,
-      "symbol": "KAVAUSDT",
-      "signal": "BUY",
-      "entry": 0.3368,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=KAVAUSDT"
-    },
-    {
-      "datetime": 1760033700000,
-      "symbol": "DASHUSDT",
-      "signal": "BUY",
-      "entry": 32.56,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=DASHUSDT"
-    },
-    {
       "datetime": 1760071500000,
       "symbol": "MBLUSDT",
       "signal": "SELL",
@@ -649,6 +589,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=SNEKUSDT"
+    },
+    {
+      "datetime": 1760207400000,
+      "symbol": "TIAUSDT",
+      "signal": "SELL",
+      "entry": 0.981,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=TIAUSDT"
     }
   ]
 }
