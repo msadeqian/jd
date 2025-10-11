@@ -1,116 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1759992300000,
-      "symbol": "BNBUSDT",
-      "signal": "BUY",
-      "entry": 1309.19,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=BNBUSDT"
-    },
-    {
-      "datetime": 1759995000000,
-      "symbol": "IDOLUSDT",
-      "signal": "SELL",
-      "entry": 0.03726,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=IDOLUSDT"
-    },
-    {
-      "datetime": 1759998600000,
-      "symbol": "MNSRYUSDT",
-      "signal": "SELL",
-      "entry": 0.02911,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=MNSRYUSDT"
-    },
-    {
-      "datetime": 1759999500000,
-      "symbol": "WEMIXUSDT",
-      "signal": "SELL",
-      "entry": 0.6507,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=WEMIXUSDT"
-    },
-    {
-      "datetime": 1759999500000,
-      "symbol": "IDEXUSDT",
-      "signal": "SELL",
-      "entry": 0.02412,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=IDEXUSDT"
-    },
-    {
-      "datetime": 1760000400000,
-      "symbol": "MOEWUSDT",
-      "signal": "SELL",
-      "entry": 0.000487,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=MOEWUSDT"
-    },
-    {
-      "datetime": 1760002200000,
-      "symbol": "WLDUSDT",
-      "signal": "SELL",
-      "entry": 1.203,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=WLDUSDT"
-    },
-    {
-      "datetime": 1760003100000,
-      "symbol": "SXTUSDT",
-      "signal": "SELL",
-      "entry": 0.0676,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=SXTUSDT"
-    },
-    {
-      "datetime": 1760003100000,
-      "symbol": "MCADEUSDT",
-      "signal": "SELL",
-      "entry": 0.0128,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=MCADEUSDT"
-    },
-    {
-      "datetime": 1760007600000,
-      "symbol": "YALAUSDT",
-      "signal": "SELL",
-      "entry": 0.1043,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=YALAUSDT"
-    },
-    {
-      "datetime": 1760007600000,
-      "symbol": "LNUSDT",
-      "signal": "BUY",
-      "entry": 0.01675,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=LNUSDT"
-    },
-    {
       "datetime": 1760011200000,
       "symbol": "UTKUSDT",
       "signal": "BUY",
@@ -119,16 +9,6 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=UTKUSDT"
-    },
-    {
-      "datetime": 1760009400000,
-      "symbol": "WCTUSDT",
-      "signal": "BUY",
-      "entry": 0.2543,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=WCTUSDT"
     },
     {
       "datetime": 1760017500000,
@@ -699,6 +579,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=ZECUSDT"
+    },
+    {
+      "datetime": 1760183100000,
+      "symbol": "PEAQUSDT",
+      "signal": "SELL",
+      "entry": 0.0938,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=PEAQUSDT"
     }
   ]
 }
