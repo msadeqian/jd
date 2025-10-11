@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760017500000,
-      "symbol": "ACEUSDT",
-      "signal": "BUY",
-      "entry": 0.453,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=ACEUSDT"
-    },
-    {
       "datetime": 1760020200000,
       "symbol": "RESOLVUSDT",
       "signal": "SELL",
@@ -29,16 +19,6 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=CGPTUSDT"
-    },
-    {
-      "datetime": 1760019300000,
-      "symbol": "PYRUSDT",
-      "signal": "SELL",
-      "entry": 0.923,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=PYRUSDT"
     },
     {
       "datetime": 1760022900000,
@@ -649,6 +629,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=GUSDT"
+    },
+    {
+      "datetime": 1760193000000,
+      "symbol": "MELANIAUSDT",
+      "signal": "SELL",
+      "entry": 0.113,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=MELANIAUSDT"
+    },
+    {
+      "datetime": 1760193000000,
+      "symbol": "SNEKUSDT",
+      "signal": "SELL",
+      "entry": 0.003095,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=SNEKUSDT"
     }
   ]
 }
