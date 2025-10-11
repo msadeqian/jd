@@ -619,6 +619,36 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=TAOUSDT"
+    },
+    {
+      "datetime": 1760190300000,
+      "symbol": "THEUSDT",
+      "signal": "SELL",
+      "entry": 0.2787,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=THEUSDT"
+    },
+    {
+      "datetime": 1760188500000,
+      "symbol": "TAOUSDT",
+      "signal": "SELL",
+      "entry": 307.1,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=TAOUSDT"
+    },
+    {
+      "datetime": 1760189400000,
+      "symbol": "GUSDT",
+      "signal": "SELL",
+      "entry": 0.00748,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=GUSDT"
     }
   ]
 }
