@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760011200000,
-      "symbol": "UTKUSDT",
-      "signal": "BUY",
-      "entry": 0.02789,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=UTKUSDT"
-    },
-    {
       "datetime": 1760017500000,
       "symbol": "ACEUSDT",
       "signal": "BUY",
@@ -589,6 +579,46 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=PEAQUSDT"
+    },
+    {
+      "datetime": 1760186700000,
+      "symbol": "DEXEUSDT",
+      "signal": "SELL",
+      "entry": 6.096,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=DEXEUSDT"
+    },
+    {
+      "datetime": 1760185800000,
+      "symbol": "CRVUSDT",
+      "signal": "SELL",
+      "entry": 0.5133,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=CRVUSDT"
+    },
+    {
+      "datetime": 1760185800000,
+      "symbol": "ZROUSDT",
+      "signal": "SELL",
+      "entry": 1.817,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=ZROUSDT"
+    },
+    {
+      "datetime": 1760187600000,
+      "symbol": "TAOUSDT",
+      "signal": "SELL",
+      "entry": 308.7,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=TAOUSDT"
     }
   ]
 }
