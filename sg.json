@@ -1,46 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760075100000,
-      "symbol": "NOTUSDT",
-      "signal": "BUY",
-      "entry": 0.001587,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=NOTUSDT"
-    },
-    {
-      "datetime": 1760076000000,
-      "symbol": "HYPERUSDT",
-      "signal": "BUY",
-      "entry": 0.266,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=HYPERUSDT"
-    },
-    {
-      "datetime": 1760076900000,
-      "symbol": "SUIUSDT",
-      "signal": "BUY",
-      "entry": 3.4589,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=SUIUSDT"
-    },
-    {
-      "datetime": 1760078700000,
-      "symbol": "CGPTUSDT",
-      "signal": "SELL",
-      "entry": 0.0793,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=CGPTUSDT"
-    },
-    {
       "datetime": 1760079600000,
       "symbol": "KAIAUSDT",
       "signal": "SELL",
@@ -589,6 +549,16 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=SKLUSDT"
+    },
+    {
+      "datetime": 1760252400000,
+      "symbol": "BELUSDT",
+      "signal": "BUY",
+      "entry": 0.2131,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=BELUSDT"
     }
   ]
 }
