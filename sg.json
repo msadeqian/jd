@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760079600000,
-      "symbol": "KAIAUSDT",
-      "signal": "SELL",
-      "entry": 0.139,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=KAIAUSDT"
-    },
-    {
-      "datetime": 1760080500000,
-      "symbol": "AEVOUSDT",
-      "signal": "SELL",
-      "entry": 0.097,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=AEVOUSDT"
-    },
-    {
       "datetime": 1760084100000,
       "symbol": "RWAUSDT",
       "signal": "SELL",
@@ -559,6 +539,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=BELUSDT"
+    },
+    {
+      "datetime": 1760254200000,
+      "symbol": "DBCUSDT",
+      "signal": "BUY",
+      "entry": 0.0005852,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=DBCUSDT"
     }
   ]
 }
