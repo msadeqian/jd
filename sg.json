@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760071500000,
-      "symbol": "MBLUSDT",
-      "signal": "SELL",
-      "entry": 0.002028,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=MBLUSDT"
-    },
-    {
-      "datetime": 1760070600000,
-      "symbol": "MILKUSDT",
-      "signal": "SELL",
-      "entry": 0.04056,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=MILKUSDT"
-    },
-    {
-      "datetime": 1760070600000,
-      "symbol": "WANUSDT",
-      "signal": "SELL",
-      "entry": 0.0811,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=WANUSDT"
-    },
-    {
       "datetime": 1760075100000,
       "symbol": "NOTUSDT",
       "signal": "BUY",
@@ -599,6 +569,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=TIAUSDT"
+    },
+    {
+      "datetime": 1760245200000,
+      "symbol": "ZECUSDT",
+      "signal": "BUY",
+      "entry": 282.26,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ZECUSDT"
     }
   ]
 }
