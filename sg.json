@@ -359,6 +359,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=FILUSDT"
+    },
+    {
+      "datetime": 1760352300000,
+      "symbol": "GOMININGUSDT",
+      "signal": "SELL",
+      "entry": 0.45342,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=GOMININGUSDT"
     }
   ]
 }
