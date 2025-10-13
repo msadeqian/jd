@@ -309,6 +309,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=SUPUSDT"
+    },
+    {
+      "datetime": 1760373000000,
+      "symbol": "GLMRUSDT",
+      "signal": "BUY",
+      "entry": 0.047,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=GLMRUSDT"
     }
   ]
 }
