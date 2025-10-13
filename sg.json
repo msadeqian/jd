@@ -1,76 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760186700000,
-      "symbol": "DEXEUSDT",
-      "signal": "SELL",
-      "entry": 6.096,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=DEXEUSDT"
-    },
-    {
-      "datetime": 1760185800000,
-      "symbol": "CRVUSDT",
-      "signal": "SELL",
-      "entry": 0.5133,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=CRVUSDT"
-    },
-    {
-      "datetime": 1760185800000,
-      "symbol": "ZROUSDT",
-      "signal": "SELL",
-      "entry": 1.817,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=ZROUSDT"
-    },
-    {
-      "datetime": 1760187600000,
-      "symbol": "TAOUSDT",
-      "signal": "SELL",
-      "entry": 308.7,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=TAOUSDT"
-    },
-    {
-      "datetime": 1760190300000,
-      "symbol": "THEUSDT",
-      "signal": "SELL",
-      "entry": 0.2787,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=THEUSDT"
-    },
-    {
-      "datetime": 1760188500000,
-      "symbol": "TAOUSDT",
-      "signal": "SELL",
-      "entry": 307.1,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=TAOUSDT"
-    },
-    {
-      "datetime": 1760189400000,
-      "symbol": "GUSDT",
-      "signal": "SELL",
-      "entry": 0.00748,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=GUSDT"
-    },
-    {
       "datetime": 1760193000000,
       "symbol": "MELANIAUSDT",
       "signal": "SELL",
@@ -369,6 +299,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=OGUSDT"
+    },
+    {
+      "datetime": 1760363100000,
+      "symbol": "INJUSDT",
+      "signal": "BUY",
+      "entry": 9.71,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=INJUSDT"
+    },
+    {
+      "datetime": 1760364000000,
+      "symbol": "REZUSDT",
+      "signal": "BUY",
+      "entry": 0.01241,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=REZUSDT"
     }
   ]
 }
