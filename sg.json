@@ -349,6 +349,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=BOMEUSDT"
+    },
+    {
+      "datetime": 1760380200000,
+      "symbol": "XUSDT",
+      "signal": "BUY",
+      "entry": 3.636e-05,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=XUSDT"
     }
   ]
 }
