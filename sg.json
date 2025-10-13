@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760165100000,
-      "symbol": "INUSDT",
-      "signal": "BUY",
-      "entry": 0.19565,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=INUSDT"
-    },
-    {
-      "datetime": 1760163300000,
-      "symbol": "ZECUSDT",
-      "signal": "BUY",
-      "entry": 238.26,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ZECUSDT"
-    },
-    {
       "datetime": 1760183100000,
       "symbol": "PEAQUSDT",
       "signal": "SELL",
@@ -349,6 +329,16 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=PIXELUSDT"
+    },
+    {
+      "datetime": 1760340600000,
+      "symbol": "CVXUSDT",
+      "signal": "BUY",
+      "entry": 2.596,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=CVXUSDT"
     }
   ]
 }
