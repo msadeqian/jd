@@ -339,6 +339,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=CVXUSDT"
+    },
+    {
+      "datetime": 1760347800000,
+      "symbol": "ABUSDT",
+      "signal": "BUY",
+      "entry": 0.007772,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=ABUSDT"
+    },
+    {
+      "datetime": 1760349600000,
+      "symbol": "FILUSDT",
+      "signal": "BUY",
+      "entry": 1.68,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=FILUSDT"
     }
   ]
 }
