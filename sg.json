@@ -319,6 +319,36 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=GLMRUSDT"
+    },
+    {
+      "datetime": 1760375700000,
+      "symbol": "BATUSDT",
+      "signal": "BUY",
+      "entry": 0.2289,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=BATUSDT"
+    },
+    {
+      "datetime": 1760377500000,
+      "symbol": "NEIROUSDT",
+      "signal": "BUY",
+      "entry": 0.00021078,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=NEIROUSDT"
+    },
+    {
+      "datetime": 1760378400000,
+      "symbol": "BOMEUSDT",
+      "signal": "BUY",
+      "entry": 0.001246,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=BOMEUSDT"
     }
   ]
 }
