@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760245200000,
-      "symbol": "ZECUSDT",
-      "signal": "BUY",
-      "entry": 282.26,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ZECUSDT"
-    },
-    {
-      "datetime": 1760246100000,
-      "symbol": "SKLUSDT",
-      "signal": "BUY",
-      "entry": 0.0199,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=SKLUSDT"
-    },
-    {
       "datetime": 1760252400000,
       "symbol": "BELUSDT",
       "signal": "BUY",
@@ -369,6 +349,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=DUSDT"
+    },
+    {
+      "datetime": 1760420700000,
+      "symbol": "TOKENUSDT",
+      "signal": "SELL",
+      "entry": 0.008781,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=TOKENUSDT"
     }
   ]
 }
