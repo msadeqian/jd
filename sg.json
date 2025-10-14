@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760207400000,
-      "symbol": "TIAUSDT",
-      "signal": "SELL",
-      "entry": 0.981,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=TIAUSDT"
-    },
-    {
       "datetime": 1760245200000,
       "symbol": "ZECUSDT",
       "signal": "BUY",
@@ -359,6 +349,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=XUSDT"
+    },
+    {
+      "datetime": 1760416200000,
+      "symbol": "TLMUSDT",
+      "signal": "BUY",
+      "entry": 0.00413,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=TLMUSDT"
+    },
+    {
+      "datetime": 1760416200000,
+      "symbol": "DUSDT",
+      "signal": "BUY",
+      "entry": 0.02512,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=DUSDT"
     }
   ]
 }
