@@ -599,6 +599,16 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=UTKUSDT"
+    },
+    {
+      "datetime": 1760439600000,
+      "symbol": "NEOUSDT",
+      "signal": "SELL",
+      "entry": 5.255,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=NEOUSDT"
     }
   ]
 }
