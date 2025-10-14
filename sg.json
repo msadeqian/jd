@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760281200000,
-      "symbol": "REXUSDT",
-      "signal": "SELL",
-      "entry": 0.000934,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=REXUSDT"
-    },
-    {
       "datetime": 1760283000000,
       "symbol": "TOWERUSDT",
       "signal": "BUY",
@@ -629,6 +619,16 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=IQUSDT"
+    },
+    {
+      "datetime": 1760455800000,
+      "symbol": "NODEUSDT",
+      "signal": "BUY",
+      "entry": 0.07462,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=NODEUSDT"
     }
   ]
 }
