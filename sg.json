@@ -359,6 +359,66 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=TOKENUSDT"
+    },
+    {
+      "datetime": 1760424300000,
+      "symbol": "WOOUSDT",
+      "signal": "SELL",
+      "entry": 0.0454,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=WOOUSDT"
+    },
+    {
+      "datetime": 1760423400000,
+      "symbol": "PARTIUSDT",
+      "signal": "SELL",
+      "entry": 0.0882,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=PARTIUSDT"
+    },
+    {
+      "datetime": 1760424300000,
+      "symbol": "MSTRXUSDT",
+      "signal": "SELL",
+      "entry": 302.78,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=MSTRXUSDT"
+    },
+    {
+      "datetime": 1760425200000,
+      "symbol": "MOVEUSDT",
+      "signal": "SELL",
+      "entry": 0.083,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=MOVEUSDT"
+    },
+    {
+      "datetime": 1760424300000,
+      "symbol": "IOTAUSDT",
+      "signal": "SELL",
+      "entry": 0.1466,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=IOTAUSDT"
+    },
+    {
+      "datetime": 1760425200000,
+      "symbol": "HSKUSDT",
+      "signal": "SELL",
+      "entry": 0.3513,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=HSKUSDT"
     }
   ]
 }
