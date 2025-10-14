@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760288400000,
-      "symbol": "TRBUSDT",
-      "signal": "BUY",
-      "entry": 26.92,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=TRBUSDT"
-    },
-    {
-      "datetime": 1760289300000,
-      "symbol": "MAVUSDT",
-      "signal": "BUY",
-      "entry": 0.04159,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=MAVUSDT"
-    },
-    {
-      "datetime": 1760289300000,
-      "symbol": "TLOSUSDT",
-      "signal": "BUY",
-      "entry": 0.03198,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=TLOSUSDT"
-    },
-    {
       "datetime": 1760292000000,
       "symbol": "HOODUSDT",
       "signal": "BUY",
@@ -49,26 +19,6 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=PAXGUSDT"
-    },
-    {
-      "datetime": 1760291100000,
-      "symbol": "STRKUSDT",
-      "signal": "BUY",
-      "entry": 0.134,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=STRKUSDT"
-    },
-    {
-      "datetime": 1760291100000,
-      "symbol": "ADAUSDT",
-      "signal": "BUY",
-      "entry": 0.6895,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=ADAUSDT"
     },
     {
       "datetime": 1760295600000,
@@ -609,6 +559,76 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=BARDUSDT"
+    },
+    {
+      "datetime": 1760463900000,
+      "symbol": "SOLUSDT",
+      "signal": "BUY",
+      "entry": 201.77,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=SOLUSDT"
+    },
+    {
+      "datetime": 1760463900000,
+      "symbol": "CAKEUSDT",
+      "signal": "BUY",
+      "entry": 3.481,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=CAKEUSDT"
+    },
+    {
+      "datetime": 1760462100000,
+      "symbol": "CRVUSDT",
+      "signal": "BUY",
+      "entry": 0.5973,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=CRVUSDT"
+    },
+    {
+      "datetime": 1760463900000,
+      "symbol": "APXUSDT",
+      "signal": "SELL",
+      "entry": 0.001151,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=APXUSDT"
+    },
+    {
+      "datetime": 1760464800000,
+      "symbol": "SLPUSDT",
+      "signal": "BUY",
+      "entry": 0.001419,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=SLPUSDT"
+    },
+    {
+      "datetime": 1760463000000,
+      "symbol": "AI16ZUSDT",
+      "signal": "BUY",
+      "entry": 0.0659,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=AI16ZUSDT"
+    },
+    {
+      "datetime": 1760463900000,
+      "symbol": "RLCUSDT",
+      "signal": "BUY",
+      "entry": 0.932,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=RLCUSDT"
     }
   ]
 }
