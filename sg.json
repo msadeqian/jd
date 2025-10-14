@@ -1,56 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760283000000,
-      "symbol": "TOWERUSDT",
-      "signal": "BUY",
-      "entry": 0.0011244,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=TOWERUSDT"
-    },
-    {
-      "datetime": 1760283000000,
-      "symbol": "FOURUSDT",
-      "signal": "BUY",
-      "entry": 2.247e-06,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=FOURUSDT"
-    },
-    {
-      "datetime": 1760283900000,
-      "symbol": "CKBUSDT",
-      "signal": "BUY",
-      "entry": 0.003423,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=CKBUSDT"
-    },
-    {
-      "datetime": 1760285700000,
-      "symbol": "PROPSUSDT",
-      "signal": "SELL",
-      "entry": 0.01742,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=PROPSUSDT"
-    },
-    {
-      "datetime": 1760286600000,
-      "symbol": "CVXUSDT",
-      "signal": "BUY",
-      "entry": 2.553,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=CVXUSDT"
-    },
-    {
       "datetime": 1760288400000,
       "symbol": "TRBUSDT",
       "signal": "BUY",
@@ -629,6 +579,36 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=NODEUSDT"
+    },
+    {
+      "datetime": 1760458500000,
+      "symbol": "SYRUPUSDT",
+      "signal": "BUY",
+      "entry": 0.4238,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=SYRUPUSDT"
+    },
+    {
+      "datetime": 1760461200000,
+      "symbol": "LAUSDT",
+      "signal": "BUY",
+      "entry": 0.3288,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=LAUSDT"
+    },
+    {
+      "datetime": 1760460300000,
+      "symbol": "BARDUSDT",
+      "signal": "BUY",
+      "entry": 0.6995,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=BARDUSDT"
     }
   ]
 }
