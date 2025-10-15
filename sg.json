@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760377500000,
-      "symbol": "NEIROUSDT",
-      "signal": "BUY",
-      "entry": 0.00021078,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=NEIROUSDT"
-    },
-    {
-      "datetime": 1760378400000,
-      "symbol": "BOMEUSDT",
-      "signal": "BUY",
-      "entry": 0.001246,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=BOMEUSDT"
-    },
-    {
-      "datetime": 1760380200000,
-      "symbol": "XUSDT",
-      "signal": "BUY",
-      "entry": 3.636e-05,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=XUSDT"
-    },
-    {
       "datetime": 1760416200000,
       "symbol": "TLMUSDT",
       "signal": "BUY",
@@ -829,6 +799,36 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=IMAGINEUSDT"
+    },
+    {
+      "datetime": 1760554800000,
+      "symbol": "XAIUSDT",
+      "signal": "SELL",
+      "entry": 0.0295,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=XAIUSDT"
+    },
+    {
+      "datetime": 1760553900000,
+      "symbol": "COMPUSDT",
+      "signal": "SELL",
+      "entry": 35.51,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=COMPUSDT"
+    },
+    {
+      "datetime": 1760552100000,
+      "symbol": "PAPARAZZIUSDT",
+      "signal": "SELL",
+      "entry": 0.02403,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=PAPARAZZIUSDT"
     }
   ]
 }
