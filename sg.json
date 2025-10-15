@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760340600000,
-      "symbol": "CVXUSDT",
-      "signal": "BUY",
-      "entry": 2.596,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=CVXUSDT"
-    },
-    {
       "datetime": 1760347800000,
       "symbol": "ABUSDT",
       "signal": "BUY",
@@ -629,6 +619,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=CAKEUSDT"
+    },
+    {
+      "datetime": 1760515200000,
+      "symbol": "CVXUSDT",
+      "signal": "BUY",
+      "entry": 2.686,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=CVXUSDT"
     }
   ]
 }
