@@ -599,6 +599,36 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=AUDIOUSDT"
+    },
+    {
+      "datetime": 1760508000000,
+      "symbol": "DELABSUSDT",
+      "signal": "SELL",
+      "entry": 0.00813,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=DELABSUSDT"
+    },
+    {
+      "datetime": 1760505300000,
+      "symbol": "QUBICUSDT",
+      "signal": "BUY",
+      "entry": 1.575e-06,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=QUBICUSDT"
+    },
+    {
+      "datetime": 1760507100000,
+      "symbol": "CAKEUSDT",
+      "signal": "SELL",
+      "entry": 3.418,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=CAKEUSDT"
     }
   ]
 }
