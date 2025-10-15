@@ -629,6 +629,66 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=CVXUSDT"
+    },
+    {
+      "datetime": 1760516100000,
+      "symbol": "NEONUSDT",
+      "signal": "SELL",
+      "entry": 0.1025,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=NEONUSDT"
+    },
+    {
+      "datetime": 1760517000000,
+      "symbol": "AXLUSDT",
+      "signal": "BUY",
+      "entry": 0.233,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=AXLUSDT"
+    },
+    {
+      "datetime": 1760517900000,
+      "symbol": "AVLUSDT",
+      "signal": "BUY",
+      "entry": 0.13609,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=AVLUSDT"
+    },
+    {
+      "datetime": 1760516100000,
+      "symbol": "ARUSDT",
+      "signal": "BUY",
+      "entry": 4.6,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ARUSDT"
+    },
+    {
+      "datetime": 1760517000000,
+      "symbol": "LQTYUSDT",
+      "signal": "BUY",
+      "entry": 0.603,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=LQTYUSDT"
+    },
+    {
+      "datetime": 1760517000000,
+      "symbol": "TONUSDT",
+      "signal": "BUY",
+      "entry": 2.337,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=TONUSDT"
     }
   ]
 }
