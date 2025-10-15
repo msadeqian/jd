@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760368500000,
-      "symbol": "SUPUSDT",
-      "signal": "BUY",
-      "entry": 0.11559,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=SUPUSDT"
-    },
-    {
       "datetime": 1760373000000,
       "symbol": "GLMRUSDT",
       "signal": "BUY",
@@ -799,6 +789,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=TONUSDT"
+    },
+    {
+      "datetime": 1760544000000,
+      "symbol": "MXCUSDT",
+      "signal": "SELL",
+      "entry": 0.000538,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=MXCUSDT"
     }
   ]
 }
