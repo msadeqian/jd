@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760347800000,
-      "symbol": "ABUSDT",
-      "signal": "BUY",
-      "entry": 0.007772,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=ABUSDT"
-    },
-    {
-      "datetime": 1760349600000,
-      "symbol": "FILUSDT",
-      "signal": "BUY",
-      "entry": 1.68,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=FILUSDT"
-    },
-    {
-      "datetime": 1760352300000,
-      "symbol": "GOMININGUSDT",
-      "signal": "SELL",
-      "entry": 0.45342,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=GOMININGUSDT"
-    },
-    {
       "datetime": 1760358600000,
       "symbol": "OGUSDT",
       "signal": "BUY",
@@ -699,6 +669,36 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=NODEUSDT"
+    },
+    {
+      "datetime": 1760529600000,
+      "symbol": "HAEDALUSDT",
+      "signal": "SELL",
+      "entry": 0.1028,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=HAEDALUSDT"
+    },
+    {
+      "datetime": 1760527800000,
+      "symbol": "TRUMPUSDT",
+      "signal": "BUY",
+      "entry": 6.297,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=TRUMPUSDT"
+    },
+    {
+      "datetime": 1760528700000,
+      "symbol": "XECUSDT",
+      "signal": "SELL",
+      "entry": 1.545e-05,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=XECUSDT"
     }
   ]
 }
