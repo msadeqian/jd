@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760373000000,
-      "symbol": "GLMRUSDT",
-      "signal": "BUY",
-      "entry": 0.047,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=GLMRUSDT"
-    },
-    {
       "datetime": 1760375700000,
       "symbol": "BATUSDT",
       "signal": "BUY",
@@ -799,6 +789,36 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=MXCUSDT"
+    },
+    {
+      "datetime": 1760547600000,
+      "symbol": "SPKUSDT",
+      "signal": "SELL",
+      "entry": 0.039093,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=SPKUSDT"
+    },
+    {
+      "datetime": 1760545800000,
+      "symbol": "MXCUSDT",
+      "signal": "SELL",
+      "entry": 0.000534,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=MXCUSDT"
+    },
+    {
+      "datetime": 1760547600000,
+      "symbol": "CCDOGUSDT",
+      "signal": "SELL",
+      "entry": 0.000784,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=CCDOGUSDT"
     }
   ]
 }
