@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760364000000,
-      "symbol": "REZUSDT",
-      "signal": "BUY",
-      "entry": 0.01241,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=REZUSDT"
-    },
-    {
       "datetime": 1760368500000,
       "symbol": "SUPUSDT",
       "signal": "BUY",
@@ -779,6 +769,36 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=UTKUSDT"
+    },
+    {
+      "datetime": 1760539500000,
+      "symbol": "HUMAUSDT",
+      "signal": "SELL",
+      "entry": 0.02982,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=HUMAUSDT"
+    },
+    {
+      "datetime": 1760539500000,
+      "symbol": "AEVOUSDT",
+      "signal": "SELL",
+      "entry": 0.0696,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=AEVOUSDT"
+    },
+    {
+      "datetime": 1760540400000,
+      "symbol": "TONUSDT",
+      "signal": "SELL",
+      "entry": 2.213,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=TONUSDT"
     }
   ]
 }
