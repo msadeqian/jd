@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760375700000,
-      "symbol": "BATUSDT",
-      "signal": "BUY",
-      "entry": 0.2289,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=BATUSDT"
-    },
-    {
       "datetime": 1760377500000,
       "symbol": "NEIROUSDT",
       "signal": "BUY",
@@ -819,6 +809,26 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=CCDOGUSDT"
+    },
+    {
+      "datetime": 1760549400000,
+      "symbol": "OIKUSDT",
+      "signal": "BUY",
+      "entry": 0.02623,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=OIKUSDT"
+    },
+    {
+      "datetime": 1760549400000,
+      "symbol": "IMAGINEUSDT",
+      "signal": "SELL",
+      "entry": 0.0001116,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=IMAGINEUSDT"
     }
   ]
 }
