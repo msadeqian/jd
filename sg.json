@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760295600000,
-      "symbol": "AOLUSDT",
-      "signal": "BUY",
-      "entry": 0.004984,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=AOLUSDT"
-    },
-    {
-      "datetime": 1760295600000,
-      "symbol": "HYPERUSDT",
-      "signal": "BUY",
-      "entry": 0.2074,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=HYPERUSDT"
-    },
-    {
       "datetime": 1760340600000,
       "symbol": "CVXUSDT",
       "signal": "BUY",
@@ -599,6 +579,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=ZRXUSDT"
+    },
+    {
+      "datetime": 1760502600000,
+      "symbol": "SAHARAUSDT",
+      "signal": "SELL",
+      "entry": 0.0818,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=SAHARAUSDT"
+    },
+    {
+      "datetime": 1760504400000,
+      "symbol": "AUDIOUSDT",
+      "signal": "BUY",
+      "entry": 0.0458,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=AUDIOUSDT"
     }
   ]
 }
