@@ -689,6 +689,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=TONUSDT"
+    },
+    {
+      "datetime": 1760520600000,
+      "symbol": "NODEUSDT",
+      "signal": "BUY",
+      "entry": 0.06593,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=NODEUSDT"
     }
   ]
 }
