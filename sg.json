@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760363100000,
-      "symbol": "INJUSDT",
-      "signal": "BUY",
-      "entry": 9.71,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=INJUSDT"
-    },
-    {
       "datetime": 1760364000000,
       "symbol": "REZUSDT",
       "signal": "BUY",
@@ -739,6 +729,56 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=TRBUSDT"
+    },
+    {
+      "datetime": 1760534100000,
+      "symbol": "PUSHUSDT",
+      "signal": "SELL",
+      "entry": 0.0271,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=PUSHUSDT"
+    },
+    {
+      "datetime": 1760536800000,
+      "symbol": "AICEUSDT",
+      "signal": "SELL",
+      "entry": 2.48039,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=AICEUSDT"
+    },
+    {
+      "datetime": 1760534100000,
+      "symbol": "JUSDT",
+      "signal": "SELL",
+      "entry": 0.07751,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=JUSDT"
+    },
+    {
+      "datetime": 1760535900000,
+      "symbol": "HBARUSDT",
+      "signal": "SELL",
+      "entry": 0.1845,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=HBARUSDT"
+    },
+    {
+      "datetime": 1760534100000,
+      "symbol": "UTKUSDT",
+      "signal": "SELL",
+      "entry": 0.02117,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=UTKUSDT"
     }
   ]
 }
