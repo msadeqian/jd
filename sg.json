@@ -1,66 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760424300000,
-      "symbol": "WOOUSDT",
-      "signal": "SELL",
-      "entry": 0.0454,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=WOOUSDT"
-    },
-    {
-      "datetime": 1760423400000,
-      "symbol": "PARTIUSDT",
-      "signal": "SELL",
-      "entry": 0.0882,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=PARTIUSDT"
-    },
-    {
-      "datetime": 1760424300000,
-      "symbol": "MSTRXUSDT",
-      "signal": "SELL",
-      "entry": 302.78,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=MSTRXUSDT"
-    },
-    {
-      "datetime": 1760425200000,
-      "symbol": "MOVEUSDT",
-      "signal": "SELL",
-      "entry": 0.083,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=MOVEUSDT"
-    },
-    {
-      "datetime": 1760424300000,
-      "symbol": "IOTAUSDT",
-      "signal": "SELL",
-      "entry": 0.1466,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=IOTAUSDT"
-    },
-    {
-      "datetime": 1760425200000,
-      "symbol": "HSKUSDT",
-      "signal": "SELL",
-      "entry": 0.3513,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=HSKUSDT"
-    },
-    {
       "datetime": 1760428800000,
       "symbol": "ACEUSDT",
       "signal": "SELL",
@@ -69,16 +9,6 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=ACEUSDT"
-    },
-    {
-      "datetime": 1760426100000,
-      "symbol": "NXPCUSDT",
-      "signal": "SELL",
-      "entry": 0.3693,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=NXPCUSDT"
     },
     {
       "datetime": 1760428800000,
@@ -99,16 +29,6 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=VICUSDT"
-    },
-    {
-      "datetime": 1760427000000,
-      "symbol": "COSUSDT",
-      "signal": "SELL",
-      "entry": 0.002238,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=COSUSDT"
     },
     {
       "datetime": 1760427900000,
@@ -139,26 +59,6 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=HYPERUSDT"
-    },
-    {
-      "datetime": 1760426100000,
-      "symbol": "ADAUSDT",
-      "signal": "SELL",
-      "entry": 0.6833,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=ADAUSDT"
-    },
-    {
-      "datetime": 1760426100000,
-      "symbol": "LINKUSDT",
-      "signal": "SELL",
-      "entry": 18.64,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=LINKUSDT"
     },
     {
       "datetime": 1760431500000,
@@ -849,6 +749,16 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=THETAUSDT"
+    },
+    {
+      "datetime": 1760600700000,
+      "symbol": "VOXELUSDT",
+      "signal": "BUY",
+      "entry": 0.0393,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=VOXELUSDT"
     }
   ]
 }
