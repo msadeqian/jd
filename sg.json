@@ -739,6 +739,26 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=SOLVUSDT"
+    },
+    {
+      "datetime": 1760624100000,
+      "symbol": "SFPUSDT",
+      "signal": "SELL",
+      "entry": 0.3983,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=SFPUSDT"
+    },
+    {
+      "datetime": 1760624100000,
+      "symbol": "BIDUSDT",
+      "signal": "SELL",
+      "entry": 0.05351,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=BIDUSDT"
     }
   ]
 }
