@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760458500000,
-      "symbol": "SYRUPUSDT",
-      "signal": "BUY",
-      "entry": 0.4238,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=SYRUPUSDT"
-    },
-    {
       "datetime": 1760461200000,
       "symbol": "LAUSDT",
       "signal": "BUY",
@@ -19,16 +9,6 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=LAUSDT"
-    },
-    {
-      "datetime": 1760460300000,
-      "symbol": "BARDUSDT",
-      "signal": "BUY",
-      "entry": 0.6995,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=BARDUSDT"
     },
     {
       "datetime": 1760463900000,
@@ -839,6 +819,36 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=AVAXUSDT"
+    },
+    {
+      "datetime": 1760633100000,
+      "symbol": "AKEUSDT",
+      "signal": "SELL",
+      "entry": 0.0016028,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=AKEUSDT"
+    },
+    {
+      "datetime": 1760634000000,
+      "symbol": "DMAILUSDT",
+      "signal": "BUY",
+      "entry": 0.02956,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=DMAILUSDT"
+    },
+    {
+      "datetime": 1760632200000,
+      "symbol": "AI16ZUSDT",
+      "signal": "SELL",
+      "entry": 0.0593,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=AI16ZUSDT"
     }
   ]
 }
