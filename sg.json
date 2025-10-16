@@ -689,6 +689,56 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=AEVOUSDT"
+    },
+    {
+      "datetime": 1760623200000,
+      "symbol": "DUSDT",
+      "signal": "SELL",
+      "entry": 0.02583,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=DUSDT"
+    },
+    {
+      "datetime": 1760623200000,
+      "symbol": "LAZIOUSDT",
+      "signal": "SELL",
+      "entry": 0.895,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=LAZIOUSDT"
+    },
+    {
+      "datetime": 1760622300000,
+      "symbol": "HOODXUSDT",
+      "signal": "SELL",
+      "entry": 135.15,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=HOODXUSDT"
+    },
+    {
+      "datetime": 1760621400000,
+      "symbol": "NTRNUSDT",
+      "signal": "BUY",
+      "entry": 0.0536,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=NTRNUSDT"
+    },
+    {
+      "datetime": 1760623200000,
+      "symbol": "SOLVUSDT",
+      "signal": "SELL",
+      "entry": 0.01862,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=SOLVUSDT"
     }
   ]
 }
