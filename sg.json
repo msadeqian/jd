@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760432400000,
-      "symbol": "ATAUSDT",
-      "signal": "SELL",
-      "entry": 0.0304,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=ATAUSDT"
-    },
-    {
-      "datetime": 1760432400000,
-      "symbol": "AGLDUSDT",
-      "signal": "SELL",
-      "entry": 0.437,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=AGLDUSDT"
-    },
-    {
       "datetime": 1760439600000,
       "symbol": "NEOUSDT",
       "signal": "SELL",
@@ -649,6 +629,46 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=OXTUSDT"
+    },
+    {
+      "datetime": 1760607000000,
+      "symbol": "ARIAUSDT",
+      "signal": "SELL",
+      "entry": 0.15495,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=ARIAUSDT"
+    },
+    {
+      "datetime": 1760607000000,
+      "symbol": "READYUSDT",
+      "signal": "SELL",
+      "entry": 0.034626,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=READYUSDT"
+    },
+    {
+      "datetime": 1760607000000,
+      "symbol": "PIXELUSDT",
+      "signal": "SELL",
+      "entry": 0.01888,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=PIXELUSDT"
+    },
+    {
+      "datetime": 1760607000000,
+      "symbol": "ALICEUSDT",
+      "signal": "SELL",
+      "entry": 0.403,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ALICEUSDT"
     }
   ]
 }
