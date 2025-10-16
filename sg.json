@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760416200000,
-      "symbol": "TLMUSDT",
-      "signal": "BUY",
-      "entry": 0.00413,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=TLMUSDT"
-    },
-    {
-      "datetime": 1760416200000,
-      "symbol": "DUSDT",
-      "signal": "BUY",
-      "entry": 0.02512,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=DUSDT"
-    },
-    {
       "datetime": 1760420700000,
       "symbol": "TOKENUSDT",
       "signal": "SELL",
@@ -829,6 +809,26 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=PAPARAZZIUSDT"
+    },
+    {
+      "datetime": 1760589900000,
+      "symbol": "RAREUSDT",
+      "signal": "BUY",
+      "entry": 0.0394,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=RAREUSDT"
+    },
+    {
+      "datetime": 1760588100000,
+      "symbol": "REIUSDT",
+      "signal": "BUY",
+      "entry": 0.01223,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=REIUSDT"
     }
   ]
 }
