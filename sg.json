@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760455800000,
-      "symbol": "NODEUSDT",
-      "signal": "BUY",
-      "entry": 0.07462,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=NODEUSDT"
-    },
-    {
       "datetime": 1760458500000,
       "symbol": "SYRUPUSDT",
       "signal": "BUY",
@@ -759,6 +749,96 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=BIDUSDT"
+    },
+    {
+      "datetime": 1760628600000,
+      "symbol": "BICOUSDT",
+      "signal": "SELL",
+      "entry": 0.0677,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=BICOUSDT"
+    },
+    {
+      "datetime": 1760629500000,
+      "symbol": "IDUSDT",
+      "signal": "SELL",
+      "entry": 0.1139,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=IDUSDT"
+    },
+    {
+      "datetime": 1760628600000,
+      "symbol": "ANIMEUSDT",
+      "signal": "SELL",
+      "entry": 0.00975,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ANIMEUSDT"
+    },
+    {
+      "datetime": 1760629500000,
+      "symbol": "HOTUSDT",
+      "signal": "SELL",
+      "entry": 0.000666,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=HOTUSDT"
+    },
+    {
+      "datetime": 1760630400000,
+      "symbol": "SONICUSDT",
+      "signal": "SELL",
+      "entry": 0.12821,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=SONICUSDT"
+    },
+    {
+      "datetime": 1760628600000,
+      "symbol": "BOMEUSDT",
+      "signal": "SELL",
+      "entry": 0.0011,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=BOMEUSDT"
+    },
+    {
+      "datetime": 1760630400000,
+      "symbol": "BANANAS31USDT",
+      "signal": "SELL",
+      "entry": 0.003379,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=BANANAS31USDT"
+    },
+    {
+      "datetime": 1760629500000,
+      "symbol": "THEUSDT",
+      "signal": "SELL",
+      "entry": 0.2757,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=THEUSDT"
+    },
+    {
+      "datetime": 1760629500000,
+      "symbol": "AVAXUSDT",
+      "signal": "SELL",
+      "entry": 21.12,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=AVAXUSDT"
     }
   ]
 }
