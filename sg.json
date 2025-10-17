@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760529600000,
-      "symbol": "HAEDALUSDT",
-      "signal": "SELL",
-      "entry": 0.1028,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=HAEDALUSDT"
-    },
-    {
-      "datetime": 1760527800000,
-      "symbol": "TRUMPUSDT",
-      "signal": "BUY",
-      "entry": 6.297,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=TRUMPUSDT"
-    },
-    {
-      "datetime": 1760528700000,
-      "symbol": "XECUSDT",
-      "signal": "SELL",
-      "entry": 1.545e-05,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=XECUSDT"
-    },
-    {
       "datetime": 1760533200000,
       "symbol": "BlumUSDT",
       "signal": "SELL",
@@ -39,36 +9,6 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=BlumUSDT"
-    },
-    {
-      "datetime": 1760532300000,
-      "symbol": "SUPRAUSDT",
-      "signal": "SELL",
-      "entry": 0.002124,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=SUPRAUSDT"
-    },
-    {
-      "datetime": 1760530500000,
-      "symbol": "1000SATSUSDT",
-      "signal": "SELL",
-      "entry": 2.64e-05,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=1000SATSUSDT"
-    },
-    {
-      "datetime": 1760531400000,
-      "symbol": "EIGENUSDT",
-      "signal": "SELL",
-      "entry": 1.299,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=EIGENUSDT"
     },
     {
       "datetime": 1760533200000,
@@ -839,6 +779,26 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=JTOUSDT"
+    },
+    {
+      "datetime": 1760703300000,
+      "symbol": "PROVEUSDT",
+      "signal": "BUY",
+      "entry": 0.8062,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=PROVEUSDT"
+    },
+    {
+      "datetime": 1760706000000,
+      "symbol": "WFIUSDT",
+      "signal": "BUY",
+      "entry": 1.062358,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=WFIUSDT"
     }
   ]
 }
