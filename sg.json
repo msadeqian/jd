@@ -849,6 +849,26 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=ALICEUSDT"
+    },
+    {
+      "datetime": 1760685300000,
+      "symbol": "PLAYUSDT",
+      "signal": "SELL",
+      "entry": 0.027047,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=PLAYUSDT"
+    },
+    {
+      "datetime": 1760685300000,
+      "symbol": "IOTXUSDT",
+      "signal": "SELL",
+      "entry": 0.01241,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=IOTXUSDT"
     }
   ]
 }
