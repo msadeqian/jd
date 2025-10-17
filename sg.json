@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760468400000,
-      "symbol": "ZRXUSDT",
-      "signal": "BUY",
-      "entry": 0.2208,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ZRXUSDT"
-    },
-    {
-      "datetime": 1760502600000,
-      "symbol": "SAHARAUSDT",
-      "signal": "SELL",
-      "entry": 0.0818,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=SAHARAUSDT"
-    },
-    {
-      "datetime": 1760504400000,
-      "symbol": "AUDIOUSDT",
-      "signal": "BUY",
-      "entry": 0.0458,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=AUDIOUSDT"
-    },
-    {
       "datetime": 1760508000000,
       "symbol": "DELABSUSDT",
       "signal": "SELL",
@@ -39,16 +9,6 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=DELABSUSDT"
-    },
-    {
-      "datetime": 1760505300000,
-      "symbol": "QUBICUSDT",
-      "signal": "BUY",
-      "entry": 1.575e-06,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=QUBICUSDT"
     },
     {
       "datetime": 1760507100000,
@@ -779,6 +739,26 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=ADXUSDT"
+    },
+    {
+      "datetime": 1760678100000,
+      "symbol": "INUSDT",
+      "signal": "BUY",
+      "entry": 0.1683,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=INUSDT"
+    },
+    {
+      "datetime": 1760679900000,
+      "symbol": "TIBBIRUSDT",
+      "signal": "BUY",
+      "entry": 0.242487,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=TIBBIRUSDT"
     }
   ]
 }
