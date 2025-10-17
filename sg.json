@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760547600000,
-      "symbol": "SPKUSDT",
-      "signal": "SELL",
-      "entry": 0.039093,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=SPKUSDT"
-    },
-    {
-      "datetime": 1760547600000,
-      "symbol": "CCDOGUSDT",
-      "signal": "SELL",
-      "entry": 0.000784,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=CCDOGUSDT"
-    },
-    {
       "datetime": 1760549400000,
       "symbol": "OIKUSDT",
       "signal": "BUY",
@@ -699,6 +679,16 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=HOTUSDT"
+    },
+    {
+      "datetime": 1760721300000,
+      "symbol": "BASUSDT",
+      "signal": "SELL",
+      "entry": 0.09824,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=BASUSDT"
     }
   ]
 }
