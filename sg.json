@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760515200000,
-      "symbol": "CVXUSDT",
-      "signal": "BUY",
-      "entry": 2.686,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=CVXUSDT"
-    },
-    {
-      "datetime": 1760516100000,
-      "symbol": "NEONUSDT",
-      "signal": "SELL",
-      "entry": 0.1025,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=NEONUSDT"
-    },
-    {
       "datetime": 1760517000000,
       "symbol": "AXLUSDT",
       "signal": "BUY",
@@ -39,16 +19,6 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=AVLUSDT"
-    },
-    {
-      "datetime": 1760516100000,
-      "symbol": "ARUSDT",
-      "signal": "BUY",
-      "entry": 4.6,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ARUSDT"
     },
     {
       "datetime": 1760517000000,
@@ -869,6 +839,36 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=IOTXUSDT"
+    },
+    {
+      "datetime": 1760689800000,
+      "symbol": "INUSDT",
+      "signal": "SELL",
+      "entry": 0.15035,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=INUSDT"
+    },
+    {
+      "datetime": 1760688900000,
+      "symbol": "IDOLUSDT",
+      "signal": "SELL",
+      "entry": 0.02443,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=IDOLUSDT"
+    },
+    {
+      "datetime": 1760688900000,
+      "symbol": "GLMRUSDT",
+      "signal": "SELL",
+      "entry": 0.0397,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=GLMRUSDT"
     }
   ]
 }
