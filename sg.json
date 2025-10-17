@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760508000000,
-      "symbol": "DELABSUSDT",
-      "signal": "SELL",
-      "entry": 0.00813,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=DELABSUSDT"
-    },
-    {
-      "datetime": 1760507100000,
-      "symbol": "CAKEUSDT",
-      "signal": "SELL",
-      "entry": 3.418,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=CAKEUSDT"
-    },
-    {
       "datetime": 1760515200000,
       "symbol": "CVXUSDT",
       "signal": "BUY",
@@ -759,6 +739,116 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=TIBBIRUSDT"
+    },
+    {
+      "datetime": 1760682600000,
+      "symbol": "HAEDALUSDT",
+      "signal": "SELL",
+      "entry": 0.0943,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=HAEDALUSDT"
+    },
+    {
+      "datetime": 1760682600000,
+      "symbol": "HYPERUSDT",
+      "signal": "SELL",
+      "entry": 0.1907,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=HYPERUSDT"
+    },
+    {
+      "datetime": 1760683500000,
+      "symbol": "JUPUSDT",
+      "signal": "SELL",
+      "entry": 0.3365,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=JUPUSDT"
+    },
+    {
+      "datetime": 1760682600000,
+      "symbol": "WCTUSDT",
+      "signal": "SELL",
+      "entry": 0.155,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=WCTUSDT"
+    },
+    {
+      "datetime": 1760682600000,
+      "symbol": "ICEUSDT",
+      "signal": "SELL",
+      "entry": 0.003441,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ICEUSDT"
+    },
+    {
+      "datetime": 1760682600000,
+      "symbol": "MEMEUSDT",
+      "signal": "SELL",
+      "entry": 0.001618,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=MEMEUSDT"
+    },
+    {
+      "datetime": 1760681700000,
+      "symbol": "LAYERUSDT",
+      "signal": "SELL",
+      "entry": 0.2809,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=LAYERUSDT"
+    },
+    {
+      "datetime": 1760682600000,
+      "symbol": "AEVOUSDT",
+      "signal": "SELL",
+      "entry": 0.0638,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=AEVOUSDT"
+    },
+    {
+      "datetime": 1760682600000,
+      "symbol": "ORDIUSDT",
+      "signal": "SELL",
+      "entry": 4.942,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ORDIUSDT"
+    },
+    {
+      "datetime": 1760682600000,
+      "symbol": "RAREUSDT",
+      "signal": "SELL",
+      "entry": 0.036,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=RAREUSDT"
+    },
+    {
+      "datetime": 1760684400000,
+      "symbol": "ALICEUSDT",
+      "signal": "SELL",
+      "entry": 0.3484,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ALICEUSDT"
     }
   ]
 }
