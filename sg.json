@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760544000000,
-      "symbol": "MXCUSDT",
-      "signal": "SELL",
-      "entry": 0.000538,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=MXCUSDT"
-    },
-    {
       "datetime": 1760547600000,
       "symbol": "SPKUSDT",
       "signal": "SELL",
@@ -19,16 +9,6 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=SPKUSDT"
-    },
-    {
-      "datetime": 1760545800000,
-      "symbol": "MXCUSDT",
-      "signal": "SELL",
-      "entry": 0.000534,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=MXCUSDT"
     },
     {
       "datetime": 1760547600000,
@@ -709,6 +689,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=DAGUSDT"
+    },
+    {
+      "datetime": 1760719500000,
+      "symbol": "HOTUSDT",
+      "signal": "BUY",
+      "entry": 0.000764,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=HOTUSDT"
     }
   ]
 }
