@@ -1,56 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760549400000,
-      "symbol": "OIKUSDT",
-      "signal": "BUY",
-      "entry": 0.02623,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=OIKUSDT"
-    },
-    {
-      "datetime": 1760549400000,
-      "symbol": "IMAGINEUSDT",
-      "signal": "SELL",
-      "entry": 0.0001116,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=IMAGINEUSDT"
-    },
-    {
-      "datetime": 1760554800000,
-      "symbol": "XAIUSDT",
-      "signal": "SELL",
-      "entry": 0.0295,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=XAIUSDT"
-    },
-    {
-      "datetime": 1760553900000,
-      "symbol": "COMPUSDT",
-      "signal": "SELL",
-      "entry": 35.51,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=COMPUSDT"
-    },
-    {
-      "datetime": 1760552100000,
-      "symbol": "PAPARAZZIUSDT",
-      "signal": "SELL",
-      "entry": 0.02403,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=PAPARAZZIUSDT"
-    },
-    {
       "datetime": 1760589900000,
       "symbol": "RAREUSDT",
       "signal": "BUY",
@@ -59,16 +9,6 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=RAREUSDT"
-    },
-    {
-      "datetime": 1760588100000,
-      "symbol": "REIUSDT",
-      "signal": "BUY",
-      "entry": 0.01223,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=REIUSDT"
     },
     {
       "datetime": 1760595300000,
@@ -689,6 +629,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=BASUSDT"
+    },
+    {
+      "datetime": 1760762700000,
+      "symbol": "PRAIUSDT",
+      "signal": "BUY",
+      "entry": 0.02389,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=PRAIUSDT"
     }
   ]
 }
