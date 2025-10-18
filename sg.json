@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760595300000,
-      "symbol": "YGGUSDT",
-      "signal": "BUY",
-      "entry": 0.1683,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=YGGUSDT"
-    },
-    {
-      "datetime": 1760595300000,
-      "symbol": "INUSDT",
-      "signal": "BUY",
-      "entry": 0.17423,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=INUSDT"
-    },
-    {
       "datetime": 1760596200000,
       "symbol": "THETAUSDT",
       "signal": "BUY",
@@ -649,6 +629,26 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=CAKEUSDT"
+    },
+    {
+      "datetime": 1760769000000,
+      "symbol": "ADXUSDT",
+      "signal": "BUY",
+      "entry": 0.0964,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=ADXUSDT"
+    },
+    {
+      "datetime": 1760769000000,
+      "symbol": "MYRIAUSDT",
+      "signal": "BUY",
+      "entry": 0.0004767,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=MYRIAUSDT"
     }
   ]
 }
