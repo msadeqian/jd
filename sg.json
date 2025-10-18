@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760633100000,
-      "symbol": "AKEUSDT",
-      "signal": "SELL",
-      "entry": 0.0016028,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=AKEUSDT"
-    },
-    {
-      "datetime": 1760634000000,
-      "symbol": "DMAILUSDT",
-      "signal": "BUY",
-      "entry": 0.02956,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=DMAILUSDT"
-    },
-    {
       "datetime": 1760641200000,
       "symbol": "GLMRUSDT",
       "signal": "BUY",
@@ -29,16 +9,6 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=GLMRUSDT"
-    },
-    {
-      "datetime": 1760639400000,
-      "symbol": "ADXUSDT",
-      "signal": "SELL",
-      "entry": 0.0988,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=ADXUSDT"
     },
     {
       "datetime": 1760678100000,
@@ -479,6 +449,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=LQTYUSDT"
+    },
+    {
+      "datetime": 1760813100000,
+      "symbol": "MNSRYUSDT",
+      "signal": "BUY",
+      "entry": 0.02642,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=MNSRYUSDT"
     }
   ]
 }
