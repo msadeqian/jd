@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760596200000,
-      "symbol": "THETAUSDT",
-      "signal": "BUY",
-      "entry": 0.579,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=THETAUSDT"
-    },
-    {
       "datetime": 1760600700000,
       "symbol": "VOXELUSDT",
       "signal": "BUY",
@@ -649,6 +639,26 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=MYRIAUSDT"
+    },
+    {
+      "datetime": 1760771700000,
+      "symbol": "LINEAUSDT",
+      "signal": "BUY",
+      "entry": 0.01839,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=LINEAUSDT"
+    },
+    {
+      "datetime": 1760771700000,
+      "symbol": "CAKEUSDT",
+      "signal": "BUY",
+      "entry": 2.972,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=CAKEUSDT"
     }
   ]
 }
