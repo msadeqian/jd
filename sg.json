@@ -1,56 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760611500000,
-      "symbol": "BABYUSDT",
-      "signal": "BUY",
-      "entry": 0.03612,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=BABYUSDT"
-    },
-    {
-      "datetime": 1760618700000,
-      "symbol": "IOSTUSDT",
-      "signal": "BUY",
-      "entry": 0.002513,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=IOSTUSDT"
-    },
-    {
-      "datetime": 1760616900000,
-      "symbol": "PRAIUSDT",
-      "signal": "SELL",
-      "entry": 0.02334,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=PRAIUSDT"
-    },
-    {
-      "datetime": 1760616900000,
-      "symbol": "AVAUSDT",
-      "signal": "BUY",
-      "entry": 0.3989,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=AVAUSDT"
-    },
-    {
-      "datetime": 1760617800000,
-      "symbol": "AEVOUSDT",
-      "signal": "BUY",
-      "entry": 0.0708,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=AEVOUSDT"
-    },
-    {
       "datetime": 1760623200000,
       "symbol": "DUSDT",
       "signal": "SELL",
@@ -619,6 +569,26 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=CHEXUSDT"
+    },
+    {
+      "datetime": 1760790600000,
+      "symbol": "CGPTUSDT",
+      "signal": "BUY",
+      "entry": 0.0567,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=CGPTUSDT"
+    },
+    {
+      "datetime": 1760792400000,
+      "symbol": "THEUSDT",
+      "signal": "SELL",
+      "entry": 0.2617,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=THEUSDT"
     }
   ]
 }
