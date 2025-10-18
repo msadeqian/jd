@@ -1,66 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760604300000,
-      "symbol": "ROAMUSDT",
-      "signal": "BUY",
-      "entry": 0.06159,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ROAMUSDT"
-    },
-    {
-      "datetime": 1760605200000,
-      "symbol": "OXTUSDT",
-      "signal": "SELL",
-      "entry": 0.0428,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=OXTUSDT"
-    },
-    {
-      "datetime": 1760607000000,
-      "symbol": "ARIAUSDT",
-      "signal": "SELL",
-      "entry": 0.15495,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=ARIAUSDT"
-    },
-    {
-      "datetime": 1760607000000,
-      "symbol": "READYUSDT",
-      "signal": "SELL",
-      "entry": 0.034626,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=READYUSDT"
-    },
-    {
-      "datetime": 1760607000000,
-      "symbol": "PIXELUSDT",
-      "signal": "SELL",
-      "entry": 0.01888,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=PIXELUSDT"
-    },
-    {
-      "datetime": 1760607000000,
-      "symbol": "ALICEUSDT",
-      "signal": "SELL",
-      "entry": 0.403,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ALICEUSDT"
-    },
-    {
       "datetime": 1760611500000,
       "symbol": "BABYUSDT",
       "signal": "BUY",
@@ -649,6 +589,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=TDROPUSDT"
+    },
+    {
+      "datetime": 1760780700000,
+      "symbol": "OGUSDT",
+      "signal": "SELL",
+      "entry": 17.835,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=OGUSDT"
     }
   ]
 }
