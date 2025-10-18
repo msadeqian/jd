@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760600700000,
-      "symbol": "VOXELUSDT",
-      "signal": "BUY",
-      "entry": 0.0393,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=VOXELUSDT"
-    },
-    {
       "datetime": 1760604300000,
       "symbol": "ROAMUSDT",
       "signal": "BUY",
@@ -19,16 +9,6 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=ROAMUSDT"
-    },
-    {
-      "datetime": 1760603400000,
-      "symbol": "RDNTUSDT",
-      "signal": "BUY",
-      "entry": 0.02414,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=RDNTUSDT"
     },
     {
       "datetime": 1760605200000,
@@ -659,6 +639,16 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=CAKEUSDT"
+    },
+    {
+      "datetime": 1760777100000,
+      "symbol": "TDROPUSDT",
+      "signal": "BUY",
+      "entry": 0.0013285,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=TDROPUSDT"
     }
   ]
 }
