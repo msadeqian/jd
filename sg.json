@@ -1,56 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760623200000,
-      "symbol": "DUSDT",
-      "signal": "SELL",
-      "entry": 0.02583,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=DUSDT"
-    },
-    {
-      "datetime": 1760623200000,
-      "symbol": "LAZIOUSDT",
-      "signal": "SELL",
-      "entry": 0.895,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=LAZIOUSDT"
-    },
-    {
-      "datetime": 1760623200000,
-      "symbol": "SOLVUSDT",
-      "signal": "SELL",
-      "entry": 0.01862,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=SOLVUSDT"
-    },
-    {
-      "datetime": 1760624100000,
-      "symbol": "SFPUSDT",
-      "signal": "SELL",
-      "entry": 0.3983,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=SFPUSDT"
-    },
-    {
-      "datetime": 1760624100000,
-      "symbol": "BIDUSDT",
-      "signal": "SELL",
-      "entry": 0.05351,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=BIDUSDT"
-    },
-    {
       "datetime": 1760628600000,
       "symbol": "BICOUSDT",
       "signal": "SELL",
@@ -579,6 +529,26 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=SERAPHUSDT"
+    },
+    {
+      "datetime": 1760799600000,
+      "symbol": "LAUSDT",
+      "signal": "SELL",
+      "entry": 0.3826,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=LAUSDT"
+    },
+    {
+      "datetime": 1760797800000,
+      "symbol": "SNSUSDT",
+      "signal": "SELL",
+      "entry": 0.001283,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=SNSUSDT"
     }
   ]
 }
