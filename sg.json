@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760589900000,
-      "symbol": "RAREUSDT",
-      "signal": "BUY",
-      "entry": 0.0394,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=RAREUSDT"
-    },
-    {
       "datetime": 1760595300000,
       "symbol": "YGGUSDT",
       "signal": "BUY",
@@ -639,6 +629,26 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=PRAIUSDT"
+    },
+    {
+      "datetime": 1760764500000,
+      "symbol": "GALAUSDT",
+      "signal": "SELL",
+      "entry": 0.01065,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=GALAUSDT"
+    },
+    {
+      "datetime": 1760764500000,
+      "symbol": "CAKEUSDT",
+      "signal": "SELL",
+      "entry": 2.841,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=CAKEUSDT"
     }
   ]
 }
