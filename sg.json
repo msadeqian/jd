@@ -599,6 +599,26 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=OGUSDT"
+    },
+    {
+      "datetime": 1760784300000,
+      "symbol": "TSLAXUSDT",
+      "signal": "BUY",
+      "entry": 442.69,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=TSLAXUSDT"
+    },
+    {
+      "datetime": 1760784300000,
+      "symbol": "CHEXUSDT",
+      "signal": "BUY",
+      "entry": 0.06698,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=CHEXUSDT"
     }
   ]
 }
