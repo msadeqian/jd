@@ -21,26 +21,6 @@
       "url": "https://www.tradingview.com/chart?symbol=LAZIOUSDT"
     },
     {
-      "datetime": 1760622300000,
-      "symbol": "HOODXUSDT",
-      "signal": "SELL",
-      "entry": 135.15,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=HOODXUSDT"
-    },
-    {
-      "datetime": 1760621400000,
-      "symbol": "NTRNUSDT",
-      "signal": "BUY",
-      "entry": 0.0536,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=NTRNUSDT"
-    },
-    {
       "datetime": 1760623200000,
       "symbol": "SOLVUSDT",
       "signal": "SELL",
@@ -589,6 +569,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=THEUSDT"
+    },
+    {
+      "datetime": 1760796000000,
+      "symbol": "SERAPHUSDT",
+      "signal": "BUY",
+      "entry": 0.0534,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=SERAPHUSDT"
     }
   ]
 }
