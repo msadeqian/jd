@@ -529,6 +529,26 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=AVAXUSDT"
+    },
+    {
+      "datetime": 1760883300000,
+      "symbol": "HITUSDT",
+      "signal": "BUY",
+      "entry": 0.364,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=HITUSDT"
+    },
+    {
+      "datetime": 1760885100000,
+      "symbol": "QAIUSDT",
+      "signal": "BUY",
+      "entry": 90.22,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=QAIUSDT"
     }
   ]
 }
