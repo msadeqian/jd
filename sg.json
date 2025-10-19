@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760715900000,
-      "symbol": "DAGUSDT",
-      "signal": "BUY",
-      "entry": 0.02245,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=DAGUSDT"
-    },
-    {
-      "datetime": 1760719500000,
-      "symbol": "HOTUSDT",
-      "signal": "BUY",
-      "entry": 0.000764,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=HOTUSDT"
-    },
-    {
       "datetime": 1760721300000,
       "symbol": "BASUSDT",
       "signal": "SELL",
@@ -549,6 +529,16 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=QAIUSDT"
+    },
+    {
+      "datetime": 1760894100000,
+      "symbol": "ZROUSDT",
+      "signal": "BUY",
+      "entry": 1.747,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=ZROUSDT"
     }
   ]
 }
