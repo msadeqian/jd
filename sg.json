@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760699700000,
-      "symbol": "JTOUSDT",
-      "signal": "BUY",
-      "entry": 1.202,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=JTOUSDT"
-    },
-    {
       "datetime": 1760703300000,
       "symbol": "PROVEUSDT",
       "signal": "BUY",
@@ -469,6 +459,26 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=LINKUSDT"
+    },
+    {
+      "datetime": 1760875200000,
+      "symbol": "SLPUSDT",
+      "signal": "BUY",
+      "entry": 0.001272,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=SLPUSDT"
+    },
+    {
+      "datetime": 1760872500000,
+      "symbol": "SBETUSDT",
+      "signal": "BUY",
+      "entry": 3.15e-05,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=SBETUSDT"
     }
   ]
 }
