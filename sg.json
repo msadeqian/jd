@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760703300000,
-      "symbol": "PROVEUSDT",
-      "signal": "BUY",
-      "entry": 0.8062,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=PROVEUSDT"
-    },
-    {
       "datetime": 1760706000000,
       "symbol": "WFIUSDT",
       "signal": "BUY",
@@ -479,6 +469,16 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=SBETUSDT"
+    },
+    {
+      "datetime": 1760877000000,
+      "symbol": "UTKUSDT",
+      "signal": "BUY",
+      "entry": 0.01965,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=UTKUSDT"
     }
   ]
 }
