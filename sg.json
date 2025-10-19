@@ -369,6 +369,36 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=LUNCUSDT"
+    },
+    {
+      "datetime": 1760867100000,
+      "symbol": "AICELLUSDT",
+      "signal": "BUY",
+      "entry": 0.002515,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=AICELLUSDT"
+    },
+    {
+      "datetime": 1760867100000,
+      "symbol": "DOLOUSDT",
+      "signal": "BUY",
+      "entry": 0.0825,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=DOLOUSDT"
+    },
+    {
+      "datetime": 1760868000000,
+      "symbol": "BANANAS31USDT",
+      "signal": "BUY",
+      "entry": 0.003383,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=BANANAS31USDT"
     }
   ]
 }
