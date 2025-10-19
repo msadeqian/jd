@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760697900000,
-      "symbol": "ATMUSDT",
-      "signal": "SELL",
-      "entry": 1.222,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=ATMUSDT"
-    },
-    {
       "datetime": 1760699700000,
       "symbol": "JTOUSDT",
       "signal": "BUY",
@@ -399,6 +389,86 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=BANANAS31USDT"
+    },
+    {
+      "datetime": 1760869800000,
+      "symbol": "KERNELUSDT",
+      "signal": "BUY",
+      "entry": 0.1853,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=KERNELUSDT"
+    },
+    {
+      "datetime": 1760868900000,
+      "symbol": "MUBARAKUSDT",
+      "signal": "BUY",
+      "entry": 0.02532,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=MUBARAKUSDT"
+    },
+    {
+      "datetime": 1760869800000,
+      "symbol": "PIUSDT",
+      "signal": "BUY",
+      "entry": 0.2058,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=PIUSDT"
+    },
+    {
+      "datetime": 1760868900000,
+      "symbol": "FIOUSDT",
+      "signal": "BUY",
+      "entry": 0.01236,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=FIOUSDT"
+    },
+    {
+      "datetime": 1760868900000,
+      "symbol": "DOGEUSDT",
+      "signal": "BUY",
+      "entry": 0.1955,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=DOGEUSDT"
+    },
+    {
+      "datetime": 1760871600000,
+      "symbol": "XLMUSDT",
+      "signal": "BUY",
+      "entry": 0.3178,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=XLMUSDT"
+    },
+    {
+      "datetime": 1760869800000,
+      "symbol": "ETHUSDT",
+      "signal": "BUY",
+      "entry": 3927.1,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=ETHUSDT"
+    },
+    {
+      "datetime": 1760870700000,
+      "symbol": "LINKUSDT",
+      "signal": "BUY",
+      "entry": 17.05,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=LINKUSDT"
     }
   ]
 }
