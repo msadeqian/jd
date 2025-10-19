@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760641200000,
-      "symbol": "GLMRUSDT",
-      "signal": "BUY",
-      "entry": 0.0433,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=GLMRUSDT"
-    },
-    {
-      "datetime": 1760678100000,
-      "symbol": "INUSDT",
-      "signal": "BUY",
-      "entry": 0.1683,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=INUSDT"
-    },
-    {
       "datetime": 1760679900000,
       "symbol": "TIBBIRUSDT",
       "signal": "BUY",
@@ -459,6 +439,36 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=MNSRYUSDT"
+    },
+    {
+      "datetime": 1760850900000,
+      "symbol": "BANKUSDT",
+      "signal": "SELL",
+      "entry": 0.14824,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=BANKUSDT"
+    },
+    {
+      "datetime": 1760851800000,
+      "symbol": "DUPEUSDT",
+      "signal": "BUY",
+      "entry": 0.009106,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=DUPEUSDT"
+    },
+    {
+      "datetime": 1760851800000,
+      "symbol": "OGUSDT",
+      "signal": "SELL",
+      "entry": 17.75,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=OGUSDT"
     }
   ]
 }
