@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760684400000,
-      "symbol": "ALICEUSDT",
-      "signal": "SELL",
-      "entry": 0.3484,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ALICEUSDT"
-    },
-    {
-      "datetime": 1760685300000,
-      "symbol": "PLAYUSDT",
-      "signal": "SELL",
-      "entry": 0.027047,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=PLAYUSDT"
-    },
-    {
-      "datetime": 1760685300000,
-      "symbol": "IOTXUSDT",
-      "signal": "SELL",
-      "entry": 0.01241,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=IOTXUSDT"
-    },
-    {
       "datetime": 1760689800000,
       "symbol": "INUSDT",
       "signal": "SELL",
@@ -375,6 +345,26 @@
       "symbol": "SNUSDT",
       "signal": "SELL",
       "entry": 1.4947,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=SNUSDT"
+    },
+    {
+      "datetime": 1760859000000,
+      "symbol": "HOODUSDT",
+      "signal": "BUY",
+      "entry": 1.744e-05,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=HOODUSDT"
+    },
+    {
+      "datetime": 1760859000000,
+      "symbol": "SNUSDT",
+      "signal": "SELL",
+      "entry": 1.4944,
       "stop_loss": null,
       "take_profit": null,
       "Market_Direction": "Neutral",
