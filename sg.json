@@ -469,6 +469,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=RDNTUSDT"
+    },
+    {
+      "datetime": 1760962500000,
+      "symbol": "U2UUSDT",
+      "signal": "SELL",
+      "entry": 0.005968,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=U2UUSDT"
     }
   ]
 }
