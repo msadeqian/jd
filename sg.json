@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760721300000,
-      "symbol": "BASUSDT",
-      "signal": "SELL",
-      "entry": 0.09824,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=BASUSDT"
-    },
-    {
       "datetime": 1760762700000,
       "symbol": "PRAIUSDT",
       "signal": "BUY",
@@ -539,6 +529,16 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=ZROUSDT"
+    },
+    {
+      "datetime": 1760935500000,
+      "symbol": "THEUSDT",
+      "signal": "BUY",
+      "entry": 0.269,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=THEUSDT"
     }
   ]
 }
