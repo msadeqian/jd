@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760796000000,
-      "symbol": "SERAPHUSDT",
-      "signal": "BUY",
-      "entry": 0.0534,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=SERAPHUSDT"
-    },
-    {
       "datetime": 1760799600000,
       "symbol": "LAUSDT",
       "signal": "SELL",
@@ -469,6 +459,16 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=BlumUSDT"
+    },
+    {
+      "datetime": 1760970600000,
+      "symbol": "CELOUSDT",
+      "signal": "BUY",
+      "entry": 0.2537,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=CELOUSDT"
     }
   ]
 }
