@@ -1,66 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760769000000,
-      "symbol": "ADXUSDT",
-      "signal": "BUY",
-      "entry": 0.0964,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=ADXUSDT"
-    },
-    {
-      "datetime": 1760769000000,
-      "symbol": "MYRIAUSDT",
-      "signal": "BUY",
-      "entry": 0.0004767,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=MYRIAUSDT"
-    },
-    {
-      "datetime": 1760771700000,
-      "symbol": "LINEAUSDT",
-      "signal": "BUY",
-      "entry": 0.01839,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=LINEAUSDT"
-    },
-    {
-      "datetime": 1760771700000,
-      "symbol": "CAKEUSDT",
-      "signal": "BUY",
-      "entry": 2.972,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=CAKEUSDT"
-    },
-    {
-      "datetime": 1760777100000,
-      "symbol": "TDROPUSDT",
-      "signal": "BUY",
-      "entry": 0.0013285,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=TDROPUSDT"
-    },
-    {
-      "datetime": 1760780700000,
-      "symbol": "OGUSDT",
-      "signal": "SELL",
-      "entry": 17.835,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=OGUSDT"
-    },
-    {
       "datetime": 1760784300000,
       "symbol": "TSLAXUSDT",
       "signal": "BUY",
@@ -529,6 +469,16 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=AVAXUSDT"
+    },
+    {
+      "datetime": 1760954400000,
+      "symbol": "BSVUSDT",
+      "signal": "BUY",
+      "entry": 22.2132,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=BSVUSDT"
     }
   ]
 }
