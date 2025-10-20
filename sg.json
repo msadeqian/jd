@@ -469,6 +469,36 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=XVSUSDT"
+    },
+    {
+      "datetime": 1760984100000,
+      "symbol": "ETHFIUSDT",
+      "signal": "SELL",
+      "entry": 1.071,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=ETHFIUSDT"
+    },
+    {
+      "datetime": 1760984100000,
+      "symbol": "SOMIUSDT",
+      "signal": "SELL",
+      "entry": 0.5023,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=SOMIUSDT"
+    },
+    {
+      "datetime": 1760985000000,
+      "symbol": "SUPRAUSDT",
+      "signal": "SELL",
+      "entry": 0.001964,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=SUPRAUSDT"
     }
   ]
 }
