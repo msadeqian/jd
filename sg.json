@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760805900000,
-      "symbol": "VOXELUSDT",
-      "signal": "SELL",
-      "entry": 0.0362,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=VOXELUSDT"
-    },
-    {
-      "datetime": 1760805000000,
-      "symbol": "DOGSUSDT",
-      "signal": "SELL",
-      "entry": 6.86e-05,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=DOGSUSDT"
-    },
-    {
       "datetime": 1760813100000,
       "symbol": "MNSRYUSDT",
       "signal": "BUY",
@@ -459,6 +439,36 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=SKYUSDT"
+    },
+    {
+      "datetime": 1760983200000,
+      "symbol": "TOKENUSDT",
+      "signal": "SELL",
+      "entry": 0.008392,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=TOKENUSDT"
+    },
+    {
+      "datetime": 1760982300000,
+      "symbol": "MUBARAKUSDT",
+      "signal": "SELL",
+      "entry": 0.02465,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=MUBARAKUSDT"
+    },
+    {
+      "datetime": 1760981400000,
+      "symbol": "XVSUSDT",
+      "signal": "SELL",
+      "entry": 5.03,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=XVSUSDT"
     }
   ]
 }
