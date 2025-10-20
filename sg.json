@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760799600000,
-      "symbol": "LAUSDT",
-      "signal": "SELL",
-      "entry": 0.3826,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=LAUSDT"
-    },
-    {
-      "datetime": 1760797800000,
-      "symbol": "SNSUSDT",
-      "signal": "SELL",
-      "entry": 0.001283,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=SNSUSDT"
-    },
-    {
       "datetime": 1760805900000,
       "symbol": "VOXELUSDT",
       "signal": "SELL",
@@ -469,6 +449,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=CELOUSDT"
+    },
+    {
+      "datetime": 1760973300000,
+      "symbol": "BARDUSDT",
+      "signal": "BUY",
+      "entry": 0.637,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=BARDUSDT"
     }
   ]
 }
