@@ -21,16 +21,6 @@
       "url": "https://www.tradingview.com/chart?symbol=DOGSUSDT"
     },
     {
-      "datetime": 1760804100000,
-      "symbol": "LQTYUSDT",
-      "signal": "SELL",
-      "entry": 0.505,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=LQTYUSDT"
-    },
-    {
       "datetime": 1760813100000,
       "symbol": "MNSRYUSDT",
       "signal": "BUY",
@@ -459,6 +449,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=BARDUSDT"
+    },
+    {
+      "datetime": 1760977800000,
+      "symbol": "SKYUSDT",
+      "signal": "SELL",
+      "entry": 0.05834,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=SKYUSDT"
     }
   ]
 }
