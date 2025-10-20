@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760762700000,
-      "symbol": "PRAIUSDT",
-      "signal": "BUY",
-      "entry": 0.02389,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=PRAIUSDT"
-    },
-    {
-      "datetime": 1760764500000,
-      "symbol": "GALAUSDT",
-      "signal": "SELL",
-      "entry": 0.01065,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=GALAUSDT"
-    },
-    {
-      "datetime": 1760764500000,
-      "symbol": "CAKEUSDT",
-      "signal": "SELL",
-      "entry": 2.841,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=CAKEUSDT"
-    },
-    {
       "datetime": 1760769000000,
       "symbol": "ADXUSDT",
       "signal": "BUY",
@@ -539,6 +509,16 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=THEUSDT"
+    },
+    {
+      "datetime": 1760939100000,
+      "symbol": "ELDEUSDT",
+      "signal": "BUY",
+      "entry": 0.005493,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ELDEUSDT"
     }
   ]
 }
