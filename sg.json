@@ -519,6 +519,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=ELDEUSDT"
+    },
+    {
+      "datetime": 1760941800000,
+      "symbol": "AVAXUSDT",
+      "signal": "BUY",
+      "entry": 21.18,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=AVAXUSDT"
     }
   ]
 }
