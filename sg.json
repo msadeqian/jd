@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760790600000,
-      "symbol": "CGPTUSDT",
-      "signal": "BUY",
-      "entry": 0.0567,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=CGPTUSDT"
-    },
-    {
-      "datetime": 1760792400000,
-      "symbol": "THEUSDT",
-      "signal": "SELL",
-      "entry": 0.2617,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=THEUSDT"
-    },
-    {
       "datetime": 1760796000000,
       "symbol": "SERAPHUSDT",
       "signal": "BUY",
@@ -479,6 +459,16 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=U2UUSDT"
+    },
+    {
+      "datetime": 1760968800000,
+      "symbol": "BlumUSDT",
+      "signal": "BUY",
+      "entry": 0.048278,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=BlumUSDT"
     }
   ]
 }
