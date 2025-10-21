@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760857200000,
-      "symbol": "RUNEUSDT",
-      "signal": "SELL",
-      "entry": 0.832,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=RUNEUSDT"
-    },
-    {
-      "datetime": 1760857200000,
-      "symbol": "SNUSDT",
-      "signal": "SELL",
-      "entry": 1.4947,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=SNUSDT"
-    },
-    {
       "datetime": 1760859000000,
       "symbol": "HOODUSDT",
       "signal": "BUY",
@@ -529,6 +509,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=PLAYUSDT"
+    },
+    {
+      "datetime": 1761030900000,
+      "symbol": "CYCUSDT",
+      "signal": "SELL",
+      "entry": 0.02611,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=CYCUSDT"
     }
   ]
 }
