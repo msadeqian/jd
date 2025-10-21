@@ -1,46 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760877000000,
-      "symbol": "UTKUSDT",
-      "signal": "BUY",
-      "entry": 0.01965,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=UTKUSDT"
-    },
-    {
-      "datetime": 1760880600000,
-      "symbol": "MTPUSDT",
-      "signal": "SELL",
-      "entry": 0.001372,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=MTPUSDT"
-    },
-    {
-      "datetime": 1760880600000,
-      "symbol": "DODOUSDT",
-      "signal": "BUY",
-      "entry": 0.0339,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=DODOUSDT"
-    },
-    {
-      "datetime": 1760879700000,
-      "symbol": "FLZUSDT",
-      "signal": "BUY",
-      "entry": 0.2645,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=FLZUSDT"
-    },
-    {
       "datetime": 1760882400000,
       "symbol": "BCCOINUSDT",
       "signal": "SELL",
@@ -49,26 +9,6 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=BCCOINUSDT"
-    },
-    {
-      "datetime": 1760879700000,
-      "symbol": "ARUSDT",
-      "signal": "BUY",
-      "entry": 3.98,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=ARUSDT"
-    },
-    {
-      "datetime": 1760879700000,
-      "symbol": "AVAXUSDT",
-      "signal": "BUY",
-      "entry": 20.49,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=AVAXUSDT"
     },
     {
       "datetime": 1760883300000,
@@ -379,6 +319,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=PROVEUSDT"
+    },
+    {
+      "datetime": 1761054300000,
+      "symbol": "CRCLXUSDT",
+      "signal": "SELL",
+      "entry": 125.85,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=CRCLXUSDT"
     }
   ]
 }
