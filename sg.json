@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760882400000,
-      "symbol": "BCCOINUSDT",
-      "signal": "SELL",
-      "entry": 0.08393,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=BCCOINUSDT"
-    },
-    {
-      "datetime": 1760883300000,
-      "symbol": "HITUSDT",
-      "signal": "BUY",
-      "entry": 0.364,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=HITUSDT"
-    },
-    {
-      "datetime": 1760885100000,
-      "symbol": "QAIUSDT",
-      "signal": "BUY",
-      "entry": 90.22,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=QAIUSDT"
-    },
-    {
       "datetime": 1760894100000,
       "symbol": "ZROUSDT",
       "signal": "BUY",
@@ -329,6 +299,46 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=CRCLXUSDT"
+    },
+    {
+      "datetime": 1761057000000,
+      "symbol": "AVLUSDT",
+      "signal": "BUY",
+      "entry": 0.12733,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=AVLUSDT"
+    },
+    {
+      "datetime": 1761058800000,
+      "symbol": "KAIAUSDT",
+      "signal": "BUY",
+      "entry": 0.1089,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=KAIAUSDT"
+    },
+    {
+      "datetime": 1761058800000,
+      "symbol": "CKBUSDT",
+      "signal": "BUY",
+      "entry": 0.003481,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=CKBUSDT"
+    },
+    {
+      "datetime": 1761056100000,
+      "symbol": "STORJUSDT",
+      "signal": "BUY",
+      "entry": 0.1986,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=STORJUSDT"
     }
   ]
 }
