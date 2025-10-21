@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760859000000,
-      "symbol": "HOODUSDT",
-      "signal": "BUY",
-      "entry": 1.744e-05,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=HOODUSDT"
-    },
-    {
-      "datetime": 1760859000000,
-      "symbol": "SNUSDT",
-      "signal": "SELL",
-      "entry": 1.4944,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=SNUSDT"
-    },
-    {
       "datetime": 1760861700000,
       "symbol": "CATEUSDT",
       "signal": "BUY",
@@ -519,6 +499,16 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=CYCUSDT"
+    },
+    {
+      "datetime": 1761034500000,
+      "symbol": "SOPHUSDT",
+      "signal": "BUY",
+      "entry": 0.02368,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=SOPHUSDT"
     }
   ]
 }
