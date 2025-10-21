@@ -459,6 +459,56 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=QAIUSDT"
+    },
+    {
+      "datetime": 1761063300000,
+      "symbol": "OSMOUSDT",
+      "signal": "BUY",
+      "entry": 0.1257,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=OSMOUSDT"
+    },
+    {
+      "datetime": 1761063300000,
+      "symbol": "SAGAUSDT",
+      "signal": "BUY",
+      "entry": 0.1261,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=SAGAUSDT"
+    },
+    {
+      "datetime": 1761064200000,
+      "symbol": "CELOUSDT",
+      "signal": "BUY",
+      "entry": 0.2569,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=CELOUSDT"
+    },
+    {
+      "datetime": 1761064200000,
+      "symbol": "RESOLVUSDT",
+      "signal": "BUY",
+      "entry": 0.0625,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=RESOLVUSDT"
+    },
+    {
+      "datetime": 1761064200000,
+      "symbol": "AVAXUSDT",
+      "signal": "BUY",
+      "entry": 20.71,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=AVAXUSDT"
     }
   ]
 }
