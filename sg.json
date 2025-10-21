@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760813100000,
-      "symbol": "MNSRYUSDT",
-      "signal": "BUY",
-      "entry": 0.02642,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=MNSRYUSDT"
-    },
-    {
       "datetime": 1760850900000,
       "symbol": "BANKUSDT",
       "signal": "SELL",
@@ -499,6 +489,56 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=SUPRAUSDT"
+    },
+    {
+      "datetime": 1761021000000,
+      "symbol": "1INCHUSDT",
+      "signal": "SELL",
+      "entry": 0.1732,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=1INCHUSDT"
+    },
+    {
+      "datetime": 1761021900000,
+      "symbol": "COAUSDT",
+      "signal": "SELL",
+      "entry": 0.005747,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=COAUSDT"
+    },
+    {
+      "datetime": 1761021000000,
+      "symbol": "PLUMEUSDT",
+      "signal": "SELL",
+      "entry": 0.07241,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=PLUMEUSDT"
+    },
+    {
+      "datetime": 1761022800000,
+      "symbol": "NMTUSDT",
+      "signal": "SELL",
+      "entry": 0.269,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=NMTUSDT"
+    },
+    {
+      "datetime": 1761020100000,
+      "symbol": "LQTYUSDT",
+      "signal": "SELL",
+      "entry": 0.531,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=LQTYUSDT"
     }
   ]
 }
