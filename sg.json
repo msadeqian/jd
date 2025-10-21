@@ -339,6 +339,126 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=STORJUSDT"
+    },
+    {
+      "datetime": 1761062400000,
+      "symbol": "ETHUSDT",
+      "signal": "BUY",
+      "entry": 4092.42,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=ETHUSDT"
+    },
+    {
+      "datetime": 1761059700000,
+      "symbol": "WIFUSDT",
+      "signal": "BUY",
+      "entry": 0.571,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=WIFUSDT"
+    },
+    {
+      "datetime": 1761062400000,
+      "symbol": "ATAUSDT",
+      "signal": "BUY",
+      "entry": 0.0321,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=ATAUSDT"
+    },
+    {
+      "datetime": 1761060600000,
+      "symbol": "GUSDT",
+      "signal": "BUY",
+      "entry": 0.00785,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=GUSDT"
+    },
+    {
+      "datetime": 1761061500000,
+      "symbol": "AUDIOUSDT",
+      "signal": "BUY",
+      "entry": 0.0433,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=AUDIOUSDT"
+    },
+    {
+      "datetime": 1761059700000,
+      "symbol": "NEOUSDT",
+      "signal": "BUY",
+      "entry": 5.358,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=NEOUSDT"
+    },
+    {
+      "datetime": 1761059700000,
+      "symbol": "VANAUSDT",
+      "signal": "BUY",
+      "entry": 2.803,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=VANAUSDT"
+    },
+    {
+      "datetime": 1761060600000,
+      "symbol": "GPSUSDT",
+      "signal": "BUY",
+      "entry": 0.00925,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=GPSUSDT"
+    },
+    {
+      "datetime": 1761062400000,
+      "symbol": "MDTUSDT",
+      "signal": "BUY",
+      "entry": 0.01884,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=MDTUSDT"
+    },
+    {
+      "datetime": 1761059700000,
+      "symbol": "USTCUSDT",
+      "signal": "BUY",
+      "entry": 0.00845,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=USTCUSDT"
+    },
+    {
+      "datetime": 1761060600000,
+      "symbol": "AEVOUSDT",
+      "signal": "BUY",
+      "entry": 0.0694,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=AEVOUSDT"
+    },
+    {
+      "datetime": 1761061500000,
+      "symbol": "QAIUSDT",
+      "signal": "BUY",
+      "entry": 94.41,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=QAIUSDT"
     }
   ]
 }
