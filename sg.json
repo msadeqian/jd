@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760850900000,
-      "symbol": "BANKUSDT",
-      "signal": "SELL",
-      "entry": 0.14824,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=BANKUSDT"
-    },
-    {
-      "datetime": 1760851800000,
-      "symbol": "DUPEUSDT",
-      "signal": "BUY",
-      "entry": 0.009106,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=DUPEUSDT"
-    },
-    {
-      "datetime": 1760851800000,
-      "symbol": "OGUSDT",
-      "signal": "SELL",
-      "entry": 17.75,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=OGUSDT"
-    },
-    {
       "datetime": 1760857200000,
       "symbol": "RUNEUSDT",
       "signal": "SELL",
@@ -539,6 +509,26 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=LQTYUSDT"
+    },
+    {
+      "datetime": 1761029100000,
+      "symbol": "IDOLUSDT",
+      "signal": "BUY",
+      "entry": 0.02811,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=IDOLUSDT"
+    },
+    {
+      "datetime": 1761028200000,
+      "symbol": "PLAYUSDT",
+      "signal": "SELL",
+      "entry": 0.026126,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=PLAYUSDT"
     }
   ]
 }
