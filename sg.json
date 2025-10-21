@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760861700000,
-      "symbol": "CATEUSDT",
-      "signal": "BUY",
-      "entry": 1.44e-07,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=CATEUSDT"
-    },
-    {
-      "datetime": 1760863500000,
-      "symbol": "GEARUSDT",
-      "signal": "SELL",
-      "entry": 0.003725,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=GEARUSDT"
-    },
-    {
-      "datetime": 1760863500000,
-      "symbol": "LUNCUSDT",
-      "signal": "SELL",
-      "entry": 4.021e-05,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=LUNCUSDT"
-    },
-    {
       "datetime": 1760867100000,
       "symbol": "AICELLUSDT",
       "signal": "BUY",
@@ -509,6 +479,16 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=SOPHUSDT"
+    },
+    {
+      "datetime": 1761039900000,
+      "symbol": "NILUSDT",
+      "signal": "SELL",
+      "entry": 0.2649,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=NILUSDT"
     }
   ]
 }
