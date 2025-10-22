@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760939100000,
-      "symbol": "ELDEUSDT",
-      "signal": "BUY",
-      "entry": 0.005493,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ELDEUSDT"
-    },
-    {
-      "datetime": 1760941800000,
-      "symbol": "AVAXUSDT",
-      "signal": "BUY",
-      "entry": 21.18,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=AVAXUSDT"
-    },
-    {
       "datetime": 1760954400000,
       "symbol": "BSVUSDT",
       "signal": "BUY",
@@ -499,6 +479,16 @@
       "take_profit": null,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=ARIAUSDT"
+    },
+    {
+      "datetime": 1761115500000,
+      "symbol": "QUICKUSDT",
+      "signal": "SELL",
+      "entry": 0.01844,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=QUICKUSDT"
     }
   ]
 }
