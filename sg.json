@@ -489,6 +489,16 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=QUICKUSDT"
+    },
+    {
+      "datetime": 1761126300000,
+      "symbol": "FETUSDT",
+      "signal": "SELL",
+      "entry": 0.2391,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=FETUSDT"
     }
   ]
 }
