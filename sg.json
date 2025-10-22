@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760954400000,
-      "symbol": "BSVUSDT",
-      "signal": "BUY",
-      "entry": 22.2132,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=BSVUSDT"
-    },
-    {
       "datetime": 1760958000000,
       "symbol": "RDNTUSDT",
       "signal": "SELL",
@@ -499,6 +489,26 @@
       "take_profit": null,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=FETUSDT"
+    },
+    {
+      "datetime": 1761129900000,
+      "symbol": "PAXGUSDT",
+      "signal": "SELL",
+      "entry": 4049.52,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=PAXGUSDT"
+    },
+    {
+      "datetime": 1761130800000,
+      "symbol": "CAKEUSDT",
+      "signal": "SELL",
+      "entry": 2.687,
+      "stop_loss": null,
+      "take_profit": null,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=CAKEUSDT"
     }
   ]
 }
