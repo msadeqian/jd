@@ -369,6 +369,86 @@
       "take_profit": 0.3143852897,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=arbusdt"
+    },
+    {
+      "datetime": 1761220800000,
+      "symbol": "QNTUSDT",
+      "signal": "SELL",
+      "entry": 80.4,
+      "stop_loss": 81.3364078179,
+      "take_profit": 78.9953882731,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=QNTUSDT"
+    },
+    {
+      "datetime": 1761220800000,
+      "symbol": "EGLDUSDT",
+      "signal": "SELL",
+      "entry": 9.51,
+      "stop_loss": 9.6258063915,
+      "take_profit": 9.3362904127,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=EGLDUSDT"
+    },
+    {
+      "datetime": 1761220800000,
+      "symbol": "BEAMXUSDT",
+      "signal": "SELL",
+      "entry": 0.004944,
+      "stop_loss": 0.0050250557,
+      "take_profit": 0.0048224164,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=BEAMXUSDT"
+    },
+    {
+      "datetime": 1761220800000,
+      "symbol": "PLUMEUSDT",
+      "signal": "SELL",
+      "entry": 0.07061,
+      "stop_loss": 0.0714878274,
+      "take_profit": 0.0692932589,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=PLUMEUSDT"
+    },
+    {
+      "datetime": 1761220800000,
+      "symbol": "MOVEUSDT",
+      "signal": "SELL",
+      "entry": 0.0722,
+      "stop_loss": 0.0729758273,
+      "take_profit": 0.0710362591,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=MOVEUSDT"
+    },
+    {
+      "datetime": 1761220800000,
+      "symbol": "ZROUSDT",
+      "signal": "SELL",
+      "entry": 1.665,
+      "stop_loss": 1.6824213235,
+      "take_profit": 1.6388680148,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=ZROUSDT"
+    },
+    {
+      "datetime": 1761220800000,
+      "symbol": "cfxusdt",
+      "signal": "SELL",
+      "entry": 0.1069,
+      "stop_loss": 0.1082288987,
+      "take_profit": 0.1049066519,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=cfxusdt"
+    },
+    {
+      "datetime": 1761220800000,
+      "symbol": "PIXELUSDT",
+      "signal": "SELL",
+      "entry": 0.01668,
+      "stop_loss": 0.0169769164,
+      "take_profit": 0.0162346254,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=PIXELUSDT"
     }
   ]
 }
