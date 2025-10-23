@@ -1,196 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1760962500000,
-      "symbol": "U2UUSDT",
-      "signal": "SELL",
-      "entry": 0.005968,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=U2UUSDT"
-    },
-    {
-      "datetime": 1760968800000,
-      "symbol": "BlumUSDT",
-      "signal": "BUY",
-      "entry": 0.048278,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=BlumUSDT"
-    },
-    {
-      "datetime": 1760970600000,
-      "symbol": "CELOUSDT",
-      "signal": "BUY",
-      "entry": 0.2537,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=CELOUSDT"
-    },
-    {
-      "datetime": 1760973300000,
-      "symbol": "BARDUSDT",
-      "signal": "BUY",
-      "entry": 0.637,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=BARDUSDT"
-    },
-    {
-      "datetime": 1760977800000,
-      "symbol": "SKYUSDT",
-      "signal": "SELL",
-      "entry": 0.05834,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=SKYUSDT"
-    },
-    {
-      "datetime": 1760983200000,
-      "symbol": "TOKENUSDT",
-      "signal": "SELL",
-      "entry": 0.008392,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=TOKENUSDT"
-    },
-    {
-      "datetime": 1760982300000,
-      "symbol": "MUBARAKUSDT",
-      "signal": "SELL",
-      "entry": 0.02465,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=MUBARAKUSDT"
-    },
-    {
-      "datetime": 1760981400000,
-      "symbol": "XVSUSDT",
-      "signal": "SELL",
-      "entry": 5.03,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=XVSUSDT"
-    },
-    {
-      "datetime": 1760984100000,
-      "symbol": "ETHFIUSDT",
-      "signal": "SELL",
-      "entry": 1.071,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=ETHFIUSDT"
-    },
-    {
-      "datetime": 1760984100000,
-      "symbol": "SOMIUSDT",
-      "signal": "SELL",
-      "entry": 0.5023,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=SOMIUSDT"
-    },
-    {
-      "datetime": 1760985000000,
-      "symbol": "SUPRAUSDT",
-      "signal": "SELL",
-      "entry": 0.001964,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=SUPRAUSDT"
-    },
-    {
-      "datetime": 1761021000000,
-      "symbol": "1INCHUSDT",
-      "signal": "SELL",
-      "entry": 0.1732,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=1INCHUSDT"
-    },
-    {
-      "datetime": 1761021900000,
-      "symbol": "COAUSDT",
-      "signal": "SELL",
-      "entry": 0.005747,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=COAUSDT"
-    },
-    {
-      "datetime": 1761021000000,
-      "symbol": "PLUMEUSDT",
-      "signal": "SELL",
-      "entry": 0.07241,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=PLUMEUSDT"
-    },
-    {
-      "datetime": 1761022800000,
-      "symbol": "NMTUSDT",
-      "signal": "SELL",
-      "entry": 0.269,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=NMTUSDT"
-    },
-    {
-      "datetime": 1761020100000,
-      "symbol": "LQTYUSDT",
-      "signal": "SELL",
-      "entry": 0.531,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=LQTYUSDT"
-    },
-    {
-      "datetime": 1761029100000,
-      "symbol": "IDOLUSDT",
-      "signal": "BUY",
-      "entry": 0.02811,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=IDOLUSDT"
-    },
-    {
-      "datetime": 1761028200000,
-      "symbol": "PLAYUSDT",
-      "signal": "SELL",
-      "entry": 0.026126,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=PLAYUSDT"
-    },
-    {
-      "datetime": 1761030900000,
-      "symbol": "CYCUSDT",
-      "signal": "SELL",
-      "entry": 0.02611,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=CYCUSDT"
-    },
-    {
       "datetime": 1761034500000,
       "symbol": "SOPHUSDT",
       "signal": "BUY",
@@ -509,6 +319,16 @@
       "take_profit": null,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=AUDIOUSDT"
+    },
+    {
+      "datetime": 1761206400000,
+      "symbol": "FLOKIUSDT",
+      "signal": "BUY",
+      "entry": 7.412e-05,
+      "stop_loss": 7.32646e-05,
+      "take_profit": 7.5403e-05,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=FLOKIUSDT"
     }
   ]
 }
