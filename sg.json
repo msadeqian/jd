@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1761034500000,
-      "symbol": "SOPHUSDT",
-      "signal": "BUY",
-      "entry": 0.02368,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=SOPHUSDT"
-    },
-    {
-      "datetime": 1761039900000,
-      "symbol": "NILUSDT",
-      "signal": "SELL",
-      "entry": 0.2649,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=NILUSDT"
-    },
-    {
       "datetime": 1761049800000,
       "symbol": "FLOKIUSDT",
       "signal": "BUY",
@@ -339,6 +319,36 @@
       "take_profit": 7.5396e-05,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=FLOKIUSDT"
+    },
+    {
+      "datetime": 1761213600000,
+      "symbol": "ETHUSDT",
+      "signal": "BUY",
+      "entry": 3891.46,
+      "stop_loss": 3875.973345462,
+      "take_profit": 3914.689981807,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=ETHUSDT"
+    },
+    {
+      "datetime": 1761213600000,
+      "symbol": "LDOUSDT",
+      "signal": "BUY",
+      "entry": 0.8983,
+      "stop_loss": 0.8910259669,
+      "take_profit": 0.9092110497,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=LDOUSDT"
+    },
+    {
+      "datetime": 1761213600000,
+      "symbol": "MANAUSDT",
+      "signal": "BUY",
+      "entry": 0.234,
+      "stop_loss": 0.2327220057,
+      "take_profit": 0.2359169914,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=MANAUSDT"
     }
   ]
 }
