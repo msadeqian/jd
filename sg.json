@@ -279,6 +279,16 @@
       "take_profit": 3.2176945068,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=ATOMUSDT"
+    },
+    {
+      "datetime": 1761292800000,
+      "symbol": "FORMUSDT",
+      "signal": "SELL",
+      "entry": 0.7106,
+      "stop_loss": 0.7325585053,
+      "take_profit": 0.677662242,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=FORMUSDT"
     }
   ]
 }
