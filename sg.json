@@ -1,46 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1761126300000,
-      "symbol": "FETUSDT",
-      "signal": "SELL",
-      "entry": 0.2391,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=FETUSDT"
-    },
-    {
-      "datetime": 1761129900000,
-      "symbol": "PAXGUSDT",
-      "signal": "SELL",
-      "entry": 4049.52,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=PAXGUSDT"
-    },
-    {
-      "datetime": 1761130800000,
-      "symbol": "CAKEUSDT",
-      "signal": "SELL",
-      "entry": 2.687,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=CAKEUSDT"
-    },
-    {
-      "datetime": 1761131700000,
-      "symbol": "AUDIOUSDT",
-      "signal": "SELL",
-      "entry": 0.0402,
-      "stop_loss": null,
-      "take_profit": null,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=AUDIOUSDT"
-    },
-    {
       "datetime": 1761206400000,
       "symbol": "FLOKIUSDT",
       "signal": "BUY",
@@ -289,6 +249,76 @@
       "take_profit": 0.677662242,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=FORMUSDT"
+    },
+    {
+      "datetime": 1761321600000,
+      "symbol": "SUPERUSDT",
+      "signal": "SELL",
+      "entry": 0.3798,
+      "stop_loss": 0.38700205,
+      "take_profit": 0.368996925,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=SUPERUSDT"
+    },
+    {
+      "datetime": 1761321600000,
+      "symbol": "TFUELUSDT",
+      "signal": "SELL",
+      "entry": 0.02596,
+      "stop_loss": 0.0262575116,
+      "take_profit": 0.0255137326,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=TFUELUSDT"
+    },
+    {
+      "datetime": 1761321600000,
+      "symbol": "PNUTUSDT",
+      "signal": "SELL",
+      "entry": 0.1333,
+      "stop_loss": 0.1355803977,
+      "take_profit": 0.1298794034,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=PNUTUSDT"
+    },
+    {
+      "datetime": 1761321600000,
+      "symbol": "NMRUSDT",
+      "signal": "SELL",
+      "entry": 12.6,
+      "stop_loss": 12.7558205185,
+      "take_profit": 12.3662692223,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=NMRUSDT"
+    },
+    {
+      "datetime": 1761321600000,
+      "symbol": "BABYUSDT",
+      "signal": "SELL",
+      "entry": 0.03151,
+      "stop_loss": 0.0319069658,
+      "take_profit": 0.0309145514,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=BABYUSDT"
+    },
+    {
+      "datetime": 1761321600000,
+      "symbol": "AEVOUSDT",
+      "signal": "SELL",
+      "entry": 0.0623,
+      "stop_loss": 0.0632594339,
+      "take_profit": 0.0608608491,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=AEVOUSDT"
+    },
+    {
+      "datetime": 1761321600000,
+      "symbol": "RESOLVUSDT",
+      "signal": "SELL",
+      "entry": 0.0554,
+      "stop_loss": 0.0562270091,
+      "take_profit": 0.0541594864,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=RESOLVUSDT"
     }
   ]
 }
