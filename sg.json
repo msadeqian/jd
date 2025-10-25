@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1761238800000,
-      "symbol": "DOTUSDT",
-      "signal": "BUY",
-      "entry": 3.009,
-      "stop_loss": 2.9821240956,
-      "take_profit": 3.0493138567,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=DOTUSDT"
-    },
-    {
-      "datetime": 1761238800000,
-      "symbol": "NMRUSDT",
-      "signal": "BUY",
-      "entry": 12.72,
-      "stop_loss": 12.609197832,
-      "take_profit": 12.886203252,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=NMRUSDT"
-    },
-    {
-      "datetime": 1761238800000,
-      "symbol": "RESOLVUSDT",
-      "signal": "BUY",
-      "entry": 0.0571,
-      "stop_loss": 0.0563614967,
-      "take_profit": 0.058207755,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=RESOLVUSDT"
-    },
-    {
       "datetime": 1761242400000,
       "symbol": "PIXELUSDT",
       "signal": "BUY",
@@ -199,6 +169,16 @@
       "take_profit": 0.1956821468,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=DOGEUSDT"
+    },
+    {
+      "datetime": 1761415200000,
+      "symbol": "JSTUSDT",
+      "signal": "BUY",
+      "entry": 0.03342,
+      "stop_loss": 0.0333529742,
+      "take_profit": 0.0335205387,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=JSTUSDT"
     }
   ]
 }
