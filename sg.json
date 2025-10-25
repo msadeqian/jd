@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1761206400000,
-      "symbol": "FLOKIUSDT",
-      "signal": "BUY",
-      "entry": 7.412e-05,
-      "stop_loss": 7.32646e-05,
-      "take_profit": 7.5403e-05,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=FLOKIUSDT"
-    },
-    {
-      "datetime": 1761206400000,
-      "symbol": "FLOKIUSDT",
-      "signal": "BUY",
-      "entry": 7.411e-05,
-      "stop_loss": 7.32526e-05,
-      "take_profit": 7.5396e-05,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=FLOKIUSDT"
-    },
-    {
       "datetime": 1761213600000,
       "symbol": "ETHUSDT",
       "signal": "BUY",
@@ -329,6 +309,16 @@
       "take_profit": 0.0189042248,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=ALTUSDT"
+    },
+    {
+      "datetime": 1761386400000,
+      "symbol": "THEUSDT",
+      "signal": "SELL",
+      "entry": 0.2568,
+      "stop_loss": 0.2588502635,
+      "take_profit": 0.2537246047,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=THEUSDT"
     }
   ]
 }
