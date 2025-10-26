@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1761289200000,
-      "symbol": "TONUSDT",
-      "signal": "BUY",
-      "entry": 2.144,
-      "stop_loss": 2.1358732881,
-      "take_profit": 2.1561900679,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=TONUSDT"
-    },
-    {
-      "datetime": 1761289200000,
-      "symbol": "ATOMUSDT",
-      "signal": "BUY",
-      "entry": 3.19,
-      "stop_loss": 3.1715369955,
-      "take_profit": 3.2176945068,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=ATOMUSDT"
-    },
-    {
       "datetime": 1761292800000,
       "symbol": "FORMUSDT",
       "signal": "SELL",
@@ -239,6 +219,16 @@
       "take_profit": 1.494370024,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=ORCAUSDT"
+    },
+    {
+      "datetime": 1761465600000,
+      "symbol": "RUNEUSDT",
+      "signal": "BUY",
+      "entry": 0.87,
+      "stop_loss": 0.8654667796,
+      "take_profit": 0.8767998306,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=RUNEUSDT"
     }
   ]
 }
