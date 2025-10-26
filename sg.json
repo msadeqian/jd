@@ -189,6 +189,56 @@
       "take_profit": 0.0337453312,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=BIGTIMEUSDT"
+    },
+    {
+      "datetime": 1761462000000,
+      "symbol": "ENSUSDT",
+      "signal": "BUY",
+      "entry": 15.46,
+      "stop_loss": 15.4156908516,
+      "take_profit": 15.5264637226,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ENSUSDT"
+    },
+    {
+      "datetime": 1761462000000,
+      "symbol": "SCUSDT",
+      "signal": "BUY",
+      "entry": 0.002038,
+      "stop_loss": 0.0020273155,
+      "take_profit": 0.0020540268,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=SCUSDT"
+    },
+    {
+      "datetime": 1761462000000,
+      "symbol": "LRCUSDT",
+      "signal": "BUY",
+      "entry": 0.0688,
+      "stop_loss": 0.0686328844,
+      "take_profit": 0.0690506734,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=LRCUSDT"
+    },
+    {
+      "datetime": 1761462000000,
+      "symbol": "LAYERUSDT",
+      "signal": "BUY",
+      "entry": 0.2889,
+      "stop_loss": 0.2876416597,
+      "take_profit": 0.2907875104,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=LAYERUSDT"
+    },
+    {
+      "datetime": 1761462000000,
+      "symbol": "ORCAUSDT",
+      "signal": "BUY",
+      "entry": 1.48,
+      "stop_loss": 1.470419984,
+      "take_profit": 1.494370024,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ORCAUSDT"
     }
   ]
 }
