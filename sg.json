@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1761386400000,
-      "symbol": "THEUSDT",
-      "signal": "SELL",
-      "entry": 0.2568,
-      "stop_loss": 0.2588502635,
-      "take_profit": 0.2537246047,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=THEUSDT"
-    },
-    {
-      "datetime": 1761390000000,
-      "symbol": "ALGOUSDT",
-      "signal": "SELL",
-      "entry": 0.1826,
-      "stop_loss": 0.1834250146,
-      "take_profit": 0.1813624781,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ALGOUSDT"
-    },
-    {
       "datetime": 1761404400000,
       "symbol": "GRTUSDT",
       "signal": "BUY",
@@ -149,6 +129,16 @@
       "take_profit": 0.4990359194,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=LQTYUSDT"
+    },
+    {
+      "datetime": 1761570000000,
+      "symbol": "PYTHUSDT",
+      "signal": "SELL",
+      "entry": 0.1166,
+      "stop_loss": 0.1177009664,
+      "take_profit": 0.1149485503,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=PYTHUSDT"
     }
   ]
 }
