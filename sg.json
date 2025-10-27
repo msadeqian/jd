@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1761404400000,
-      "symbol": "GRTUSDT",
-      "signal": "BUY",
-      "entry": 0.06462,
-      "stop_loss": 0.0641460108,
-      "take_profit": 0.0653309838,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=GRTUSDT"
-    },
-    {
-      "datetime": 1761404400000,
-      "symbol": "NMRUSDT",
-      "signal": "BUY",
-      "entry": 12.8,
-      "stop_loss": 12.69304384,
-      "take_profit": 12.9604342399,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=NMRUSDT"
-    },
-    {
       "datetime": 1761411600000,
       "symbol": "DOGEUSDT",
       "signal": "SELL",
@@ -159,6 +139,36 @@
       "take_profit": 0.2501047129,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=THEUSDT"
+    },
+    {
+      "datetime": 1761584400000,
+      "symbol": "ARBUSDT",
+      "signal": "BUY",
+      "entry": 0.3385,
+      "stop_loss": 0.3349515826,
+      "take_profit": 0.3438226261,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=ARBUSDT"
+    },
+    {
+      "datetime": 1761584400000,
+      "symbol": "1INCHUSDT",
+      "signal": "BUY",
+      "entry": 0.1837,
+      "stop_loss": 0.1817701551,
+      "take_profit": 0.1865947674,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=1INCHUSDT"
+    },
+    {
+      "datetime": 1761584400000,
+      "symbol": "solusdt",
+      "signal": "BUY",
+      "entry": 202.83,
+      "stop_loss": 200.1776446736,
+      "take_profit": 206.8085329896,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=solusdt"
     }
   ]
 }
