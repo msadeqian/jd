@@ -119,6 +119,16 @@
       "take_profit": 1.4979532665,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=FXSUSDT"
+    },
+    {
+      "datetime": 1761660000000,
+      "symbol": "ETHUSDT",
+      "signal": "BUY",
+      "entry": 4158.69,
+      "stop_loss": 4137.5358535727,
+      "take_profit": 4190.421219641,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ETHUSDT"
     }
   ]
 }
