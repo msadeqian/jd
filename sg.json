@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1761458400000,
-      "symbol": "BIGTIMEUSDT",
-      "signal": "BUY",
-      "entry": 0.03364,
-      "stop_loss": 0.0335697792,
-      "take_profit": 0.0337453312,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=BIGTIMEUSDT"
-    },
-    {
       "datetime": 1761462000000,
       "symbol": "ENSUSDT",
       "signal": "BUY",
@@ -159,6 +149,16 @@
       "take_profit": 26.2117439357,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=TRBUSDT"
+    },
+    {
+      "datetime": 1761634800000,
+      "symbol": "ARUSDT",
+      "signal": "BUY",
+      "entry": 4.19,
+      "stop_loss": 4.1267277713,
+      "take_profit": 4.284908343,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ARUSDT"
     }
   ]
 }
