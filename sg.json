@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1761415200000,
-      "symbol": "JSTUSDT",
-      "signal": "BUY",
-      "entry": 0.03342,
-      "stop_loss": 0.0333529742,
-      "take_profit": 0.0335205387,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=JSTUSDT"
-    },
-    {
-      "datetime": 1761418800000,
-      "symbol": "SCUSDT",
-      "signal": "BUY",
-      "entry": 0.002033,
-      "stop_loss": 0.0020210031,
-      "take_profit": 0.0020509953,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=SCUSDT"
-    },
-    {
       "datetime": 1761458400000,
       "symbol": "BIGTIMEUSDT",
       "signal": "BUY",
@@ -169,6 +149,16 @@
       "take_profit": 0.7531156492,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=XNOUSDT"
+    },
+    {
+      "datetime": 1761631200000,
+      "symbol": "TRBUSDT",
+      "signal": "SELL",
+      "entry": 26.71,
+      "stop_loss": 27.0421707095,
+      "take_profit": 26.2117439357,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=TRBUSDT"
     }
   ]
 }
