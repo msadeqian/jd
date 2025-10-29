@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1761555600000,
-      "symbol": "LQTYUSDT",
-      "signal": "SELL",
-      "entry": 0.517,
-      "stop_loss": 0.5289760537,
-      "take_profit": 0.4990359194,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=LQTYUSDT"
-    },
-    {
       "datetime": 1761570000000,
       "symbol": "PYTHUSDT",
       "signal": "SELL",
@@ -169,6 +159,16 @@
       "take_profit": 0.031795911,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=BIGTIMEUSDT"
+    },
+    {
+      "datetime": 1761732000000,
+      "symbol": "AMPUSDT",
+      "signal": "BUY",
+      "entry": 0.002673,
+      "stop_loss": 0.0025383027,
+      "take_profit": 0.002875046,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=AMPUSDT"
     }
   ]
 }
