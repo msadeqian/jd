@@ -149,6 +149,16 @@
       "take_profit": 0.0318236713,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=BIGTIMEUSDT"
+    },
+    {
+      "datetime": 1761757200000,
+      "symbol": "SANDUSDT",
+      "signal": "SELL",
+      "entry": 0.2118,
+      "stop_loss": 0.2134790405,
+      "take_profit": 0.2092814393,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=SANDUSDT"
     }
   ]
 }
