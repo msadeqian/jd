@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1761588000000,
-      "symbol": "XNOUSDT",
-      "signal": "BUY",
-      "entry": 0.718,
-      "stop_loss": 0.6945895672,
-      "take_profit": 0.7531156492,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=XNOUSDT"
-    },
-    {
       "datetime": 1761631200000,
       "symbol": "TRBUSDT",
       "signal": "SELL",
@@ -139,6 +129,16 @@
       "take_profit": 17.4654064935,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=DCRUSDT"
+    },
+    {
+      "datetime": 1761800400000,
+      "symbol": "SKLUSDT",
+      "signal": "SELL",
+      "entry": 0.01856,
+      "stop_loss": 0.0189065989,
+      "take_profit": 0.0180401017,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=SKLUSDT"
     }
   ]
 }
