@@ -159,6 +159,36 @@
       "take_profit": 0.1208999176,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=YGGUSDT"
+    },
+    {
+      "datetime": 1761825600000,
+      "symbol": "EGLDUSDT",
+      "signal": "SELL",
+      "entry": 9.43,
+      "stop_loss": 9.5253287338,
+      "take_profit": 9.2870068993,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=EGLDUSDT"
+    },
+    {
+      "datetime": 1761825600000,
+      "symbol": "SAHARAUSDT",
+      "signal": "SELL",
+      "entry": 0.07429,
+      "stop_loss": 0.0749324498,
+      "take_profit": 0.0733263253,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=SAHARAUSDT"
+    },
+    {
+      "datetime": 1761825600000,
+      "symbol": "BIGTIMEUSDT",
+      "signal": "SELL",
+      "entry": 0.03198,
+      "stop_loss": 0.0322872074,
+      "take_profit": 0.0315191889,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=BIGTIMEUSDT"
     }
   ]
 }
