@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1761656400000,
-      "symbol": "WBTCUSDT",
-      "signal": "BUY",
-      "entry": 114421.41,
-      "stop_loss": 114212.7306306811,
-      "take_profit": 114734.4290539784,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=WBTCUSDT"
-    },
-    {
-      "datetime": 1761656400000,
-      "symbol": "FXSUSDT",
-      "signal": "BUY",
-      "entry": 1.477,
-      "stop_loss": 1.4630311556,
-      "take_profit": 1.4979532665,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=FXSUSDT"
-    },
-    {
       "datetime": 1761660000000,
       "symbol": "ETHUSDT",
       "signal": "BUY",
@@ -199,6 +179,16 @@
       "take_profit": 1.1004865503,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=NEXOUSDT"
+    },
+    {
+      "datetime": 1761832800000,
+      "symbol": "RSRUSDT",
+      "signal": "SELL",
+      "entry": 0.005219,
+      "stop_loss": 0.005369387,
+      "take_profit": 0.0049934195,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=RSRUSDT"
     }
   ]
 }
