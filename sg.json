@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1761631200000,
-      "symbol": "TRBUSDT",
-      "signal": "SELL",
-      "entry": 26.71,
-      "stop_loss": 27.0421707095,
-      "take_profit": 26.2117439357,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=TRBUSDT"
-    },
-    {
-      "datetime": 1761634800000,
-      "symbol": "ARUSDT",
-      "signal": "BUY",
-      "entry": 4.19,
-      "stop_loss": 4.1267277713,
-      "take_profit": 4.284908343,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ARUSDT"
-    },
-    {
       "datetime": 1761656400000,
       "symbol": "WBTCUSDT",
       "signal": "BUY",
@@ -139,6 +119,36 @@
       "take_profit": 0.0180401017,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=SKLUSDT"
+    },
+    {
+      "datetime": 1761818400000,
+      "symbol": "LINKUSDT",
+      "signal": "SELL",
+      "entry": 17.93,
+      "stop_loss": 18.1523732394,
+      "take_profit": 17.5964401408,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=LINKUSDT"
+    },
+    {
+      "datetime": 1761818400000,
+      "symbol": "CFXUSDT",
+      "signal": "SELL",
+      "entry": 0.1065,
+      "stop_loss": 0.1075367582,
+      "take_profit": 0.1049448627,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=CFXUSDT"
+    },
+    {
+      "datetime": 1761818400000,
+      "symbol": "NXPCUSDT",
+      "signal": "SELL",
+      "entry": 0.3674,
+      "stop_loss": 0.3726119603,
+      "take_profit": 0.3595820595,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=NXPCUSDT"
     }
   ]
 }
