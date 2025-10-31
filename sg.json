@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1761660000000,
-      "symbol": "ETHUSDT",
-      "signal": "BUY",
-      "entry": 4158.69,
-      "stop_loss": 4137.5358535727,
-      "take_profit": 4190.421219641,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ETHUSDT"
-    },
-    {
       "datetime": 1761724800000,
       "symbol": "WLFIUSDT",
       "signal": "BUY",
@@ -189,6 +179,16 @@
       "take_profit": 0.0049934195,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=RSRUSDT"
+    },
+    {
+      "datetime": 1761890400000,
+      "symbol": "QNTUSDT",
+      "signal": "BUY",
+      "entry": 80.62,
+      "stop_loss": 79.5556192476,
+      "take_profit": 82.2165711286,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=QNTUSDT"
     }
   ]
 }
