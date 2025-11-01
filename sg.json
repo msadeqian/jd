@@ -149,6 +149,16 @@
       "take_profit": 0.504630264,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=THETAUSDT"
+    },
+    {
+      "datetime": 1761991200000,
+      "symbol": "USD1USDT",
+      "signal": "SELL",
+      "entry": 0.9992,
+      "stop_loss": 0.9994578184,
+      "take_profit": 0.9988132724,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=USD1USDT"
     }
   ]
 }
