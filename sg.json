@@ -1,46 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1761753600000,
-      "symbol": "BIGTIMEUSDT",
-      "signal": "SELL",
-      "entry": 0.03242,
-      "stop_loss": 0.0328175525,
-      "take_profit": 0.0318236713,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=BIGTIMEUSDT"
-    },
-    {
-      "datetime": 1761757200000,
-      "symbol": "SANDUSDT",
-      "signal": "SELL",
-      "entry": 0.2118,
-      "stop_loss": 0.2134790405,
-      "take_profit": 0.2092814393,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=SANDUSDT"
-    },
-    {
-      "datetime": 1761760800000,
-      "symbol": "DCRUSDT",
-      "signal": "BUY",
-      "entry": 17.04,
-      "stop_loss": 16.756395671,
-      "take_profit": 17.4654064935,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=DCRUSDT"
-    },
-    {
-      "datetime": 1761800400000,
-      "symbol": "SKLUSDT",
-      "signal": "SELL",
-      "entry": 0.01856,
-      "stop_loss": 0.0189065989,
-      "take_profit": 0.0180401017,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=SKLUSDT"
-    },
-    {
       "datetime": 1761818400000,
       "symbol": "LINKUSDT",
       "signal": "SELL",
@@ -169,6 +129,26 @@
       "take_profit": 0.5862266652,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=XTZUSDT"
+    },
+    {
+      "datetime": 1761984000000,
+      "symbol": "ENSUSDT",
+      "signal": "BUY",
+      "entry": 14.93,
+      "stop_loss": 14.779121448,
+      "take_profit": 15.156317828,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ENSUSDT"
+    },
+    {
+      "datetime": 1761984000000,
+      "symbol": "THETAUSDT",
+      "signal": "BUY",
+      "entry": 0.498,
+      "stop_loss": 0.493579824,
+      "take_profit": 0.504630264,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=THETAUSDT"
     }
   ]
 }
