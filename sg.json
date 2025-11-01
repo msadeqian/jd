@@ -89,6 +89,16 @@
       "take_profit": 0.1151919544,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=BBUSDT"
+    },
+    {
+      "datetime": 1762016400000,
+      "symbol": "HBARUSDT",
+      "signal": "BUY",
+      "entry": 0.20127,
+      "stop_loss": 0.1997145942,
+      "take_profit": 0.2036031087,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=HBARUSDT"
     }
   ]
 }
