@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1761818400000,
-      "symbol": "LINKUSDT",
-      "signal": "SELL",
-      "entry": 17.93,
-      "stop_loss": 18.1523732394,
-      "take_profit": 17.5964401408,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=LINKUSDT"
-    },
-    {
-      "datetime": 1761818400000,
-      "symbol": "CFXUSDT",
-      "signal": "SELL",
-      "entry": 0.1065,
-      "stop_loss": 0.1075367582,
-      "take_profit": 0.1049448627,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=CFXUSDT"
-    },
-    {
-      "datetime": 1761818400000,
-      "symbol": "NXPCUSDT",
-      "signal": "SELL",
-      "entry": 0.3674,
-      "stop_loss": 0.3726119603,
-      "take_profit": 0.3595820595,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=NXPCUSDT"
-    },
-    {
       "datetime": 1761822000000,
       "symbol": "YGGUSDT",
       "signal": "SELL",
@@ -159,6 +129,16 @@
       "take_profit": 0.9988132724,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=USD1USDT"
+    },
+    {
+      "datetime": 1761994800000,
+      "symbol": "DOTUSDT",
+      "signal": "BUY",
+      "entry": 2.932,
+      "stop_loss": 2.9145128534,
+      "take_profit": 2.95823072,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=DOTUSDT"
     }
   ]
 }
