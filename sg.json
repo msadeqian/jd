@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1761919200000,
-      "symbol": "XTZUSDT",
-      "signal": "BUY",
-      "entry": 0.5779,
-      "stop_loss": 0.5723488899,
-      "take_profit": 0.5862266652,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=XTZUSDT"
-    },
-    {
       "datetime": 1761984000000,
       "symbol": "ENSUSDT",
       "signal": "BUY",
@@ -129,6 +119,26 @@
       "take_profit": 0.0827399068,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=ICXUSDT"
+    },
+    {
+      "datetime": 1762095600000,
+      "symbol": "VETUSDT",
+      "signal": "SELL",
+      "entry": 0.0158,
+      "stop_loss": 0.0159993003,
+      "take_profit": 0.0155010495,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=VETUSDT"
+    },
+    {
+      "datetime": 1762095600000,
+      "symbol": "APEUSDT",
+      "signal": "SELL",
+      "entry": 0.3969,
+      "stop_loss": 0.4018398038,
+      "take_profit": 0.3894902943,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=APEUSDT"
     }
   ]
 }
