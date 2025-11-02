@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1761894000000,
-      "symbol": "SUSDT",
-      "signal": "SELL",
-      "entry": 0.1429,
-      "stop_loss": 0.1449408341,
-      "take_profit": 0.1398387489,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=SUSDT"
-    },
-    {
       "datetime": 1761897600000,
       "symbol": "TONUSDT",
       "signal": "SELL",
@@ -119,6 +109,16 @@
       "take_profit": 0.2788476549,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=FLOWUSDT"
+    },
+    {
+      "datetime": 1762070400000,
+      "symbol": "FORMUSDT",
+      "signal": "BUY",
+      "entry": 0.5433,
+      "stop_loss": 0.5363002937,
+      "take_profit": 0.5537995595,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=FORMUSDT"
     }
   ]
 }
