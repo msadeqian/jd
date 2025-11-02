@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1761897600000,
-      "symbol": "TONUSDT",
-      "signal": "SELL",
-      "entry": 2.142,
-      "stop_loss": 2.1541919138,
-      "take_profit": 2.1237121293,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=TONUSDT"
-    },
-    {
       "datetime": 1761919200000,
       "symbol": "XTZUSDT",
       "signal": "BUY",
@@ -119,6 +109,26 @@
       "take_profit": 0.5537995595,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=FORMUSDT"
+    },
+    {
+      "datetime": 1762092000000,
+      "symbol": "GMXUSDT",
+      "signal": "BUY",
+      "entry": 9.86,
+      "stop_loss": 9.7791049078,
+      "take_profit": 9.9813426382,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=GMXUSDT"
+    },
+    {
+      "datetime": 1762092000000,
+      "symbol": "ICXUSDT",
+      "signal": "SELL",
+      "entry": 0.0837,
+      "stop_loss": 0.0843400621,
+      "take_profit": 0.0827399068,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ICXUSDT"
     }
   ]
 }
