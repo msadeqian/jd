@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1761890400000,
-      "symbol": "QNTUSDT",
-      "signal": "BUY",
-      "entry": 80.62,
-      "stop_loss": 79.5556192476,
-      "take_profit": 82.2165711286,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=QNTUSDT"
-    },
-    {
       "datetime": 1761894000000,
       "symbol": "SUSDT",
       "signal": "SELL",
@@ -119,6 +109,16 @@
       "take_profit": 3.1454405129,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=PENDLEUSDT"
+    },
+    {
+      "datetime": 1762066800000,
+      "symbol": "FLOWUSDT",
+      "signal": "BUY",
+      "entry": 0.272,
+      "stop_loss": 0.2674348967,
+      "take_profit": 0.2788476549,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=FLOWUSDT"
     }
   ]
 }
