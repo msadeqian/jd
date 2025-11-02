@@ -189,6 +189,16 @@
       "take_profit": 0.0221567229,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=SUNUSDT"
+    },
+    {
+      "datetime": 1762106400000,
+      "symbol": "TIAUSDT",
+      "signal": "SELL",
+      "entry": 0.944,
+      "stop_loss": 0.9588581655,
+      "take_profit": 0.9217127518,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=TIAUSDT"
     }
   ]
 }
