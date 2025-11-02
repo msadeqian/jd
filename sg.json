@@ -199,6 +199,16 @@
       "take_profit": 0.9217127518,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=TIAUSDT"
+    },
+    {
+      "datetime": 1762110000000,
+      "symbol": "GLMRUSDT",
+      "signal": "SELL",
+      "entry": 0.0361,
+      "stop_loss": 0.0365296821,
+      "take_profit": 0.0354554768,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=GLMRUSDT"
     }
   ]
 }
