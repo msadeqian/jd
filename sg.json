@@ -1,46 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1762092000000,
-      "symbol": "GMXUSDT",
-      "signal": "BUY",
-      "entry": 9.86,
-      "stop_loss": 9.7791049078,
-      "take_profit": 9.9813426382,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=GMXUSDT"
-    },
-    {
-      "datetime": 1762092000000,
-      "symbol": "ICXUSDT",
-      "signal": "SELL",
-      "entry": 0.0837,
-      "stop_loss": 0.0843400621,
-      "take_profit": 0.0827399068,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ICXUSDT"
-    },
-    {
-      "datetime": 1762095600000,
-      "symbol": "VETUSDT",
-      "signal": "SELL",
-      "entry": 0.0158,
-      "stop_loss": 0.0159993003,
-      "take_profit": 0.0155010495,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=VETUSDT"
-    },
-    {
-      "datetime": 1762095600000,
-      "symbol": "APEUSDT",
-      "signal": "SELL",
-      "entry": 0.3969,
-      "stop_loss": 0.4018398038,
-      "take_profit": 0.3894902943,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=APEUSDT"
-    },
-    {
       "datetime": 1762099200000,
       "symbol": "CAKEUSDT",
       "signal": "SELL",
@@ -129,6 +89,16 @@
       "take_profit": 5.3375474849,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=LPTUSDT"
+    },
+    {
+      "datetime": 1762272000000,
+      "symbol": "ZECUSDT",
+      "signal": "SELL",
+      "entry": 396.98,
+      "stop_loss": 415.9854616242,
+      "take_profit": 368.4718075636,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=ZECUSDT"
     }
   ]
 }
