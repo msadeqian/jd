@@ -59,6 +59,16 @@
       "take_profit": 0.0010336287,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=VTHOUSDT"
+    },
+    {
+      "datetime": 1762351200000,
+      "symbol": "KMNOUSDT",
+      "signal": "BUY",
+      "entry": 0.06172,
+      "stop_loss": 0.0605526726,
+      "take_profit": 0.0634709911,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=KMNOUSDT"
     }
   ]
 }
