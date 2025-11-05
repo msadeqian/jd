@@ -89,6 +89,36 @@
       "take_profit": 0.4715254473,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=FORMUSDT"
+    },
+    {
+      "datetime": 1762358400000,
+      "symbol": "NEARUSDT",
+      "signal": "BUY",
+      "entry": 1.908,
+      "stop_loss": 1.8846180492,
+      "take_profit": 1.9430729263,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=NEARUSDT"
+    },
+    {
+      "datetime": 1762358400000,
+      "symbol": "ZENUSDT",
+      "signal": "BUY",
+      "entry": 20.314,
+      "stop_loss": 19.307377661,
+      "take_profit": 21.8239335084,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ZENUSDT"
+    },
+    {
+      "datetime": 1762358400000,
+      "symbol": "MEMEUSDT",
+      "signal": "BUY",
+      "entry": 0.0014,
+      "stop_loss": 0.0013803396,
+      "take_profit": 0.0014294905,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=MEMEUSDT"
     }
   ]
 }
