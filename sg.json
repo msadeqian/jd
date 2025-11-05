@@ -39,6 +39,26 @@
       "take_profit": 8.716e-06,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=SHIBUSDT"
+    },
+    {
+      "datetime": 1762344000000,
+      "symbol": "QNTUSDT",
+      "signal": "BUY",
+      "entry": 75.46,
+      "stop_loss": 73.7634825933,
+      "take_profit": 78.0047761101,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=QNTUSDT"
+    },
+    {
+      "datetime": 1762344000000,
+      "symbol": "VTHOUSDT",
+      "signal": "BUY",
+      "entry": 0.001008,
+      "stop_loss": 0.0009909142,
+      "take_profit": 0.0010336287,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=VTHOUSDT"
     }
   ]
 }
