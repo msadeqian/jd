@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1762272000000,
-      "symbol": "ZECUSDT",
-      "signal": "SELL",
-      "entry": 396.98,
-      "stop_loss": 415.9854616242,
-      "take_profit": 368.4718075636,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=ZECUSDT"
-    },
-    {
       "datetime": 1762340400000,
       "symbol": "SHIBUSDT",
       "signal": "SELL",
@@ -229,6 +219,16 @@
       "take_profit": 4.30783e-05,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=DOGSUSDT"
+    },
+    {
+      "datetime": 1762448400000,
+      "symbol": "SCUSDT",
+      "signal": "SELL",
+      "entry": 0.00171,
+      "stop_loss": 0.0017425544,
+      "take_profit": 0.0016611684,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=SCUSDT"
     }
   ]
 }
