@@ -159,6 +159,16 @@
       "take_profit": 1.3281057782,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=RAYUSDT"
+    },
+    {
+      "datetime": 1762412400000,
+      "symbol": "TIAUSDT",
+      "signal": "SELL",
+      "entry": 0.8,
+      "stop_loss": 0.8067132487,
+      "take_profit": 0.789930127,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=TIAUSDT"
     }
   ]
 }
