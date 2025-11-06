@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1762246800000,
-      "symbol": "LPTUSDT",
-      "signal": "BUY",
-      "entry": 5.14,
-      "stop_loss": 5.0083016767,
-      "take_profit": 5.3375474849,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=LPTUSDT"
-    },
-    {
       "datetime": 1762272000000,
       "symbol": "ZECUSDT",
       "signal": "SELL",
@@ -189,6 +179,16 @@
       "take_profit": 1.9636817288,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=suiusdt"
+    },
+    {
+      "datetime": 1762426800000,
+      "symbol": "GLMRUSDT",
+      "signal": "SELL",
+      "entry": 0.0318,
+      "stop_loss": 0.0325363584,
+      "take_profit": 0.0306954625,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=GLMRUSDT"
     }
   ]
 }
