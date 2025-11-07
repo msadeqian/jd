@@ -249,6 +249,16 @@
       "take_profit": 0.0621311926,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=ZKUSDT"
+    },
+    {
+      "datetime": 1762495200000,
+      "symbol": "SUIUSDT",
+      "signal": "BUY",
+      "entry": 2.0217,
+      "stop_loss": 2.0040901098,
+      "take_profit": 2.0481148354,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=SUIUSDT"
     }
   ]
 }
