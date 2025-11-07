@@ -1,46 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1762340400000,
-      "symbol": "SHIBUSDT",
-      "signal": "SELL",
-      "entry": 8.83e-06,
-      "stop_loss": 8.906e-06,
-      "take_profit": 8.716e-06,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=SHIBUSDT"
-    },
-    {
-      "datetime": 1762344000000,
-      "symbol": "QNTUSDT",
-      "signal": "BUY",
-      "entry": 75.46,
-      "stop_loss": 73.7634825933,
-      "take_profit": 78.0047761101,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=QNTUSDT"
-    },
-    {
-      "datetime": 1762344000000,
-      "symbol": "VTHOUSDT",
-      "signal": "BUY",
-      "entry": 0.001008,
-      "stop_loss": 0.0009909142,
-      "take_profit": 0.0010336287,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=VTHOUSDT"
-    },
-    {
-      "datetime": 1762351200000,
-      "symbol": "KMNOUSDT",
-      "signal": "BUY",
-      "entry": 0.06172,
-      "stop_loss": 0.0605526726,
-      "take_profit": 0.0634709911,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=KMNOUSDT"
-    },
-    {
       "datetime": 1762354800000,
       "symbol": "BONKUSDT",
       "signal": "BUY",
@@ -289,6 +249,16 @@
       "take_profit": 2.7013125817,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=PENDLEUSDT"
+    },
+    {
+      "datetime": 1762527600000,
+      "symbol": "ARBUSDT",
+      "signal": "BUY",
+      "entry": 0.2744,
+      "stop_loss": 0.2678219371,
+      "take_profit": 0.2842670944,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ARBUSDT"
     }
   ]
 }
