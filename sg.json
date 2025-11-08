@@ -1,46 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1762441200000,
-      "symbol": "CAKEUSDT",
-      "signal": "SELL",
-      "entry": 2.216,
-      "stop_loss": 2.2490723602,
-      "take_profit": 2.1663914598,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=CAKEUSDT"
-    },
-    {
-      "datetime": 1762441200000,
-      "symbol": "FETUSDT",
-      "signal": "SELL",
-      "entry": 0.216,
-      "stop_loss": 0.2197041889,
-      "take_profit": 0.2104437167,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=FETUSDT"
-    },
-    {
-      "datetime": 1762441200000,
-      "symbol": "ICXUSDT",
-      "signal": "SELL",
-      "entry": 0.0732,
-      "stop_loss": 0.0744349979,
-      "take_profit": 0.0713475032,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ICXUSDT"
-    },
-    {
-      "datetime": 1762441200000,
-      "symbol": "DOGSUSDT",
-      "signal": "SELL",
-      "entry": 4.47e-05,
-      "stop_loss": 4.57811e-05,
-      "take_profit": 4.30783e-05,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=DOGSUSDT"
-    },
-    {
       "datetime": 1762448400000,
       "symbol": "SCUSDT",
       "signal": "SELL",
@@ -159,6 +119,16 @@
       "take_profit": 0.2023375839,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=ZRXUSDT"
+    },
+    {
+      "datetime": 1762621200000,
+      "symbol": "ALTUSDT",
+      "signal": "SELL",
+      "entry": 0.01704,
+      "stop_loss": 0.0173598904,
+      "take_profit": 0.0165601645,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ALTUSDT"
     }
   ]
 }
