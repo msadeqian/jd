@@ -129,6 +129,46 @@
       "take_profit": 0.2382781186,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=LAYERUSDT"
+    },
+    {
+      "datetime": 1762628400000,
+      "symbol": "SHIBUSDT",
+      "signal": "BUY",
+      "entry": 9.89e-06,
+      "stop_loss": 9.7967e-06,
+      "take_profit": 1.00299e-05,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=SHIBUSDT"
+    },
+    {
+      "datetime": 1762628400000,
+      "symbol": "VETUSDT",
+      "signal": "BUY",
+      "entry": 0.01732,
+      "stop_loss": 0.0171061578,
+      "take_profit": 0.0176407633,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=VETUSDT"
+    },
+    {
+      "datetime": 1762628400000,
+      "symbol": "ZILUSDT",
+      "signal": "BUY",
+      "entry": 0.00778,
+      "stop_loss": 0.0076884625,
+      "take_profit": 0.0079173062,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ZILUSDT"
+    },
+    {
+      "datetime": 1762628400000,
+      "symbol": "CGPTUSDT",
+      "signal": "BUY",
+      "entry": 0.0482,
+      "stop_loss": 0.0477265296,
+      "take_profit": 0.0489102056,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=CGPTUSDT"
     }
   ]
 }
