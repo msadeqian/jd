@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1762426800000,
-      "symbol": "GLMRUSDT",
-      "signal": "SELL",
-      "entry": 0.0318,
-      "stop_loss": 0.0325363584,
-      "take_profit": 0.0306954625,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=GLMRUSDT"
-    },
-    {
       "datetime": 1762441200000,
       "symbol": "CAKEUSDT",
       "signal": "SELL",
@@ -159,6 +149,16 @@
       "take_profit": 0.8260172601,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=SNXUSDT"
+    },
+    {
+      "datetime": 1762610400000,
+      "symbol": "ZRXUSDT",
+      "signal": "SELL",
+      "entry": 0.2069,
+      "stop_loss": 0.2099416107,
+      "take_profit": 0.2023375839,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=ZRXUSDT"
     }
   ]
 }
