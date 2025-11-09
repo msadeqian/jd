@@ -169,6 +169,26 @@
       "take_profit": 0.208470128,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=1INCHUSDT"
+    },
+    {
+      "datetime": 1762707600000,
+      "symbol": "LINEAUSDT",
+      "signal": "BUY",
+      "entry": 0.01273,
+      "stop_loss": 0.01245548,
+      "take_profit": 0.0131417799,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=LINEAUSDT"
+    },
+    {
+      "datetime": 1762707600000,
+      "symbol": "ENJUSDT",
+      "signal": "BUY",
+      "entry": 0.04589,
+      "stop_loss": 0.0452518392,
+      "take_profit": 0.0468472412,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ENJUSDT"
     }
   ]
 }
