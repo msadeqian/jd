@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1762621200000,
-      "symbol": "ALTUSDT",
-      "signal": "SELL",
-      "entry": 0.01704,
-      "stop_loss": 0.0173598904,
-      "take_profit": 0.0165601645,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ALTUSDT"
-    },
-    {
-      "datetime": 1762624800000,
-      "symbol": "LAYERUSDT",
-      "signal": "BUY",
-      "entry": 0.2292,
-      "stop_loss": 0.2231479209,
-      "take_profit": 0.2382781186,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=LAYERUSDT"
-    },
-    {
       "datetime": 1762628400000,
       "symbol": "SHIBUSDT",
       "signal": "BUY",
@@ -169,6 +149,16 @@
       "take_profit": 11.6756349909,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=KSMUSDT"
+    },
+    {
+      "datetime": 1762801200000,
+      "symbol": "FORMUSDT",
+      "signal": "SELL",
+      "entry": 0.4576,
+      "stop_loss": 0.4660037995,
+      "take_profit": 0.4449943007,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=FORMUSDT"
     }
   ]
 }
