@@ -159,6 +159,16 @@
       "take_profit": 2.448604458,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=CAKEUSDT"
+    },
+    {
+      "datetime": 1762794000000,
+      "symbol": "KSMUSDT",
+      "signal": "SELL",
+      "entry": 11.96,
+      "stop_loss": 12.1495766727,
+      "take_profit": 11.6756349909,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=KSMUSDT"
     }
   ]
 }
