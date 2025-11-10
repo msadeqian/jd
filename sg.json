@@ -1,46 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1762534800000,
-      "symbol": "LUNCUSDT",
-      "signal": "BUY",
-      "entry": 3.877e-05,
-      "stop_loss": 3.75747e-05,
-      "take_profit": 4.05629e-05,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=LUNCUSDT"
-    },
-    {
-      "datetime": 1762592400000,
-      "symbol": "TWTUSDT",
-      "signal": "BUY",
-      "entry": 1.2916,
-      "stop_loss": 1.2766325666,
-      "take_profit": 1.3140511501,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=TWTUSDT"
-    },
-    {
-      "datetime": 1762596000000,
-      "symbol": "SNXUSDT",
-      "signal": "SELL",
-      "entry": 0.844,
-      "stop_loss": 0.8559884933,
-      "take_profit": 0.8260172601,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=SNXUSDT"
-    },
-    {
-      "datetime": 1762610400000,
-      "symbol": "ZRXUSDT",
-      "signal": "SELL",
-      "entry": 0.2069,
-      "stop_loss": 0.2099416107,
-      "take_profit": 0.2023375839,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=ZRXUSDT"
-    },
-    {
       "datetime": 1762621200000,
       "symbol": "ALTUSDT",
       "signal": "SELL",
@@ -189,6 +149,16 @@
       "take_profit": 0.0468472412,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=ENJUSDT"
+    },
+    {
+      "datetime": 1762786800000,
+      "symbol": "CAKEUSDT",
+      "signal": "SELL",
+      "entry": 2.485,
+      "stop_loss": 2.5092636947,
+      "take_profit": 2.448604458,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=CAKEUSDT"
     }
   ]
 }
