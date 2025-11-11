@@ -149,6 +149,16 @@
       "take_profit": 1.4445890581,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=ORCAUSDT"
+    },
+    {
+      "datetime": 1762851600000,
+      "symbol": "SOLUSDT",
+      "signal": "SELL",
+      "entry": 163.87,
+      "stop_loss": 165.0771586809,
+      "take_profit": 162.0592619786,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=SOLUSDT"
     }
   ]
 }
