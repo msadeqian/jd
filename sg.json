@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1762696800000,
-      "symbol": "aaveusdt",
-      "signal": "BUY",
-      "entry": 204.86,
-      "stop_loss": 202.43171601,
-      "take_profit": 208.5024259851,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=aaveusdt"
-    },
-    {
       "datetime": 1762704000000,
       "symbol": "PEPEUSDT",
       "signal": "BUY",
@@ -219,6 +209,16 @@
       "take_profit": 0.2130620483,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=BATUSDT"
+    },
+    {
+      "datetime": 1762873200000,
+      "symbol": "HIVEUSDT",
+      "signal": "SELL",
+      "entry": 0.1218,
+      "stop_loss": 0.1251665482,
+      "take_profit": 0.1167501776,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=HIVEUSDT"
     }
   ]
 }
