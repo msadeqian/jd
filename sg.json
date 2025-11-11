@@ -1,76 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1762628400000,
-      "symbol": "SHIBUSDT",
-      "signal": "BUY",
-      "entry": 9.89e-06,
-      "stop_loss": 9.7967e-06,
-      "take_profit": 1.00299e-05,
-      "Market_Direction": "Bullish",
-      "url": "https://www.tradingview.com/chart?symbol=SHIBUSDT"
-    },
-    {
-      "datetime": 1762628400000,
-      "symbol": "VETUSDT",
-      "signal": "BUY",
-      "entry": 0.01732,
-      "stop_loss": 0.0171061578,
-      "take_profit": 0.0176407633,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=VETUSDT"
-    },
-    {
-      "datetime": 1762628400000,
-      "symbol": "ZILUSDT",
-      "signal": "BUY",
-      "entry": 0.00778,
-      "stop_loss": 0.0076884625,
-      "take_profit": 0.0079173062,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=ZILUSDT"
-    },
-    {
-      "datetime": 1762628400000,
-      "symbol": "CGPTUSDT",
-      "signal": "BUY",
-      "entry": 0.0482,
-      "stop_loss": 0.0477265296,
-      "take_profit": 0.0489102056,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=CGPTUSDT"
-    },
-    {
-      "datetime": 1762664400000,
-      "symbol": "CAKEUSDT",
-      "signal": "BUY",
-      "entry": 2.545,
-      "stop_loss": 2.5123666647,
-      "take_profit": 2.593950003,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=CAKEUSDT"
-    },
-    {
-      "datetime": 1762664400000,
-      "symbol": "ZILUSDT",
-      "signal": "SELL",
-      "entry": 0.00762,
-      "stop_loss": 0.0077160302,
-      "take_profit": 0.0074759546,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=ZILUSDT"
-    },
-    {
-      "datetime": 1762664400000,
-      "symbol": "THEUSDT",
-      "signal": "SELL",
-      "entry": 0.1827,
-      "stop_loss": 0.1848075523,
-      "take_profit": 0.1795386715,
-      "Market_Direction": "Bearish",
-      "url": "https://www.tradingview.com/chart?symbol=THEUSDT"
-    },
-    {
       "datetime": 1762668000000,
       "symbol": "PAXGUSDT",
       "signal": "BUY",
@@ -159,6 +89,36 @@
       "take_profit": 0.4449943007,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=FORMUSDT"
+    },
+    {
+      "datetime": 1762840800000,
+      "symbol": "AUSDT",
+      "signal": "SELL",
+      "entry": 0.288,
+      "stop_loss": 0.2902077276,
+      "take_profit": 0.2846884086,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=AUSDT"
+    },
+    {
+      "datetime": 1762840800000,
+      "symbol": "NEOUSDT",
+      "signal": "SELL",
+      "entry": 5.265,
+      "stop_loss": 5.3070578606,
+      "take_profit": 5.2019132091,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=NEOUSDT"
+    },
+    {
+      "datetime": 1762840800000,
+      "symbol": "SKLUSDT",
+      "signal": "SELL",
+      "entry": 0.01746,
+      "stop_loss": 0.0177780299,
+      "take_profit": 0.0169829552,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=SKLUSDT"
     }
   ]
 }
