@@ -119,6 +119,36 @@
       "take_profit": 0.043613305,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=ENJUSDT"
+    },
+    {
+      "datetime": 1762848000000,
+      "symbol": "PEPEUSDT",
+      "signal": "SELL",
+      "entry": 6.02e-06,
+      "stop_loss": 6.0901e-06,
+      "take_profit": 5.9149e-06,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=PEPEUSDT"
+    },
+    {
+      "datetime": 1762848000000,
+      "symbol": "POLUSDT",
+      "signal": "SELL",
+      "entry": 0.1775,
+      "stop_loss": 0.1792401134,
+      "take_profit": 0.1748898298,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=POLUSDT"
+    },
+    {
+      "datetime": 1762848000000,
+      "symbol": "ORCAUSDT",
+      "signal": "SELL",
+      "entry": 1.47,
+      "stop_loss": 1.4869406279,
+      "take_profit": 1.4445890581,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=ORCAUSDT"
     }
   ]
 }
