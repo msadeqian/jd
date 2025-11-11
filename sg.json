@@ -159,6 +159,26 @@
       "take_profit": 162.0592619786,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=SOLUSDT"
+    },
+    {
+      "datetime": 1762855200000,
+      "symbol": "INJUSDT",
+      "signal": "SELL",
+      "entry": 7.7,
+      "stop_loss": 7.7842098295,
+      "take_profit": 7.5736852557,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=INJUSDT"
+    },
+    {
+      "datetime": 1762855200000,
+      "symbol": "PYTHUSDT",
+      "signal": "SELL",
+      "entry": 0.1056,
+      "stop_loss": 0.1067307512,
+      "take_profit": 0.1039038732,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=PYTHUSDT"
     }
   ]
 }
