@@ -209,6 +209,16 @@
       "take_profit": 103993.0057775647,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=BTCUSDT"
+    },
+    {
+      "datetime": 1762869600000,
+      "symbol": "BATUSDT",
+      "signal": "SELL",
+      "entry": 0.2205,
+      "stop_loss": 0.2254586345,
+      "take_profit": 0.2130620483,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=BATUSDT"
     }
   ]
 }
