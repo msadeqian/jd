@@ -1,16 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1762786800000,
-      "symbol": "CAKEUSDT",
-      "signal": "SELL",
-      "entry": 2.485,
-      "stop_loss": 2.5092636947,
-      "take_profit": 2.448604458,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=CAKEUSDT"
-    },
-    {
       "datetime": 1762794000000,
       "symbol": "KSMUSDT",
       "signal": "SELL",
@@ -309,6 +299,66 @@
       "take_profit": 0.0122988335,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=TUSDT"
+    },
+    {
+      "datetime": 1762963200000,
+      "symbol": "PYTHUSDT",
+      "signal": "SELL",
+      "entry": 0.1012,
+      "stop_loss": 0.1034186868,
+      "take_profit": 0.0978719698,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=PYTHUSDT"
+    },
+    {
+      "datetime": 1762963200000,
+      "symbol": "SKLUSDT",
+      "signal": "SELL",
+      "entry": 0.01662,
+      "stop_loss": 0.0169907583,
+      "take_profit": 0.0160638626,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=SKLUSDT"
+    },
+    {
+      "datetime": 1762963200000,
+      "symbol": "enausdt",
+      "signal": "SELL",
+      "entry": 0.3125,
+      "stop_loss": 0.3232542513,
+      "take_profit": 0.2963686231,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=enausdt"
+    },
+    {
+      "datetime": 1762963200000,
+      "symbol": "uniusdt",
+      "signal": "SELL",
+      "entry": 7.792,
+      "stop_loss": 8.0938990583,
+      "take_profit": 7.3391514126,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=uniusdt"
+    },
+    {
+      "datetime": 1762963200000,
+      "symbol": "OSMOUSDT",
+      "signal": "SELL",
+      "entry": 0.1022,
+      "stop_loss": 0.1048181328,
+      "take_profit": 0.0982728007,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=OSMOUSDT"
+    },
+    {
+      "datetime": 1762963200000,
+      "symbol": "ALICEUSDT",
+      "signal": "SELL",
+      "entry": 0.2701,
+      "stop_loss": 0.2824904887,
+      "take_profit": 0.251514267,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=ALICEUSDT"
     }
   ]
 }
