@@ -229,6 +229,16 @@
       "take_profit": 0.0176735572,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=ALTUSDT"
+    },
+    {
+      "datetime": 1762945200000,
+      "symbol": "LINEAUSDT",
+      "signal": "BUY",
+      "entry": 0.0129,
+      "stop_loss": 0.0127555037,
+      "take_profit": 0.0131167444,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=LINEAUSDT"
     }
   ]
 }
