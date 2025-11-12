@@ -289,6 +289,26 @@
       "take_profit": 0.0170423485,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=SOLVUSDT"
+    },
+    {
+      "datetime": 1762959600000,
+      "symbol": "XECUSDT",
+      "signal": "SELL",
+      "entry": 1.452e-05,
+      "stop_loss": 1.47243e-05,
+      "take_profit": 1.42136e-05,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=XECUSDT"
+    },
+    {
+      "datetime": 1762959600000,
+      "symbol": "TUSDT",
+      "signal": "SELL",
+      "entry": 0.01258,
+      "stop_loss": 0.0127674443,
+      "take_profit": 0.0122988335,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=TUSDT"
     }
   ]
 }
