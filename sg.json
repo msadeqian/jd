@@ -189,6 +189,26 @@
       "take_profit": 29.8515540207,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=DCRUSDT"
+    },
+    {
+      "datetime": 1762930800000,
+      "symbol": "ZRXUSDT",
+      "signal": "BUY",
+      "entry": 0.212,
+      "stop_loss": 0.2079871962,
+      "take_profit": 0.2180192057,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=ZRXUSDT"
+    },
+    {
+      "datetime": 1762930800000,
+      "symbol": "LRCUSDT",
+      "signal": "BUY",
+      "entry": 0.0662,
+      "stop_loss": 0.065408921,
+      "take_profit": 0.0673866185,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=LRCUSDT"
     }
   ]
 }
