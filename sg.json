@@ -359,6 +359,26 @@
       "take_profit": 0.251514267,
       "Market_Direction": "Bearish",
       "url": "https://www.tradingview.com/chart?symbol=ALICEUSDT"
+    },
+    {
+      "datetime": 1762966800000,
+      "symbol": "SUSDT",
+      "signal": "SELL",
+      "entry": 0.1411,
+      "stop_loss": 0.1441538177,
+      "take_profit": 0.1365192734,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=SUSDT"
+    },
+    {
+      "datetime": 1762966800000,
+      "symbol": "JSTUSDT",
+      "signal": "SELL",
+      "entry": 0.03671,
+      "stop_loss": 0.0368606176,
+      "take_profit": 0.0364840735,
+      "Market_Direction": "Bearish",
+      "url": "https://www.tradingview.com/chart?symbol=JSTUSDT"
     }
   ]
 }
