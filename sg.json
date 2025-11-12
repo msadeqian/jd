@@ -259,6 +259,36 @@
       "take_profit": 16.3494730502,
       "Market_Direction": "Bullish",
       "url": "https://www.tradingview.com/chart?symbol=LINKUSDT"
+    },
+    {
+      "datetime": 1762956000000,
+      "symbol": "POLUSDT",
+      "signal": "BUY",
+      "entry": 0.1784,
+      "stop_loss": 0.1770489773,
+      "take_profit": 0.180426534,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=POLUSDT"
+    },
+    {
+      "datetime": 1762956000000,
+      "symbol": "KAITOUSDT",
+      "signal": "BUY",
+      "entry": 0.8675,
+      "stop_loss": 0.8601443266,
+      "take_profit": 0.8785335101,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=KAITOUSDT"
+    },
+    {
+      "datetime": 1762956000000,
+      "symbol": "SOLVUSDT",
+      "signal": "BUY",
+      "entry": 0.01673,
+      "stop_loss": 0.0165217677,
+      "take_profit": 0.0170423485,
+      "Market_Direction": "Bullish",
+      "url": "https://www.tradingview.com/chart?symbol=SOLVUSDT"
     }
   ]
 }
