@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "datetime": 1762866000000,
-      "symbol": "BTCUSDT",
-      "signal": "SELL",
-      "entry": 104564.44,
-      "stop_loss": 104945.3961482902,
-      "take_profit": 103993.0057775647,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=BTCUSDT"
-    },
-    {
-      "datetime": 1762869600000,
-      "symbol": "BATUSDT",
-      "signal": "SELL",
-      "entry": 0.2205,
-      "stop_loss": 0.2254586345,
-      "take_profit": 0.2130620483,
-      "Market_Direction": "Neutral",
-      "url": "https://www.tradingview.com/chart?symbol=BATUSDT"
-    },
-    {
       "datetime": 1762873200000,
       "symbol": "HIVEUSDT",
       "signal": "SELL",
@@ -319,6 +299,16 @@
       "take_profit": 0.029080613,
       "Market_Direction": "Neutral",
       "url": "https://www.tradingview.com/chart?symbol=BIGTIMEUSDT"
+    },
+    {
+      "datetime": 1763046000000,
+      "symbol": "1000SATSUSDT",
+      "signal": "BUY",
+      "entry": 2.225e-05,
+      "stop_loss": 2.14974e-05,
+      "take_profit": 2.33789e-05,
+      "Market_Direction": "Neutral",
+      "url": "https://www.tradingview.com/chart?symbol=1000SATSUSDT"
     }
   ]
 }
